@@ -1,889 +1,916 @@
-﻿SITIO_DE_DESEMBARCO_METODO_DE_PESCA;Cuartil_inf_ALIMENTACIONXCOMIDA_hist;Cuartil_sup_ALIMENTACIONXCOMIDA_hist;Cuartil_inf_COMBUSTIBLE_X_HORA_hist;Cuartil_sup_COMBUSTIBLE_X_HORA_hist;Cuartil_inf_ALQUILER_DE_ARTES_hist;Cuartil_sup_ALQUILER_DE_ARTES_hist;Cuartil_inf_ALQUILER_DE_EMBARCACION_hist;Cuartil_sup_ALQUILER_DE_EMBARCACION_hist;Cuartil_inf_HIELO_X_HORA_hist;Cuartil_sup_HIELO_X_HORA_hist;Cuartil_inf_CARNADA_hist;Cuartil_sup_CARNADA_hist;Cuartil_inf_OTRO_hist;Cuartil_sup_OTRO_hist;Cuartil_inf_NUMERO_PESCADORES_hist;Cuartil_sup_NUMERO_PESCADORES_hist
-Puerto Abajo (Dibulla)_Red de enmalle fija marina;898;1793;3092;5913; ; ; ; ;256;336; ; ; ; ;2;3
-Puerto Abajo (Dibulla)_Chinchorro camaronero;1053;1667;5778;20000; ; ; ; ; ; ; ; ; ; ;6;6
-Playa Pescadores - Capurganá_Línea de mano fija marina;1776;2668;3174;16251; ; ; ; ;511;951;1000;9500;5000;10000;1;2
-Puerto de Gamarra_Chinchorra;827;1458;2019;2500; ; ; ; ;549;1410; ; ; ; ;4;5
-Carrizal_Red de enmalle fija marina; ; ;3369;15504; ; ; ; ; ; ; ; ; ; ;3;6
-Puerto de Gamarra_Palangre calandrio;1051;2122;1472;2857; ; ; ; ;218;1157; ; ; ; ;2;3
-Guineal_Palangre o espinel de fondo;1313;8357;1842;10235;20500;29500;20500;29500;302;517; ; ;3000;8000;1;3
-La Punta - Firme Cifuentes_Red de enmalle de deriva marina;2742;8937;4022;13333; ; ; ; ;976;3836; ; ; ; ;2;3
-Nueva Estrella_Red de enmalle fija continental; ; ; ; ; ; ; ; ; ; ; ; ; ; ;1;1
-Puerto Simití_Red de enmalle fija continental;764;1668;445;891; ; ; ; ;157;308; ; ; ; ;2;2
-Los Tendales_Red de enmalle fija continental;1321;1756;220;689; ; ; ; ; ; ; ; ; ; ;2;2
-Puerto Simití_Atarraya;1150;2200; ; ; ; ; ; ; ; ; ; ; ; ;2;2
-Yaguará_Atarraya;2051;5319;809;3991; ; ; ; ;134;888; ; ; ; ;2;2
-Yaguará_Chinchorra;1901;3534;371;1134; ; ; ; ;126;378; ; ; ; ;2;3
-Yaguará_Red de enmalle fija continental;1990;7459;272;1489; ; ; ; ;128;416; ; ; ; ;1;3
-Sivirú_Red de enmalle fija marina;3271;7464;3039;12568; ; ; ; ; ; ; ; ; ; ;1;3
-Sivirú_Palangre o espinel de fondo;4275;5909;3823;4456; ; ; ; ; ; ; ; ; ; ;1;3
-Sivirú_Línea de mano fija marina;3195;7237;1493;4412; ; ; ; ; ; ; ; ; ; ;1;2
-Santa Clara_Red de enmalle fija continental; ; ; ; ; ; ; ; ;116;181; ; ; ; ;1;1
-El Puente_Atarraya;4308;4670; ; ; ; ; ; ; ; ; ; ;2000;3000;2;2
-El Puente_Red de enmalle de deriva continental;2674;6000;1554;2956; ; ; ; ;250;380; ; ;2000;2000;1;1
-Plaza de mercado (La Dorada)_Atarraya rastra;3894;4167;1558;1667; ; ; ; ; ; ; ; ; ; ;2;2
-Plaza de mercado (La Dorada)_Chinchorra;1562;4234;1667;4160; ; ; ; ;1000;1000; ; ; ; ;3;5
-Las Brisas_Red de enmalle fija continental;1889;2162;277;419; ; ; ; ; ; ; ; ; ; ;1;2
-El Puente_Atarraya rastra;3949;6364; ; ; ; ; ; ; ; ; ; ; ; ;1;1
-El Puente_Red de encierro rastra;2171;5420;1731;4539; ; ; ; ;269;490; ; ; ; ;1;3
-Guineal_Línea de mano fija marina;5626;12000;4825;11636; ; ; ; ; ; ; ; ;2850;6000;1;1
-El Puente_Red de enmalle fija continental; ; ;493;695; ; ; ; ;111;179; ; ;2000;2000;1;2
-El Valle_Palangre o espinel de fondo;2181;3040;4744;11496; ; ; ; ;889;1142;17000;24575; ; ;1;4
-Puerto Barrio El Progreso_Red de enmalle de deriva continental;2125;4076;1111;1949; ; ; ; ;160;471; ; ;4000;5000;2;3
-San Antonio de Padua_Red de enmalle de deriva continental;1021;5256;1465;6385; ; ; ; ; ; ; ; ; ; ;1;2
-Candelaria (Achí)_Red de enmalle fija continental; ; ; ; ; ; ; ; ; ; ; ; ; ; ;1;1
-El Valle_Línea de mano fija marina;2138;5362;4744;14613; ; ; ; ;865;1905;17000;18500; ; ;1;3
-Puerto Ciénaga de Paredes_Red de enmalle fija continental; ; ;528;724; ; ; ; ;135;225; ; ; ; ;1;2
-La T_Nasas de Peces; ; ;490;2135; ; ; ; ; ; ; ; ; ; ;3;4
-La T_Red de enmalle de encierro marina; ; ;17120;27758; ; ; ; ; ; ; ; ; ; ;4;4
-Popoya Playa_Red de enmalle fija marina; ; ;2104;3158; ; ; ; ; ; ; ; ; ; ;2;2
-La Isla de los Palacios_Red de enmalle fija continental; ; ;505;570; ; ; ; ; ; ; ; ; ; ;1;2
-Mayapo_Red de enmalle langostera;994;1876;2943;4062; ; ; ; ; ; ; ; ; ; ;2;3
-Caño Lobo_Atarraya;3293;8000; ; ; ; ; ; ;119;333;3000;7000;4000;8000;1;2
-Mayapo_Red de enmalle fija marina;1480;2596;1847;2839; ; ; ; ;511;511; ; ; ; ;2;2
-Caño Lobo_Buceo de caracol;3356;5747; ; ; ; ; ; ;237;237; ; ;4000;4000;1;1
-Caño Lobo_Nasa de jaibas;4803;8000; ; ; ; ; ; ; ; ;6650;10000;4000;4000;1;1
-Mayapo_Buceo de langosta;1473;3000;2155;3805; ; ; ; ; ; ; ; ; ; ;2;3
-Caño Lobo_Red de enmalle fija marina;2296;3376;337;680; ; ; ; ;97;154; ; ;4000;4000;1;1
-Doña Ana_Red de enmalle fija continental;2941;2941;256;389; ; ; ; ;53;111; ; ; ; ;1;2
-Berrugas_Red de enmalle de encierro marina;2000;3142;6119;17839; ; ; ; ;887;1273; ; ; ; ;3;4
-Berrugas_Chinchorro marino;1643;3000;5041;17270; ; ; ; ;446;1420; ; ; ; ;10;16
-Berrugas_Buceo de peces;1500;3000;3959;7535; ; ; ; ; ; ; ; ; ; ;1;3
-Puerto Montecristo_Atarraya;2426;4635; ; ; ; ; ; ;181;383; ; ; ; ;1;2
-Puerto Montecristo_Red de enmalle fija continental; ; ; ; ; ; ; ; ; ; ; ; ; ; ;1;2
-Champaché_Línea de mano fija marina;1073;3428;614;3579; ; ; ; ;214;670;40000;57000; ; ;1;2
-Champaché_Atarraya;1417;3794;801;2105; ; ; ; ;310;751; ; ; ; ;2;2
-Taganga_Línea de mano - Ballestilla;4682;6287;5342;6895; ; ; ; ;176;940; ; ;6000;6000;2;3
-Taganga_Chinchorro velao;1233;2308;3239;7437; ; ; ; ;411;411; ; ;6000;6000;10;15
-Taganga_Red de enmalle fija marina;2913;4751;1206;7370; ; ; ; ;242;427; ; ;6000;6000;4;5
-Taganga_Línea de mano fija marina;3007;7784;3210;7388; ; ; ; ;160;211; ; ;6000;6000;1;2
-Locadía_Línea de mano fija marina;3252;5486;1084;1949; ; ; ; ;127;403;25000;25000; ; ;1;1
-Taganga_Ballestilla/Palangre parguera;1948;14565;2957;23299; ; ; ; ;920;7283;150000;2,00E+05;45000;275000;5;5
-Costilla_Red de enmalle fija continental;2461;4209; ; ; ; ; ; ;69;172;15000;15000;3000;5000;1;1
-Santropel - San Sebastián_Red de enmalle fija continental;1303;2428;265;563; ; ; ; ;130;301; ; ; ; ;1;2
-La Punta_Buceo de caracol;2253;7858;400;1950; ; ; ; ;792;792; ; ; ; ;1;2
-La Punta_Red de enmalle fija marina;2222;7710;672;2316; ; ; ; ;177;502; ; ; ; ;1;2
-Tasajera La Playa_Red de enmalle fija marina;2359;2915;1724;9477; ; ; ; ;261;1060; ; ; ; ;3;4
-Villa Venecia_Red de enmalle fija continental;672;1559;224;328; ; ; ; ;102;143; ; ;1200;2000;1;2
-Las Tenazas_Línea de mano fija marina;2182;5000;1837;3116; ; ; ; ;468;995;5000;5000; ; ;1;2
-Costilla_Nasas de Peces;2369;3942; ; ; ; ; ; ;66;160;8000;20000;3100;4900;1;1
-Zapata_Red de enmalle fija marina;1564;4879;735;5266; ; ; ; ;270;849; ; ;2600;9000;2;3
-Arquimedes_Atarraya;2448;3435;1014;2557; ; ; ; ; ; ; ; ; ; ;2;2
-Santropel - San Sebastián_Atarraya;588;1588; ; ; ; ; ; ;96;281; ; ; ; ;1;2
-Orejero_Red de enmalle fija continental; ; ;154;395; ; ; ; ; ; ; ; ; ; ;1;2
-Arquimedes_Línea de mano fija marina;3019;4521;615;1966; ; ; ; ; ; ; ; ; ; ;1;2
-Robles_Red de enmalle fija continental;1374;2577;338;711; ; ; ; ;137;306; ; ;1000;7590;1;1
-La Punta_Palangre o espinel de fondo;2223;5154;1656;2570; ; ; ; ;202;854; ; ; ; ;2;2
-Robles_Red de enmalle de encierro continental;1346;3145; ; ; ; ; ; ;346;580; ; ; ; ;1;2
-Damaquiel_Red de enmalle fija marina;624;3257;2400;14000; ; ; ; ;241;1604; ; ;8500;25500;2;3
-Tasajera La Playa_Palangre o espinel de fondo;1248;3417;2169;14752; ; ; ; ;505;505;15000;40000; ; ;1;4
-Villa Venecia_Red de enmalle de encierro continental;2092;4000;912;912; ; ; ; ;362;569; ; ;1500;1875;2;2
-Bazurto_Red de enmalle fija marina;2308;3875;2400;7015; ; ; ; ;391;764; ; ; ; ;2;2
-Tasajera La Playa_Red de enmalle de encierro marina;2978;5243;11654;22527; ; ; ; ; ; ; ; ; ; ;5;5
-Berlín_Chinchorro continental; ; ;5190;8670; ; ; ; ; ; ; ; ; ; ;3;3
-Bazurto_Línea de mano fija marina;2368;5270;1965;7901; ; ; ; ;319;814;5000;15000; ; ;2;2
-Montaño_Red de enmalle fija continental; ; ;701;1743; ; ; ; ; ; ; ; ; ; ;1;2
-Nueva Colonia_Red de enmalle de encierro marina;1751;2805;3166;4214; ; ; ; ;773;940; ; ; ; ;2;2
-Villa Venecia_Atarraya;2516;5000; ; ; ; ; ; ;312;545; ; ; ; ;1;2
-Los Tendales_Atarraya; ; ; ; ; ; ; ; ; ; ; ; ; ; ;2;2
-Playa Necoclí_Red de enmalle fija marina;1349;4315;1967;5727; ; ; ; ;608;1801; ; ;20000;50000;1;3
-San Nicolás (Santa Cruz De Mompox)_Red de enmalle fija continental;3112;4713; ; ; ; ; ; ;71;191; ; ; ; ;1;2
-Nueva Colonia_Red de enmalle fija marina;1721;2857;2934;4642; ; ; ; ;680;1007; ; ; ; ;2;3
-Rincón_Red de enmalle fija continental;835;1813;275;398; ; ; ; ;78;146; ; ;1200;1800;1;2
-Puerto del Cerrito_Red de enmalle fija continental ciénaga;1794;4388;504;1091; ; ; ; ;69;157; ; ;1000;3000;1;2
-Playa Necoclí_Red de enmalle camaronera; ; ;3835;7389; ; ; ; ; ; ; ; ; ; ;1;1
-Playa Blanca (Ayapel)_Red de enmalle fija continental; ; ;574;874; ; ; ; ; ; ; ; ;2000;4000;1;2
-Barrio Pambelé_Red de enmalle fija marina;1060;3161;1803;14931; ; ; ; ;459;978; ; ;2000;5000;2;3
-Playa Necoclí_Red de enmalle fija marina campaña;1538;4148;2071;5471; ; ; ; ;651;1691; ; ;20000;50000;2;3
-Puerto Colorado_Chinchorro continental; ; ;1945;3377; ; ; ; ; ; ; ; ; ; ;2;2
-Macurutú - Saloa_Red de enmalle fija continental;1352;2530;422;1486;3000;3000;3000;3000;43;164; ; ;910;2890;1;2
-Rincón_Red de enmalle de encierro continental;2530;4000; ; ; ; ; ; ;307;534; ; ;1225;1600;2;2
-Puerto (Orocué)_Red de enmalle fija continental;586;861;834;1651; ; ; ; ;249;351; ; ; ; ;2;2
-Playa Totumo_Red de enmalle fija marina;1221;4530;832;5498; ; ; ; ;122;859; ; ; ; ;2;3
-Puerto principal (San Vicente del Caguán)_Red de enmalle de deriva continental;6448;11000;6244;9583; ; ; ; ;887;1584; ; ; ; ;2;3
-Puerto (Orocué)_Palangre calandrio;595;776;835;1717; ; ; ; ;235;335; ; ; ; ;2;2
-El Muelle (Barrancabermeja)_Chinchorra;1502;4415;2529;7234; ; ; ; ;328;3072; ; ; ; ;4;5
-El Muelle (Barrancabermeja)_Atarraya;1679;4932;2428;9045; ; ; ; ;764;3078; ; ; ; ;2;4
-El Pájaro_Red de enmalle de deriva marina; ; ;1713;6000; ; ; ; ;522;522; ; ; ; ;2;2
-Berlín_Línea de mano fija continental; ; ;1089;1366; ; ; ; ; ; ; ; ; ; ;1;2
-Macurutú - Saloa_Atarraya;2348;3559;849;1376; ; ; ; ;97;203; ; ; ; ;2;2
-Docordó_Red de enmalle de deriva marina;3141;7468;4833;13550; ; ; ; ;437;893; ; ; ; ;2;3
-Docordó_Palangre o espinel de fondo;3061;6399;2417;9376; ; ; ; ;625;807;10000;15000; ; ;2;2
-Ciénaga del Totumo_Atarraya;1530;2500;346;464; ; ; ; ; ; ; ; ; ; ;2;2
-Loma - San Sebastián_Red de enmalle fija continental;1336;3026;280;668; ; ; ; ;122;493; ; ; ; ;1;2
-Barrio Abajo (Ciénaga)_Red de enmalle fija marina;633;997;1524;3827; ; ; ; ;112;167; ; ; ; ;3;3
-Arroyito_Línea de mano fija marina;1081;3223;688;4619; ; ; ; ;138;429;3000;10000; ; ;1;2
-Cupica_Línea de mano fija marina;2321;2963;2292;5037; ; ; ; ;667;902; ; ;5000;5000;2;2
-Loma - San Sebastián_Red de enmalle de encierro continental;1822;3436;357;785; ; ; ; ;329;1102; ; ; ; ;2;2
-Plaza de mercado (La Dorada)_Palangre calandrio;4167;5089;833;1667; ; ; ; ; ; ;5000;10000; ; ;1;1
-Puerto Colorado_Red de enmalle fija continental; ; ;641;1073; ; ; ; ; ; ; ; ; ; ;1;2
-Barrio Abajo (Ciénaga)_Red de enmalle de encierro marina;2500;6000;14060;36712; ; ; ; ; ; ; ; ;20000;20000;5;5
-Belén (El Banco)_Red de enmalle fija continental ciénaga;1026;2500;1026;2500;8450;45000;8450;45000;256;625; ; ; ; ;1;2
-Puerto Colorado_Línea de mano fija continental; ; ;667;1097; ; ; ; ; ; ; ; ; ; ;1;1
-La Punta - Firme Cifuentes_Red de enmalle camaronera;4167;8588;5327;10000; ; ; ; ;1489;2585; ; ; ; ;2;2
-Caño Grande_Red de enmalle fija continental; ; ; ; ; ; ; ; ; ; ; ; ; ; ;1;1
-Barrio La Unión_Red de enmalle fija marina;1465;5000;915;4644; ; ; ; ;242;566; ; ; ; ;2;2
-Tajamar Occidental_Línea de mano cometa;2534;3500; ; ; ; ; ; ;960;1471; ; ; ; ;1;1
-Barrio La Unión_Aros;2268;5000;1244;3120; ; ; ; ;242;530;20000;25000; ; ;2;3
-Tajamar Occidental_Red de enmalle de deriva marina;2190;3608;6065;8571; ; ; ; ;1630;2359; ; ; ; ;2;4
-Barrio La Unión_Palangre o espinel de fondo;1249;4191;1095;4010; ; ; ; ; ; ; ; ; ; ;2;3
-Barrio Arriba - Barbosa (Magangué)_Red de enmalle de deriva continental; ; ; ; ; ; ; ; ;69;85; ; ;1000;2000;2;2
-Marriaga_Red de enmalle fija continental; ; ;800;1035; ; ; ; ; ; ; ; ; ; ;1;1
-Puerto principal (San Vicente del Caguán)_Atarraya;6802;11000;5844;9117; ; ; ; ;638;1602; ; ; ; ;2;3
-Sempegua_Red de enmalle fija continental;763;1854;417;1420; ; ; ; ;53;145; ; ;1500;5000;1;2
-Barrio Arriba - Barbosa (Magangué)_Red de enmalle fija continental; ; ; ; ; ; ; ; ; ; ; ; ;1000;2000;1;2
-Purricha_Palangre o espinel de fondo;460;2666;1115;4494; ; ; ; ;261;524; ; ; ; ;1;2
-El Ferry_Red de enmalle fija continental ciénaga;1047;1717;443;1572; ; ; ; ;108;178; ; ;2000;3000;1;2
-Cabo de la Vela_Red de enmalle langostera; ; ;494;1484; ; ; ; ; ; ; ; ; ; ;2;3
-Barrio La Unión_Línea de mano correteo curricán o trolling;1880;4127;4833;10169; ; ; ; ;318;632; ; ; ; ;2;2
-Villa Fátima_Red de enmalle de encierro marina; ; ;19300;25505; ; ; ; ; ; ; ; ; ; ;4;4
-Morrosquillo_Línea de mano fija marina;2000;4594;555;7482; ; ; ; ;158;496;3000;16650;10000;10000;1;2
-Mayapo_Nasas de Peces;53;142;74;209; ; ; ; ; ; ; ; ; ; ;2;2
-Palenquito_Red de enmalle fija continental;958;1515; ; ; ; ; ; ;112;246; ; ; ; ;2;2
-Camarones_Red de enmalle de deriva marina; ; ;3986;9418; ; ; ; ; ; ; ; ; ; ;2;2
-Sempegua_Atarraya;2705;3535; ; ; ; ; ; ;218;235; ; ;2000;3800;2;2
-El Ferry_Red de enmalle de deriva continental;2250;4000;1111;3400; ; ; ; ;117;339; ; ;1250;3000;1;3
-Berlín_Palangre calandrio; ; ;1124;1317; ; ; ; ; ; ; ; ; ; ;1;2
-Puerto Bello_Red de enmalle fija continental;978;1982;542;1062; ; ; ; ;112;188; ; ;2000;3000;2;2
-Sempegua_Chinchorra;1154;3030;923;2557;15000;15000;15000;15000;165;973; ; ;2000;6000;2;4
-Morrosquillo_Atarraya;2000;3080; ; ; ; ; ; ;157;330; ; ; ; ;1;1
-Puerto El Waffe marino_Red de enmalle fija marina;4198;4412;3730;4157; ; ; ; ;1423;1538; ; ; ; ;2;2
-Morrosquillo_Línea de mano correteo curricán o trolling;1650;3475;1589;3125; ; ; ; ;162;438;3000;7600; ; ;1;2
-Puerto del Pescado (San José Del Guaviare)_Red de enmalle de deriva continental;2000;2000;4667;11970; ; ; ; ; ; ; ; ; ; ;2;2
-Caño Grande_Atarraya; ; ; ; ; ; ; ; ;485;705; ; ; ; ;1;2
-Sempegua_Chinchorro continental;957;1807;1754;4407;15000;30000;15000;30000;405;1948; ; ;5000;12000;6;10
-Puerto Asure_Red de enmalle fija continental;1711;3514;242;242; ; ; ; ;101;239; ; ;2000;2000;1;2
-Puente Chambacú - Río Jella_Línea de mano correteo curricán o trolling;6765;17582;11437;43445; ; ; ; ;1200;3350; ; ;5000;11700;2;3
-El Pedral_Atarraya;3098;5119;1279;1554; ; ; ; ;89;210; ; ;5000;5000;1;2
-El Pedral_Red de enmalle de deriva continental;2381;5000;976;2111; ; ; ; ;80;286; ; ;5000;5000;2;3
-Puente Chambacú - Río Jella_Línea de mano fija marina;3250;14393;3678;19110; ; ; ; ;625;1881; ; ;5000;15000;2;3
-Puerto Asure_Palangre calandrio;1749;2598;273;273; ; ; ; ;74;187; ; ; ; ;1;2
-El Pedral_Red de enmalle fija continental;3636;3636;328;370; ; ; ; ;91;91; ; ;5000;10000;1;2
-Puerto Asure_Atarraya;1988;4000; ; ; ; ; ; ;143;456; ; ; ; ;2;2
-Puerto La Candelaria_Red de enmalle fija continental;1128;2649;337;769;7000;7000;7000;7000;141;333; ; ;2000;4525;1;2
-Milagros de la Mar_Red de enmalle fija marina;3078;6782;838;2941; ; ; ; ;441;1000; ; ; ; ;1;2
-El Ferry_Chinchorra;1445;3500;952;2950; ; ; ; ;131;353; ; ;2000;4000;1;3
-El Ferry_Red de enmalle fija continental río;1098;2824;329;1584; ; ; ; ;94;267; ; ;1350;3000;1;2
-Concepción - Tacamocho_Chinchorra;490;1479; ; ; ; ; ; ;194;632; ; ;2000;6000;3;6
-Concepción - Tacamocho_Red de enmalle fija continental; ; ; ; ; ; ; ; ; ; ; ; ; ; ;1;2
-Desembarcadero (Murindó)_Red de enmalle fija continental;3000;6000;3870;5748; ; ; ; ; ; ; ; ; ; ;1;1
-Concepción - Tacamocho_Palangre calandrio; ; ; ; ; ; ; ; ; ; ; ; ; ; ;1;2
-Puerto La Candelaria_Chinchorro continental;1003;1825;1284;6521; ; ; ; ;278;820; ; ;2100;3000;2;3
-La Mata_Red de enmalle fija continental;1062;1477;891;1194; ; ; ; ;42;70; ; ;1000;2300;1;2
-La Mata_Chinchorra;1203;1809;1193;1406; ; ; ; ;107;333; ; ;2000;4000;2;3
-Cabo Marzo_Línea de mano fija marina;2022;5049;2955;10474; ; ; ; ;641;1435; ; ;50000;597550;2;3
-Belén (El Banco)_Chinchorro continental;1111;1481;1667;2222;3000;54100;3000;54100;417;556; ; ; ; ;3;3
-Puerto Arriba (Dibulla)_Red de enmalle fija marina;1029;1988;2225;6410; ; ; ; ;200;687; ; ; ; ;2;4
-Puerto Chucha_Red de enmalle fija marina;1099;3495;958;1178; ; ; ; ;110;316; ; ;4000;6000;2;2
-Puerto Arriba (Dibulla)_Red de enmalle de encierro marina;1714;4395;12726;23509; ; ; ; ; ; ; ; ; ; ;4;5
-Puerto Chucha_Red de enmalle de encierro marina;2487;4123;931;7832; ; ; ; ;205;406; ; ;3350;7650;2;2
-Puerto Chucha_Red de enmalle de deriva marina;2408;3281;5329;7334; ; ; ; ;200;336; ; ;5000;10000;2;2
-Puerto Chucha_Red de enmalle fija continental;5935;6135;642;981; ; ; ; ;151;291; ; ;3300;5000;1;2
-Puerto Arriba (Dibulla)_Red de enmalle langostera;848;1348;1871;4989; ; ; ; ;148;190; ; ; ; ;2;3
-Puerto Chucha_Atarraya;2565;6162;787;1366; ; ; ; ;207;361; ; ;4300;5000;1;2
-La Boquilla_Atarraya;2000;3000; ; ; ; ; ; ;186;406; ; ;4000;4500;1;1
-La Boquilla_Red de enmalle fija marina;914;1672;731;3615; ; ; ; ;169;387; ; ; ; ;1;3
-San José_Atarraya; ; ; ; ; ; ; ; ;458;593; ; ;2000;2000;1;2
-San José_Nasas de Peces; ; ;1257;2733; ; ; ; ; ; ;21000;45000; ; ;1;2
-El Roto_Red de enmalle fija marina; ; ;1917;4242; ; ; ; ; ; ; ; ; ; ;2;3
-El Roto_Palangre o espinel de fondo; ; ;1576;2415; ; ; ; ; ; ; ; ; ; ;1;2
-San José_Red de enmalle fija continental; ; ; ; ; ; ; ; ;68;113; ; ; ; ;1;1
-Tribugá_Línea de mano fija marina;2315;7658;2321;6846; ; ; ; ;276;724;5250;9750; ; ;1;2
-La Playa (El Banco)_Red de enmalle de deriva continental;2251;3215;1500;2113;6020;44420;6020;44420;152;218; ; ;2000;3000;1;2
-Berrugas_Línea de mano fija marina;1455;2886;4210;5227; ; ; ; ;135;330;3000;10000;1050;1950;1;1
-La Tagua_Palangre calandrio; ; ;444;948; ; ; ; ; ; ;5000;5000;8500;8500;1;2
-Dotenedó_Palangre o espinel de fondo; ; ;3584;22862; ; ; ; ; ; ; ; ; ; ;1;3
-Dotenedó_Línea de mano fija marina; ; ;2602;7917; ; ; ; ; ; ; ; ; ; ;1;2
-Dotenedó_Red de enmalle fija marina; ; ;3764;20795; ; ; ; ; ; ; ; ; ; ;1;3
-Cabo Marzo_Palangre o espinel de fondo;3959;6682;4415;9215; ; ; ; ;625;1215; ; ;256000;1440000;3;4
-Dotenedó_Red de enmalle camaronera; ; ;3399;9936; ; ; ; ; ; ; ; ; ; ;1;2
-Playa de Arusí_Línea de mano fija marina;2339;8503;2442;12814; ; ; ; ; ; ; ; ;6000;6000;1;3
-Puerto Franco_Red de enmalle fija continental; ; ;330;600; ; ; ; ;43;101; ; ; ; ;1;1
-Bazán_Red de enmalle fija marina;4908;14833;5350;7320; ; ; ; ;1000;2075; ; ; ; ;2;3
-Bazán_Palangre o espinel de fondo;2830;8920;5565;11543; ; ; ; ;1988;3883;50000;50000;50000;50000;3;4
-La Playa (El Banco)_Chinchorra;2094;2368;1553;1875;11825;46075;11825;46075;140;158; ; ;2000;3000;2;2
-Playa Totumo_Red de enmalle camaronera;1598;8250;2500;5872; ; ; ; ;252;662; ; ; ; ;1;3
-Isla Fuerte_Red de enmalle fija marina;1383;2055;730;3807; ; ; ; ; ; ; ; ; ; ;1;2
-Codis_Línea de mano fija marina;1479;5000;1153;2671; ; ; ; ;291;549;20000;30000; ; ;1;2
-Codis_Atarraya;1630;2888;758;828; ; ; ; ;223;258; ; ; ; ;2;2
-Santa Clara_Palangre calandrio; ; ; ; ; ; ; ; ;102;153;3075;7975; ; ;1;2
-Puerto Real - Saloa_Red de enmalle fija continental;1215;2476;773;2948; ; ; ; ;155;331; ; ;1000;2000;1;2
-Isla Fuerte_Línea de mano correteo curricán o trolling;2161;5612;3958;18152; ; ; ; ;577;1169; ; ;3000;10000;1;3
-Puerto Rico [Meta]_Palangre calandrio;2192;3846;2953;4444; ; ; ; ;247;457; ; ;8900;31450;1;2
-Codis_Red de enmalle fija marina;1441;3487;652;2378; ; ; ; ;200;443; ; ; ; ;2;2
-La Punta_Buceo marino mixto;2261;7267;934;2860; ; ; ; ;203;570; ; ; ; ;1;2
-Puerto Pozuelo - La Rinconada_Red de enmalle fija continental;824;1500; ; ; ; ; ; ;76;186; ; ;1000;3000;1;2
-Mulatos_Red de enmalle fija marina;1976;4496;1802;8845; ; ; ; ;756;1768; ; ; ; ;2;3
-Santa Clara_Atarraya; ; ; ; ; ; ; ; ;349;638; ; ; ; ;2;2
-Playa Totumo_Palangre o espinel de fondo;1244;6250;1866;8300; ; ; ; ;366;850; ; ; ; ;2;3
-Bahía de Cispatá_Red de enmalle de encierro marina;2000;3636;752;6762; ; ; ; ;231;371; ; ;4000;6000;2;2
-Puerto Abajo (Dibulla)_Nasas de Peces;70;191;236;719; ; ; ; ; ; ; ; ; ; ;3;4
-Tagachí_Red de enmalle de deriva continental;1734;7778;2648;8169; ; ; ; ; ; ; ; ; ; ;2;5
-Casco urbano Roma_Red de enmalle fija continental; ; ; ; ; ; ; ; ; ; ; ; ; ; ;1;1
-Bahía de Cispatá_Red de enmalle fija marina;1094;1621;203;1090; ; ; ; ;126;396; ; ;2000;6000;1;2
-Puerto La Candelaria_Atarraya rastra; ; ; ; ; ; ; ; ; ; ; ; ; ; ;1;2
-Puerto La Candelaria_Red de enmalle de deriva continental; ; ;7240;8994; ; ; ; ; ; ; ; ; ; ;1;2
-Agropez_Red de enmalle fija marina;2857;5674;1765;3127; ; ; ; ;571;1111; ; ; ; ;2;2
-Agropez_Línea de mano fija marina;2880;3333;1869;3233; ; ; ; ;571;667;25000;25000; ; ;2;2
-Agropez_Atarraya;4840;6002;2500;3774; ; ; ; ;965;1200; ; ; ; ;2;2
-Bahía de Cispatá_Nasa de jaibas;2676;3260; ; ; ; ; ; ; ; ;3000;3650;2000;3650;1;1
-Bahía de Cispatá_Atarraya;1944;3462; ; ; ; ; ; ;144;270; ; ;2000;4000;1;2
-Bahía de Cispatá_Línea de mano fija marina;1667;2857;500;3286; ; ; ; ;91;286;10000;14000;2000;4000;1;3
-Rincón_Atarraya;2772;6000; ; ; ; ; ; ;311;570; ; ;1400;1400;1;2
-Milagros de la Mar_Palangre o espinel de fondo;1655;4087;2633;4316; ; ; ; ;636;780; ; ; ; ;3;4
-La Playa (El Banco)_Nasas de Peces; ; ;1941;2587; ; ; ; ; ; ;50000;60000;5000;6000;3;4
-La Playa (El Banco)_Chinchorro continental;992;1669;1996;3446;12300;88620;12300;88620;404;798; ; ;5000;7000;6;6
-Puerto Colorado_Red de enmalle de deriva continental; ; ;2176;2763; ; ; ; ; ; ; ; ; ; ;2;2
-Santa Clara_Red de enmalle de deriva continental; ; ; ; ; ; ; ; ;423;600; ; ; ; ;1;2
-Milagros de la Mar_Red de enmalle de deriva marina;3977;15000;4970;12727; ; ; ; ;1146;3085; ; ; ; ;2;3
-La Peinada_Red de enmalle fija continental;1086;1690; ; ; ; ; ; ;86;136; ; ;2000;3000;1;2
-Candelaria (Chimichagua)_Red de enmalle fija continental;1641;2074;442;1932; ; ; ; ;92;194; ; ;1000;2000;1;2
-Bahía de Cispatá_Chinchorro marino;1319;2315;3411;6400; ; ; ; ;155;300; ; ;20000;20000;9;10
-Poportín_Red de enmalle fija marina;1008;1107;1633;2609; ; ; ; ;242;266; ; ; ; ;2;2
-Candelaria (Chimichagua)_Chinchorra;1317;3698;717;3134; ; ; ; ;114;353; ; ;2000;6000;2;4
-Marralú_Chinchorro continental;785;3000;1250;3841; ; ; ; ;264;774; ; ; ; ;3;4
-Las Delicias_Red de enmalle fija marina; ; ;899;2422; ; ; ; ;180;386; ; ;2000;8250;1;3
-La Peinada_Atarraya;2639;5068; ; ; ; ; ; ;216;320; ; ;2000;2000;1;2
-Lomita Arena_Red de enmalle fija marina;855;855;1369;2674; ; ; ; ;855;855; ; ; ; ;2;5
-Puerto Amor_Red de enmalle fija continental;1631;4466;517;877;4000;4000;4000;4000;56;319; ; ; ; ;1;2
-Lomita Arena_Palangre o espinel de superficie; ; ;1325;2291; ; ; ; ; ; ; ; ; ; ;3;4
-Laguna Colorada_Línea de mano fija continental;2646;2981; ; ; ; ; ; ; ; ; ; ; ; ;1;1
-Marralú_Red de enmalle de deriva continental; ; ;924;1232; ; ; ; ; ; ; ; ; ; ;2;2
-Guataquí_Atarraya;1346;5312;926;3767; ; ; ; ; ; ; ; ; ; ;1;2
-Laguna Colorada_Red de enmalle fija continental;1117;3000; ; ; ; ; ; ; ; ; ; ; ; ;1;2
-Chamuscado - Naya_Red de enmalle de deriva marina;1764;5647;2911;9761; ; ; ; ;808;2091; ; ; ; ;2;3
-Chamuscado - Naya_Red de enmalle fija marina;1329;3720;2717;7164; ; ; ; ;359;1119; ; ; ; ;2;3
-Plaza de mercado (La Dorada)_Atarraya;3958;8062;1542;3575; ; ; ; ; ; ; ; ; ; ;1;3
-Puente Chambacú - Río Jella_Palangre o espinel de fondo;2170;7849;2742;9079; ; ; ; ;456;1765; ; ;3,00E+05;1282000;2;4
-Jurubirá_Palangre o espinel de fondo;1708;8334;4405;16706; ; ; ; ; ; ; ; ; ; ;2;3
-La Raya_Red de enmalle de deriva continental; ; ; ; ; ; ; ; ; ; ; ; ; ; ;1;2
-Plaza de mercado (La Dorada)_Red de enmalle de deriva continental;3524;7170;1576;5360; ; ; ; ; ; ; ; ; ; ;3;3
-Jurubirá_Línea de mano fija marina;2750;15000;5055;31984; ; ; ; ; ; ; ; ; ; ;1;2
-Cangrejito_Red de enmalle fija marina;645;2214;1219;5140; ; ; ; ;271;598; ; ; ; ;1;2
-Puerto Franco_Atarraya; ; ; ; ; ; ; ; ;73;144; ; ; ; ;1;1
-Puerto Barrio El Progreso_Red de enmalle de deriva continental mallona;2033;3059;1213;1746; ; ; ; ;154;320; ; ;4000;6000;3;3
-Cangrejito_Palangre o espinel de fondo;818;1770;2783;5755; ; ; ; ;139;746;5000;45000; ; ;1;4
-Puerto Barrio El Progreso_Red de enmalle fija continental;2125;4093;1026;1287; ; ; ; ;217;400; ; ;4000;6000;2;2
-Santa Rosa_Red de enmalle de deriva marina;1885;1885;2000;3241; ; ; ; ; ; ; ; ;3000;3000;2;3
-Guataquí_Palangre calandrio;907;5082;390;3545; ; ; ; ; ; ; ; ; ; ;1;2
-Puerto Barrio El Progreso_Atarraya rastra;3551;4208;2103;2451; ; ; ; ;368;500; ; ;5000;6700;3;3
-Puerto (Arauquita)_Atarraya;2350;7000;2550;10012; ; ; ; ;522;1703; ; ;7300;13000;2;2
-Santa Rosa_Buceo marino mixto; ; ;2000;4828; ; ; ; ; ; ; ; ;3000;3000;4;8
-Cabo de la Vela_Nasas de Peces; ; ;77;583; ; ; ; ; ; ; ; ; ; ;2;3
-Puerto principal (San Vicente del Caguán)_Palangre calandrio;7872;26197;5480;6353; ; ; ; ;640;1806; ; ; ; ;1;2
-Las Delicias_Red de enmalle de encierro marina; ; ;3065;23723; ; ; ; ; ; ; ; ;10000;17500;3;5
-Taganga_Buceo de peces;2784;3799;6716;9118; ; ; ; ;307;391; ; ;6000;6000;6;6
-Punta Ardita_Línea de mano fija marina; ; ;3677;8873; ; ; ; ; ; ; ; ; ; ;2;2
-Mercado (Lorica)_Atarraya;1145;3131; ; ; ; ; ; ;286;626;10000;22750; ; ;1;2
-Lamas_Atarraya;1784;3951; ; ; ; ; ; ;176;496; ; ; ; ;1;2
-Lamas_Red de enmalle de encierro continental;1787;4325;459;667;7250;23250;7250;23250;206;720; ; ;1300;4400;2;2
-Mercado (Lorica)_Red de enmalle fija continental;1923;2645;1542;1589; ; ; ; ;58;158; ; ; ; ;1;3
-La Charca de Guarinocito_Chinchorra;2730;11667;1832;7625; ; ; ; ; ; ; ; ; ; ;3;6
-Puerto La Candelaria_Atarraya;1086;2992;610;3921; ; ; ; ;186;974; ; ;2000;6750;1;4
-La Casa del Pescador_Red de enmalle de deriva marina;4328;7272;5135;9816; ; ; ; ;303;657; ; ; ; ;2;2
-Casino_Línea de mano fija marina;1261;3432;1052;2653; ; ; ; ;135;761;3000;99000;31000;49000;1;2
-La Charca de Guarinocito_Atarraya chile;15000;15000; ; ; ; ; ; ; ; ; ; ; ; ;2;2
-Bahía de Cispatá_Palangre o espinel de fondo;2018;3137;409;1843; ; ; ; ; ; ;3000;4000;2000;4000;1;2
-Doña Ana_Palangre calandrio;2142;3329;177;616; ; ; ; ;52;154; ; ; ; ;1;1
-Lamas_Red de enmalle fija continental;785;2132; ; ; ; ; ; ;98;238; ; ;1000;2650;1;2
-Isla Fuerte_Línea de mano fija marina;1951;4993;4896;16919; ; ; ; ;599;1051;20000;20000;2750;14250;1;3
-Providencia o Caimancito_Red de enmalle fija continental; ; ; ; ; ; ; ; ; ; ; ; ; ; ;1;1
-La Charca de Guarinocito_Atarraya;4656;15052;1705;2157; ; ; ; ; ; ; ; ; ; ;2;2
-Casco Urbano (San Juan de Urabá)_Red de enmalle fija marina;848;2677;2493;7183; ; ; ; ;184;663; ; ; ; ;2;3
-Bahía de Santa Marta_Línea de mano fija marina;838;2054;779;4134; ; ; ; ;135;500; ; ; ; ;1;2
-Armenia_Red de enmalle fija continental;1132;1676; ; ; ; ; ; ;163;283; ; ;2000;4000;1;2
-Bahía de Santa Marta_Línea de mano correteo curricán o trolling; ; ;3680;16318; ; ; ; ; ; ; ; ; ; ;1;2
-Betania (Montecristo)_Red de enmalle fija continental; ; ;1051;1134; ; ; ; ; ; ; ; ; ; ;2;2
-Palomino_Chinchorro continental;1425;2532; ; ; ; ; ; ;410;604; ; ; ; ;2;3
-Guataquí_Línea de mano fija continental;1330;1330; ; ; ; ; ; ; ; ; ; ; ; ;2;2
-Usaragá_Palangre o espinel de fondo;1488;5964;1848;8030; ; ; ; ;389;2406; ; ; ; ;1;2
-Usaragá_Línea de mano fija marina;1977;6607;1794;7233; ; ; ; ;409;1905;3000;3000; ; ;1;2
-Punta de blanco_Red de enmalle fija continental;1772;1772;281;458; ; ; ; ;55;119; ; ; ; ;1;2
-Punta de blanco_Palangre calandrio; ; ; ; ; ; ; ; ;101;122; ; ; ; ;1;1
-Casino_Palangre o espinel de fondo;1032;3107;1019;3280; ; ; ; ;121;649;10000;1,00E+05;20000;20000;1;3
-Miel de Abeja_Palangre o espinel de fondo;1103;8818;3912;16588; ; ; ; ; ; ; ; ;25000;30000;1;2
-Bocanegra_Red de enmalle de encierro marina;2670;4895; ; ; ; ; ; ;188;384; ; ;4000;6000;1;3
-Bocanegra_Atarraya;3437;4682; ; ; ; ; ; ;126;248; ; ;4000;4000;1;2
-Aparca_Red de enmalle fija continental;2607;5501;3035;7378; ; ; ; ;416;1272; ; ;20000;43750;2;5
-Aparca_Atarraya;2863;5889;1631;5407;15250;19750;15250;19750;313;706; ; ;20000;35000;2;4
-Bahía de Santa Marta_Red de enmalle fija marina; ; ;637;997; ; ; ; ; ; ; ; ; ; ;1;3
-Aparca_Arpón;1923;4592;2425;4776; ; ; ; ;375;838; ; ;20000;33500;4;5
-El Puerto (Puerto Carreño)_Línea de mano fija continental;1804;6213;1510;3212; ; ; ; ;477;1258;20000;36500; ; ;2;3
-Purricha_Red de enmalle fija marina;439;3163;1233;7819; ; ; ; ; ; ; ; ; ; ;1;3
-Arroyito_Atarraya;1000;3000;733;1474; ; ; ; ;206;395; ; ; ; ;1;1
-Guacamayo_Red de enmalle fija continental; ; ;636;636; ; ; ; ;231;346; ; ; ; ;1;2
-Barrio La Unión_Red de enmalle de encierro marina;2785;4826;1996;6700; ; ; ; ; ; ; ; ; ; ;2;3
-Nueva Colonia_Flecha;1695;4108;3137;5263; ; ; ; ;678;1316; ; ;6000;10000;2;2
-Dotenedó_Recolección manual de piangua; ; ;2162;2162; ; ; ; ; ; ; ; ; ; ;2;4
-Barrio Chino_Red de enmalle de deriva continental; ; ;1111;2090; ; ; ; ; ; ; ; ; ; ;1;2
-Barrio Chino_Línea de mano fija continental; ; ;402;475; ; ; ; ; ; ; ; ; ; ;1;1
-Nueva Colonia_Red de enmalle fija continental;1650;2601;2621;3827; ; ; ; ;652;924; ; ; ; ;2;2
-Guacamayo_Chinchorro continental;2500;7340;1694;3857; ; ; ; ;406;1232; ; ; ; ;3;5
-Puerto Boquillas_Red de enmalle fija continental;1238;2658; ; ; ; ; ; ;83;163; ; ;1000;2000;1;2
-Puerto Amor_Chinchorra;1448;7725;648;2919;15000;25000;15000;25000;200;856; ; ; ; ;2;3
-Bocanegra_Red de enmalle fija continental; ; ;625;625; ; ; ; ;75;75; ; ;3000;3000;2;2
-Sapzurro_Línea de mano fija marina;4359;7340;3909;17025; ; ; ; ;1052;1582; ; ; ; ;2;2
-Pomeño_Red de enmalle fija marina;850;1556;2035;6307; ; ; ; ;310;670; ; ; ; ;1;3
-Curvaradó_Red de enmalle fija continental; ; ;790;1019; ; ; ; ; ; ; ; ; ; ;1;1
-Sapzurro_Red de enmalle fija marina; ; ;896;1715; ; ; ; ; ; ; ; ; ; ;2;3
-Puerto de las Canoas (Puerto Berrío)_Chinchorra;777;2492;1190;5443; ; ; ; ;386;1761; ; ; ; ;3;7
-Jodedor_Red de enmalle fija marina; ; ;2963;14926; ; ; ; ; ; ; ; ; ; ;2;3
-El Malecón (Neiva)_Atarraya;1286;4091;563;1667; ; ; ; ;58;372; ; ;30000;45000;2;2
-Caño Lobo_Recolección manual de ostra;4000;7404; ; ; ; ; ; ; ; ; ; ;4000;4000;1;1
-Manaure Centro_Red de enmalle de encierro marina;1418;1916;16068;21711; ; ; ; ; ; ; ; ; ; ;5;5
-Puerto Maco/Puerto Momico_Palangre calandrio;3467;4502;530;596; ; ; ; ;265;298;4000;4000;4000;4000;1;1
-Puerto Maco/Puerto Momico_Red de enmalle fija continental;4956;7173;857;1024; ; ; ; ;429;512; ; ; ; ;1;1
-Puerto Maco/Puerto Momico_Atarraya;3272;3964;1081;1224; ; ; ; ;589;673; ; ;12000;12000;2;2
-Curillo_Palangre calandrio; ; ;1457;3859; ; ; ; ;1188;1188;25800;40000; ; ;1;2
-Sicará_Red de enmalle fija continental;2239;3633; ; ; ; ; ; ;108;322; ; ;2000;2800;1;1
-Curillo_Línea de mano fija continental; ; ;1302;3924; ; ; ; ;1011;1011;12000;30000; ; ;1;2
-Puerto del Pescado (San José Del Guaviare)_Red de enmalle fija continental; ; ;1300;1688; ; ; ; ; ; ; ; ; ; ;2;2
-La Raya_Palangre calandrio; ; ; ; ; ; ; ; ; ; ; ; ; ; ;1;2
-La Raya_Red de enmalle fija continental; ; ; ; ; ; ; ; ; ; ; ; ; ; ;1;2
-Bocas del Atrato_Red de enmalle fija marina; ; ;763;995; ; ; ; ; ; ; ; ; ; ;1;2
-Belén (San Marcos)_Red de enmalle fija continental;1741;2055; ; ; ; ; ; ;47;160; ; ; ; ;1;1
-Caño Lobo_Buceo de peces;3554;5038; ; ; ; ; ; ;156;241; ; ;4000;4000;1;1
-Las Flores_Red de enmalle de deriva marina;2187;4059;9890;17384; ; ; ; ;1045;1916; ; ; ; ;6;7
-Juanchaco_Línea de mano correteo curricán o trolling;5899;7601;6686;10196; ; ; ; ;737;776; ; ; ; ;2;3
-Caño Lobo_Línea de mano fija marina;3314;5252; ; ; ; ; ; ;161;251;3000;3000;4000;4000;1;1
-Caño Lobo_Red de enmalle de encierro marina;3355;5614; ; ; ; ; ; ;184;315; ; ;6200;8000;2;2
-Providencia o Caimancito_Atarraya;3796;5179; ; ; ; ; ; ;148;228; ; ; ; ;1;2
-El Llanito_Red de enmalle de deriva continental;2381;4640;2790;6659;2000;2000;2000;2000;198;484;6000;6000; ; ;2;2
-Las Flores_Red de enmalle fija marina;2379;4608;4748;17735; ; ; ; ;925;1910; ; ; ; ;6;7
-Campo alegre_Red de enmalle fija continental;976;2309;368;1300;3000;3000;3000;3000;129;272; ; ; ; ;1;2
-Vigía de Curvaradó_Red de enmalle fija continental;1839;2439;1445;6790; ; ; ; ;532;3710; ; ;30000;30000;1;4
-El Llanito_Atarraya;2045;4450;1295;6342; ; ; ; ;231;542;5000;6000; ; ;2;2
-El Llanito_Palangre calandrio;1249;3513;1159;3417; ; ; ; ;113;290;6000;8000; ; ;2;2
-Palomar_Red de enmalle fija continental; ; ;320;532; ; ; ; ; ; ; ; ; ; ;1;2
-Barrio Abajo (Ciénaga)_Red de arrastre artesanal o changa;2524;4000;5696;12132; ; ; ; ;252;531; ; ; ; ;2;2
-Palomar_Palangre calandrio; ; ;367;609; ; ; ; ; ; ; ; ; ; ;1;2
-Palomar_Línea de mano fija continental; ; ;375;665; ; ; ; ; ; ; ; ; ; ;1;2
-Las Flores_Línea de mano fija marina;5808;9333; ; ; ; ; ; ;217;500; ; ; ; ;1;1
-Pomeño_Red de enmalle de deriva marina;1085;3591;3308;15640; ; ; ; ;353;1330; ; ; ; ;2;3
-Palomar_Red de enmalle de deriva continental; ; ;1439;3688; ; ; ; ; ; ; ; ; ; ;2;2
-Muelle Hong Kong_Atarraya;2875;6000;2725;8000; ; ; ; ; ; ; ; ; ; ;1;2
-Muelle Hong Kong_Red de enmalle fija continental;2732;8000;2753;8098; ; ; ; ;650;4009; ; ;30000;30000;1;2
-Camarones_Red de enmalle de encierro marina;1139;5180;8475;16442; ; ; ; ;708;708; ; ; ; ;2;6
-Camarones_Nasas de Peces; ; ;210;894; ; ; ; ; ; ; ; ; ; ;2;5
-Ciénaga de Mesolandia_Red de enmalle fija continental;1623;2500;328;422;7000;7000;7000;7000;85;145; ; ; ; ;1;2
-Manaure Abajo_Palangre o espinel de fondo;2474;3720;4499;6746; ; ; ; ;331;496;15000;15000; ; ;2;2
-Ciénaga de Mesolandia_Atarraya;1930;4485; ; ; ; ; ; ;124;257; ; ; ; ;1;3
-Manaure Abajo_Red de enmalle de encierro marina;1333;1899;15111;21465; ; ; ; ;545;545; ; ; ; ;5;5
-Belén (San Marcos)_Red de enmalle de deriva continental;3046;4305; ; ; ; ; ; ;173;284; ; ; ; ;1;1
-Belén (San Marcos)_Palangre calandrio; ; ; ; ; ; ; ; ; ; ; ; ; ; ;1;1
-Cispataca_Red de enmalle fija continental; ; ; ; ; ; ; ; ; ; ; ; ; ; ;1;2
-Las Delicias_Palangre o espinel de fondo;1042;2232;2402;3692; ; ; ; ;189;341;10000;20000;5000;5000;2;3
-Piedras Blancas_Buceo marino mixto; ; ;1912;3339; ; ; ; ; ; ; ; ; ; ;2;7
-Piedras Blancas_Buceo de langosta; ; ;1905;3267; ; ; ; ; ; ; ; ; ; ;2;3
-Cartagena del Chairá_Palangre calandrio;1629;3988;1170;3081; ; ; ; ;582;938;21000;70000;40000;40000;1;2
-Guazo_Red de enmalle de deriva continental; ; ;1528;3125; ; ; ; ; ; ; ; ; ; ;1;2
-Vigía_Red de enmalle de deriva marina;2500;5000;2326;5143; ; ; ; ; ; ; ; ; ; ;2;2
-Guazo_Red de enmalle fija continental; ; ;377;535; ; ; ; ; ; ; ; ; ; ;1;1
-Puerto Asure_Chinchorra;1684;3917;429;429; ; ; ; ;163;353; ; ; ; ;2;3
-Rincón del Mar_Red de enmalle de encierro marina;2006;3000;2935;12214; ; ; ; ;256;418; ; ; ; ;1;3
-Rincón del Mar_Buceo marino mixto;2008;2913;3278;11039; ; ; ; ;216;327; ; ; ; ;1;4
-Rincón del Mar_Línea de mano fija marina;1704;3000;1048;9326; ; ; ; ;144;573; ; ; ; ;1;3
-Santa Cruz - Naya_Red de enmalle fija marina;1718;3322;2181;8514; ; ; ; ;291;671; ; ; ; ;2;2
-Santa Cruz - Naya_Red de enmalle de deriva marina;1908;5665;4364;11119; ; ; ; ;524;2027; ; ; ; ;2;2
-Betania - Naya_Red de enmalle de deriva marina;2353;7793;4522;11705; ; ; ; ;731;3049; ; ; ; ;1;2
-Betania - Naya_Palangre o espinel de superficie;5113;11109;3203;8228; ; ; ; ;443;795; ; ; ; ;1;1
-Candelaria (Achí)_Red de enmalle de deriva continental; ; ; ; ; ; ; ; ;415;1812; ; ; ; ;1;2
-Candelaria (Achí)_Palangre calandrio; ; ; ; ; ; ; ; ; ; ; ; ; ; ;1;1
-Betania - Naya_Palangre o espinel de fondo;2694;5880;4892;10340; ; ; ; ;410;1100; ; ; ; ;2;2
-Puerto Antequera_Red de enmalle fija continental ciénaga; ; ; ; ; ; ; ; ; ; ; ; ; ; ;1;2
-Guacamayo_Cóngolo; ; ;1596;2936; ; ; ; ; ; ; ; ; ; ;1;1
-Malecón (Puerto Gaitán)_Palangre calandrio;1473;8562;924;4392; ; ; ; ;314;1000; ; ; ; ;1;3
-Guazo_Palangre calandrio; ; ;290;514; ; ; ; ;239;239; ; ; ; ;1;1
-La Rampa (Barrancabermeja)_Red de enmalle de deriva continental;2059;9125;2067;5813; ; ; ; ;1240;6031; ; ;13000;40000;2;3
-Guacamayo_Palangre calandrio; ; ; ; ; ; ; ; ; ; ;5000;5000; ; ;1;2
-Isla Fuerte_Buceo marino mixto;1810;3655;3678;7297; ; ; ; ; ; ; ; ; ; ;1;2
-San Luis_Red de enmalle fija continental; ; ; ; ; ; ; ; ; ; ; ; ; ; ;2;2
-Arrimadero La Unión_Línea de mano fija marina;3538;13161;3814;38793; ; ; ; ;1142;3584; ; ; ; ;2;3
-Arrimadero La Unión_Palangre o espinel de fondo;1484;15413;3295;17682; ; ; ; ;966;4145; ; ; ; ;2;3
-Arrimadero La Unión_Red de enmalle marina de fondo;3521;10065;2321;2863; ; ; ; ;1274;2110; ; ; ; ;2;2
-La Rampa (Barrancabermeja)_Chinchorra;1752;7692;2639;6885; ; ; ; ;1588;6646; ; ;10000;45500;2;3
-Guineal_Red de enmalle fija marina;1062;7101;1553;9625;11000;29000;11000;29000;230;1145; ; ;3000;8000;1;3
-La Rampa (Barrancabermeja)_Red de enmalle de encierro continental;3679;3679;2208;2208; ; ; ; ;1840;1840; ; ; ; ;3;3
-Isla Fuerte_Nasa de langostas;37;104;220;823; ; ; ; ; ; ;16750;36500; ; ;4;6
-Guineal_Red de enmalle de encierro marina;1157;8702;957;8005;16250;38750;16250;38750;196;761; ; ;3950;10100;1;3
-Chapinero_Atarraya;1818;4076; ; ;10000;10000;10000;10000;132;333; ; ;20000;30000;2;2
-Tapegua_Red de enmalle fija continental;2750;3434; ; ; ; ; ; ;317;423; ; ; ; ;2;2
-Pizarro_Red de enmalle fija marina;1635;2928;1208;3577; ; ; ; ;384;1206; ; ;1,00E+05;1,00E+05;2;3
-Riosucio_Red de enmalle fija continental;1073;5419;1597;3535; ; ; ; ;521;878; ; ; ; ;1;2
-Tapegua_Atarraya;1500;2000; ; ; ; ; ; ;278;457; ; ; ; ;2;2
-Paujil_Red de enmalle fija continental;1412;7615;1837;6086; ; ; ; ;797;1383; ; ; ; ;1;3
-Poportín_Buceo marino mixto;555;1000;3527;4706; ; ; ; ; ; ; ; ; ; ;5;8
-La Boquilla_Línea de mano fija marina;2105;4000;7401;15169; ; ; ; ;533;1079;20000;43500; ; ;2;3
-Santuario_Arpón;1164;3941;1685;8250; ; ; ; ;286;1047; ; ; ; ;3;5
-Puerto Boca_Red de enmalle de deriva continental;1655;2538; ; ; ; ; ; ;138;361; ; ;5000;7700;2;2
-Puerto Boca_Red de enmalle fija continental ciénaga;1860;2810; ; ; ; ; ; ;162;255; ; ;10000;19000;2;2
-Puerto Boca_Atarraya;2452;4191; ; ; ; ; ; ;196;365; ; ; ; ;1;2
-Vida Tranquila_Red de enmalle fija continental;681;1544;794;1333; ; ; ; ;106;278; ; ;3100;4900;1;2
-Puerto Arriba (Dibulla)_Chinchorro camaronero;1772;2200;4662;4662; ; ; ; ; ; ; ; ; ; ;5;6
-Puerto Boca_Chinchorro continental;2261;3132; ; ; ; ; ; ;316;436; ; ;5000;10000;3;3
-Puerto Arriba (Dibulla)_Nasas de Peces;178;467;1115;2098; ; ; ; ; ; ; ; ; ; ;3;3
-Vida Tranquila_Red de enmalle de deriva continental;397;439;1532;6667; ; ; ; ;152;1117; ; ; ; ;1;2
-Puerto Panseguita_Red de enmalle de deriva continental;1262;3002;1715;2667; ; ; ; ;214;343; ; ;2000;2000;2;2
-Rincón del Mar_Nasa de langostas;45;136;104;448; ; ; ; ; ; ;2000;7000; ; ;2;3
-Puerto Panseguita_Red de enmalle fija continental;1950;4148;326;989; ; ; ; ;122;416; ; ;2000;2000;1;2
-Puerto Chaparro_Red de enmalle de deriva continental;1574;3657;1227;5372; ; ; ; ;266;1321; ; ; ; ;1;3
-Puerto Chaparro_Chinchorro continental;1401;3040;3048;6537; ; ; ; ;588;1761; ; ; ; ;3;3
-Puerto Los Córdobas_Red de enmalle de deriva marina;2950;5919;2453;5854; ; ; ; ;474;1168; ; ; ; ;2;3
-Vida Tranquila_Palangre calandrio;734;1879;712;1864; ; ; ; ;101;242; ; ; ; ;1;2
-Puerto Chaparro_Atarraya;2332;6044;1693;6353; ; ; ; ;238;1730;7000;66050; ; ;1;2
-Puerto Abajo (Dibulla)_Red de enmalle de encierro marina;1730;4705;15208;34073; ; ; ; ; ; ; ; ; ; ;4;4
-Puerto Chaparro_Cóngolo;2593;2593;1017;4514; ; ; ; ;167;901; ; ; ; ;1;3
-El Puerto (Tumaco)_Red de enmalle de deriva marina;2139;10939;1807;11454; ; ; ; ;202;1217; ; ; ; ;2;3
-Mantequera_Red de enmalle fija continental;1667;2488; ; ; ; ; ; ;98;126; ; ;2000;4000;1;2
-Mantequera_Red de enmalle de deriva continental;1203;2857;3600;3600; ; ; ; ;130;286; ; ;2000;3000;1;2
-La Grande_Red de enmalle fija continental; ; ;1311;2053; ; ; ; ;1449;1449; ; ; ; ;1;3
-La Rampa (Barrancabermeja)_Red de enmalle fija continental;2414;9055;2104;5536; ; ; ; ;1764;3929; ; ; ; ;2;3
-Puerto de desembarco (Mitú)_Línea de mano fija continental;1115;4772;1220;2507; ; ; ; ; ; ; ; ;5000;8000;1;1
-Morrosquillo_Buceo de peces;3150;10500;2434;2434; ; ; ; ;413;790; ; ;5000;5000;1;1
-Puerto de desembarco (Mitú)_Arpón;1771;4625;1581;3154; ; ; ; ; ; ; ; ;5050;5950;1;1
-El Porvenir_Atarraya;2000;5800;1210;2283; ; ; ; ;1071;1071; ; ; ; ;1;2
-Mantequera_Palangre calandrio;1771;2236; ; ; ; ; ; ;91;168; ; ;2000;4900;1;2
-El Porvenir_Línea de mano fija marina;909;5000;806;3143; ; ; ; ;148;688;5000;28000;5000;10000;1;3
-Palenquito_Palangre calandrio;1176;1176; ; ; ; ; ; ;118;118; ; ; ; ;2;2
-Pesquera Aspabab_Red de enmalle fija marina;3515;8859;1796;4697; ; ; ; ; ; ; ; ; ; ;1;2
-Concepción - Tacamocho_Red de enmalle de deriva continental; ; ; ; ; ; ; ; ; ; ; ; ; ; ;2;2
-Punta Bonita_Red de cerco;1827;7576;60575;140000; ; ; ; ;8750;20200; ; ;50000;550000;11;13
-Punta Bonita_Red de enmalle de deriva marina;1287;7800;2454;11720; ; ; ; ;1112;7633; ; ; ; ;2;4
-Pizarro_Red de enmalle de deriva marina;1664;5000;1128;6087; ; ; ; ;548;1964; ; ;1,00E+05;1,00E+05;2;4
-Pizarro_Palangre o espinel de fondo;1957;7709;2893;23457; ; ; ; ;955;20363; ; ;1200000;1200000;1;6
-Playa de Arusí_Palangre o espinel de fondo;863;3291;1568;4213; ; ; ; ; ; ; ; ;8050;29550;1;3
-Marralú_Atarraya;1561;4276;706;1250; ; ; ; ;234;775; ; ; ; ;1;2
-Comercializadores independientes (Guapi)_Red de enmalle fija marina;4046;20954;2018;10250; ; ; ; ;1145;7026;20000;20000; ; ;2;2
-Vida Tranquila_Chinchorro continental;613;1156;1028;5813; ; ; ; ;133;979; ; ;5000;5000;2;3
-La Pedrera_Palangre calandrio;1894;6740;414;3227; ; ; ; ;523;1813; ; ; ; ;1;2
-La Pedrera_Red de enmalle de deriva continental;1990;6869;1444;6784; ; ; ; ;743;1807; ; ; ; ;2;3
-La Pedrera_Red de enmalle fija continental;1896;7021;928;5034; ; ; ; ;550;2700; ; ; ; ;1;3
-Puerto Boca_Línea de mano fija continental; ; ; ; ; ; ; ; ; ; ; ; ;6600;18300;1;1
-Bazurto_Atarraya;2363;3238; ; ; ; ; ; ;339;575; ; ; ; ;2;2
-El Muelle (Puerto López)_Red de enmalle fija continental;3450;7291;1380;4643; ; ; ; ;240;740; ; ;10000;20000;1;3
-El Muelle (Puerto López)_Chinchorro continental;3788;12281;2273;9091; ; ; ; ;511;1779; ; ;10000;10000;2;3
-Las Balsas_Chinchorro continental;3867;11989;2387;8210; ; ; ; ;522;1784; ; ;10000;20000;2;3
-Charambirá_Palangre o espinel de fondo;2963;5556;7200;18000; ; ; ; ; ; ; ; ; ; ;3;3
-Bocas de Seheve_Red de enmalle fija continental; ; ;506;887; ; ; ; ; ; ; ; ; ; ;1;2
-Buenavista (La Dorada)_Red de enmalle de deriva continental;1238;4608;1532;4831; ; ; ; ;152;394; ; ; ; ;2;2
-Buenavista (La Dorada)_Palangre calandrio;1136;3304;1049;2199; ; ; ; ;131;165; ; ; ; ;2;2
-Bocanegra_Chinchorro marino;3210;5000;1804;5217; ; ; ; ;173;344; ; ;3000;10000;6;11
-Bocanegra_Red de enmalle fija marina;657;4278;768;3200; ; ; ; ;57;265; ; ;3000;5000;1;2
-Pueblo Nuevo (Barrancominas)_Red de enmalle fija continental;1722;6000; ; ; ; ; ; ; ; ; ; ; ; ;1;1
-Puerto Barrio El Progreso_Atarraya;3529;4398;1764;1944; ; ; ; ;408;588; ; ;4000;5000;2;2
-Pesquera Aspabab_Palangre o espinel de fondo;1762;4973;2861;7139; ; ; ; ;565;1278; ; ; ; ;2;2
-Pueblo Nuevo (Barrancominas)_Línea de mano fija continental;2469;6000; ; ; ; ; ; ; ; ; ; ; ; ;1;1
-Palanca_Palangre calandrio; ; ;309;699; ; ; ; ;68;68; ; ; ; ;1;2
-Palanca_Red de enmalle fija continental; ; ; ; ; ; ; ; ;40;67; ; ; ; ;1;2
-Cabo de la Vela_Línea de mano fija marina; ; ; ; ; ; ; ; ; ; ; ; ; ; ;2;3
-Palanca_Chinchorro continental; ; ;3121;5283; ; ; ; ; ; ; ; ; ; ;3;3
-Puerto Barrio El Progreso_Chinchorra;2249;2759;1187;1445; ; ; ; ;283;434; ; ;5350;7650;3;3
-Palanca_Red de enmalle de deriva continental; ; ;1679;3488; ; ; ; ; ; ; ; ; ; ;1;2
-Cupica_Palangre o espinel de fondo;2059;2999;5000;6964; ; ; ; ;588;1238; ; ;5000;5000;2;2
-Cooperativas - Pueblo Nuevo_Red de enmalle de deriva marina;844;3536;1518;5008; ; ; ; ;354;1529; ; ; ; ;2;4
-Maracayo_Red de enmalle fija continental;250;558;148;207; ; ; ; ;39;69; ; ; ; ;1;1
-Cooperativas - Pueblo Nuevo_Palangre o espinel de fondo;926;3251;4729;7645; ; ; ; ;1113;2159; ; ; ; ;3;13
-Candelaria (Achí)_Chinchorro continental; ; ; ; ; ; ; ; ;924;2500; ; ; ; ;4;4
-Candelaria (Achí)_Atarraya; ; ; ; ; ; ; ; ;400;400; ; ; ; ;1;1
-Mayapo_Palangre o espinel de fondo;1348;2592;2164;3792; ; ; ; ; ; ;7000;7000; ; ;2;3
-La Chamba_Atarraya;1500;5023;3430;6256; ; ; ; ;427;1199; ; ;2250;3375;1;3
-Puerto Asure_Nasas de Peces; ; ; ; ; ; ; ; ; ; ; ; ; ; ;1;1
-Bocas de Seheve_Red de enmalle de deriva continental; ; ; ; ; ; ; ; ; ; ; ; ; ; ;2;2
-Bocas de Seheve_Atarraya; ; ;673;3214; ; ; ; ; ; ; ; ; ; ;1;2
-Bocas de Seheve_Red de enmalle de encierro continental; ; ;592;5714; ; ; ; ; ; ; ; ; ; ;2;4
-Puerto Arriba (Dibulla)_Palangre o espinel de fondo;2384;3221;3676;10808; ; ; ; ; ; ;15000;36000; ; ;2;3
-Casco urbano (Puerto Escondido)_Red de enmalle fija marina;2066;4144;675;2919; ; ; ; ;347;564; ; ; ; ;1;2
-Muelle Principal (Puerto Leguízamo)_Red de enmalle fija continental;1943;7400;1222;3394; ; ; ; ;538;1060; ; ; ; ;1;2
-Muelle Principal (Puerto Leguízamo)_Palangre calandrio;1945;3846;1094;1479; ; ; ; ;781;857; ; ; ; ;1;2
-Villanueva_Red de enmalle fija continental; ; ; ; ; ; ; ; ; ; ; ; ; ; ;1;1
-Villanueva_Red de enmalle de deriva continental; ; ; ; ; ; ; ; ; ; ; ; ; ; ;1;1
-Villanueva_Red de enmalle de encierro continental; ; ; ; ; ; ; ; ;206;434; ; ; ; ;4;4
-Pueblo Lindo o Caimanera_Red de enmalle fija continental; ; ; ; ; ; ; ; ; ; ; ; ; ; ;1;2
-Puerto de Gamarra_Red de enmalle fija continental;930;2382;1789;2580; ; ; ; ;231;1062; ; ; ; ;1;3
-Casco urbano Roma_Atarraya; ; ; ; ; ; ; ; ; ; ; ; ; ; ;1;2
-Playa de Arusí_Línea de mano correteo curricán o trolling;2693;6415;2640;18191; ; ; ; ; ; ; ; ; ; ;1;2
-San Nicolás (Nechí)_Línea de mano fija continental;3313;3619;710;3296; ; ; ; ;179;806; ; ; ; ;1;2
-San Nicolás (Nechí)_Red de enmalle fija continental;2565;10000;336;3124; ; ; ; ;100;1097; ; ; ; ;1;2
-Marralú_Red de enmalle fija continental; ; ;316;610; ; ; ; ;98;196; ; ; ; ;1;2
-San Nicolás (Nechí)_Red de enmalle de deriva continental;3546;11497;968;4848; ; ; ; ;210;865; ; ;10000;10000;1;2
-Tribugá_Arpón;10446;10446; ; ; ; ; ; ; ; ; ; ; ; ;2;4
-San Nicolás (Nechí)_Atarraya;3774;9524;1570;4409; ; ; ; ;320;1340; ; ; ; ;1;2
-San Nicolás (Nechí)_Chinchorro continental;2468;6455;2093;8261; ; ; ; ;1325;3792; ; ; ; ;2;5
-Río San Miguel_Línea de mano fija continental;1969;10318;1233;7004; ; ; ; ; ; ;4000;11500; ; ;1;3
-Mercado (Lorica)_Línea de mano fija continental;2370;2680; ; ; ; ; ; ; ; ; ; ; ; ;2;2
-Río San Miguel_Red de enmalle de deriva continental;2317;8017;4333;14700; ; ; ; ; ; ; ; ; ; ;1;2
-Buchadó_Red de enmalle fija continental;1459;4181;599;1909; ; ; ; ; ; ; ; ; ; ;1;2
-Uveros_Red de enmalle fija marina;1578;4992;2197;10858; ; ; ; ;157;976; ; ; ; ;2;3
-Puerto Abajo (Dibulla)_Palangre o espinel de fondo;1025;2364;4127;5299; ; ; ; ; ; ;20000;20000; ; ;2;3
-San Nicolás (Nechí)_Palangre calandrio; ; ;571;1422; ; ; ; ;133;248; ; ; ; ;1;2
-Bocas de Seheve_Chinchorro continental; ; ;980;6791; ; ; ; ; ; ; ; ; ; ;4;6
-Puerto Principal (Leticia)_Red de enmalle fija continental;1169;4536;695;5000; ; ; ; ;512;3154; ; ;16350;65500;1;2
-El Pájaro_Red de enmalle fija marina;594;874;1743;5476; ; ; ; ;343;384; ; ; ; ;2;3
-Belén (San Marcos)_Chinchorra;3404;4412; ; ; ; ; ; ;248;362; ; ; ; ;3;4
-San Nicolás (Santa Cruz De Mompox)_Palangre calandrio; ; ; ; ; ; ; ; ; ; ; ; ; ; ;1;2
-La Boquilla_Chinchorro marino;905;1518;6677;17947; ; ; ; ; ; ; ; ; ; ;10;15
-Puerto Boquillas_Chinchorro continental;1087;3200; ; ; ; ; ; ;135;348; ; ;2000;3000;2;3
-Barrio Santa Lucía_Red de enmalle fija marina; ; ;1884;4046; ; ; ; ;119;248; ; ; ; ;2;2
-San José_Chinchorra;2287;4209;3103;6111; ; ; ; ;550;1396; ; ;2000;2000;5;7
-Puerto Serviez_Palangre calandrio;1268;4682;683;2239; ; ; ; ;62;576;10000;20000; ; ;1;2
-Nueva Ola_Chinchorro continental; ; ;970;2734; ; ; ; ;222;1154; ; ; ; ;2;4
-Guataquí_Red de enmalle fija continental;1139;4009;438;882; ; ; ; ; ; ; ; ; ; ;2;2
-Nueva Ola_Atarraya; ; ;1091;2572; ; ; ; ;269;673; ; ; ; ;1;2
-Nueva Ola_Red de enmalle de deriva continental; ; ;677;2176; ; ; ; ;248;380; ; ; ; ;1;2
-San Miguel (Puerto Gaitán)_Atarraya;3396;7692;1892;5359; ; ; ; ;272;424; ; ; ; ;2;3
-Puerto del Cerrito_Chinchorro continental;939;2594;524;1391;13580;111860;13580;111860;108;401; ; ;1000;3000;3;6
-Ica-Copipa_Red de enmalle fija marina; ; ;1148;5208; ; ; ; ;531;644; ; ; ; ;2;2
-Cecilia_Red de enmalle fija continental;1414;2014;336;438; ; ; ; ; ; ; ; ; ; ;1;2
-Puerto Triunfo_Atarraya;1325;3000;1431;3985; ; ; ; ; ; ; ; ; ; ;2;2
-El Pedral_Red de enmalle de encierro continental; ; ;1667;1667; ; ; ; ; ; ; ; ; ; ;2;2
-Puerto Triunfo_Palangre calandrio;613;2293;840;1225; ; ; ; ;274;274; ; ; ; ;1;2
-Desembarcadero (Juradó)_Red de enmalle fija marina;5763;13762;11626;25437; ; ; ; ;2675;6418; ; ; ; ;2;3
-Bazán La Bocana_Red de enmalle fija marina;2155;2155;1559;9871; ; ; ; ;258;805; ; ; ; ;2;2
-Puerto Triunfo_Red de enmalle de deriva continental;1457;2416;1016;2106; ; ; ; ; ; ; ; ; ; ;3;3
-Vida Tranquila_Atarraya;710;1194;804;5500; ; ; ; ;132;590; ; ; ; ;1;2
-Cecilia_Atarraya; ; ;1374;1841; ; ; ; ; ; ; ; ; ; ;1;2
-Dorada_Red de enmalle de encierro continental; ; ; ; ; ; ; ; ; ; ; ; ; ; ;2;4
-Dorada_Red de enmalle fija continental; ; ; ; ; ; ; ; ; ; ; ; ; ; ;2;2
-Méjico_Línea de mano fija continental; ; ;808;1181; ; ; ; ; ; ; ; ; ; ;1;2
-Méjico_Red de enmalle fija continental; ; ;686;1256; ; ; ; ; ; ; ; ; ; ;1;2
-Clarinetero_Atarraya;5344;12000;1510;2665; ; ; ; ;1228;3136; ; ;4400;17300;1;2
-Méjico_Red de enmalle de deriva continental; ; ;2550;5239; ; ; ; ; ; ; ; ; ; ;2;2
-Nueva Ola_Línea de mano fija continental; ; ;265;689; ; ; ; ; ; ; ; ; ; ;1;2
-Dorada_Atarraya; ; ; ; ; ; ; ; ;167;263; ; ; ; ;2;2
-Puerto Amor_Palangre calandrio;1430;3734; ; ; ; ; ; ;66;172; ; ; ; ;1;2
-La Gloria_Chinchorra;2541;3540;1932;4043; ; ; ; ; ; ; ; ;3650;8900;4;4
-Miramar - Bahía Málaga_Palangre o espinel de fondo; ; ;897;1995; ; ; ; ;217;750; ; ; ; ;1;2
-Miramar - Bahía Málaga_Red de enmalle fija marina; ; ;1607;8000; ; ; ; ;455;5000; ; ; ; ;1;2
-El Porvenir_Buceo marino mixto;1265;8656;1285;8637; ; ; ; ;255;255;23000;23000; ; ;1;3
-Barrio Chino_Chinchorro continental; ; ;603;1341; ; ; ; ; ; ; ; ; ; ;3;4
-La Tranca_Red de enmalle fija continental; ; ; ; ; ; ; ; ;157;273; ; ; ; ;1;2
-San José de la Calle_Red de enmalle fija continental; ; ;754;6561; ; ; ; ; ; ; ; ; ; ;1;2
-Desembarcadero (Juradó)_Línea de mano fija marina;6465;20403;12074;36029; ; ; ; ;3934;7621;10500;80000; ; ;1;3
-Cecilia_Red de enmalle de deriva continental; ; ; ; ; ; ; ; ; ; ; ; ; ; ;2;2
-Cecilia_Palangre calandrio;1397;1999; ; ; ; ; ; ; ; ; ; ; ; ;1;2
-La Plata - Bahía Málaga_Palangre o espinel de fondo; ; ;950;1370; ; ; ; ;824;1129; ; ; ; ;1;2
-La Plata - Bahía Málaga_Red de enmalle fija marina; ; ;1000;3680; ; ; ; ;875;3562; ; ; ; ;1;2
-Bahía de Cispatá_Arpón;1713;4625; ; ; ; ; ; ;141;141; ; ;4100;5900;1;2
-Puerto de desembarco (Barrancominas)_Línea de mano fija continental;1270;2891; ; ; ; ; ; ; ; ; ; ; ; ;2;2
-Puerto Principal (Puerto Lleras)_Línea de mano fija continental;4439;5016;2669;4397; ; ; ; ; ; ; ; ; ; ;2;2
-Puerto Principal (Puerto Lleras)_Atarraya;8433;11267;6777;10125; ; ; ; ; ; ; ; ; ; ;2;2
-Puerto de las Canoas (Puerto Berrío)_Red de enmalle de deriva continental;769;2540;1367;4562; ; ; ; ;720;3068; ; ; ; ;4;5
-Puerto Chaparro_Atarraya rastra;1517;2698;4699;7307; ; ; ; ;997;2600; ; ; ; ;3;6
-Puerto de las Canoas (Puerto Berrío)_Palangre calandrio;1108;2707;1636;5232; ; ; ; ;289;1119;10000;25000; ; ;3;3
-Puerto Wilches_Chinchorra;1334;1729;2017;2565; ; ; ; ;527;709; ; ; ; ;4;4
-Puerto Wilches_Chinchorra mallona;1268;1682;2015;2430; ; ; ; ;332;654; ; ; ; ;4;4
-Puerto Chaparro_Nasas de Peces; ; ;1926;7877; ; ; ; ;675;1331;26250;48750; ; ;2;3
-Puerto Wilches_Línea de mano fija continental;1322;1611;2008;2446; ; ; ; ;331;586;30000;40000; ; ;4;4
-Puerto Chaparro_Línea de mano fija continental;1933;3195;1672;4177; ; ; ; ;294;974; ; ; ; ;1;2
-Mapiripán_Red de enmalle de deriva continental;2500;10768;3346;16528; ; ; ; ; ; ; ; ;35000;35000;2;2
-La Chamba_Línea de mano fija continental;1351;5750;1724;8145; ; ; ; ;491;1254; ; ;2460;3450;1;2
-La Chamba_Red de enmalle de deriva continental;1000;4918;3133;6962;2000;2000;2000;2000;399;946; ; ;2100;3000;1;3
-Tagachí_Red de enmalle fija continental;461;2318;1154;2101; ; ; ; ; ; ; ; ; ; ;1;2
-Cartagena del Chairá_Red de enmalle fija continental;3780;5976;805;2210; ; ; ; ;378;799;40000;40000; ; ;1;1
-San Alejandro_Red de enmalle de deriva continental;5000;5000;2827;20253; ; ; ; ; ; ; ; ; ; ;2;2
-San Alejandro_Red de enmalle fija continental;1329;1339;701;2098; ; ; ; ; ; ; ; ; ; ;2;2
-Jodedor_Red de enmalle de deriva marina;1429;1923;4291;9336; ; ; ; ; ; ; ; ; ; ;2;2
-Pomeño_Palangre o espinel de fondo; ; ;1500;2138; ; ; ; ; ; ;7550;8000; ; ;1;2
-Juanchaco_Línea de mano fija marina;4629;8416;5212;21701; ; ; ; ;232;843; ; ; ; ;2;3
-Primera Ensenada_Línea de mano fija marina;2344;4054;4707;7059; ; ; ; ;800;1226;20000;28000; ; ;2;3
-El Porvenir_Red de enmalle fija marina;1657;2554;337;687; ; ; ; ; ; ; ; ; ; ;2;3
-La Punta - Firme Cifuentes_Palangre o espinel de fondo;5250;7464;5612;16650; ; ; ; ;2196;2196; ; ; ; ;2;2
-Puerto Cabuyaro_Atarraya;2675;6050;2991;6362; ; ; ; ;256;269; ; ; ; ;2;2
-Puerto Cabuyaro_Red de enmalle fija continental;3342;5020;1650;2993; ; ; ; ;400;400; ; ; ; ;1;1
-Puerto Cabuyaro_Palangre calandrio;2248;4855;1734;4470; ; ; ; ;194;448;5000;20000;12000;12000;1;2
-Domingodó_Flecha;738;3998;1737;7089; ; ; ; ; ; ; ; ; ; ;2;4
-Domingodó_Red de enmalle fija continental;514;1914;1976;4298; ; ; ; ;857;1335; ; ; ; ;1;4
-Guazo_Chinchorro continental; ; ;1203;3318; ; ; ; ; ; ; ; ; ; ;1;6
-San Miguel (Puerto Gaitán)_Red de enmalle de deriva continental;1903;7469;1026;5308; ; ; ; ;174;626; ; ; ; ;2;2
-Mayapo_Línea de mano fija marina;1213;2264;1688;3165; ; ; ; ; ; ;6000;12550; ; ;2;4
-Limones_Red de enmalle fija marina;3548;7161;11707;25097; ; ; ; ; ; ; ; ; ; ;2;4
-Puerto de las Canoas (Puerto Berrío)_Atarraya;1163;3149;1569;7375; ; ; ; ;417;2402; ; ; ; ;2;4
-Puerto Wilches_Chinchorra nicurera;1444;1490;2196;2287; ; ; ; ;655;731; ; ; ; ;4;4
-Bocas del Atrato_Palangre o espinel de superficie; ; ; ; ; ; ; ; ; ; ;10500;13500; ; ;2;2
-Quiroga_Red de enmalle fija marina;4208;4958;12608;13295; ; ; ; ; ; ; ; ; ; ;2;4
-Virudó_Línea de mano fija marina; ; ;2790;11600; ; ; ; ; ; ; ; ; ; ;2;2
-Policía fluvial (Quibdó)_Red de enmalle fija continental;918;2621;617;2398; ; ; ; ; ; ;32000;32000; ; ;2;2
-Virudó_Atarraya; ; ;3404;9845; ; ; ; ; ; ; ; ; ; ;2;2
-Policía fluvial (Quibdó)_Línea de mano fija continental;1014;3288;649;2584; ; ; ; ; ; ;5000;11500; ; ;1;2
-Policía fluvial (Quibdó)_Red de enmalle de deriva continental;2600;7210;5760;17512; ; ; ; ; ; ; ; ; ; ;2;2
-Caño Lobo_Palangre o espinel de fondo;3996;6441; ; ; ; ; ; ;160;322; ; ;4000;4000;1;1
-Virudó_Red de enmalle de deriva marina;3384;12571;4000;9112; ; ; ; ; ; ; ; ; ; ;2;2
-Virudó_Red de enmalle fija marina;1958;7208;2000;3930; ; ; ; ; ; ; ; ; ; ;2;2
-Casco Urbano (Arauca)_Atarraya;812;6915;547;3330; ; ; ; ;251;1639; ; ;19350;35950;2;3
-Casco Urbano (Arauca)_Línea de mano fija continental;936;7467;599;3561; ; ; ; ;245;1250;8300;15000;13500;95000;1;4
-Virudó_Palangre o espinel de fondo;8333;8333;989;9600; ; ; ; ; ; ; ; ; ; ;2;2
-Casco Urbano (Arauca)_Nasas de Peces;2107;2107;1910;1910; ; ; ; ;1258;1258; ; ;40000;40000;4;4
-Casco Urbano (Arauca)_Recolección manual de mota;1332;5155;842;2311; ; ; ; ;395;1212; ; ;22000;50000;2;4
-Puerto Miraflores_Red de enmalle fija marina;1553;5812;3532;18142; ; ; ; ;663;2432; ; ; ; ;2;3
-La Ensenada_Red de enmalle de deriva marina;1743;7250;2304;11731; ; ; ; ; ; ; ; ; ; ;2;2
-Río San Miguel_Red de enmalle fija continental;2266;4886;643;3675; ; ; ; ; ; ;6450;11700; ; ;1;2
-La Ensenada_Palangre o espinel de fondo;2421;3011;6865;7148; ; ; ; ; ; ; ; ; ; ;2;3
-Berlín_Atarraya; ; ; ; ; ; ; ; ; ; ; ; ; ; ;1;2
-Puerto Miraflores_Línea de mano fija marina;2229;6111;3135;13362; ; ; ; ;879;2208; ; ; ; ;1;2
-El Muelle (Barrancabermeja)_Red de enmalle de deriva continental;2600;3552;5758;6234; ; ; ; ;1621;2113; ; ; ; ;3;3
-Orpua_Red de enmalle fija marina;865;6615;1279;13214; ; ; ; ;677;3678; ; ; ; ;2;3
-Bazán_Red de cerco artesanal o ruche;5924;11703;19984;42086; ; ; ; ;6810;9381; ; ; ; ;6;9
-Amarales_Red de enmalle de deriva marina;3212;8825;2112;8959; ; ; ; ; ; ; ; ;6500;10000;2;2
-Pesqueras - Pueblo Nuevo_Palangre o espinel de fondo;2226;3606;8810;18622; ; ; ; ;1993;3722;32000;59000;105000;287500;4;6
-Puerto Amor_Atarraya;4340;7107; ; ; ; ; ; ;170;555; ; ; ; ;1;2
-Puerto Cabuyaro_Chinchorro continental;4668;9000;5282;9158; ; ; ; ;499;1288; ; ; ; ;3;3
-Desembarcadero (Supía)_Atarraya;1094;2958; ; ; ; ; ; ; ; ; ; ;3000;8000;1;1
-Jodedor_Línea de mano fija marina;1149;2917;4569;10231; ; ; ; ;323;661;10000;20000; ; ;2;3
-Poportín_Nasas de Peces;18;152;101;593; ; ; ; ; ; ; ; ; ; ;4;6
-Punta Bonita_Chinchorro marino;988;2801;7286;52123; ; ; ; ;4576;29486; ; ; ; ;8;17
-Corozal_Red de enmalle fija marina;9332;15332;6100;8725; ; ; ; ;541;1224; ; ;3000;3000;2;2
-Orpua_Palangre o espinel de fondo; ; ;1968;1973; ; ; ; ; ; ; ; ; ; ;2;2
-Chacón_Red de enmalle fija marina;5595;15500;5880;12434; ; ; ; ;1091;3732; ; ; ; ;2;3
-Puerto Boyacá_Chinchorra;1263;1762;3634;6176; ; ; ; ; ; ; ; ; ; ;2;4
-Puerto Boyacá_Atarraya;1301;1786;3120;5752; ; ; ; ; ; ; ; ; ; ;1;4
-Arroyito_Palangre o espinel de fondo;894;1500;819;1288; ; ; ; ;164;258; ; ; ; ;2;2
-Muelle Principal (Puerto Leguízamo)_Red de enmalle de deriva continental; ; ;4027;4573; ; ; ; ; ; ; ; ; ; ;2;2
-San Nicolás (Santa Cruz De Mompox)_Chinchorro continental;1990;4264; ; ; ; ; ; ;143;387; ; ; ; ;2;5
-Puerto Bogotá_Cóngolo; ; ; ; ; ; ; ; ; ; ; ; ; ; ;1;1
-Galería (Guapi)_Red de enmalle fija marina;1460;11750;1863;23671; ; ; ; ;271;2705; ; ; ; ;2;2
-Guataquí_Nasas de Peces; ; ;741;1083; ; ; ; ; ; ;8000;18900; ; ;1;2
-Palomino_Red de enmalle fija continental;1050;1613; ; ; ; ; ; ;190;286; ; ; ; ;1;2
-Muelle Hong Kong_Línea de mano fija continental;3385;7802;2103;6681; ; ; ; ; ; ; ; ; ; ;1;2
-Puerto Asure_Red de enmalle de encierro continental;3448;3448; ; ; ; ; ; ;276;276; ; ; ; ;3;3
-El Puerto (Puerto Carreño)_Red de enmalle de deriva continental;3121;5536;3985;5287; ; ; ; ;726;878; ; ;10000;10000;2;3
-La Pedrera_Arpón;1937;6624;750;3330; ; ; ; ;504;2497; ; ; ; ;1;2
-Tagachí_Atarraya; ; ; ; ; ; ; ; ; ; ; ; ; ; ;3;8
-Puerto Los Córdobas_Red de enmalle fija marina;2411;5280;1545;5352; ; ; ; ;331;947; ; ; ; ;1;3
-Jodedor_Red de enmalle de encierro marina;2919;5000;10114;17850; ; ; ; ; ; ; ; ; ; ;4;4
-Chontal_Red de enmalle de deriva marina; ; ;4415;21459; ; ; ; ; ; ; ; ; ; ;1;3
-Santuario_Atarraya;1399;4006;1742;3205; ; ; ; ;342;492; ; ; ; ;2;3
-Timbiquí_Red de enmalle fija marina;8527;18166;5719;9138; ; ; ; ;494;1201;8000;8000;4850;14890;2;2
-Puerto Principal (Leticia)_Red de enmalle de deriva continental;1442;3859;1697;14250; ; ; ; ;401;6000; ; ;20000;20000;1;2
-Las Flores_Palangre o espinel de fondo;2788;4820;5921;12995; ; ; ; ;905;1551;10000;13500; ; ;3;7
-San Antonio de Padua_Red de enmalle fija continental;980;2850;427;2217; ; ; ; ; ; ; ; ;30000;30000;1;2
-Bocas del Atrato_Flecha;2550;4469; ; ; ; ; ; ; ; ; ; ;5735;9965;1;1
-Laguna Colorada_Palangre calandrio;991;2288; ; ; ; ; ; ; ; ; ; ; ; ;1;2
-Puerto Bogotá_Atarraya; ; ; ; ; ; ; ; ; ; ; ; ; ; ;1;1
-Barrio Chino_Atarraya; ; ; ; ; ; ; ; ; ; ; ; ; ; ;1;2
-Palanca_Atarraya; ; ;1567;1567; ; ; ; ; ; ; ; ; ; ;1;2
-Palanca_Línea de mano fija continental; ; ; ; ; ; ; ; ; ; ; ; ; ; ;1;1
-Barrio La Unión_Atarraya;851;2404;375;1790; ; ; ; ;105;186; ; ; ; ;2;3
-Mercado (Lorica)_Red de enmalle de encierro continental;2317;4059;1777;1777; ; ; ; ;201;349; ; ; ; ;2;3
-Buenavista (La Dorada)_Atarraya;1142;5100;1552;4476; ; ; ; ;159;285; ; ; ; ;2;2
-Honda_Atarraya;3210;7500;1344;2247; ; ; ; ;295;513;20000;45000;5000;12000;1;2
-Distribuidoras de Tumaco_Red de enmalle de deriva marina;1287;2918;3610;7560; ; ; ; ;314;804; ; ; ; ;2;2
-Honda_Línea de mano fija continental;3312;6677;2333;2333; ; ; ; ; ; ;24750;55000;5000;12800;1;2
-Las Balsas_Red de enmalle fija continental;3831;6542;1379;3774; ; ; ; ;202;723; ; ;10000;10000;2;3
-Puerto Miraflores_Palangre o espinel de fondo;3236;8164;5113;14828; ; ; ; ;1428;2399; ; ; ; ;2;3
-La Gloria_Nasas de Peces;2048;2497;2189;3509; ; ; ; ; ; ;33500;94500;20000;20000;3;3
-La Gloria_Red de enmalle fija continental;1411;3186;482;1386; ; ; ; ;114;369; ; ;5000;20000;1;2
-Ica-Copipa_Línea de mano fija marina;4465;9232;2773;8429; ; ; ; ; ; ; ; ; ; ;1;2
-Champaché_Red de enmalle fija marina;992;3792;574;2035; ; ; ; ;200;665; ; ; ; ;1;2
-Mercado (Lorica)_Palangre calandrio;2656;3127; ; ; ; ; ; ; ; ; ; ; ; ;2;2
-Puerto Rico [Meta]_Red de enmalle de deriva continental;4035;6211;4622;8073; ; ; ; ;457;605; ; ; ; ;2;2
-Puerto Boyacá_Palangre calandrio;1286;1786;3192;5614; ; ; ; ; ; ; ; ; ; ;1;4
-El Roto_Red de enmalle fija continental; ; ;1706;2255; ; ; ; ; ; ; ; ; ; ;1;2
-Puerto Real - Saloa_Chinchorra;897;2800;897;2504; ; ; ; ;277;526; ; ;3000;10000;2;4
-Miramar - Bahía Málaga_Línea de mano fija marina; ; ;2571;7500; ; ; ; ;556;2500; ; ; ; ;1;2
-Puerto Chaparro_Palangre calandrio;3191;3191;2780;3169; ; ; ; ;297;681; ; ; ; ;1;2
-Puerto Chaparro_Red de enmalle fija continental;1683;4105;516;3274; ; ; ; ;214;821; ; ; ; ;1;3
-Puerto Panseguita_Palangre calandrio;1428;3750;443;695; ; ; ; ;63;189; ; ;1200;2000;1;1
-Purricha_Red de enmalle de deriva marina;1118;3255;2432;7395; ; ; ; ;374;540; ; ; ; ;2;3
-Barrio Chino_Red de enmalle fija continental; ; ;411;663; ; ; ; ; ; ; ; ; ; ;1;2
-Zapata_Red de enmalle camaronera;2108;5348;2425;7252; ; ; ; ;245;1019; ; ;25000;25000;2;3
-Muelle Principal (Puerto Leguízamo)_Línea de mano fija continental;1797;2336;1017;1938; ; ; ; ;676;856; ; ; ; ;1;2
-Puerto Boca_Red de enmalle fija continental río; ; ; ; ; ; ; ; ; ; ; ; ; ; ;1;1
-Puerto Bello_Chinchorro continental;1219;1949;950;1201; ; ; ; ;183;326; ; ;3000;5000;3;4
-Marralú_Palangre calandrio; ; ;211;681; ; ; ; ;109;109; ; ; ; ;1;2
-La Mata_Nasas de Peces;1138;1502;2743;2973; ; ; ; ;45;71;30000;95000;2000;2000;1;2
-Villanueva_Chinchorro continental; ; ; ; ; ; ; ; ;143;560; ; ; ; ;3;4
-San José de la Calle_Línea de mano fija continental; ; ;973;980; ; ; ; ; ; ; ; ; ; ;1;2
-Villa Fátima_Red de enmalle de deriva marina; ; ;11064;12037; ; ; ; ; ; ; ; ; ; ;2;2
-Villa Fátima_Palangre o espinel de fondo;2593;3760;14906;17617; ; ; ; ;1193;1509; ; ; ; ;3;3
-Cangrejito_Línea de mano fija marina;957;2158; ; ; ; ; ; ; ; ;3000;4300; ; ;1;2
-Juanchaco_Red de enmalle de deriva marina;2595;5925;3059;8058; ; ; ; ;260;592; ; ; ; ;2;3
-Pueblo Nuevo (Barrancominas)_Palangre calandrio;1660;3181; ; ; ; ; ; ; ; ; ; ; ; ;1;1
-El Muelle (Barrancabermeja)_Atarraya rastra;4045;5662;7753;11610; ; ; ; ;555;1241; ; ; ; ;4;6
-Las Brisas_Palangre calandrio;2008;2182; ; ; ; ; ; ; ; ; ; ; ; ;1;1
-La Raya_Atarraya; ; ; ; ; ; ; ; ; ; ; ; ; ; ;2;2
-Muelle Las Flores_Palangre o espinel de fondo;3023;10730;5330;11133; ; ; ; ;772;1692;15000;80000; ; ;2;4
-Muelle Las Flores_Red de enmalle de deriva marina;3090;13255;6748;19899; ; ; ; ;1003;2813; ; ; ; ;2;4
-Muelle La Samaritana_Palangre o espinel de fondo;2677;10073;5604;14910; ; ; ; ;698;2777;12000;90000; ; ;2;4
-Puerto Serviez_Red de enmalle fija continental;1513;6305;737;3286; ; ; ; ;113;657; ; ; ; ;1;3
-Casco urbano Roma_Red de enmalle zangarreo; ; ; ; ; ; ; ; ; ; ; ; ; ; ;2;2
-Honda_Chinchorra;3348;6372;1352;2615; ; ; ; ;314;518;15500;38000;8200;15000;2;3
-Arrimadero La Unión_Red de enmalle fija marina;2616;7231;2845;11866; ; ; ; ;1122;3448; ; ; ; ;2;3
-Punta Bonita_Palangre o espinel de fondo;2217;15000;2540;21014; ; ; ; ;1670;14445; ; ; ; ;2;3
-Muelle La Samaritana_Red de enmalle de deriva marina;2406;12913;7511;15423; ; ; ; ;893;2174; ; ; ; ;3;4
-Doña Ana_Chinchorro continental;4000;5000;2222;4613; ; ; ; ;556;1120; ; ; ; ;3;5
-Berlín_Red de enmalle de deriva continental; ; ;4854;7954; ; ; ; ; ; ; ; ; ; ;1;2
-La Gloria_Chinchorro continental;2338;3105;3661;5908; ; ; ; ; ; ; ; ; ; ;4;4
-La Gloria_Palangre calandrio;2052;4962; ; ; ; ; ; ; ; ; ; ;2000;2000;1;1
-Tribugá_Línea de mano correteo curricán o trolling;2804;9282;6883;6883; ; ; ; ;279;382; ; ; ; ;1;2
-Puerto de Gamarra_Chinchorro continental;1225;1225;2941;2941; ; ; ; ;588;588; ; ; ; ;6;6
-Puerto Serviez_Atarraya;2077;8946;1417;5265;20000;20000;20000;20000;174;690;10000;10000; ; ;2;3
-Puerto Serviez_Red de enmalle de deriva continental;4292;6542;1583;5069; ; ; ; ;190;608; ; ; ; ;2;3
-Puerto Serviez_Chinchorra;2067;5732;1995;3688;20500;25000;20500;25000;201;517; ; ; ; ;2;4
-Casco Urbano (San Juan de Urabá)_Palangre o espinel de fondo; ; ;3894;4762; ; ; ; ;140;289; ; ; ; ;2;3
-Puerto Pozuelo - La Rinconada_Red de enmalle de encierro continental;846;1221; ; ; ; ; ; ;165;286; ; ;2000;4400;2;4
-La Tranca_Red de enmalle zangarreo; ; ; ; ; ; ; ; ;485;802; ; ; ; ;2;4
-El Puerto (Puerto Carreño)_Palangre calandrio;2315;3403; ; ; ; ; ; ;218;338; ; ;5000;5000;1;1
-La Rampa (Barrancabermeja)_Atarraya;1664;3880;2805;5451; ; ; ; ;2404;4894; ; ; ; ;2;3
-Puerto Cabuyaro_Red de enmalle de deriva continental;4482;7524;4199;5759; ; ; ; ;818;818; ; ; ; ;1;2
-Puerto de Gamarra_Atarraya;941;941;941;941; ; ; ; ;94;94; ; ; ; ;2;2
-San Miguel (Puerto Gaitán)_Palangre calandrio;2912;8874;1877;7210; ; ; ; ;276;556; ; ; ; ;2;2
-Usaragá_Red de enmalle de deriva marina;1000;6500;4235;16097; ; ; ; ;668;6455; ; ; ; ;2;2
-Playa Nueva_Palangre o espinel de fondo;1451;4103;3063;6459; ; ; ; ;218;438; ; ; ; ;2;3
-Playa Nueva_Red de enmalle de deriva marina;2211;7569;3669;10629; ; ; ; ;336;336; ; ; ; ;2;3
-Puerto Barrio El Progreso_Línea de mano fija continental;2352;3356;829;1204; ; ; ; ;133;268; ; ;3000;5000;1;2
-Bahía de Santa Marta_Buceo de peces; ; ; ; ; ; ; ; ; ; ; ; ; ; ;1;1
-Taganga_Nasas de Peces;75;243;146;535; ; ; ; ;6;19; ; ;6000;6000;3;5
-Jodedor_Red de enmalle langostera;443;793;2771;4973; ; ; ; ; ; ; ; ; ; ;2;3
-Casco Urbano (San Juan de Urabá)_Arpón;1989;7292;9663;11872; ; ; ; ;420;453; ; ; ; ;3;3
-Santuario_Red de enmalle de deriva continental;2136;4543;2498;7844; ; ; ; ;372;1082; ; ; ; ;3;3
-Charambirá_Red de enmalle fija marina; ; ;4769;24000; ; ; ; ; ; ; ; ; ; ;2;3
-Isla Fuerte_Red de enmalle de encierro marina;2023;4087;1257;2045; ; ; ; ; ; ; ; ; ; ;2;2
-La Boquilla_Palangre o espinel de superficie; ; ;613;1500; ; ; ; ; ; ;6000;15000; ; ;1;2
-Orpua_Red de enmalle de encierro marina; ; ;7843;16870; ; ; ; ; ; ; ; ; ; ;3;6
-Tagachí_Línea de mano fija continental; ; ;4000;4000; ; ; ; ; ; ; ; ; ; ;1;2
-Guacamayo_Atarraya; ; ; ; ; ; ; ; ; ; ; ; ; ; ;1;1
-Puerto de Bolombolo_Palangre calandrio; ; ;882;1003; ; ; ; ; ; ; ; ;15000;30000;1;1
-Puerto de Bolombolo_Atarraya; ; ; ; ; ; ; ; ; ; ; ; ;20000;30000;2;2
-Puerto Antequera_Chinchorro continental;2217;4326; ; ; ; ; ; ;831;1552; ; ;2000;8650;3;4
-Nueva Ola_Palangre calandrio; ; ;275;634; ; ; ; ; ; ; ; ; ; ;1;2
-Mayapo_Buceo marino mixto;1322;2217;2088;3244; ; ; ; ; ; ; ; ; ; ;2;4
-La Rampa (Barrancabermeja)_Chinchorro continental;3534;7152;3023;4501; ; ; ; ;2423;3680; ; ; ; ;2;2
-Puerto Principal (Leticia)_Palangre calandrio;1120;4941;896;2222; ; ; ; ;687;1818; ; ;12000;52000;2;2
-Puerto principal (San Vicente del Caguán)_Línea de mano fija continental;9333;10928;5161;7070; ; ; ; ;610;996; ; ; ; ;2;2
-Pueblo Nuevo (Barrancominas)_Flecha;3812;3812; ; ; ; ; ; ; ; ; ; ; ; ;1;1
-Bazán La Bocana_Red de enmalle de deriva marina;924;1788;4515;5224; ; ; ; ;512;704; ; ; ; ;2;3
-Puerto del Pescado (San José Del Guaviare)_Palangre calandrio;2930;3169;1827;1991; ; ; ; ; ; ;6050;6950; ; ;2;2
-Buchadó_Línea de mano fija continental;1442;3306;959;1752; ; ; ; ; ; ;24800;60000; ; ;1;2
-Berlín_Red de enmalle fija continental; ; ; ; ; ; ; ; ; ; ; ; ; ; ;1;2
-La Gloria_Atarraya;3981;5221; ; ; ; ; ; ;180;180; ; ;10000;35000;2;4
-Mayapo_Red de enmalle de encierro marina;1478;2204;2397;3302; ; ; ; ; ; ; ; ; ; ;3;5
-Barrio La Unión_Línea de mano fija marina;960;4315;1728;4948; ; ; ; ;214;741; ; ; ; ;2;3
-Méjico_Palangre calandrio; ; ; ; ; ; ; ; ; ; ; ; ; ; ;1;1
-Guacamayo_Red de enmalle de encierro continental;5694;8194; ; ; ; ; ; ;1167;1167; ; ; ; ;2;2
-Guacamayo_Línea de mano fija continental; ; ;974;990; ; ; ; ; ; ;4000;4000; ; ;1;2
-Puerto Arriba (Dibulla)_Chinchorro marino;1177;1661;12637;15341; ; ; ; ; ; ; ; ; ; ;18;20
-Juanchaco_Red de enmalle fija marina;5532;7278;7523;9898; ; ; ; ;553;728; ; ; ; ;3;3
-Clarinetero_Red de enmalle fija continental;2295;10800;1048;1581; ; ; ; ;1190;1562; ; ;11000;11000;1;2
-El Puerto (Puerto Carreño)_Red de enmalle fija continental;1730;5339;1252;3618; ; ; ; ;161;485; ; ;5000;5000;1;1
-La Chamba_Red de enmalle fija continental;2500;4532;4488;8187; ; ; ; ;405;648; ; ; ; ;2;3
-Plaza de mercado (La Dorada)_Línea de mano fija continental;4205;10097;2201;3273; ; ; ; ; ; ; ; ; ; ;1;3
-Lomita Arena_Chinchorro marino; ; ;6860;19197; ; ; ; ; ; ; ; ; ; ;11;15
-Paujil_Línea de mano fija continental;3018;7307;5556;5556; ; ; ; ; ; ; ; ; ; ;1;2
-Uveros_Red de enmalle camaronera;2189;5500;2138;7335; ; ; ; ;206;775; ; ; ; ;2;3
-Barrio La Unión_Red de enmalle langostera;986;1311;1304;2481;10000;10000;10000;10000; ; ; ; ; ; ;2;2
-Paujil_Palangre calandrio;1684;3878;2812;2812; ; ; ; ; ; ; ; ; ; ;1;2
-San Miguel (Puerto Gaitán)_Red de enmalle fija continental;3462;7549;1961;10660; ; ; ; ;288;412; ; ; ; ;2;2
-Punta Bonita_Red de enmalle camaronera;5611;10000;9064;29833; ; ; ; ;5186;18000; ; ; ; ;3;3
-Río San Miguel_Atarraya; ; ;5143;5143; ; ; ; ; ; ; ; ; ; ;2;2
-Playa Nueva_Red de enmalle camaronera;1927;7905;4917;13416; ; ; ; ; ; ; ; ; ; ;2;3
-Las Delicias_Buceo de langosta; ; ;1845;4056; ; ; ; ; ; ; ; ; ; ;2;4
-Bazán La Bocana_Red de enmalle camaronera;1533;6725;2876;13338; ; ; ; ;236;1370; ; ; ; ;2;2
-Bazán La Bocana_Red de arrastre artesanal o changa;4375;10238;10428;16257; ; ; ; ;503;1380; ; ; ; ;1;2
-Puerto de desembarco (Barrancominas)_Red de enmalle fija continental;1649;1909;652;652; ; ; ; ; ; ; ; ; ; ;2;2
-La Ensenada_Red de enmalle camaronera;2899;5801;4174;11301; ; ; ; ; ; ; ; ; ; ;2;2
-Betania - Naya_Red de enmalle camaronera;3045;6020;6121;12042; ; ; ; ;901;2140; ; ; ; ;2;2
-Méjico_Atarraya; ; ; ; ; ; ; ; ; ; ; ; ; ; ;1;2
-Amarales_Red de enmalle camaronera;4016;10000;2358;5389; ; ; ; ; ; ; ; ; ; ;2;2
-Curillo_Atarraya;7593;7593;4457;6853; ; ; ; ;973;973; ; ; ; ;1;2
-Vigía_Red de enmalle camaronera;2500;4167;1746;3140; ; ; ; ; ; ; ; ; ; ;2;2
-El Puerto (Tumaco)_Red de enmalle fija marina;7246;7246;2609;2609; ; ; ; ;870;870; ; ; ; ;3;3
-Nueva Ola_Red de enmalle fija continental; ; ;192;329; ; ; ; ; ; ; ; ; ; ;1;2
-Armenia_Palangre calandrio;1245;1544; ; ; ; ; ; ;197;275; ; ;2000;4000;1;2
-Muelles del Camarón_Red de arrastre artesanal o changa;4264;7329;13271;19798; ; ; ; ; ; ; ; ; ; ;2;2
-Santa Cruz - Naya_Red de enmalle camaronera;2958;5718;5095;11262; ; ; ; ;1087;1755; ; ; ; ;2;2
-Costilla_Chinchorro continental;3060;3826; ; ; ; ; ; ;110;198; ; ; ; ;2;3
-El Muelle (Barrancabermeja)_Palangre calandrio;2506;4168;1922;4000; ; ; ; ;166;858;7000;16250; ; ;2;3
-Playa Totumo_Línea de mano fija marina;1976;2244;3262;3422; ; ; ; ;688;721; ; ; ; ;2;2
-Clarinetero_Línea de mano fija continental;4863;12115;1132;1257; ; ; ; ;1251;2437; ; ; ; ;1;2
-Laguna Colorada_Flecha;3000;3000; ; ; ; ; ; ; ; ; ; ; ; ;1;1
-Cooperativas - Pueblo Nuevo_Red de enmalle camaronera;1811;4140;1553;5604; ; ; ; ;728;1794; ; ; ; ;2;2
-El Muelle (Puerto López)_Palangre calandrio;4296;5832;1907;2118; ; ; ; ;481;624;10000;10000; ; ;1;2
-Puerto Abajo (Dibulla)_Red de enmalle langostera;881;1041;2703;3720; ; ; ; ; ; ; ; ; ; ;3;3
-Campo alegre_Atarraya; ; ;2997;3329; ; ; ; ; ; ; ; ; ; ;2;2
-El Muelle (Barrancabermeja)_Chinchorro continental;1907;3053;4100;6504; ; ; ; ;983;2357; ; ; ; ;4;6
-Casco Urbano (Arauca)_Chinchorro continental;1163;1256;1225;1298; ; ; ; ;514;599; ; ; ; ;4;4
-Miramar - Bahía Málaga_Red de enmalle de deriva marina; ; ;3102;5167; ; ; ; ;700;1705; ; ; ; ;1;2
-Charambirá_Línea de mano fija marina; ; ;9300;17400; ; ; ; ; ; ; ; ; ; ;3;3
-La Gloria_Atarraya puesteo;3212;5812;7597;7597; ; ; ; ; ; ;2100;27300; ; ;1;3
-Cartagena del Chairá_Línea de mano fija continental;1730;2877;2047;2894; ; ; ; ;599;789; ; ; ; ;2;2
-Mapiripán_Chinchorro continental;4667;4667;8554;16294; ; ; ; ; ; ; ; ; ; ;2;3
-Bahía de Cispatá_Buceo de peces;3509;4922;1695;2202; ; ; ; ;200;206; ; ;6150;8850;2;3
-Casino_Red de enmalle fija marina;1459;1459;3371;3371; ; ; ; ;560;560; ; ;10000;10000;3;3
-El Porvenir_Línea de mano correteo curricán o trolling; ; ;1217;4821; ; ; ; ;340;340;15250;19750; ; ;1;2
-Villanueva_Atarraya; ; ; ; ; ; ; ; ; ; ; ; ; ; ;2;2
-Punta de blanco_Atarraya; ; ; ; ; ; ; ; ; ; ; ; ; ; ;1;1
-La Rampa (Barrancabermeja)_Palangre calandrio;2000;3392;2702;3975; ; ; ; ;1756;3488;12000;12000; ; ;2;3
-Candelaria (Chimichagua)_Atarraya;1763;3346; ; ; ; ; ; ;125;241; ; ;2000;2000;2;2
-El Pedral_Palangre calandrio; ; ;1034;1034; ; ; ; ; ; ; ; ;5000;5000;3;3
-Puerto Miraflores_Red de enmalle marina de fondo;1282;9823;2651;13155; ; ; ; ;491;2962; ; ; ; ;2;3
-Quiroga_Red de enmalle camaronera;3237;4634;5216;6986; ; ; ; ;424;465; ; ; ; ;2;2
-Puerto de desembarco (Mitú)_Nasas de Peces;2756;3720;2162;2162; ; ; ; ; ; ; ; ; ; ;1;1
-La Tagua_Línea de mano fija continental; ; ;529;1895; ; ; ; ; ; ;4500;5000; ; ;1;1
-Bocanegra_Palangre o espinel de fondo;4182;5000;2509;3705; ; ; ; ; ; ; ; ;4000;5000;2;2
-Buenavista (La Dorada)_Red de enmalle de encierro continental;4026;4490;3500;4096; ; ; ; ;336;384; ; ; ; ;5;5
-Cartagena del Chairá_Atarraya; ; ;1250;1250; ; ; ; ;625;625; ; ; ; ;1;1
-Guacamayo_Red de enmalle de deriva continental; ; ;3546;8646; ; ; ; ; ; ; ; ; ; ;2;2
-Honda_Nasas de Peces;3611;6071; ; ; ; ; ; ; ; ;31000;52500;6200;10800;1;1
-La Gloria_Línea de mano fija continental;1809;3976; ; ; ; ; ; ; ; ; ; ; ; ;1;2
-Puerto Ciénaga de Paredes_Nasas de Peces; ; ;466;637; ; ; ; ; ; ;5000;7000; ; ;1;1
-Puerto Rico [Meta]_Red de enmalle fija continental;2408;3627;2890;3467; ; ; ; ;267;355; ; ; ; ;1;2
-El Muelle (Puerto López)_Red de enmalle de deriva continental;9804;9804;7059;7059; ; ; ; ;1176;1176; ; ; ; ;3;3
-Clarinetero_Chinchorro continental;5614;5614; ; ; ; ; ; ;1474;1474; ; ; ; ;3;3
-Santuario_Palangre calandrio;2055;2055;3288;3288; ; ; ; ;274;274; ; ; ; ;2;2
-Sapzurro_Buceo de peces;3166;3755;2552;5579; ; ; ; ; ; ; ; ; ; ;1;4
-Caño Grande_Línea de mano fija continental; ; ; ; ; ; ; ; ; ; ; ; ; ; ;1;2
-Chontal_Palangre o espinel de superficie; ; ;4975;16926; ; ; ; ; ; ; ; ; ; ;2;3
-Puerto Principal (Puerto Lleras)_Red de enmalle de deriva continental;4667;4667;5200;5200; ; ; ; ; ; ; ; ; ; ;2;2
-Damaquiel_Red de enmalle camaronera;3319;3319;3253;10736; ; ; ; ;216;1239; ; ; ; ;2;3
-Costilla_Atarraya;2793;6678; ; ; ; ; ; ;71;213; ; ; ; ;1;2
-Costilla_Palangre calandrio;2217;3495; ; ; ; ; ; ;65;128; ; ; ; ;1;1
-Ica-Copipa_Buceo marino mixto;5040;10859;4148;10552; ; ; ; ; ; ; ; ; ; ;2;2
-La Tagua_Red de enmalle fija continental; ; ;448;515; ; ; ; ; ; ;5000;5000; ; ;1;2
-Casco Urbano (San Juan de Urabá)_Red de arrastre artesanal o changa;1615;4026;3454;10079; ; ; ; ;285;976; ; ; ; ;2;3
-Sapzurro_Red de enmalle de encierro marina; ; ;14545;14545; ; ; ; ; ; ; ; ; ; ;4;4
-El Llanito_Línea de mano fija continental;4167;4167;7500;7500; ; ; ; ;500;500;8000;8000; ; ;2;2
-El Pedral_Línea de mano fija continental; ; ; ; ; ; ; ; ; ; ; ; ;5000;5000;1;1
-Sivirú_Red de enmalle camaronera;3272;6038;3138;5181; ; ; ; ; ; ; ; ; ; ;2;2
-Orpua_Red de enmalle camaronera; ; ;4543;17453; ; ; ; ; ; ; ; ; ; ;2;3
-Docordó_Línea de mano fija marina;4380;8790;1564;9294; ; ; ; ; ; ; ; ; ; ;1;2
-Puerto de Bolombolo_Línea de mano fija continental; ; ; ; ; ; ; ; ; ; ;5000;5000; ; ;1;1
-Camarones_Línea de mano fija marina;1723;2444;3590;5573; ; ; ; ;446;728; ; ; ; ;2;3
-Purricha_Red de enmalle camaronera;2513;4739;5633;9704; ; ; ; ;512;873; ; ; ; ;2;2
-Pizarro_Red de enmalle camaronera;3474;4962;2754;4682; ; ; ; ; ; ; ; ; ; ;1;1
-Muelles del Camarón_Red de enmalle fija marina;3734;3734;2987;2987; ; ; ; ;324;324; ; ; ; ;2;2
-Pesquera Aspabab_Red de enmalle camaronera;3017;4877;2303;6555; ; ; ; ;593;872; ; ; ; ;2;2
-Laguna Colorada_Red de enmalle de deriva continental;1258;1317; ; ; ; ; ; ; ; ; ; ; ; ;2;2
-Puerto Rico [Meta]_Línea de mano fija continental;8223;8959; ; ; ; ; ; ; ; ; ; ; ; ;1;1
-Puerto Chucha_Palangre o espinel de fondo; ; ;966;1758; ; ; ; ; ; ; ; ; ; ;2;2
-Bahía de Cispatá_Red de arrastre artesanal o changa;2142;2900;3281;12576; ; ; ; ;144;174; ; ;8000;8000;2;2
-Puerto Chaparro_Barredera; ; ; ; ; ; ; ; ;195;195; ; ; ; ;1;1
-Loma - San Sebastián_Atarraya;1578;2875; ; ; ; ; ; ;137;434; ; ; ; ;1;2
-Casco Urbano (San Juan de Urabá)_Red de enmalle de deriva marina;1081;1635;4829;6634; ; ; ; ;478;655; ; ; ; ;2;3
-San Alejandro_Línea de mano fija continental; ; ;1102;1102; ; ; ; ; ; ; ; ; ; ;2;2
-Muelle Hong Kong_Palangre calandrio;5000;5000;4079;5965; ; ; ; ; ; ; ; ; ; ;1;2
-Concepción - Tacamocho_Atarraya; ; ; ; ; ; ; ; ;207;207; ; ; ; ;1;1
-Casco Urbano (Arauca)_Red de enmalle fija continental;1777;8644;1245;2805; ; ; ; ;288;1084; ; ; ; ;1;2
-Curillo_Red de enmalle fija continental; ; ;4799;4799; ; ; ; ;1200;1200; ; ; ; ;1;1
-Soledad Pueblito_Red de enmalle de encierro marina;1562;3196;7968;19470; ; ; ; ;469;1145; ; ; ; ;3;3
-Soledad Pueblito_Línea de mano fija marina;4523;7340;7690;12478; ; ; ; ;452;734; ; ; ; ;1;1
-Soledad Pueblito_Red de enmalle camaronera;2448;4753;8325;16161; ; ; ; ;490;951; ; ; ; ;2;2
-El Muelle (Puerto López)_Atarraya;5333;5333;4000;4000; ; ; ; ;800;800; ; ; ; ;3;3
-Damaquiel_Palangre o espinel de fondo; ; ;1910;1952; ; ; ; ;130;130; ; ; ; ;2;3
-Limones_Red de arrastre artesanal o changa;5767;5767;17301;17301; ; ; ; ;1153;1153; ; ; ; ;2;2
-Limones_Red de enmalle camaronera;3921;5995;5013;17042; ; ; ; ;391;418; ; ; ; ;2;4
-Santuario_Red de enmalle fija continental;1613;1613;968;968; ; ; ; ;129;129; ; ; ; ;2;2
-La Pedrera_Línea de mano fija continental;5261;5261;4592;4592; ; ; ; ;1913;1913; ; ; ; ;2;2
-Puerto de las Canoas (Puerto Berrío)_Atarraya rastra;4348;4348;5391;5391; ; ; ; ;522;522; ; ; ; ;6;6
-Muelles del Camarón_Red de enmalle de deriva marina;2114;5029;2492;10767; ; ; ; ;484;690; ; ; ; ;2;2
-Puerto Real - Saloa_Palangre calandrio;1299;1923; ; ; ; ; ; ;129;129; ; ;1000;1000;1;1
-Las Delicias_Línea de mano fija marina; ; ;1215;3277; ; ; ; ;271;396; ; ; ; ;2;4
-El Pájaro_Buceo marino mixto; ; ;2422;2877; ; ; ; ; ; ; ; ; ; ;4;4
-Mantequera_Chinchorro continental;2424;2424; ; ; ; ; ; ;182;182; ; ;3000;3000;3;3
-Puerto de las Canoas (Puerto Berrío)_Chinchorra mallona;974;1378;1321;2318; ; ; ; ;490;1131; ; ; ; ;5;7
-Puerto Boca_Barredera; ; ; ; ; ; ; ; ;427;427; ; ; ; ;1;1
-Mapiripán_Línea de mano fija continental; ; ;3561;5589; ; ; ; ; ; ; ; ; ; ;1;2
-Palomar_Atarraya; ; ; ; ; ; ; ; ; ; ; ; ; ; ;1;1
-Pesqueras - Pueblo Nuevo_Red de enmalle de deriva marina;2555;2555;10093;10093; ; ; ; ;2523;2523; ; ;2,00E+05;2,00E+05;3;3
-Pueblo Lindo o Caimanera_Atarraya;4194;4958; ; ; ; ; ; ;286;453; ; ; ; ;2;2
-La Pedrera_Atarraya;3171;3171;4176;4176; ; ; ; ; ; ; ; ; ; ;2;2
-Puerto Principal (Puerto Lleras)_Red de enmalle fija continental;4839;4839;3742;3742; ; ; ; ; ; ; ; ; ; ;2;2
-Yaguará_Arpón;1965;1965;1501;1501; ; ; ; ;214;214; ; ; ; ;3;3
+﻿SITIO_DE_DESEMBARCO_METODO_DE_PESCA;Cuartil_inf_ALIMENTACIONXCOMIDA_hist;Cuartil_sup_ALIMENTACIONXCOMIDA_hist;Cuartil_inf_COMBUSTIBLE_X_HORA_hist;Cuartil_sup_COMBUSTIBLE_X_HORA_hist;Cuartil_inf_ALQUILER_DE_ARTES_hist;Cuartil_sup_ALQUILER_DE_ARTES_hist;Cuartil_inf_ALQUILER_DE_EMBARCACION_hist;Cuartil_sup_ALQUILER_DE_EMBARCACION_hist;Cuartil_inf_HIELO_X_HORA_hist;Cuartil_sup_HIELO_X_HORA_hist;Cuartil_inf_CARNADA_hist;Cuartil_sup_CARNADA_hist;Cuartil_inf_OTRO_hist;Cuartil_sup_OTRO_hist;NA;NA
+Puerto Abajo (Dibulla)_Red de enmalle fija marina;905;1786;3107;5877; ; ; ; ;256;338; ; ; ; ;;
+Puerto Abajo (Dibulla)_Chinchorro camaronero;1099;1667;5889;20000; ; ; ; ; ; ; ; ; ; ;;
+Playa Pescadores - Capurganá_Línea de mano fija marina;1796;2679;2175;16876; ; ; ; ;505;945;1000;5000;5000;10000;;
+Puerto de Gamarra_Chinchorra;833;1458;2027;2500; ; ; ; ;489;1407; ; ;2000;2000;;
+Carrizal_Red de enmalle fija marina; ; ;3233;14742; ; ; ; ; ; ; ; ; ; ;;
+Puerto de Gamarra_Palangre calandrio;995;1893;1593;2744; ; ; ; ;212;1151; ; ; ; ;;
+Guineal_Palangre o espinel de fondo;1202;8818;1942;11824;20500;29500;20500;29500;281;804; ; ;3000;10000;;
+La Punta - Firme Cifuentes_Red de enmalle de deriva marina;3001;8333;4131;13333; ; ; ; ;983;3782; ; ; ; ;;
+Nueva Estrella_Red de enmalle fija continental; ; ; ; ; ; ; ; ; ; ; ; ; ; ;;
+Puerto Simití_Red de enmalle fija continental;797;1662;448;1138; ; ; ; ;158;309; ; ; ; ;;
+Los Tendales_Red de enmalle fija continental;1321;1756;221;689; ; ; ; ; ; ; ; ; ; ;;
+Puerto Simití_Atarraya;1150;2100; ; ; ; ; ; ; ; ; ; ; ; ;;
+Yaguará_Atarraya;2071;5279;802;3910; ; ; ; ;134;845; ; ; ; ;;
+Yaguará_Chinchorra;1949;3474;376;1015; ; ; ; ;135;376; ; ; ; ;;
+Yaguará_Red de enmalle fija continental;1989;7405;280;1451; ; ; ; ;130;410; ; ; ; ;;
+Sivirú_Red de enmalle fija marina;3247;7304;3036;12590; ; ; ; ; ; ; ; ; ; ;;
+Sivirú_Palangre o espinel de fondo;4275;5909;3823;4456; ; ; ; ; ; ; ; ; ; ;;
+Sivirú_Línea de mano fija marina;3000;7204;1493;4412; ; ; ; ; ; ; ; ; ; ;;
+Santa Clara_Red de enmalle fija continental; ; ; ; ; ; ; ; ;116;181; ; ; ; ;;
+El Puente_Atarraya;4308;4670; ; ; ; ; ; ; ; ; ; ;2000;3000;;
+El Puente_Red de enmalle de deriva continental;2674;6000;1602;2935; ; ; ; ;250;380; ; ;2000;2000;;
+Plaza de mercado (La Dorada)_Atarraya rastra;3894;4167;1558;1667; ; ; ; ; ; ; ; ; ; ;;
+Plaza de mercado (La Dorada)_Chinchorra;1562;4189;1661;4145; ; ; ; ;1000;1000; ; ; ; ;;
+Las Brisas_Red de enmalle fija continental;1816;2162;279;435; ; ; ; ; ; ; ; ; ; ;;
+El Puente_Atarraya rastra;3949;6364; ; ; ; ; ; ; ; ; ; ; ; ;;
+El Puente_Red de encierro rastra;2171;5420;1737;4431; ; ; ; ;272;480; ; ; ; ;;
+Guineal_Línea de mano fija marina;6000;12000;4825;11636; ; ; ; ; ; ; ; ;2000;6000;;
+El Puente_Red de enmalle fija continental; ; ;496;704; ; ; ; ;110;178; ; ;2000;2000;;
+El Valle_Palangre o espinel de fondo;2148;3076;4744;11461; ; ; ; ;887;1132;17000;33000; ; ;;
+Puerto Barrio El Progreso_Red de enmalle de deriva continental;2083;4048;1111;2062; ; ; ; ;160;471; ; ;3500;5000;;
+San Antonio de Padua_Red de enmalle de deriva continental;1120;5688;1502;6372; ; ; ; ; ; ; ; ; ; ;;
+Candelaria (Achí)_Red de enmalle fija continental; ; ; ; ; ; ; ; ; ; ; ; ; ; ;;
+El Valle_Línea de mano fija marina;2146;5848;4744;15925; ; ; ; ;873;2155;17000;18500; ; ;;
+Puerto Ciénaga de Paredes_Red de enmalle fija continental; ; ;519;722; ; ; ; ;135;228; ; ; ; ;;
+La T_Nasas de Peces; ; ;457;2693; ; ; ; ; ; ; ; ; ; ;;
+La T_Red de enmalle de encierro marina; ; ;17230;28620; ; ; ; ; ; ; ; ; ; ;;
+Popoya Playa_Red de enmalle fija marina; ; ;2138;3158; ; ; ; ; ; ; ; ; ; ;;
+La Isla de los Palacios_Red de enmalle fija continental; ; ;514;568; ; ; ; ; ; ; ; ; ; ;;
+Mayapo_Red de enmalle langostera;1033;1825;2922;4023; ; ; ; ; ; ; ; ; ; ;;
+Caño Lobo_Atarraya;3276;8000; ; ; ; ; ; ;118;328;3000;7000;4000;8000;;
+Mayapo_Red de enmalle fija marina;1437;2570;1881;2827; ; ; ; ;511;511; ; ; ; ;;
+Caño Lobo_Buceo de caracol;3371;5726; ; ; ; ; ; ;237;237; ; ;4000;4000;;
+Caño Lobo_Nasa de jaibas;4942;8000; ; ; ; ; ; ;1199;1199;7000;10000;4000;4000;;
+Mayapo_Buceo de langosta;1462;3000;2171;3800; ; ; ; ; ; ; ; ; ; ;;
+Caño Lobo_Red de enmalle fija marina;2303;3396;341;681; ; ; ; ;98;155; ; ;4000;4000;;
+Doña Ana_Red de enmalle fija continental;2941;2941;261;474; ; ; ; ;53;112; ; ; ; ;;
+Berrugas_Red de enmalle de encierro marina;2000;3139;6180;17989; ; ; ; ;870;1291; ; ; ; ;;
+Berrugas_Chinchorro marino;1643;3000;5029;17170; ; ; ; ;449;1383; ; ; ; ;;
+Berrugas_Buceo de peces;1500;3000;2470;7517; ; ; ; ; ; ; ; ; ; ;;
+Puerto Montecristo_Atarraya;2497;4615; ; ; ; ; ; ;168;365; ; ; ; ;;
+Puerto Montecristo_Red de enmalle fija continental; ; ; ; ; ; ; ; ; ; ; ; ; ; ;;
+Champaché_Línea de mano fija marina;1074;3412;614;3238; ; ; ; ;214;665;40000;1,00E+05; ; ;;
+Champaché_Atarraya;1418;3663;831;2354; ; ; ; ;313;723; ; ; ; ;;
+Taganga_Línea de mano - Ballestilla;4712;6242;5370;6890; ; ; ; ;176;939; ; ;6000;6000;;
+Taganga_Chinchorro velao;1239;2305;3244;7520; ; ; ; ;411;411; ; ;6000;6000;;
+Taganga_Red de enmalle fija marina;2948;4509;1229;7389; ; ; ; ;242;428; ; ;6000;6000;;
+Taganga_Línea de mano fija marina;3020;7829;3226;7430; ; ; ; ;161;212; ; ;6000;6000;;
+Locadía_Línea de mano fija marina;3226;5457;1046;1913; ; ; ; ;129;422;25000;25000; ; ;;
+Taganga_Ballestilla/Palangre parguera;1871;5621;2137;8617; ; ; ; ;885;2802;102500;2,00E+05;45000;1,00E+05;;
+Costilla_Red de enmalle fija continental;2452;4175; ; ; ; ; ; ;69;174;15000;15000;3000;5000;;
+Santropel - San Sebastián_Red de enmalle fija continental;1308;2737;266;583; ; ; ; ;119;311; ; ; ; ;;
+La Punta_Buceo de caracol;2253;8125;525;2046; ; ; ; ;792;792; ; ; ; ;;
+La Punta_Red de enmalle fija marina;2305;7888;693;2403; ; ; ; ;179;503; ; ; ; ;;
+Tasajera La Playa_Red de enmalle fija marina;2369;2874;1731;9930; ; ; ; ;263;1083; ; ; ; ;;
+Villa Venecia_Red de enmalle fija continental;679;1561;224;352; ; ; ; ;102;143; ; ;1200;2000;;
+Las Tenazas_Línea de mano fija marina;2132;5000;1904;3150; ; ; ; ;463;1023;5000;5000; ; ;;
+Costilla_Nasas de Peces;2330;3899; ; ; ; ; ; ;67;160;8000;20000;3100;4900;;
+Zapata_Red de enmalle fija marina;1673;4935;740;5415; ; ; ; ;265;794; ; ;2600;9000;;
+Arquimedes_Atarraya;2448;3519;1234;2995; ; ; ; ; ; ; ; ; ; ;;
+Santropel - San Sebastián_Atarraya;588;1592; ; ; ; ; ; ;98;276; ; ; ; ;;
+Orejero_Red de enmalle fija continental; ; ;154;395; ; ; ; ; ; ; ; ; ; ;;
+Arquimedes_Línea de mano fija marina;3045;4690;622;2018; ; ; ; ; ; ; ; ; ; ;;
+Robles_Red de enmalle fija continental;1390;2679;327;687; ; ; ; ;138;295; ; ;1000;7590;;
+La Punta_Palangre o espinel de fondo;2561;5673;1611;2591; ; ; ; ;207;847; ; ; ; ;;
+Robles_Red de enmalle de encierro continental;1321;3220; ; ; ; ; ; ;343;588; ; ; ; ;;
+Damaquiel_Red de enmalle fija marina;632;3217;2499;14404; ; ; ; ;244;1594; ; ;8500;25500;;
+Tasajera La Playa_Palangre o espinel de fondo;1250;3310;2145;15315; ; ; ; ;505;505;15000;40000; ; ;;
+Villa Venecia_Red de enmalle de encierro continental;2096;4000;912;912; ; ; ; ;362;568; ; ;1500;1875;;
+Bazurto_Red de enmalle fija marina;2381;4032;2425;7143; ; ; ; ;406;809; ; ; ; ;;
+Tasajera La Playa_Red de enmalle de encierro marina;2966;5093;11907;22317; ; ; ; ; ; ; ; ; ; ;;
+Berlín_Chinchorro continental; ; ;5131;8820; ; ; ; ; ; ; ; ; ; ;;
+Bazurto_Línea de mano fija marina;2380;4772;1982;8000; ; ; ; ;326;1000;5000;15000; ; ;;
+Montaño_Red de enmalle fija continental; ; ;719;1729; ; ; ; ; ; ; ; ; ; ;;
+Nueva Colonia_Red de enmalle de encierro marina;1756;2815;3206;4700; ; ; ; ;785;1028; ; ;6000;6000;;
+Villa Venecia_Atarraya;2488;5000; ; ; ; ; ; ;323;550; ; ;1600;1600;;
+Los Tendales_Atarraya; ; ; ; ; ; ; ; ; ; ; ; ; ; ;;
+Playa Necoclí_Red de enmalle fija marina;1335;4328;1941;5515; ; ; ; ;631;1817; ; ;20000;49250;;
+San Nicolás (Santa Cruz De Mompox)_Red de enmalle fija continental;3112;4713; ; ; ; ; ; ;71;191; ; ; ; ;;
+Nueva Colonia_Red de enmalle fija marina;1682;2852;2938;4643; ; ; ; ;664;991; ; ; ; ;;
+Rincón_Red de enmalle fija continental;843;1896;272;383; ; ; ; ;77;145; ; ;1200;1800;;
+Puerto del Cerrito_Red de enmalle fija continental ciénaga;1770;4380;511;1039; ; ; ; ;69;163; ; ;1000;3000;;
+Playa Necoclí_Red de enmalle camaronera;5405;5405;3625;7197; ; ; ; ;1622;1622; ; ;15000;15000;;
+Playa Blanca (Ayapel)_Red de enmalle fija continental; ; ;579;868; ; ; ; ; ; ; ; ;2000;4000;;
+Barrio Pambelé_Red de enmalle fija marina;1090;4123;1811;14119; ; ; ; ;465;944; ; ;2000;5000;;
+Playa Necoclí_Red de enmalle fija marina campaña;1550;4109;2097;5443; ; ; ; ;659;1657; ; ;20000;50000;;
+Puerto Colorado_Chinchorro continental; ; ;1945;3377; ; ; ; ; ; ; ; ; ; ;;
+Macurutú - Saloa_Red de enmalle fija continental;1365;2615;424;1538;3000;3000;3000;3000;43;163; ; ;910;2890;;
+Rincón_Red de enmalle de encierro continental;2562;4000; ; ; ; ; ; ;303;533; ; ;1230;1600;;
+Puerto (Orocué)_Red de enmalle fija continental;590;884;834;1873; ; ; ; ;253;354; ; ; ; ;;
+Playa Totumo_Red de enmalle fija marina;1238;4627;843;5679; ; ; ; ;123;915; ; ; ; ;;
+Puerto principal (San Vicente del Caguán)_Red de enmalle de deriva continental;6448;11000;6244;9583; ; ; ; ;887;1584; ; ; ; ;;
+Puerto (Orocué)_Palangre calandrio;595;776;835;1717; ; ; ; ;235;335; ; ; ; ;;
+El Muelle (Barrancabermeja)_Chinchorra;1627;4354;2580;7768; ; ; ; ;352;2888; ; ; ; ;;
+El Muelle (Barrancabermeja)_Atarraya;2095;5495;2772;10734; ; ; ; ;562;2882; ; ; ; ;;
+El Pájaro_Red de enmalle de deriva marina; ; ;1707;5966; ; ; ; ;522;522; ; ; ; ;;
+Berlín_Línea de mano fija continental; ; ;678;1359; ; ; ; ; ; ; ; ; ; ;;
+Macurutú - Saloa_Atarraya;2348;3559;849;1376; ; ; ; ;97;203; ; ; ; ;;
+Docordó_Red de enmalle de deriva marina;3206;7694;4814;13494; ; ; ; ;437;893; ; ; ; ;;
+Docordó_Palangre o espinel de fondo;3145;8366;2646;9440; ; ; ; ;625;807;10000;15000; ; ;;
+Ciénaga del Totumo_Atarraya;1536;2500;346;460; ; ; ; ; ; ; ; ; ; ;;
+Loma - San Sebastián_Red de enmalle fija continental;1323;2877;232;664; ; ; ; ;88;478; ; ; ; ;;
+Barrio Abajo (Ciénaga)_Red de enmalle fija marina;634;994;1517;3768; ; ; ; ;112;158; ; ; ; ;;
+Arroyito_Línea de mano fija marina;1128;3213;687;4453; ; ; ; ;138;428;3000;10000; ; ;;
+Cupica_Línea de mano fija marina;2321;2886;2286;5037; ; ; ; ;667;802; ; ;5000;5000;;
+Loma - San Sebastián_Red de enmalle de encierro continental;1822;3436;357;785; ; ; ; ;329;1102; ; ; ; ;;
+Plaza de mercado (La Dorada)_Palangre calandrio;4167;5000;833;1625; ; ; ; ; ; ;5000;10000; ; ;;
+Puerto Colorado_Red de enmalle fija continental; ; ;643;1069; ; ; ; ; ; ; ; ; ; ;;
+Barrio Abajo (Ciénaga)_Red de enmalle de encierro marina;2308;6000;14114;36998; ; ; ; ; ; ; ; ;20000;20000;;
+Belén (El Banco)_Red de enmalle fija continental ciénaga;1036;2500;1026;2500;9500;46500;9500;46500;256;625; ; ; ; ;;
+Puerto Colorado_Línea de mano fija continental; ; ;667;1115; ; ; ; ; ; ; ; ; ; ;;
+La Punta - Firme Cifuentes_Red de enmalle camaronera;4167;8601;5719;11250; ; ; ; ;1489;2585; ; ; ; ;;
+Caño Grande_Red de enmalle fija continental; ; ; ; ; ; ; ; ; ; ; ; ; ; ;;
+Barrio La Unión_Red de enmalle fija marina;1374;5000;928;4630; ; ; ; ;241;566; ; ; ; ;;
+Tajamar Occidental_Línea de mano cometa;2551;3500; ; ; ; ; ; ;963;1471; ; ; ; ;;
+Barrio La Unión_Aros;2268;5000;1244;3120; ; ; ; ;242;530;20000;25000; ; ;;
+Tajamar Occidental_Red de enmalle de deriva marina;2207;3542;6079;8973; ; ; ; ;1643;2451; ; ; ; ;;
+Barrio La Unión_Palangre o espinel de fondo;1321;4052;1098;4005; ; ; ; ;222;391;10000;10000; ; ;;
+Barrio Arriba - Barbosa (Magangué)_Red de enmalle de deriva continental; ; ; ; ; ; ; ; ;69;85; ; ;1000;2000;;
+Marriaga_Red de enmalle fija continental; ; ;805;1059; ; ; ; ; ; ; ; ; ; ;;
+Puerto principal (San Vicente del Caguán)_Atarraya;6823;11000;5889;9110; ; ; ; ;611;1588; ; ; ; ;;
+Sempegua_Red de enmalle fija continental;766;1982;429;1470; ; ; ; ;52;145; ; ;1500;5000;;
+Barrio Arriba - Barbosa (Magangué)_Red de enmalle fija continental; ; ; ; ; ; ; ; ; ; ; ; ;1000;2000;;
+Purricha_Palangre o espinel de fondo;487;2712;1121;4609; ; ; ; ;261;524; ; ; ; ;;
+El Ferry_Red de enmalle fija continental ciénaga;1004;1712;380;1556; ; ; ; ;108;182; ; ;2000;3000;;
+Cabo de la Vela_Red de enmalle langostera; ; ;528;1473; ; ; ; ; ; ; ; ; ; ;;
+Barrio La Unión_Línea de mano correteo curricán o trolling;1880;4127;4833;10169; ; ; ; ;318;632; ; ; ; ;;
+Villa Fátima_Red de enmalle de encierro marina; ; ;19300;26286; ; ; ; ; ; ; ; ; ; ;;
+Morrosquillo_Línea de mano fija marina;1906;4584;566;8082; ; ; ; ;160;555;3000;21600;10000;10000;;
+Mayapo_Nasas de Peces;54;141;73;207; ; ; ; ; ; ; ; ; ; ;;
+Palenquito_Red de enmalle fija continental;946;1515; ; ; ; ; ; ;114;247; ; ; ; ;;
+Camarones_Red de enmalle de deriva marina; ; ;3945;9242; ; ; ; ; ; ; ; ; ; ;;
+Sempegua_Atarraya;1878;3165;1035;2305; ; ; ; ;176;351; ; ;1825;2700;;
+El Ferry_Red de enmalle de deriva continental;2143;3923;1011;3684; ; ; ; ;117;333; ; ;1550;3000;;
+Berlín_Palangre calandrio; ; ;1080;1308; ; ; ; ; ; ; ; ; ; ;;
+Puerto Bello_Red de enmalle fija continental;990;1990;583;1046; ; ; ; ;113;188; ; ;2000;3000;;
+Sempegua_Chinchorra;1190;3012;932;2564;10000;15000;10000;15000;164;941; ; ;2000;5000;;
+Morrosquillo_Atarraya;2000;3000; ; ; ; ; ; ;161;329; ; ; ; ;;
+Puerto El Waffe marino_Red de enmalle fija marina;4172;4446;3727;4175; ; ; ; ;1421;1549; ; ; ; ;;
+Morrosquillo_Línea de mano correteo curricán o trolling;1500;3500;1609;3210; ; ; ; ;166;414;3000;8600; ; ;;
+Puerto del Pescado (San José Del Guaviare)_Red de enmalle de deriva continental;2000;2000;4741;15162; ; ; ; ; ; ; ; ;5000;5000;;
+Caño Grande_Atarraya;1068;2725; ; ; ; ; ; ;407;717; ; ; ; ;;
+Sempegua_Chinchorro continental;952;1863;1783;4374;15000;30000;15000;30000;400;1938; ; ;5000;12000;;
+Puerto Asure_Red de enmalle fija continental;1741;3406;242;242; ; ; ; ;99;235; ; ;2000;2000;;
+Puente Chambacú - Río Jella_Línea de mano correteo curricán o trolling;7035;17621;11609;42482; ; ; ; ;1241;3430; ; ;5000;11500;;
+El Pedral_Atarraya;3098;5119;1279;1554; ; ; ; ;89;210; ; ;5000;5000;;
+El Pedral_Red de enmalle de deriva continental;2381;5000;1000;2215; ; ; ; ;80;287; ; ;5000;5000;;
+Puente Chambacú - Río Jella_Línea de mano fija marina;3252;14286;3768;16824; ; ; ; ;625;1818; ; ;5000;15000;;
+Puerto Asure_Palangre calandrio;1761;2631;277;353; ; ; ; ;82;184; ; ; ; ;;
+El Pedral_Red de enmalle fija continental;2441;4114;332;370; ; ; ; ;91;91; ; ;5000;10000;;
+Puerto Asure_Atarraya;2040;5000; ; ; ; ; ; ;143;507; ; ; ; ;;
+Puerto La Candelaria_Red de enmalle fija continental;1129;2647;365;999;7000;7000;7000;7000;140;333; ; ;2000;4375;;
+Milagros de la Mar_Red de enmalle fija marina;3101;6897;900;2980; ; ; ; ;441;1000; ; ; ; ;;
+El Ferry_Chinchorra;1456;3500;952;2776; ; ; ; ;133;353; ; ;2000;4000;;
+El Ferry_Red de enmalle fija continental río;1093;2941;333;1716; ; ; ; ;94;297; ; ;1545;3000;;
+Concepción - Tacamocho_Chinchorra;500;1478; ; ; ; ; ; ;195;646; ; ;2000;6000;;
+Concepción - Tacamocho_Red de enmalle fija continental; ; ; ; ; ; ; ; ; ; ; ; ; ; ;;
+Desembarcadero (Murindó)_Red de enmalle fija continental;3000;6000;3899;5691; ; ; ; ; ; ; ; ; ; ;;
+Concepción - Tacamocho_Palangre calandrio; ; ; ; ; ; ; ; ; ; ; ; ; ; ;;
+Puerto La Candelaria_Chinchorro continental;1007;2036;1290;6490; ; ; ; ;279;818; ; ;2100;3000;;
+La Mata_Red de enmalle fija continental;1073;1478;904;1194; ; ; ; ;43;70; ; ;1000;2200;;
+La Mata_Chinchorra;1203;1809;1193;1406; ; ; ; ;107;333; ; ;2000;4000;;
+Cabo Marzo_Línea de mano fija marina;2033;5137;3037;10466; ; ; ; ;644;1451; ; ;50000;580400;;
+Belén (El Banco)_Chinchorro continental;1111;1481;1667;2222;3500;51500;3500;51500;417;556; ; ; ; ;;
+Puerto Arriba (Dibulla)_Red de enmalle fija marina;1033;2039;2228;6440; ; ; ; ;202;686; ; ; ; ;;
+Puerto Chucha_Red de enmalle fija marina;1035;3666;958;1679; ; ; ; ;110;342; ; ;4000;7000;;
+Puerto Arriba (Dibulla)_Red de enmalle de encierro marina;1779;4500;12903;24054; ; ; ; ; ; ; ; ; ; ;;
+Puerto Chucha_Red de enmalle de encierro marina;2469;5510;992;8493; ; ; ; ;204;550; ; ;3100;7900;;
+Puerto Chucha_Red de enmalle de deriva marina;2410;3276;5039;7295; ; ; ; ;201;334; ; ;5000;10000;;
+Puerto Chucha_Red de enmalle fija continental;3599;6131;643;979; ; ; ; ;157;301; ; ;3400;6600;;
+Puerto Arriba (Dibulla)_Red de enmalle langostera;848;1383;1908;5355; ; ; ; ;148;190; ; ; ; ;;
+Puerto Chucha_Atarraya;2565;6162;787;1366; ; ; ; ;207;361; ; ;4300;5000;;
+La Boquilla_Atarraya;2000;3000; ; ; ; ; ; ;186;406; ; ;4000;6000;;
+La Boquilla_Red de enmalle fija marina;919;1693;758;3590; ; ; ; ;164;355; ; ; ; ;;
+San José_Atarraya; ; ; ; ; ; ; ; ;458;593; ; ;2000;2000;;
+San José_Nasas de Peces; ; ;1165;2727; ; ; ; ; ; ;22000;45000; ; ;;
+El Roto_Red de enmalle fija marina; ; ;1959;4359; ; ; ; ; ; ; ; ; ; ;;
+El Roto_Palangre o espinel de fondo; ; ;1616;3266; ; ; ; ; ; ; ; ; ; ;;
+San José_Red de enmalle fija continental; ; ; ; ; ; ; ; ;68;113; ; ; ; ;;
+Tribugá_Línea de mano fija marina;2280;7500;2275;7950; ; ; ; ;259;1016;5250;9750; ; ;;
+La Playa (El Banco)_Red de enmalle de deriva continental;2251;3215;1507;2113;6100;41460;6100;41460;152;216; ; ;2000;3000;;
+Berrugas_Línea de mano fija marina;1502;2829;4267;6735; ; ; ; ;136;377;3000;10000;1050;1950;;
+La Tagua_Palangre calandrio; ; ;460;949; ; ; ; ; ; ;5000;5000;8500;8500;;
+Dotenedó_Palangre o espinel de fondo; ; ;3646;18319; ; ; ; ; ; ; ; ; ; ;;
+Dotenedó_Línea de mano fija marina; ; ;2618;7677; ; ; ; ; ; ; ; ; ; ;;
+Dotenedó_Red de enmalle fija marina; ; ;3333;19166; ; ; ; ; ; ; ; ; ; ;;
+Cabo Marzo_Palangre o espinel de fondo;3909;6758;4373;9114; ; ; ; ;597;1254; ; ;272000;1800000;;
+Dotenedó_Red de enmalle camaronera; ; ;3441;9925; ; ; ; ; ; ; ; ; ; ;;
+Playa de Arusí_Línea de mano fija marina;2633;9000;2747;12780; ; ; ; ; ; ; ; ;6000;6000;;
+Puerto Franco_Red de enmalle fija continental; ; ;335;588; ; ; ; ;44;102; ; ; ; ;;
+Bazán_Red de enmalle fija marina;5000;13079;5500;6667; ; ; ; ;1000;2000; ; ; ; ;;
+Bazán_Palangre o espinel de fondo;2952;9162;5690;11571; ; ; ; ;2057;3818;50000;50000;50000;50000;;
+La Playa (El Banco)_Chinchorra;2099;2368;1553;1875;11720;44260;11720;44260;140;158; ; ;2000;3000;;
+Playa Totumo_Red de enmalle camaronera;1663;7747;2500;5982; ; ; ; ;256;931; ; ; ; ;;
+Isla Fuerte_Red de enmalle fija marina;1383;2055;733;3642; ; ; ; ; ; ; ; ; ; ;;
+Codis_Línea de mano fija marina;1485;4752;1168;2703; ; ; ; ;294;588;19500;30500; ; ;;
+Codis_Atarraya;1638;2559;746;827; ; ; ; ;223;263; ; ; ; ;;
+Santa Clara_Palangre calandrio; ; ; ; ; ; ; ; ;94;153;3750;7750; ; ;;
+Puerto Real - Saloa_Red de enmalle fija continental;1210;2477;739;2865; ; ; ; ;155;333; ; ;1000;2000;;
+Isla Fuerte_Línea de mano correteo curricán o trolling;2246;5669;3442;18097; ; ; ; ;573;1146; ; ;3000;9450;;
+Puerto Rico [Meta]_Palangre calandrio;2281;3803;3000;4453; ; ; ; ;250;449; ; ;8900;31450;;
+Codis_Red de enmalle fija marina;1471;3395;654;2375; ; ; ; ;200;437; ; ; ; ;;
+La Punta_Buceo marino mixto;2400;7516;949;3092; ; ; ; ;206;628; ; ; ; ;;
+Puerto Pozuelo - La Rinconada_Red de enmalle fija continental;825;1482; ; ; ; ; ; ;79;181; ; ;1000;3000;;
+Mulatos_Red de enmalle fija marina;2046;4496;1815;8695; ; ; ; ;759;1736; ; ; ; ;;
+Santa Clara_Atarraya; ; ; ; ; ; ; ; ;348;648; ; ; ; ;;
+Playa Totumo_Palangre o espinel de fondo;1325;5917;2321;11467; ; ; ; ;387;2063; ; ; ; ;;
+Bahía de Cispatá_Red de enmalle de encierro marina;1932;3735;765;7113; ; ; ; ;211;365; ; ;4000;6000;;
+Puerto Abajo (Dibulla)_Nasas de Peces;70;191;236;719; ; ; ; ; ; ; ; ; ; ;;
+Tagachí_Red de enmalle de deriva continental;1734;7778;2667;8125; ; ; ; ; ; ; ; ; ; ;;
+Casco urbano Roma_Red de enmalle fija continental; ; ; ; ; ; ; ; ; ; ; ; ; ; ;;
+Bahía de Cispatá_Red de enmalle fija marina;1094;2037;204;1112; ; ; ; ;125;385; ; ;2000;6000;;
+Puerto La Candelaria_Atarraya rastra; ; ; ; ; ; ; ; ; ; ; ; ; ; ;;
+Puerto La Candelaria_Red de enmalle de deriva continental; ; ;4133;8701; ; ; ; ; ; ; ; ; ; ;;
+Agropez_Red de enmalle fija marina;2857;5556;1765;3125; ; ; ; ;571;1070; ; ; ; ;;
+Agropez_Línea de mano fija marina;2884;3333;1913;3279; ; ; ; ;571;667;25000;25000; ; ;;
+Agropez_Atarraya;4767;6250;2500;3750; ; ; ; ;952;1250; ; ; ; ;;
+Bahía de Cispatá_Nasa de jaibas;2676;3260; ; ; ; ; ; ; ; ;3000;3650;2000;3650;;
+Bahía de Cispatá_Atarraya;1911;3444;1242;1242; ; ; ; ;144;271; ; ;2000;4000;;
+Bahía de Cispatá_Línea de mano fija marina;1667;2857;511;3286; ; ; ; ;91;294;8500;14000;2000;4000;;
+Rincón_Atarraya;2929;6000; ; ; ; ; ; ;312;570; ; ;1210;1390;;
+Milagros de la Mar_Palangre o espinel de fondo;1708;4674;2867;6111; ; ; ; ;636;1320; ; ; ; ;;
+La Playa (El Banco)_Nasas de Peces; ; ;1805;2628; ; ; ; ; ; ;50000;60000;5000;6000;;
+La Playa (El Banco)_Chinchorro continental;993;1703;2029;3825;14910;86760;14910;86760;404;782; ; ;5000;7000;;
+Puerto Colorado_Red de enmalle de deriva continental; ; ;2176;2763; ; ; ; ; ; ; ; ; ; ;;
+Santa Clara_Red de enmalle de deriva continental; ; ; ; ; ; ; ; ;430;600; ; ; ; ;;
+Milagros de la Mar_Red de enmalle de deriva marina;4000;15000;5000;12727; ; ; ; ;1143;3750; ; ; ; ;;
+La Peinada_Red de enmalle fija continental;1086;1690; ; ; ; ; ; ;86;114; ; ;2000;3000;;
+Candelaria (Chimichagua)_Red de enmalle fija continental;1645;2036;472;1899; ; ; ; ;92;192; ; ;1000;2000;;
+Bahía de Cispatá_Chinchorro marino;1304;2314;3452;7271; ; ; ; ;153;300; ; ;20000;20000;;
+Poportín_Red de enmalle fija marina;1000;1105;1633;2609; ; ; ; ;240;265; ; ; ; ;;
+Candelaria (Chimichagua)_Chinchorra;1339;3872;717;3134; ; ; ; ;115;355; ; ;2000;6000;;
+Marralú_Chinchorro continental;785;3000;1250;3841; ; ; ; ;264;774; ; ; ; ;;
+Las Delicias_Red de enmalle fija marina; ; ;885;2404; ; ; ; ;178;369; ; ;2000;8250;;
+La Peinada_Atarraya;2639;5068; ; ; ; ; ; ;132;348; ; ;2000;2000;;
+Lomita Arena_Red de enmalle fija marina;855;855;1370;2867; ; ; ; ;855;855; ; ; ; ;;
+Puerto Amor_Red de enmalle fija continental;1711;4412;463;964;4000;4000;4000;4000;56;256; ; ; ; ;;
+Lomita Arena_Palangre o espinel de superficie; ; ;1325;2291; ; ; ; ; ; ; ; ; ; ;;
+Laguna Colorada_Línea de mano fija continental;2683;3972; ; ; ; ; ; ; ; ; ; ; ; ;;
+Marralú_Red de enmalle de deriva continental; ; ;924;1232; ; ; ; ; ; ; ; ; ; ;;
+Guataquí_Atarraya;1357;5190;949;4600; ; ; ; ; ; ; ; ; ; ;;
+Laguna Colorada_Red de enmalle fija continental;1117;3000; ; ; ; ; ; ; ; ; ; ; ; ;;
+Chamuscado - Naya_Red de enmalle de deriva marina;1776;5587;3394;11188; ; ; ; ;825;2595; ; ; ; ;;
+Chamuscado - Naya_Red de enmalle fija marina;1329;3720;2719;7468; ; ; ; ;359;1119; ; ; ; ;;
+Plaza de mercado (La Dorada)_Atarraya;3958;8062;1542;3575; ; ; ; ; ; ; ; ; ; ;;
+Puente Chambacú - Río Jella_Palangre o espinel de fondo;2167;7491;2767;8737; ; ; ; ;456;1737; ; ;3,00E+05;1391000;;
+Jurubirá_Palangre o espinel de fondo;1724;8224;4365;16253; ; ; ; ; ; ; ; ; ; ;;
+La Raya_Red de enmalle de deriva continental; ; ; ; ; ; ; ; ; ; ; ; ; ; ;;
+Plaza de mercado (La Dorada)_Red de enmalle de deriva continental;3571;7143;1619;5321; ; ; ; ; ; ; ; ; ; ;;
+Jurubirá_Línea de mano fija marina;3001;15000;5167;28517; ; ; ; ; ; ; ; ; ; ;;
+Cangrejito_Red de enmalle fija marina;682;2222;1144;5100; ; ; ; ;165;573; ; ; ; ;;
+Puerto Franco_Atarraya; ; ; ; ; ; ; ; ;73;144; ; ; ; ;;
+Puerto Barrio El Progreso_Red de enmalle de deriva continental mallona;2004;2870;1231;1760; ; ; ; ;154;318; ; ;4000;6000;;
+Cangrejito_Palangre o espinel de fondo;837;1886;2690;5799; ; ; ; ;138;767;5000;45100; ; ;;
+Puerto Barrio El Progreso_Red de enmalle fija continental;2035;4143;1027;1333; ; ; ; ;205;400; ; ;4000;6000;;
+Santa Rosa_Red de enmalle de deriva marina;1885;1885;2000;3318; ; ; ; ; ; ; ; ;3000;3000;;
+Guataquí_Palangre calandrio;827;5965;390;3545; ; ; ; ; ; ; ; ; ; ;;
+Puerto Barrio El Progreso_Atarraya rastra;3553;4195;2105;2447; ; ; ; ;369;500; ; ;5000;6600;;
+Puerto (Arauquita)_Atarraya;2383;7000;2550;10012; ; ; ; ;523;1837; ; ;7300;13000;;
+Santa Rosa_Buceo marino mixto; ; ;2000;4836; ; ; ; ; ; ; ; ;3000;3000;;
+Cabo de la Vela_Nasas de Peces; ; ;72;495; ; ; ; ; ; ; ; ; ; ;;
+Puerto principal (San Vicente del Caguán)_Palangre calandrio;7872;26197;5480;6353; ; ; ; ;640;1806; ; ; ; ;;
+Las Delicias_Red de enmalle de encierro marina; ; ;3001;26648; ; ; ; ; ; ; ; ;10000;17500;;
+Taganga_Buceo de peces;2787;3796;6728;9110; ; ; ; ;305;390; ; ;6000;6000;;
+Punta Ardita_Línea de mano fija marina; ; ;2231;9477; ; ; ; ;1283;2872; ; ; ; ;;
+Mercado (Lorica)_Atarraya;1155;5337; ; ; ; ; ; ;185;626;10000;25000; ; ;;
+Lamas_Atarraya;1489;3846;735;735; ; ; ; ;142;480; ; ; ; ;;
+Lamas_Red de enmalle de encierro continental;1802;4204;459;667;5000;22500;5000;22500;207;694; ; ;1300;4400;;
+Mercado (Lorica)_Red de enmalle fija continental;1439;3040;232;1588; ; ; ; ;58;159; ; ; ; ;;
+La Charca de Guarinocito_Chinchorra;2730;11667;1832;7625; ; ; ; ; ; ; ; ; ; ;;
+Puerto La Candelaria_Atarraya;1037;3351;611;3529; ; ; ; ;189;952; ; ;2000;5500;;
+La Casa del Pescador_Red de enmalle de deriva marina;4167;8018;4869;10121; ; ; ; ;323;710; ; ; ; ;;
+Casino_Línea de mano fija marina;1270;3780;1038;4482; ; ; ; ;134;1003;3450;120000;30000;58000;;
+La Charca de Guarinocito_Atarraya chile;15000;15000; ; ; ; ; ; ; ; ; ; ; ; ;;
+Bahía de Cispatá_Palangre o espinel de fondo;2018;3137;409;1843; ; ; ; ; ; ;3000;4000;2000;4000;;
+Doña Ana_Palangre calandrio;2142;3329;177;616; ; ; ; ;52;154; ; ; ; ;;
+Lamas_Red de enmalle fija continental;861;2132;215;286; ; ; ; ;71;211; ; ;1000;2450;;
+Isla Fuerte_Línea de mano fija marina;1951;4878;5074;18138; ; ; ; ;603;1246;20000;20000;3000;10000;;
+Providencia o Caimancito_Red de enmalle fija continental; ; ; ; ; ; ; ; ; ; ; ; ; ; ;;
+La Charca de Guarinocito_Atarraya;4656;15052;1705;2157; ; ; ; ; ; ; ; ; ; ;;
+Casco Urbano (San Juan de Urabá)_Red de enmalle fija marina;852;2645;2500;7687; ; ; ; ;188;696; ; ; ; ;;
+Bahía de Santa Marta_Línea de mano fija marina;840;2054;815;4442; ; ; ; ;135;507; ; ; ; ;;
+Armenia_Red de enmalle fija continental;1131;1756;402;1871; ; ; ; ;163;286; ; ;2000;4000;;
+Bahía de Santa Marta_Línea de mano correteo curricán o trolling; ; ;3680;16318; ; ; ; ; ; ; ; ; ; ;;
+Betania (Montecristo)_Red de enmalle fija continental; ; ;1050;1143; ; ; ; ; ; ; ; ; ; ;;
+Palomino_Chinchorro continental;1425;2532; ; ; ; ; ; ;410;604; ; ; ; ;;
+Guataquí_Línea de mano fija continental;1330;1330; ; ; ; ; ; ; ; ; ; ; ; ;;
+Usaragá_Palangre o espinel de fondo;1500;4854;1873;8598;10100;11900;10100;11900;382;2239; ; ; ; ;;
+Usaragá_Línea de mano fija marina;1993;6814;1917;7944; ; ; ; ;403;1910;3000;3000; ; ;;
+Punta de blanco_Red de enmalle fija continental;1772;1772;286;471; ; ; ; ;57;124; ; ; ; ;;
+Punta de blanco_Palangre calandrio; ; ; ; ; ; ; ; ;101;122; ; ; ; ;;
+Casino_Palangre o espinel de fondo;1059;3015;1010;3229; ; ; ; ;120;640;10000;1,00E+05;20000;20000;;
+Miel de Abeja_Palangre o espinel de fondo;1103;8900;3913;16588; ; ; ; ; ; ; ; ;25000;30000;;
+Bocanegra_Red de enmalle de encierro marina;2701;4808; ; ; ; ; ; ;189;378; ; ;4000;6000;;
+Bocanegra_Atarraya;3443;4614; ; ; ; ; ; ;125;252; ; ;4000;4000;;
+Aparca_Red de enmalle fija continental;2607;5501;3035;7378; ; ; ; ;416;1272; ; ;20000;43750;;
+Aparca_Atarraya;2914;5841;1662;5212;15250;19750;15250;19750;312;696; ; ;20000;35000;;
+Bahía de Santa Marta_Red de enmalle fija marina; ; ;638;999; ; ; ; ; ; ; ; ; ; ;;
+Aparca_Arpón;1923;4592;2425;4776; ; ; ; ;375;838; ; ;20000;33500;;
+El Puerto (Puerto Carreño)_Línea de mano fija continental;1804;6213;1510;3212; ; ; ; ;477;1258;20000;36500; ; ;;
+Purricha_Red de enmalle fija marina;468;3592;1241;8478; ; ; ; ; ; ; ; ; ; ;;
+Arroyito_Atarraya;1000;3000;733;1474; ; ; ; ;206;392; ; ; ; ;;
+Guacamayo_Red de enmalle fija continental; ; ;636;636; ; ; ; ;231;346; ; ; ; ;;
+Barrio La Unión_Red de enmalle de encierro marina;2785;4826;1996;6700; ; ; ; ; ; ; ; ; ; ;;
+Nueva Colonia_Flecha;1715;3996;3196;5577; ; ; ; ;686;1401; ; ;6000;10000;;
+Dotenedó_Recolección manual de piangua; ; ;2162;2162; ; ; ; ; ; ; ; ; ; ;;
+Barrio Chino_Red de enmalle de deriva continental; ; ;1111;2090; ; ; ; ; ; ; ; ; ; ;;
+Barrio Chino_Línea de mano fija continental; ; ;402;475; ; ; ; ; ; ; ; ; ; ;;
+Nueva Colonia_Red de enmalle fija continental;1645;2591;2632;4107; ; ; ; ;652;922; ; ; ; ;;
+Guacamayo_Chinchorro continental;2500;7340;1694;3857; ; ; ; ;406;1232; ; ; ; ;;
+Puerto Boquillas_Red de enmalle fija continental;1184;2626; ; ; ; ; ; ;83;162; ; ;1000;2325;;
+Puerto Amor_Chinchorra;1460;8500;651;3332;15000;25000;15000;25000;204;854; ; ; ; ;;
+Bocanegra_Red de enmalle fija continental; ; ;625;625; ; ; ; ;75;75; ; ;3000;3000;;
+Sapzurro_Línea de mano fija marina;4377;7670;3990;17851; ; ; ; ;1052;1703; ; ; ; ;;
+Pomeño_Red de enmalle fija marina;850;1556;2034;6314; ; ; ; ;310;670; ; ; ; ;;
+Curvaradó_Red de enmalle fija continental; ; ;797;1023; ; ; ; ; ; ; ; ; ; ;;
+Sapzurro_Red de enmalle fija marina; ; ;931;1660; ; ; ; ; ; ; ; ; ; ;;
+Puerto de las Canoas (Puerto Berrío)_Chinchorra;778;2567;1279;6113; ; ; ; ;402;1734; ; ; ; ;;
+Jodedor_Red de enmalle fija marina; ; ;2998;14749; ; ; ; ; ; ; ; ; ; ;;
+El Malecón (Neiva)_Atarraya;1290;4091;563;1739; ; ; ; ;58;364; ; ;30000;45000;;
+Caño Lobo_Recolección manual de ostra;4000;7000; ; ; ; ; ; ; ; ; ; ;4000;4000;;
+Manaure Centro_Red de enmalle de encierro marina;1406;1916;16068;31045; ; ; ; ; ; ; ; ; ; ;;
+Puerto Maco/Puerto Momico_Palangre calandrio;3467;4483;531;596; ; ; ; ;265;298;4000;4000;4000;4000;;
+Puerto Maco/Puerto Momico_Red de enmalle fija continental;5308;7126;857;1022; ; ; ; ;429;511; ; ; ; ;;
+Puerto Maco/Puerto Momico_Atarraya;3272;3939;1081;1224; ; ; ; ;589;673; ; ;12000;12000;;
+Curillo_Palangre calandrio; ; ;1462;3858; ; ; ; ;1188;1188;25900;40000; ; ;;
+Sicará_Red de enmalle fija continental;2300;3634; ; ; ; ; ; ;109;314; ; ;2000;3000;;
+Curillo_Línea de mano fija continental; ; ;1304;3857; ; ; ; ;1011;1011;12000;30000; ; ;;
+Puerto del Pescado (San José Del Guaviare)_Red de enmalle fija continental; ; ;1300;1688; ; ; ; ; ; ; ; ; ; ;;
+La Raya_Palangre calandrio; ; ; ; ; ; ; ; ; ; ; ; ; ; ;;
+La Raya_Red de enmalle fija continental; ; ; ; ; ; ; ; ; ; ; ; ; ; ;;
+Bocas del Atrato_Red de enmalle fija marina; ; ;773;1005; ; ; ; ; ; ; ; ; ; ;;
+Belén (San Marcos)_Red de enmalle fija continental;1709;2046; ; ; ; ; ; ;47;160; ; ; ; ;;
+Caño Lobo_Buceo de peces;3576;5009; ; ; ; ; ; ;156;243; ; ;4000;4000;;
+Las Flores_Red de enmalle de deriva marina;2297;3989;10297;16628; ; ; ; ;1089;1852; ; ; ; ;;
+Juanchaco_Línea de mano correteo curricán o trolling;5899;7601;6686;10196; ; ; ; ;737;776; ; ; ; ;;
+Caño Lobo_Línea de mano fija marina;3312;5223; ; ; ; ; ; ;162;256;3000;3000;4000;4000;;
+Caño Lobo_Red de enmalle de encierro marina;3403;5131; ; ; ; ; ; ;184;288; ; ;7400;8000;;
+Providencia o Caimancito_Atarraya;3796;5179; ; ; ; ; ; ;148;228; ; ; ; ;;
+El Llanito_Red de enmalle de deriva continental;2384;4744;2845;6549;2000;2000;2000;2000;201;471;6000;6000; ; ;;
+Las Flores_Red de enmalle fija marina;2370;4490;4985;17731; ; ; ; ;984;1910; ; ; ; ;;
+Campo alegre_Red de enmalle fija continental;988;1675;372;1263;3000;3000;3000;3000;94;267; ; ; ; ;;
+Vigía de Curvaradó_Red de enmalle fija continental;1839;2439;1445;6375; ; ; ; ;539;4179; ; ;30000;30000;;
+El Llanito_Atarraya;2083;4545;1285;6372; ; ; ; ;233;600;5000;6000; ; ;;
+El Llanito_Palangre calandrio;1319;3252;1147;3333; ; ; ; ;113;280;6000;8000; ; ;;
+Palomar_Red de enmalle fija continental; ; ;258;516; ; ; ; ; ; ; ; ; ; ;;
+Barrio Abajo (Ciénaga)_Red de arrastre artesanal o changa;2522;4000;6004;12643; ; ; ; ;252;522; ; ; ; ;;
+Palomar_Palangre calandrio; ; ;367;609; ; ; ; ; ; ; ; ; ; ;;
+Palomar_Línea de mano fija continental; ; ;367;663; ; ; ; ; ; ; ; ; ; ;;
+Las Flores_Línea de mano fija marina;3160;9333; ; ; ; ; ; ;185;511; ; ; ; ;;
+Pomeño_Red de enmalle de deriva marina;1109;3585;3602;15442; ; ; ; ;361;1357; ; ; ; ;;
+Palomar_Red de enmalle de deriva continental; ; ;1443;3667; ; ; ; ; ; ; ; ; ; ;;
+Muelle Hong Kong_Atarraya;2500;6000;2753;8177; ; ; ; ; ; ; ; ; ; ;;
+Muelle Hong Kong_Red de enmalle fija continental;2500;8000;2677;8479; ; ; ; ;650;4009; ; ;30000;30000;;
+Camarones_Red de enmalle de encierro marina;1139;5180;8475;16442; ; ; ; ;708;708; ; ; ; ;;
+Camarones_Nasas de Peces; ; ;215;864; ; ; ; ; ; ; ; ; ; ;;
+Ciénaga de Mesolandia_Red de enmalle fija continental;1551;2560;331;471;7000;7000;7000;7000;92;151; ; ; ; ;;
+Manaure Abajo_Palangre o espinel de fondo;2459;3631;4547;7197; ; ; ; ;329;484;15000;15000; ; ;;
+Ciénaga de Mesolandia_Atarraya;1890;4089; ; ; ; ; ; ;124;257; ; ; ; ;;
+Manaure Abajo_Red de enmalle de encierro marina;1339;1894;15219;29541; ; ; ; ;545;545; ; ; ; ;;
+Belén (San Marcos)_Red de enmalle de deriva continental;3046;4305; ; ; ; ; ; ;173;284; ; ; ; ;;
+Belén (San Marcos)_Palangre calandrio; ; ; ; ; ; ; ; ; ; ; ; ; ; ;;
+Cispataca_Red de enmalle fija continental; ; ; ; ; ; ; ; ; ; ; ; ; ; ;;
+Las Delicias_Palangre o espinel de fondo;1042;2232;2420;3667; ; ; ; ;189;341;10000;20000;5000;5000;;
+Piedras Blancas_Buceo marino mixto; ; ;1912;3364; ; ; ; ; ; ; ; ; ; ;;
+Piedras Blancas_Buceo de langosta; ; ;1894;3287; ; ; ; ; ; ; ; ; ; ;;
+Cartagena del Chairá_Palangre calandrio;1609;4453;1233;3048; ; ; ; ;582;938;10000;70000;40000;40000;;
+Guazo_Red de enmalle de deriva continental; ; ;1526;3113; ; ; ; ; ; ; ; ; ; ;;
+Vigía_Red de enmalle de deriva marina;2500;5000;2562;5333; ; ; ; ; ; ; ; ; ; ;;
+Guazo_Red de enmalle fija continental; ; ;280;468; ; ; ; ; ; ; ; ; ; ;;
+Puerto Asure_Chinchorra;1684;3917;429;429; ; ; ; ;163;353; ; ; ; ;;
+Rincón del Mar_Red de enmalle de encierro marina;1944;3000;3196;11936; ; ; ; ;248;418; ; ; ; ;;
+Rincón del Mar_Buceo marino mixto;1994;2902;3345;10858; ; ; ; ;216;327; ; ; ; ;;
+Rincón del Mar_Línea de mano fija marina;1701;3000;1043;9270; ; ; ; ;147;575; ; ; ; ;;
+Santa Cruz - Naya_Red de enmalle fija marina;1740;4452;2202;8506; ; ; ; ;296;937; ; ; ; ;;
+Santa Cruz - Naya_Red de enmalle de deriva marina;1984;5682;4626;10241; ; ; ; ;549;2061; ; ; ; ;;
+Betania - Naya_Red de enmalle de deriva marina;2444;8546;4850;11925; ; ; ; ;752;2951; ; ; ; ;;
+Betania - Naya_Palangre o espinel de superficie;5115;9999;3065;7107; ; ; ; ;459;834; ; ; ; ;;
+Candelaria (Achí)_Red de enmalle de deriva continental; ; ; ; ; ; ; ; ;415;1812; ; ; ; ;;
+Candelaria (Achí)_Palangre calandrio; ; ; ; ; ; ; ; ; ; ; ; ; ; ;;
+Betania - Naya_Palangre o espinel de fondo;2700;5909;4909;10429; ; ; ; ;414;1363; ; ; ; ;;
+Puerto Antequera_Red de enmalle fija continental ciénaga; ; ; ; ; ; ; ; ; ; ; ; ; ; ;;
+Guacamayo_Cóngolo; ; ;1596;2936; ; ; ; ; ; ; ; ; ; ;;
+Malecón (Puerto Gaitán)_Palangre calandrio;1400;7812;875;4049; ; ; ; ;283;1000; ; ; ; ;;
+Guazo_Palangre calandrio; ; ;291;511; ; ; ; ;239;239; ; ; ; ;;
+La Rampa (Barrancabermeja)_Red de enmalle de deriva continental;1990;9116;2071;6282; ; ; ; ;1242;6023; ; ;13000;40000;;
+Guacamayo_Palangre calandrio; ; ; ; ; ; ; ; ; ; ;5000;5000; ; ;;
+Isla Fuerte_Buceo marino mixto;1814;3959;3704;7374; ; ; ; ; ; ; ; ; ; ;;
+San Luis_Red de enmalle fija continental; ; ; ; ; ; ; ; ; ; ; ; ; ; ;;
+Arrimadero La Unión_Línea de mano fija marina;3520;13998;2743;38639; ; ; ; ;1125;3608; ; ; ; ;;
+Arrimadero La Unión_Palangre o espinel de fondo;1564;17353;3375;17516; ; ; ; ;1007;4710; ; ; ; ;;
+Arrimadero La Unión_Red de enmalle marina de fondo;4452;10335;2315;2941; ; ; ; ;1273;2452; ; ; ; ;;
+La Rampa (Barrancabermeja)_Chinchorra;1712;7692;2712;7746; ; ; ; ;1681;7169; ; ;10000;45500;;
+Guineal_Red de enmalle fija marina;1215;7837;1587;10223;11000;29000;11000;29000;245;1109; ; ;3000;8000;;
+La Rampa (Barrancabermeja)_Red de enmalle de encierro continental;3679;3679;2208;2208; ; ; ; ;1840;1840; ; ; ; ;;
+Isla Fuerte_Nasa de langostas;39;133;227;821; ; ; ; ; ; ;17500;35000; ; ;;
+Guineal_Red de enmalle de encierro marina;1207;8915;1022;8256;16250;38750;16250;38750;191;755; ; ;4000;11700;;
+Chapinero_Atarraya;1829;4000; ; ;10000;10000;10000;10000;133;333;8700;20000;20000;30000;;
+Tapegua_Red de enmalle fija continental;2712;3435; ; ; ; ; ; ;312;422; ; ; ; ;;
+Pizarro_Red de enmalle fija marina;1580;3496;1223;3627; ; ; ; ;384;2061; ; ;1,00E+05;1,00E+05;;
+Riosucio_Red de enmalle fija continental;1072;5327;1598;3463; ; ; ; ;523;869; ; ; ; ;;
+Tapegua_Atarraya;1500;2040; ; ; ; ; ; ;189;457; ; ; ; ;;
+Paujil_Red de enmalle fija continental;1345;7704;1920;6036; ; ; ; ;718;1349; ; ; ; ;;
+Poportín_Buceo marino mixto;556;1000;3527;4706; ; ; ; ; ; ; ; ; ; ;;
+La Boquilla_Línea de mano fija marina;1817;4000;6631;15077; ; ; ; ;498;1077;20000;46500; ; ;;
+Santuario_Arpón;1164;3941;1685;8250; ; ; ; ;286;1047; ; ; ; ;;
+Puerto Boca_Red de enmalle de deriva continental;1655;2538; ; ; ; ; ; ;138;361; ; ;5000;7700;;
+Puerto Boca_Red de enmalle fija continental ciénaga;2004;3090; ; ; ; ; ; ;165;227; ; ;10000;17600;;
+Puerto Boca_Atarraya;2445;4294; ; ; ; ; ; ;196;547; ; ; ; ;;
+Vida Tranquila_Red de enmalle fija continental;691;2463;853;2425; ; ; ; ;111;310; ; ;2000;5000;;
+Puerto Arriba (Dibulla)_Chinchorro camaronero;1772;2200;4662;4662; ; ; ; ; ; ; ; ; ; ;;
+Puerto Boca_Chinchorro continental;2302;3823; ; ; ; ; ; ;316;452; ; ;5000;11250;;
+Puerto Arriba (Dibulla)_Nasas de Peces;176;454;1120;2048; ; ; ; ; ; ; ; ; ; ;;
+Vida Tranquila_Red de enmalle de deriva continental;397;439;1532;6667; ; ; ; ;152;1117; ; ; ; ;;
+Puerto Panseguita_Red de enmalle de deriva continental;1277;3000;1730;2667; ; ; ; ;215;343; ; ;2000;2000;;
+Rincón del Mar_Nasa de langostas;46;136;109;431; ; ; ; ; ; ;2000;7000; ; ;;
+Puerto Panseguita_Red de enmalle fija continental;1950;4148;339;543; ; ; ; ;122;416; ; ;2000;2000;;
+Puerto Chaparro_Red de enmalle de deriva continental;1584;3664;1256;5250; ; ; ; ;263;1441; ; ; ; ;;
+Puerto Chaparro_Chinchorro continental;1428;3019;3120;6727; ; ; ; ;588;1739; ; ; ; ;;
+Puerto Los Córdobas_Red de enmalle de deriva marina;2967;5859;2481;6058; ; ; ; ;496;1151; ; ; ; ;;
+Vida Tranquila_Palangre calandrio;743;2649;712;1864; ; ; ; ;108;297; ; ;2000;5000;;
+Puerto Chaparro_Atarraya;2716;5990;1485;5127; ; ; ; ;267;1519;7000;65000; ; ;;
+Puerto Abajo (Dibulla)_Red de enmalle de encierro marina;1730;4705;15208;34073; ; ; ; ; ; ; ; ; ; ;;
+Puerto Chaparro_Cóngolo;2593;2593;1017;4514; ; ; ; ;167;901; ; ; ; ;;
+El Puerto (Tumaco)_Red de enmalle de deriva marina;1893;10806;1865;10964; ; ; ; ;208;1213; ; ; ; ;;
+Mantequera_Red de enmalle fija continental;1710;2491;1059;1059; ; ; ; ;98;126; ; ;2000;4000;;
+Mantequera_Red de enmalle de deriva continental;1236;2963;1157;3471; ; ; ; ;114;258; ; ;2000;4000;;
+La Grande_Red de enmalle fija continental; ; ;1289;2139; ; ; ; ;1449;1449; ; ; ; ;;
+La Rampa (Barrancabermeja)_Red de enmalle fija continental;2414;9055;2104;5536; ; ; ; ;1764;3929; ; ; ; ;;
+Puerto de desembarco (Mitú)_Línea de mano fija continental;1152;4688;1261;2504; ; ; ; ; ; ; ; ;5000;8000;;
+Morrosquillo_Buceo de peces;3175;10250;2434;2434; ; ; ; ;413;790; ; ;5000;5000;;
+Puerto de desembarco (Mitú)_Arpón;1795;4585;1514;2983; ; ; ; ; ; ; ; ;5050;5950;;
+El Porvenir_Atarraya;2000;5800;1210;2283; ; ; ; ;1071;1071; ; ; ; ;;
+Mantequera_Palangre calandrio;1775;2320; ; ; ; ; ; ;92;161; ; ;2000;4800;;
+El Porvenir_Línea de mano fija marina;925;6250;854;3153; ; ; ; ;146;680;5000;30000;5000;10000;;
+Palenquito_Palangre calandrio;1176;1176; ; ; ; ; ; ;118;118; ; ; ; ;;
+Pesquera Aspabab_Red de enmalle fija marina;3515;8787;1833;5756; ; ; ; ; ; ; ; ; ; ;;
+Concepción - Tacamocho_Red de enmalle de deriva continental; ; ; ; ; ; ; ; ; ; ; ; ; ; ;;
+Punta Bonita_Red de cerco;1839;7576;60286;140000; ; ; ; ;8750;20222; ; ;50000;550000;;
+Punta Bonita_Red de enmalle de deriva marina;1506;6667;2457;11497; ; ; ; ;1300;7658; ; ; ; ;;
+Pizarro_Red de enmalle de deriva marina;1697;5746;1140;6356; ; ; ; ;560;2178; ; ;1,00E+05;1,00E+05;;
+Pizarro_Palangre o espinel de fondo;1957;7709;2893;23457; ; ; ; ;955;20363; ; ;1200000;1200000;;
+Playa de Arusí_Palangre o espinel de fondo;803;3289;1582;4366; ; ; ; ; ; ; ; ;8050;29550;;
+Marralú_Atarraya;1627;4104;707;1262; ; ; ; ;237;770; ; ; ; ;;
+Comercializadores independientes (Guapi)_Red de enmalle fija marina;4638;20043;2081;9385; ; ; ; ;1191;6458;20000;20000; ; ;;
+Vida Tranquila_Chinchorro continental;715;1909;1023;5067; ; ; ; ;134;829; ; ;3400;5000;;
+La Pedrera_Palangre calandrio;1633;7030;452;3880; ; ; ; ;523;1813; ; ; ; ;;
+La Pedrera_Red de enmalle de deriva continental;1990;6869;1444;6784; ; ; ; ;743;1807; ; ; ; ;;
+La Pedrera_Red de enmalle fija continental;1973;7480;971;5104; ; ; ; ;597;2680; ; ; ; ;;
+Puerto Boca_Línea de mano fija continental; ; ; ; ; ; ; ; ; ; ; ; ;6600;18300;;
+Bazurto_Atarraya;2372;3283; ; ; ; ; ; ;340;575; ; ; ; ;;
+El Muelle (Puerto López)_Red de enmalle fija continental;3166;6822;1366;3581; ; ; ; ;237;732; ; ;10000;20000;;
+El Muelle (Puerto López)_Chinchorro continental;3769;12045;2257;8666; ; ; ; ;544;1672; ; ;10000;10000;;
+Las Balsas_Chinchorro continental;3752;11966;2385;8113; ; ; ; ;500;1749; ; ;10000;20000;;
+Charambirá_Palangre o espinel de fondo;2963;5556;7200;18000; ; ; ; ; ; ; ; ; ; ;;
+Bocas de Seheve_Red de enmalle fija continental; ; ;492;874; ; ; ; ; ; ; ; ; ; ;;
+Buenavista (La Dorada)_Red de enmalle de deriva continental;1246;4554;1534;4797; ; ; ; ;154;385; ; ; ; ;;
+Buenavista (La Dorada)_Palangre calandrio;1046;3287;1034;2244; ; ; ; ;77;163; ; ; ; ;;
+Bocanegra_Chinchorro marino;3226;5000;1849;5993; ; ; ; ;173;344; ; ;3000;10000;;
+Bocanegra_Red de enmalle fija marina;671;4252;768;3240; ; ; ; ;60;245; ; ;3000;5000;;
+Pueblo Nuevo (Barrancominas)_Red de enmalle fija continental;1722;6000; ; ; ; ; ; ; ; ; ; ; ; ;;
+Puerto Barrio El Progreso_Atarraya;3529;4379;1437;2191; ; ; ; ;365;588; ; ;4000;5000;;
+Pesquera Aspabab_Palangre o espinel de fondo;1807;4889;2938;6969; ; ; ; ;565;1278; ; ; ; ;;
+Pueblo Nuevo (Barrancominas)_Línea de mano fija continental;2469;6000; ; ; ; ; ; ; ; ; ; ; ; ;;
+Palanca_Palangre calandrio; ; ;309;699; ; ; ; ;68;68; ; ; ; ;;
+Palanca_Red de enmalle fija continental; ; ; ; ; ; ; ; ;40;67; ; ; ; ;;
+Cabo de la Vela_Línea de mano fija marina; ; ; ; ; ; ; ; ; ; ; ; ; ; ;;
+Palanca_Chinchorro continental; ; ;3121;5283; ; ; ; ; ; ; ; ; ; ;;
+Puerto Barrio El Progreso_Chinchorra;2249;2759;1187;1445; ; ; ; ;283;434; ; ;5350;7650;;
+Palanca_Red de enmalle de deriva continental; ; ;1679;3450; ; ; ; ; ; ; ; ; ; ;;
+Cupica_Palangre o espinel de fondo;2059;2999;5000;6964; ; ; ; ;588;1238; ; ;5000;5000;;
+Cooperativas - Pueblo Nuevo_Red de enmalle de deriva marina;846;3478;1523;5166; ; ; ; ;355;1679; ; ; ; ;;
+Maracayo_Red de enmalle fija continental;250;555;148;205; ; ; ; ;34;68; ; ; ; ;;
+Cooperativas - Pueblo Nuevo_Palangre o espinel de fondo;926;3251;4729;7645; ; ; ; ;1113;2159; ; ; ; ;;
+Candelaria (Achí)_Chinchorro continental; ; ; ; ; ; ; ; ;924;2500; ; ; ; ;;
+Candelaria (Achí)_Atarraya; ; ; ; ; ; ; ; ;400;400; ; ; ; ;;
+Mayapo_Palangre o espinel de fondo;1348;2592;2164;3792; ; ; ; ; ; ;7000;7000; ; ;;
+La Chamba_Atarraya;1500;5000;3251;6474; ; ; ; ;428;1176; ; ;2250;3375;;
+Puerto Asure_Nasas de Peces; ; ; ; ; ; ; ; ; ; ; ; ; ; ;;
+Bocas de Seheve_Red de enmalle de deriva continental; ; ; ; ; ; ; ; ; ; ; ; ; ; ;;
+Bocas de Seheve_Atarraya; ; ;678;3155; ; ; ; ; ; ; ; ; ; ;;
+Bocas de Seheve_Red de enmalle de encierro continental; ; ;592;5714; ; ; ; ; ; ; ; ; ; ;;
+Puerto Arriba (Dibulla)_Palangre o espinel de fondo;2384;3221;3676;10808; ; ; ; ; ; ;15000;36000; ; ;;
+Casco urbano (Puerto Escondido)_Red de enmalle fija marina;1957;3956;672;2844; ; ; ; ;319;558; ; ; ; ;;
+Muelle Principal (Puerto Leguízamo)_Red de enmalle fija continental;1961;6864;1225;3344; ; ; ; ;679;1061; ; ; ; ;;
+Muelle Principal (Puerto Leguízamo)_Palangre calandrio;1957;3858;1103;1494; ; ; ; ;775;857; ; ; ; ;;
+Villanueva_Red de enmalle fija continental; ; ; ; ; ; ; ; ; ; ; ; ; ; ;;
+Villanueva_Red de enmalle de deriva continental; ; ; ; ; ; ; ; ; ; ; ; ; ; ;;
+Villanueva_Red de enmalle de encierro continental; ; ; ; ; ; ; ; ;206;434; ; ; ; ;;
+Pueblo Lindo o Caimanera_Red de enmalle fija continental; ; ; ; ; ; ; ; ; ; ; ; ; ; ;;
+Puerto de Gamarra_Red de enmalle fija continental;937;2368;1706;2557; ; ; ; ;236;1044; ; ; ; ;;
+Casco urbano Roma_Atarraya; ; ; ; ; ; ; ; ; ; ; ; ; ; ;;
+Playa de Arusí_Línea de mano correteo curricán o trolling;2693;6415;2640;18191; ; ; ; ; ; ; ; ; ; ;;
+San Nicolás (Nechí)_Línea de mano fija continental;3313;3619;710;3296; ; ; ; ;179;806; ; ; ; ;;
+San Nicolás (Nechí)_Red de enmalle fija continental;2547;9651;344;2895; ; ; ; ;84;984; ; ; ; ;;
+Marralú_Red de enmalle fija continental; ; ;219;635; ; ; ; ;96;182; ; ; ; ;;
+San Nicolás (Nechí)_Red de enmalle de deriva continental;3610;11539;966;5003; ; ; ; ;207;875; ; ;10000;10000;;
+Tribugá_Arpón;10446;10446; ; ; ; ; ; ; ; ; ; ; ; ;;
+San Nicolás (Nechí)_Atarraya;4468;9643;1539;4283; ; ; ; ;313;1094; ; ; ; ;;
+San Nicolás (Nechí)_Chinchorro continental;2468;6455;2093;8261; ; ; ; ;1325;3792; ; ; ; ;;
+Río San Miguel_Línea de mano fija continental;1969;10318;1233;7004; ; ; ; ; ; ;4000;11500; ; ;;
+Mercado (Lorica)_Línea de mano fija continental;2372;3214;1300;1300; ; ; ; ; ; ; ; ; ; ;;
+Río San Miguel_Red de enmalle de deriva continental;2317;8017;4333;14100; ; ; ; ; ; ; ; ; ; ;;
+Buchadó_Red de enmalle fija continental;1460;4119;662;1945; ; ; ; ; ; ; ; ; ; ;;
+Uveros_Red de enmalle fija marina;1580;4870;2163;12101; ; ; ; ;170;1096; ; ; ; ;;
+Puerto Abajo (Dibulla)_Palangre o espinel de fondo;1025;2364;4127;5299; ; ; ; ; ; ;20000;20000; ; ;;
+San Nicolás (Nechí)_Palangre calandrio; ; ;571;1972; ; ; ; ;153;516; ; ; ; ;;
+Bocas de Seheve_Chinchorro continental; ; ;980;6791; ; ; ; ; ; ; ; ; ; ;;
+Puerto Principal (Leticia)_Red de enmalle fija continental;1182;4427;745;4409; ; ; ; ;549;2937; ; ;18000;58500;;
+El Pájaro_Red de enmalle fija marina;595;974;1784;6500; ; ; ; ;344;391; ; ; ; ;;
+Belén (San Marcos)_Chinchorra;3404;4412; ; ; ; ; ; ;248;362; ; ; ; ;;
+San Nicolás (Santa Cruz De Mompox)_Palangre calandrio; ; ; ; ; ; ; ; ; ; ; ; ; ; ;;
+La Boquilla_Chinchorro marino;813;1509;6649;17418; ; ; ; ; ; ; ; ; ; ;;
+Puerto Boquillas_Chinchorro continental;1087;3200; ; ; ; ; ; ;135;348; ; ;2000;3000;;
+Barrio Santa Lucía_Red de enmalle fija marina; ; ;1897;4813; ; ; ; ;119;257; ; ; ; ;;
+San José_Chinchorra;2287;4209;3103;6111; ; ; ; ;550;1396; ; ;2000;2000;;
+Puerto Serviez_Palangre calandrio;1287;4851;694;2384; ; ; ; ;62;576;10000;20000; ; ;;
+Nueva Ola_Chinchorro continental; ; ;946;2723; ; ; ; ;222;1154; ; ; ; ;;
+Guataquí_Red de enmalle fija continental;1188;3779;475;2500; ; ; ; ; ; ; ; ; ; ;;
+Nueva Ola_Atarraya; ; ;681;2570;5250;9750;5250;9750;274;662; ; ; ; ;;
+Nueva Ola_Red de enmalle de deriva continental; ; ;677;2139; ; ; ; ;249;440; ; ; ; ;;
+San Miguel (Puerto Gaitán)_Atarraya;3402;7692;2093;5409; ; ; ; ;248;423; ; ; ; ;;
+Puerto del Cerrito_Chinchorro continental;939;2594;524;1391;13580;111860;13580;111860;108;401; ; ;1000;3000;;
+Ica-Copipa_Red de enmalle fija marina; ; ;1155;5918; ; ; ; ;552;1341; ; ; ; ;;
+Cecilia_Red de enmalle fija continental;1394;2019;334;470; ; ; ; ; ; ; ; ; ; ;;
+Puerto Triunfo_Atarraya;1329;3000;1460;4507; ; ; ; ; ; ; ; ; ; ;;
+El Pedral_Red de enmalle de encierro continental; ; ;1667;1667; ; ; ; ; ; ; ; ; ; ;;
+Puerto Triunfo_Palangre calandrio;476;2546;845;1238; ; ; ; ;207;287; ; ; ; ;;
+Desembarcadero (Juradó)_Red de enmalle fija marina;4792;13479;8295;25240; ; ; ; ;2729;6418; ; ; ; ;;
+Bazán La Bocana_Red de enmalle fija marina;2155;2155;1560;9444; ; ; ; ;258;805; ; ; ; ;;
+Puerto Triunfo_Red de enmalle de deriva continental;1457;2416;1016;2106; ; ; ; ; ; ; ; ; ; ;;
+Vida Tranquila_Atarraya;759;1901;848;5286; ; ; ; ;155;396; ; ;2000;4500;;
+Cecilia_Atarraya; ; ;1397;1905; ; ; ; ; ; ; ; ; ; ;;
+Dorada_Red de enmalle de encierro continental; ; ; ; ; ; ; ; ; ; ; ; ; ; ;;
+Dorada_Red de enmalle fija continental; ; ; ; ; ; ; ; ; ; ; ; ; ; ;;
+Méjico_Línea de mano fija continental; ; ;808;1179; ; ; ; ; ; ; ; ; ; ;;
+Méjico_Red de enmalle fija continental; ; ;575;1260; ; ; ; ; ; ; ; ; ; ;;
+Clarinetero_Atarraya;5431;12000;1510;2665; ; ; ; ;1240;3254; ; ;5200;16800;;
+Méjico_Red de enmalle de deriva continental; ; ;2550;5239; ; ; ; ; ; ; ; ; ; ;;
+Nueva Ola_Línea de mano fija continental; ; ;275;688; ; ; ; ; ; ; ; ; ; ;;
+Dorada_Atarraya; ; ; ; ; ; ; ; ;170;281; ; ; ; ;;
+Puerto Amor_Palangre calandrio;1554;3724; ; ; ; ; ; ;71;167; ; ; ; ;;
+La Gloria_Chinchorra;2557;3650;1935;4032; ; ; ; ; ; ; ; ;3650;8900;;
+Miramar - Bahía Málaga_Palangre o espinel de fondo; ; ;883;2000; ; ; ; ;217;667; ; ; ; ;;
+Miramar - Bahía Málaga_Red de enmalle fija marina; ; ;1636;8000; ; ; ; ;455;5000; ; ; ; ;;
+El Porvenir_Buceo marino mixto;1265;8656;975;3460; ; ; ; ;255;255;23000;23000; ; ;;
+Barrio Chino_Chinchorro continental; ; ;583;1268; ; ; ; ; ; ; ; ; ; ;;
+La Tranca_Red de enmalle fija continental; ; ; ; ; ; ; ; ;152;272; ; ; ; ;;
+San José de la Calle_Red de enmalle fija continental; ; ;775;6399; ; ; ; ; ; ; ; ; ; ;;
+Desembarcadero (Juradó)_Línea de mano fija marina;6252;19591;11666;37339; ; ; ; ;3730;8985;9200;1,00E+05;45000;45000;;
+Cecilia_Red de enmalle de deriva continental; ; ; ; ; ; ; ; ; ; ; ; ; ; ;;
+Cecilia_Palangre calandrio;1400;1998; ; ; ; ; ; ; ; ; ; ; ; ;;
+La Plata - Bahía Málaga_Palangre o espinel de fondo; ; ;982;1385; ; ; ; ;824;1154; ; ; ; ;;
+La Plata - Bahía Málaga_Red de enmalle fija marina; ; ;1000;3600; ; ; ; ;875;3750; ; ; ; ;;
+Bahía de Cispatá_Arpón;1713;4625; ; ; ; ; ; ;141;141; ; ;4100;5900;;
+Puerto de desembarco (Barrancominas)_Línea de mano fija continental;1293;3267; ; ; ; ; ; ; ; ; ; ; ; ;;
+Puerto Principal (Puerto Lleras)_Línea de mano fija continental;4439;5075;2695;4511; ; ; ; ; ; ; ; ; ; ;;
+Puerto Principal (Puerto Lleras)_Atarraya;8433;11267;6777;10125; ; ; ; ; ; ; ; ; ; ;;
+Puerto de las Canoas (Puerto Berrío)_Red de enmalle de deriva continental;684;2844;1400;4188; ; ; ; ;515;2827; ; ; ; ;;
+Puerto Chaparro_Atarraya rastra;1517;2698;4699;7307; ; ; ; ;997;2600; ; ; ; ;;
+Puerto de las Canoas (Puerto Berrío)_Palangre calandrio;1079;2727;1615;5283; ; ; ; ;272;1090;10000;25000; ; ;;
+Puerto Wilches_Chinchorra;1337;1882;2022;2592; ; ; ; ;535;709; ; ; ; ;;
+Puerto Wilches_Chinchorra mallona;1282;1849;2015;2502; ; ; ; ;341;654; ; ; ; ;;
+Puerto Chaparro_Nasas de Peces; ; ;1926;7877; ; ; ; ;675;1331;9700;47500; ; ;;
+Puerto Wilches_Línea de mano fija continental;1324;1643;2011;2596; ; ; ; ;334;604;30000;43200; ; ;;
+Puerto Chaparro_Línea de mano fija continental;1865;3177;1268;4144; ; ; ; ;283;931; ; ; ; ;;
+Mapiripán_Red de enmalle de deriva continental;2500;10639;3374;15430; ; ; ; ; ; ; ; ;35350;41650;;
+La Chamba_Línea de mano fija continental;1411;5450;1805;7830; ; ; ; ;468;1229; ; ;2460;3450;;
+La Chamba_Red de enmalle de deriva continental;1000;4677;3213;6918;2000;2000;2000;2000;398;946; ; ;2100;3000;;
+Tagachí_Red de enmalle fija continental;461;2318;873;2084; ; ; ; ; ; ; ; ; ; ;;
+Cartagena del Chairá_Red de enmalle fija continental;3780;5976;805;2210; ; ; ; ;378;799;40000;40000; ; ;;
+San Alejandro_Red de enmalle de deriva continental;5000;5000;2827;20253; ; ; ; ; ; ; ; ; ; ;;
+San Alejandro_Red de enmalle fija continental;1329;1567;592;2020; ; ; ; ; ; ; ; ; ; ;;
+Jodedor_Red de enmalle de deriva marina;1175;1923;4406;9258; ; ; ; ; ; ; ; ; ; ;;
+Pomeño_Palangre o espinel de fondo; ; ;1500;2138; ; ; ; ; ; ;7550;8000; ; ;;
+Juanchaco_Línea de mano fija marina;4475;8456;5423;22337; ; ; ; ;239;867; ; ; ; ;;
+Primera Ensenada_Línea de mano fija marina;2378;4091;4824;7131; ; ; ; ;800;1200;20000;28000; ; ;;
+El Porvenir_Red de enmalle fija marina;1657;2554;337;687; ; ; ; ; ; ; ; ; ; ;;
+La Punta - Firme Cifuentes_Palangre o espinel de fondo;5250;7464;5612;16650; ; ; ; ;2196;2196; ; ; ; ;;
+Puerto Cabuyaro_Atarraya;2675;6050;2991;6362; ; ; ; ;256;269; ; ; ; ;;
+Puerto Cabuyaro_Red de enmalle fija continental;1761;4976;1129;2955; ; ; ; ;365;398; ; ; ; ;;
+Puerto Cabuyaro_Palangre calandrio;2270;5593;1707;5385; ; ; ; ;202;543;5000;50000;12000;12000;;
+Domingodó_Flecha;738;3998;1737;7089; ; ; ; ; ; ; ; ; ; ;;
+Domingodó_Red de enmalle fija continental;515;2202;1952;4299; ; ; ; ;857;1335; ; ; ; ;;
+Guazo_Chinchorro continental; ; ;1159;3039; ; ; ; ; ; ; ; ; ; ;;
+San Miguel (Puerto Gaitán)_Red de enmalle de deriva continental;1903;7469;1026;5308; ; ; ; ;174;626; ; ; ; ;;
+Mayapo_Línea de mano fija marina;1213;2264;1688;3165; ; ; ; ; ; ;6000;12550; ; ;;
+Limones_Red de enmalle fija marina;3562;7127;6163;24987; ; ; ; ; ; ; ; ; ; ;;
+Puerto de las Canoas (Puerto Berrío)_Atarraya;1116;3116;1560;7350; ; ; ; ;302;2387; ; ; ; ;;
+Puerto Wilches_Chinchorra nicurera;1444;1490;2196;2287; ; ; ; ;655;731; ; ; ; ;;
+Bocas del Atrato_Palangre o espinel de superficie; ; ; ; ; ; ; ; ; ; ;10500;13500; ; ;;
+Quiroga_Red de enmalle fija marina;4208;4958;12608;13295; ; ; ; ; ; ; ; ; ; ;;
+Virudó_Línea de mano fija marina; ; ;2835;11400; ; ; ; ; ; ; ; ; ; ;;
+Policía fluvial (Quibdó)_Red de enmalle fija continental;921;2507;636;2398; ; ; ; ; ; ;32000;32000; ; ;;
+Virudó_Atarraya; ; ;3420;9933; ; ; ; ; ; ; ; ; ; ;;
+Policía fluvial (Quibdó)_Línea de mano fija continental;1081;5000;670;6624; ; ; ; ; ; ;5000;10000; ; ;;
+Policía fluvial (Quibdó)_Red de enmalle de deriva continental;2800;7352;5461;17853; ; ; ; ; ; ; ; ; ; ;;
+Caño Lobo_Palangre o espinel de fondo;4009;6078; ; ; ; ; ; ;164;304; ; ;4000;4000;;
+Virudó_Red de enmalle de deriva marina;3384;12571;4000;9250; ; ; ; ; ; ; ; ; ; ;;
+Virudó_Red de enmalle fija marina;1958;7208;2065;3313; ; ; ; ; ; ; ; ; ; ;;
+Casco Urbano (Arauca)_Atarraya;814;6908;589;3333; ; ; ; ;253;1622; ; ;19350;35950;;
+Casco Urbano (Arauca)_Línea de mano fija continental;890;6262;710;3409; ; ; ; ;253;1259;8400;15000;10000;92500;;
+Virudó_Palangre o espinel de fondo;8333;8333;1012;8820; ; ; ; ; ; ; ; ; ; ;;
+Casco Urbano (Arauca)_Nasas de Peces;2107;2107;1910;1910; ; ; ; ;1258;1258; ; ;40000;40000;;
+Casco Urbano (Arauca)_Recolección manual de mota;1332;5155;842;2311; ; ; ; ;395;1212; ; ;22000;50000;;
+Puerto Miraflores_Red de enmalle fija marina;1633;5859;3668;17683; ; ; ; ;710;2426; ; ; ; ;;
+La Ensenada_Red de enmalle de deriva marina;1781;7650;2382;13643; ; ; ; ; ; ; ; ; ; ;;
+Río San Miguel_Red de enmalle fija continental;2281;4864;412;3525; ; ; ; ; ; ;6450;11700; ; ;;
+La Ensenada_Palangre o espinel de fondo;2421;3011;6865;7148; ; ; ; ; ; ; ; ; ; ;;
+Berlín_Atarraya; ; ; ; ; ; ; ; ; ; ; ; ; ; ;;
+Puerto Miraflores_Línea de mano fija marina;2363;6154;3349;12936; ; ; ; ;901;2349; ; ; ; ;;
+El Muelle (Barrancabermeja)_Red de enmalle de deriva continental;2605;3557;4153;6208; ; ; ; ;773;2085; ; ; ; ;;
+Orpua_Red de enmalle fija marina;865;6615;1279;13214; ; ; ; ;677;3678; ; ; ; ;;
+Bazán_Red de cerco artesanal o ruche;5924;11703;19984;42086; ; ; ; ;6810;9381; ; ; ; ;;
+Amarales_Red de enmalle de deriva marina;2597;8424;1958;8779; ; ; ; ; ; ; ; ;5000;10000;;
+Pesqueras - Pueblo Nuevo_Palangre o espinel de fondo;2275;3604;8829;18517; ; ; ; ;2008;3877;32000;59000;105000;287500;;
+Puerto Amor_Atarraya;4340;7107; ; ; ; ; ; ;170;555; ; ; ; ;;
+Puerto Cabuyaro_Chinchorro continental;4668;9000;5282;9158; ; ; ; ;499;1288; ; ; ; ;;
+Desembarcadero (Supía)_Atarraya;1113;2934; ; ; ; ; ; ; ; ; ; ;3000;7750;;
+Jodedor_Línea de mano fija marina;1149;2688;4636;10103; ; ; ; ;321;700;10000;20000; ; ;;
+Poportín_Nasas de Peces;19;121;101;442; ; ; ; ; ; ; ; ; ; ;;
+Punta Bonita_Chinchorro marino;936;2543;7948;54590; ; ; ; ;4807;33253; ; ; ; ;;
+Corozal_Red de enmalle fija marina;7324;15768;6090;8953; ; ; ; ;477;2411; ; ;3000;3000;;
+Orpua_Palangre o espinel de fondo; ; ;1968;1973; ; ; ; ; ; ; ; ; ; ;;
+Chacón_Red de enmalle fija marina;5628;15290;6003;11904; ; ; ; ;1133;3672; ; ; ; ;;
+Puerto Boyacá_Chinchorra;1266;1884;3670;6219; ; ; ; ; ; ; ; ; ; ;;
+Puerto Boyacá_Atarraya;1310;1907;3146;5689; ; ; ; ; ; ; ; ; ; ;;
+Arroyito_Palangre o espinel de fondo;856;1500;793;1268; ; ; ; ;159;254; ; ; ; ;;
+Muelle Principal (Puerto Leguízamo)_Red de enmalle de deriva continental; ; ;4027;4573; ; ; ; ; ; ; ; ; ; ;;
+San Nicolás (Santa Cruz De Mompox)_Chinchorro continental;2026;4338; ; ; ; ; ; ;144;381; ; ; ; ;;
+Puerto Bogotá_Cóngolo; ; ; ; ; ; ; ; ; ; ; ; ; ; ;;
+Galería (Guapi)_Red de enmalle fija marina;1362;10750;1561;21573; ; ; ; ;280;2553; ; ; ; ;;
+Guataquí_Nasas de Peces; ; ;741;967; ; ; ; ; ; ;8000;18000; ; ;;
+Palomino_Red de enmalle fija continental;1047;1631; ; ; ; ; ; ;188;284; ; ; ; ;;
+Muelle Hong Kong_Línea de mano fija continental;2103;8400;1456;7708; ; ; ; ;592;592; ; ; ; ;;
+Puerto Asure_Red de enmalle de encierro continental;3448;3448; ; ; ; ; ; ;276;276; ; ; ; ;;
+El Puerto (Puerto Carreño)_Red de enmalle de deriva continental;3121;5536;3985;5287; ; ; ; ;726;878; ; ;10000;10000;;
+La Pedrera_Arpón;1841;7406;870;4127; ; ; ; ;549;2497; ; ; ; ;;
+Tagachí_Atarraya; ; ;6000;6000; ; ; ; ; ; ; ; ; ; ;;
+Puerto Los Córdobas_Red de enmalle fija marina;2411;5280;1169;5173; ; ; ; ;336;940; ; ; ; ;;
+Jodedor_Red de enmalle de encierro marina;2995;5000;10000;17525; ; ; ; ; ; ; ; ; ; ;;
+Chontal_Red de enmalle de deriva marina; ; ;4439;21401; ; ; ; ; ; ; ; ; ; ;;
+Santuario_Atarraya;1399;4006;1742;3205; ; ; ; ;342;492; ; ; ; ;;
+Timbiquí_Red de enmalle fija marina;8743;16694;5749;9063; ; ; ; ;486;1193;8000;8000;3745;14755;;
+Puerto Principal (Leticia)_Red de enmalle de deriva continental;1442;3859;1697;14250; ; ; ; ;401;6000; ; ;20000;20000;;
+Las Flores_Palangre o espinel de fondo;1782;4805;5905;13272; ; ; ; ;884;1656;10000;28000; ; ;;
+San Antonio de Padua_Red de enmalle fija continental;978;2805;427;2062; ; ; ; ; ; ; ; ;30000;30000;;
+Bocas del Atrato_Flecha;2550;4469; ; ; ; ; ; ; ; ; ; ;5735;9965;;
+Laguna Colorada_Palangre calandrio;984;2416; ; ; ; ; ; ; ; ; ; ; ; ;;
+Puerto Bogotá_Atarraya; ; ; ; ; ; ; ; ; ; ; ; ; ; ;;
+Barrio Chino_Atarraya; ; ; ; ; ; ; ; ; ; ; ; ; ; ;;
+Palanca_Atarraya; ; ;1567;1567; ; ; ; ; ; ; ; ; ; ;;
+Palanca_Línea de mano fija continental; ; ; ; ; ; ; ; ; ; ; ; ; ; ;;
+Barrio La Unión_Atarraya;851;2681;376;2109; ; ; ; ;106;277; ; ; ; ;;
+Mercado (Lorica)_Red de enmalle de encierro continental;2317;4059;1777;1777; ; ; ; ;201;349; ; ; ; ;;
+Buenavista (La Dorada)_Atarraya;1012;4958;1555;4364; ; ; ; ;161;284; ; ; ; ;;
+Honda_Atarraya;2723;7500;1333;2227; ; ; ; ;300;513;20000;46000;5000;12000;;
+Distribuidoras de Tumaco_Red de enmalle de deriva marina;1491;3285;3469;7795; ; ; ; ;339;945; ; ; ; ;;
+Honda_Línea de mano fija continental;2827;6476;1542;2292; ; ; ; ; ; ;25000;55000;4950;13000;;
+Las Balsas_Red de enmalle fija continental;3814;6232;1530;3796; ; ; ; ;205;710; ; ;10000;10000;;
+Puerto Miraflores_Palangre o espinel de fondo;3336;7805;5566;16256; ; ; ; ;1463;2441; ; ; ; ;;
+La Gloria_Nasas de Peces;2113;2484;2201;3813; ; ; ; ; ; ;29400;93000;10500;19500;;
+La Gloria_Red de enmalle fija continental;1326;3166;482;1386; ; ; ; ;114;369; ; ;5000;26800;;
+Ica-Copipa_Línea de mano fija marina;4506;9682;2796;11525; ; ; ; ; ; ; ; ; ; ;;
+Champaché_Red de enmalle fija marina;1029;3473;600;2031; ; ; ; ;207;658; ; ; ; ;;
+Mercado (Lorica)_Palangre calandrio;2661;3517; ; ; ; ; ; ; ; ; ; ; ; ;;
+Puerto Rico [Meta]_Red de enmalle de deriva continental;3054;6101;3523;8055; ; ; ; ;358;602; ; ; ; ;;
+Puerto Boyacá_Palangre calandrio;1295;1852;3077;5614; ; ; ; ; ; ; ; ; ; ;;
+El Roto_Red de enmalle fija continental; ; ;1831;3077; ; ; ; ; ; ; ; ; ; ;;
+Puerto Real - Saloa_Chinchorra;897;2800;897;2504; ; ; ; ;277;526; ; ;3000;10000;;
+Miramar - Bahía Málaga_Línea de mano fija marina; ; ;2590;7500; ; ; ; ;508;2425; ; ; ; ;;
+Puerto Chaparro_Palangre calandrio;3191;3191;2780;3169; ; ; ; ;297;681; ; ; ; ;;
+Puerto Chaparro_Red de enmalle fija continental;1659;4194;520;3284; ; ; ; ;224;1047; ; ; ; ;;
+Puerto Panseguita_Palangre calandrio;1428;3750;443;695; ; ; ; ;63;189; ; ;1200;2000;;
+Purricha_Red de enmalle de deriva marina;1193;4000;3792;9102; ; ; ; ;374;540; ; ; ; ;;
+Barrio Chino_Red de enmalle fija continental; ; ;410;664; ; ; ; ;164;164; ; ; ; ;;
+Zapata_Red de enmalle camaronera;2081;5314;2498;7207; ; ; ; ;244;984; ; ;25000;25000;;
+Muelle Principal (Puerto Leguízamo)_Línea de mano fija continental;1804;2327;1030;1931; ; ; ; ;676;856; ; ; ; ;;
+Puerto Boca_Red de enmalle fija continental río; ; ; ; ; ; ; ; ; ; ; ; ; ; ;;
+Puerto Bello_Chinchorro continental;1219;1943;951;1200; ; ; ; ;183;325; ; ;3000;5000;;
+Marralú_Palangre calandrio;1379;1379;204;649; ; ; ; ;111;136; ; ; ; ;;
+La Mata_Nasas de Peces;1147;1488;2745;2973; ; ; ; ;45;71;31000;98000;2000;2000;;
+Villanueva_Chinchorro continental; ; ; ; ; ; ; ; ;143;560; ; ; ; ;;
+San José de la Calle_Línea de mano fija continental; ; ;927;5041; ; ; ; ; ; ; ; ; ; ;;
+Villa Fátima_Red de enmalle de deriva marina; ; ;11064;12037; ; ; ; ; ; ; ; ; ; ;;
+Villa Fátima_Palangre o espinel de fondo;2593;3760;14906;17617; ; ; ; ;1193;1509; ; ; ; ;;
+Cangrejito_Línea de mano fija marina;952;2308; ; ; ; ; ; ; ; ;3000;4000; ; ;;
+Juanchaco_Red de enmalle de deriva marina;2595;5925;3059;8058; ; ; ; ;260;592; ; ; ; ;;
+Pueblo Nuevo (Barrancominas)_Palangre calandrio;1335;3033; ; ; ; ; ; ; ; ; ; ; ; ;;
+El Muelle (Barrancabermeja)_Atarraya rastra;2894;5632;6015;12273; ; ; ; ;386;1240; ; ; ; ;;
+Las Brisas_Palangre calandrio;2008;2182; ; ; ; ; ; ; ; ; ; ; ; ;;
+La Raya_Atarraya; ; ; ; ; ; ; ; ; ; ; ; ; ; ;;
+Muelle Las Flores_Palangre o espinel de fondo;3023;10730;5330;11133; ; ; ; ;772;1692;15000;80000; ; ;;
+Muelle Las Flores_Red de enmalle de deriva marina;3090;13255;6748;19899; ; ; ; ;1003;2813; ; ; ; ;;
+Muelle La Samaritana_Palangre o espinel de fondo;2677;10073;5604;14910; ; ; ; ;698;2777;12000;90000; ; ;;
+Puerto Serviez_Red de enmalle fija continental;1513;6305;737;3286; ; ; ; ;113;657; ; ; ; ;;
+Casco urbano Roma_Red de enmalle zangarreo; ; ; ; ; ; ; ; ; ; ; ; ; ; ;;
+Honda_Chinchorra;3348;6372;1352;2615; ; ; ; ;314;518;15500;38000;8200;15000;;
+Arrimadero La Unión_Red de enmalle fija marina;2646;7199;2903;11789; ; ; ; ;1124;3430; ; ; ; ;;
+Punta Bonita_Palangre o espinel de fondo;2234;15000;2540;20947; ; ; ; ;1682;14315; ; ; ; ;;
+Muelle La Samaritana_Red de enmalle de deriva marina;2406;12913;7511;15423; ; ; ; ;893;2174; ; ; ; ;;
+Doña Ana_Chinchorro continental;4000;5000;2222;4613; ; ; ; ;556;1120; ; ; ; ;;
+Berlín_Red de enmalle de deriva continental; ; ;4350;7839; ; ; ; ; ; ; ; ; ; ;;
+La Gloria_Chinchorro continental;2144;3099;3690;6009; ; ; ; ; ; ; ; ; ; ;;
+La Gloria_Palangre calandrio;2120;4368; ; ; ; ; ; ; ; ; ; ;2000;30000;;
+Tribugá_Línea de mano correteo curricán o trolling;2792;8340;6883;6883; ; ; ; ;247;385; ; ; ; ;;
+Puerto de Gamarra_Chinchorro continental;1225;1225;2941;2941; ; ; ; ;588;588; ; ; ; ;;
+Puerto Serviez_Atarraya;1715;8657;1433;5838;20000;20000;20000;20000;174;702;10500;19500; ; ;;
+Puerto Serviez_Red de enmalle de deriva continental;853;5792;1680;5283; ; ; ; ;190;608; ; ; ; ;;
+Puerto Serviez_Chinchorra;750;5581;2069;6560;20500;25000;20500;25000;204;513; ; ; ; ;;
+Casco Urbano (San Juan de Urabá)_Palangre o espinel de fondo;299;556;3838;4697; ; ; ; ;145;293; ; ; ; ;;
+Puerto Pozuelo - La Rinconada_Red de enmalle de encierro continental;846;1221; ; ; ; ; ; ;165;286; ; ;2000;4400;;
+La Tranca_Red de enmalle zangarreo; ; ; ; ; ; ; ; ;485;802; ; ; ; ;;
+El Puerto (Puerto Carreño)_Palangre calandrio;2315;3403; ; ; ; ; ; ;218;338; ; ;5000;5000;;
+La Rampa (Barrancabermeja)_Atarraya;1593;3903;2948;8900; ; ; ; ;2512;7002; ; ; ; ;;
+Puerto Cabuyaro_Red de enmalle de deriva continental;4482;7524;4199;5759; ; ; ; ;818;818; ; ; ; ;;
+Puerto de Gamarra_Atarraya;941;941;941;941; ; ; ; ;94;94; ; ; ; ;;
+San Miguel (Puerto Gaitán)_Palangre calandrio;2918;8802;1147;9180; ; ; ; ;115;540; ; ; ; ;;
+Usaragá_Red de enmalle de deriva marina;1000;6350;4241;15839; ; ; ; ;679;6350; ; ; ; ;;
+Playa Nueva_Palangre o espinel de fondo;1451;4103;3063;6459; ; ; ; ;218;438; ; ; ; ;;
+Playa Nueva_Red de enmalle de deriva marina;2216;7555;3673;10609; ; ; ; ;336;336; ; ; ; ;;
+Puerto Barrio El Progreso_Línea de mano fija continental;2315;3337;860;1201; ; ; ; ;133;267; ; ;3000;5000;;
+Bahía de Santa Marta_Buceo de peces; ; ; ; ; ; ; ; ; ; ; ; ; ; ;;
+Taganga_Nasas de Peces;75;243;146;535; ; ; ; ;6;19; ; ;6000;6000;;
+Jodedor_Red de enmalle langostera;443;791;2782;5098; ; ; ; ; ; ; ; ; ; ;;
+Casco Urbano (San Juan de Urabá)_Arpón;1989;7292;9663;11872; ; ; ; ;420;453; ; ; ; ;;
+Santuario_Red de enmalle de deriva continental;2163;5017;2526;7833; ; ; ; ;375;1079; ; ; ; ;;
+Charambirá_Red de enmalle fija marina; ; ;6000;24000; ; ; ; ; ; ; ; ; ; ;;
+Isla Fuerte_Red de enmalle de encierro marina;2056;4032;1282;2299; ; ; ; ; ; ; ; ; ; ;;
+La Boquilla_Palangre o espinel de superficie;1649;1649;615;1364; ; ; ; ;247;247;6000;15000; ; ;;
+Orpua_Red de enmalle de encierro marina; ; ;7843;16870; ; ; ; ; ; ; ; ; ; ;;
+Tagachí_Línea de mano fija continental; ; ;2130;4709; ; ; ; ; ; ; ; ; ; ;;
+Guacamayo_Atarraya; ; ; ; ; ; ; ; ; ; ; ; ; ; ;;
+Puerto de Bolombolo_Palangre calandrio; ; ;869;1000; ; ; ; ; ; ; ; ;15000;30000;;
+Puerto de Bolombolo_Atarraya; ; ; ; ; ; ; ; ; ; ; ; ;20000;30000;;
+Puerto Antequera_Chinchorro continental;2217;4326; ; ; ; ; ; ;831;1552; ; ;2000;8650;;
+Nueva Ola_Palangre calandrio; ; ;275;634; ; ; ; ; ; ; ; ; ; ;;
+Mayapo_Buceo marino mixto;1322;2179;2092;3186; ; ; ; ; ; ; ; ; ; ;;
+La Rampa (Barrancabermeja)_Chinchorro continental;3534;7152;3023;4501; ; ; ; ;2423;3680; ; ; ; ;;
+Puerto Principal (Leticia)_Palangre calandrio;1128;4842;897;2222; ; ; ; ;690;1818; ; ;10200;51800;;
+Puerto principal (San Vicente del Caguán)_Línea de mano fija continental;6974;10891;5241;7149; ; ; ; ;550;970; ; ; ; ;;
+Pueblo Nuevo (Barrancominas)_Flecha;3812;3812; ; ; ; ; ; ; ; ; ; ; ; ;;
+Bazán La Bocana_Red de enmalle de deriva marina;961;1971;4542;6305; ; ; ; ;513;1139; ; ; ; ;;
+Puerto del Pescado (San José Del Guaviare)_Palangre calandrio;2930;3169;1827;1991; ; ; ; ; ; ;6050;6950; ; ;;
+Buchadó_Línea de mano fija continental;1443;3433;964;1973; ; ; ; ; ; ;27800;60000; ; ;;
+Berlín_Red de enmalle fija continental; ; ; ; ; ; ; ; ; ; ; ; ; ; ;;
+La Gloria_Atarraya;4072;5210; ; ; ; ; ; ;180;180; ; ;10000;35000;;
+Mayapo_Red de enmalle de encierro marina;1482;2195;2433;3345; ; ; ; ; ; ; ; ; ; ;;
+Barrio La Unión_Línea de mano fija marina;961;4517;1472;6385; ; ; ; ;223;947;10000;22750; ; ;;
+Méjico_Palangre calandrio; ; ; ; ; ; ; ; ; ; ; ; ; ; ;;
+Guacamayo_Red de enmalle de encierro continental;5694;8194; ; ; ; ; ; ;1167;1167; ; ; ; ;;
+Guacamayo_Línea de mano fija continental; ; ;794;1083; ; ; ; ; ; ;4000;4000; ; ;;
+Puerto Arriba (Dibulla)_Chinchorro marino;1177;1661;12637;15341; ; ; ; ; ; ; ; ; ; ;;
+Juanchaco_Red de enmalle fija marina;5532;7278;7523;9898; ; ; ; ;553;728; ; ; ; ;;
+Clarinetero_Red de enmalle fija continental;2332;12000;1048;1581; ; ; ; ;1198;1703; ; ;11000;11000;;
+El Puerto (Puerto Carreño)_Red de enmalle fija continental;1685;5173;1183;3550; ; ; ; ;165;544; ; ;5000;6000;;
+La Chamba_Red de enmalle fija continental;2500;4532;4488;8187; ; ; ; ;405;648; ; ; ; ;;
+Plaza de mercado (La Dorada)_Línea de mano fija continental;4205;10097;2201;3273; ; ; ; ; ; ; ; ; ; ;;
+Lomita Arena_Chinchorro marino; ; ;7020;19082; ; ; ; ; ; ; ; ; ; ;;
+Paujil_Línea de mano fija continental;3078;7921;5556;5556; ; ; ; ; ; ; ; ; ; ;;
+Uveros_Red de enmalle camaronera;2189;5500;2144;7332; ; ; ; ;204;775; ; ; ; ;;
+Barrio La Unión_Red de enmalle langostera;937;1307;1306;2236;10000;10000;10000;10000; ; ; ; ; ; ;;
+Paujil_Palangre calandrio;1511;3715;1796;3626; ; ; ; ; ; ; ; ; ; ;;
+San Miguel (Puerto Gaitán)_Red de enmalle fija continental;3462;7549;1961;10660; ; ; ; ;288;412; ; ; ; ;;
+Punta Bonita_Red de enmalle camaronera;5556;10000;8345;26533; ; ; ; ;4008;17900; ; ;20000;20000;;
+Río San Miguel_Atarraya; ; ;5143;5143; ; ; ; ; ; ; ; ; ; ;;
+Playa Nueva_Red de enmalle camaronera;1914;7829;4940;13211; ; ; ; ; ; ; ; ; ; ;;
+Las Delicias_Buceo de langosta; ; ;1713;4004; ; ; ; ; ; ; ; ; ; ;;
+Bazán La Bocana_Red de enmalle camaronera;1559;6471;2886;13176; ; ; ; ;264;1535; ; ; ; ;;
+Bazán La Bocana_Red de arrastre artesanal o changa;4719;12309;10105;15937; ; ; ; ;522;2037; ; ; ; ;;
+Puerto de desembarco (Barrancominas)_Red de enmalle fija continental;1659;9750;1401;10586; ; ; ; ; ; ; ; ; ; ;;
+La Ensenada_Red de enmalle camaronera;2916;6469;4200;11368; ; ; ; ; ; ; ; ; ; ;;
+Betania - Naya_Red de enmalle camaronera;3064;5894;6018;12012; ; ; ; ;1009;2309; ; ; ; ;;
+Méjico_Atarraya; ; ;2312;3010; ; ; ; ; ; ; ; ; ; ;;
+Amarales_Red de enmalle camaronera;4021;10000;2360;5353; ; ; ; ; ; ; ; ; ; ;;
+Curillo_Atarraya;7593;7593;4457;6853; ; ; ; ;973;973; ; ; ; ;;
+Vigía_Red de enmalle camaronera;2500;4167;1875;3600; ; ; ; ; ; ; ; ; ; ;;
+El Puerto (Tumaco)_Red de enmalle fija marina;3224;7035;2695;4251; ; ; ; ;593;855; ; ; ; ;;
+Nueva Ola_Red de enmalle fija continental; ; ;194;337; ; ; ; ; ; ; ; ; ; ;;
+Armenia_Palangre calandrio;1245;1544; ; ; ; ; ; ;197;275; ; ;2000;4000;;
+Muelles del Camarón_Red de arrastre artesanal o changa;4261;7116;13684;20408; ; ; ; ; ; ; ; ; ; ;;
+Santa Cruz - Naya_Red de enmalle camaronera;2958;5718;5095;11262; ; ; ; ;1087;1755; ; ; ; ;;
+Costilla_Chinchorro continental;3060;3826; ; ; ; ; ; ;110;198; ; ; ; ;;
+El Muelle (Barrancabermeja)_Palangre calandrio;2563;4147;1937;4672; ; ; ; ;171;852;7400;16150; ; ;;
+Playa Totumo_Línea de mano fija marina;1980;2249;3271;3602; ; ; ; ;687;720; ; ; ; ;;
+Clarinetero_Línea de mano fija continental;5233;12344;1132;1257; ; ; ; ;1251;2437; ; ; ; ;;
+Laguna Colorada_Flecha;3000;3000; ; ; ; ; ; ; ; ; ; ; ; ;;
+Cooperativas - Pueblo Nuevo_Red de enmalle camaronera;1812;4148;1554;5283; ; ; ; ;728;1797; ; ; ; ;;
+El Muelle (Puerto López)_Palangre calandrio;2844;5501;1516;2082; ; ; ; ;332;584;10000;10000;10000;10000;;
+Puerto Abajo (Dibulla)_Red de enmalle langostera;882;1041;2703;3716; ; ; ; ; ; ; ; ; ; ;;
+Campo alegre_Atarraya; ; ;2997;3329; ; ; ; ; ; ; ; ; ; ;;
+El Muelle (Barrancabermeja)_Chinchorro continental;2035;3883;4159;7335; ; ; ; ;527;2231; ; ; ; ;;
+Casco Urbano (Arauca)_Chinchorro continental;1163;1256;1225;1298; ; ; ; ;514;599; ; ; ; ;;
+Miramar - Bahía Málaga_Red de enmalle de deriva marina; ; ;3102;5167; ; ; ; ;700;1705; ; ; ; ;;
+Charambirá_Línea de mano fija marina; ; ;9300;17400; ; ; ; ; ; ; ; ; ; ;;
+La Gloria_Atarraya puesteo;2055;5750;2453;7327; ; ; ; ; ; ;2150;42750; ; ;;
+Cartagena del Chairá_Línea de mano fija continental;1730;2877;2050;2897; ; ; ; ;599;789; ; ; ; ;;
+Mapiripán_Chinchorro continental;4667;4667;8554;16294; ; ; ; ; ; ; ; ; ; ;;
+Bahía de Cispatá_Buceo de peces;3509;4922;1695;2202; ; ; ; ;200;206; ; ;6150;8850;;
+Casino_Red de enmalle fija marina;1459;1459;3371;3371; ; ; ; ;560;560; ; ;10000;10000;;
+El Porvenir_Línea de mano correteo curricán o trolling; ; ;1191;4507; ; ; ; ;257;335;15250;19750; ; ;;
+Villanueva_Atarraya; ; ; ; ; ; ; ; ; ; ; ; ; ; ;;
+Punta de blanco_Atarraya; ; ; ; ; ; ; ; ; ; ; ; ; ; ;;
+La Rampa (Barrancabermeja)_Palangre calandrio;2043;3337;2933;8042; ; ; ; ;1829;6178;12000;13650; ; ;;
+Candelaria (Chimichagua)_Atarraya;1785;3536;1054;2787; ; ; ; ;128;248; ; ;2000;2000;;
+El Pedral_Palangre calandrio; ; ;352;876; ; ; ; ; ; ; ; ;5000;5000;;
+Puerto Miraflores_Red de enmalle marina de fondo;1263;9612;2664;13620; ; ; ; ;493;2690; ; ; ; ;;
+Quiroga_Red de enmalle camaronera;3119;4592;5331;7134; ; ; ; ;413;511; ; ; ; ;;
+Puerto de desembarco (Mitú)_Nasas de Peces;2756;3720;2162;2162; ; ; ; ; ; ; ; ; ; ;;
+La Tagua_Línea de mano fija continental; ; ;529;1895; ; ; ; ; ; ;4500;5000; ; ;;
+Bocanegra_Palangre o espinel de fondo;3708;5000;2483;4069; ; ; ; ; ; ; ; ;4000;5000;;
+Buenavista (La Dorada)_Red de enmalle de encierro continental;3513;4482;3566;4452; ; ; ; ;269;384; ; ; ; ;;
+Cartagena del Chairá_Atarraya; ; ;1250;1250; ; ; ; ;625;625; ; ; ; ;;
+Guacamayo_Red de enmalle de deriva continental; ; ;3509;8470; ; ; ; ; ; ; ; ; ; ;;
+Honda_Nasas de Peces;3692;5857; ; ; ; ; ; ; ; ;32800;58000;6350;10650;;
+La Gloria_Línea de mano fija continental;1819;3953; ; ; ; ; ; ; ; ; ; ; ; ;;
+Puerto Ciénaga de Paredes_Nasas de Peces; ; ;466;635; ; ; ; ; ; ;5000;7000; ; ;;
+Puerto Rico [Meta]_Red de enmalle fija continental;2432;3602;2950;4031; ; ; ; ;267;355; ; ; ; ;;
+El Muelle (Puerto López)_Red de enmalle de deriva continental;9804;9804;7059;7059; ; ; ; ;1176;1176; ; ; ; ;;
+Clarinetero_Chinchorro continental;5614;5614; ; ; ; ; ; ;1474;1474; ; ; ; ;;
+Santuario_Palangre calandrio;2055;2055;3288;3288; ; ; ; ;274;274; ; ; ; ;;
+Sapzurro_Buceo de peces;3166;3755;2552;5579; ; ; ; ; ; ; ; ; ; ;;
+Caño Grande_Línea de mano fija continental;2000;2000; ; ; ; ; ; ; ; ; ; ; ; ;;
+Chontal_Palangre o espinel de superficie; ; ;5354;16232; ; ; ; ; ; ; ; ; ; ;;
+Puerto Principal (Puerto Lleras)_Red de enmalle de deriva continental;4667;4667;5200;5200; ; ; ; ; ; ; ; ; ; ;;
+Damaquiel_Red de enmalle camaronera;3319;3319;3253;10736; ; ; ; ;216;1239; ; ; ; ;;
+Costilla_Atarraya;2793;6678; ; ; ; ; ; ;71;213; ; ; ; ;;
+Costilla_Palangre calandrio;2417;3508; ; ; ; ; ; ;65;125; ; ; ; ;;
+Ica-Copipa_Buceo marino mixto;5162;10849;4158;10385; ; ; ; ; ; ; ; ; ; ;;
+La Tagua_Red de enmalle fija continental; ; ;452;519; ; ; ; ; ; ;5000;5000; ; ;;
+Casco Urbano (San Juan de Urabá)_Red de arrastre artesanal o changa;1729;4254;4494;11939; ; ; ; ;346;1309; ; ; ; ;;
+Sapzurro_Red de enmalle de encierro marina; ; ;14545;14545; ; ; ; ; ; ; ; ; ; ;;
+El Llanito_Línea de mano fija continental;4167;4167;7500;7500; ; ; ; ;500;500;8000;8000; ; ;;
+El Pedral_Línea de mano fija continental; ; ; ; ; ; ; ; ; ; ; ; ;5000;5000;;
+Sivirú_Red de enmalle camaronera;3513;6496;3168;5962; ; ; ; ; ; ; ; ; ; ;;
+Orpua_Red de enmalle camaronera; ; ;3293;13696; ; ; ; ; ; ; ; ; ; ;;
+Docordó_Línea de mano fija marina;4380;8790;1564;9294; ; ; ; ; ; ; ; ; ; ;;
+Puerto de Bolombolo_Línea de mano fija continental; ; ; ; ; ; ; ; ; ; ;5000;5000; ; ;;
+Camarones_Línea de mano fija marina;1743;3865;3614;8975; ; ; ; ;449;823; ; ; ; ;;
+Purricha_Red de enmalle camaronera;2513;4739;5633;9704; ; ; ; ;512;873; ; ; ; ;;
+Pizarro_Red de enmalle camaronera;2452;5531;2744;4608; ; ; ; ; ; ; ; ; ; ;;
+Muelles del Camarón_Red de enmalle fija marina;3778;4571;3084;4826; ; ; ; ;324;324; ; ; ; ;;
+Pesquera Aspabab_Red de enmalle camaronera;3007;5025;2248;6386; ; ; ; ;521;1483; ; ; ; ;;
+Laguna Colorada_Red de enmalle de deriva continental;1258;1317; ; ; ; ; ; ; ; ; ; ; ; ;;
+Puerto Rico [Meta]_Línea de mano fija continental;8223;8959; ; ; ; ; ; ; ; ; ; ; ; ;;
+Puerto Chucha_Palangre o espinel de fondo; ; ;966;1758; ; ; ; ; ; ; ; ; ; ;;
+Bahía de Cispatá_Red de arrastre artesanal o changa;2171;2884;4029;13369; ; ; ; ;146;173; ; ;8000;8000;;
+Puerto Chaparro_Barredera; ; ; ; ; ; ; ; ;196;215; ; ; ; ;;
+Loma - San Sebastián_Atarraya;1798;5080; ; ; ; ; ; ;155;672; ; ; ; ;;
+Casco Urbano (San Juan de Urabá)_Red de enmalle de deriva marina;1100;2108;5105;7954; ; ; ; ;443;649; ; ; ; ;;
+San Alejandro_Línea de mano fija continental; ; ;1455;7802; ; ; ; ; ; ; ; ; ; ;;
+Muelle Hong Kong_Palangre calandrio;2740;4990;1858;5913; ; ; ; ;1098;1098; ; ;50000;50000;;
+Concepción - Tacamocho_Atarraya; ; ; ; ; ; ; ; ;207;207; ; ; ; ;;
+Casco Urbano (Arauca)_Red de enmalle fija continental;1833;9800;1252;3129; ; ; ; ;308;1097; ; ; ; ;;
+Curillo_Red de enmalle fija continental; ; ;4799;4799; ; ; ; ;1200;1200; ; ; ; ;;
+Soledad Pueblito_Red de enmalle de encierro marina;1562;3196;7968;19470; ; ; ; ;469;1145; ; ; ; ;;
+Soledad Pueblito_Línea de mano fija marina;4523;7340;7690;12478; ; ; ; ;452;734; ; ; ; ;;
+Soledad Pueblito_Red de enmalle camaronera;2448;4753;8325;16161; ; ; ; ;490;951; ; ; ; ;;
+El Muelle (Puerto López)_Atarraya;5333;5333;4000;4000; ; ; ; ;800;800; ; ; ; ;;
+Damaquiel_Palangre o espinel de fondo; ; ;1399;1945; ; ; ; ;88;163; ; ; ; ;;
+Limones_Red de arrastre artesanal o changa;5767;5767;17301;17301; ; ; ; ;1153;1153; ; ; ; ;;
+Limones_Red de enmalle camaronera;2790;5572;5209;14782; ; ; ; ;372;439; ; ; ; ;;
+Santuario_Red de enmalle fija continental;1952;5900;1346;4792; ; ; ; ;129;129; ; ; ; ;;
+La Pedrera_Línea de mano fija continental;5310;6175;1697;4439; ; ; ; ;1913;1913; ; ; ; ;;
+Puerto de las Canoas (Puerto Berrío)_Atarraya rastra;1894;4219;5563;8652; ; ; ; ;531;697; ; ; ; ;;
+Muelles del Camarón_Red de enmalle de deriva marina;1973;7467;3073;11912; ; ; ; ;508;1308; ; ;61000;79000;;
+Puerto Real - Saloa_Palangre calandrio;1233;2118;1058;1501; ; ; ; ;104;213; ; ;1000;1000;;
+Las Delicias_Línea de mano fija marina; ; ;980;3043; ; ; ; ;198;440;3000;5550; ; ;;
+El Pájaro_Buceo marino mixto; ; ;2480;3433; ; ; ; ; ; ; ; ; ; ;;
+Mantequera_Chinchorro continental;2424;2424; ; ; ; ; ; ;182;182; ; ;3000;3000;;
+Puerto de las Canoas (Puerto Berrío)_Chinchorra mallona;583;1689;1142;3995; ; ; ; ;356;1117; ; ; ; ;;
+Puerto Boca_Barredera; ; ; ; ; ; ; ; ;427;427; ; ; ; ;;
+Mapiripán_Línea de mano fija continental; ; ;3561;5589; ; ; ; ; ; ; ; ; ; ;;
+Palomar_Atarraya; ; ; ; ; ; ; ; ; ; ; ; ; ; ;;
+Pesqueras - Pueblo Nuevo_Red de enmalle de deriva marina;2555;2555;10093;10093; ; ; ; ;2523;2523; ; ;2,00E+05;2,00E+05;;
+Pueblo Lindo o Caimanera_Atarraya;3499;5000; ; ; ; ; ; ;201;419; ; ; ; ;;
+La Pedrera_Atarraya;3171;3171;4176;4176; ; ; ; ; ; ; ; ; ; ;;
+Puerto Principal (Puerto Lleras)_Red de enmalle fija continental;4839;4960;3781;4352; ; ; ; ; ; ; ; ; ; ;;
+Yaguará_Arpón;1965;1965;1501;1501; ; ; ; ;214;214; ; ; ; ;;
+Puerto Abajo (Dibulla)_Línea de mano fija marina;10000;10000; ; ; ; ; ; ; ; ;10000;10000; ; ;;
+Chapinero_Red de enmalle fija continental;1867;3645; ; ; ; ; ; ;202;237; ; ;20000;30000;;
+Puerto Arriba (Dibulla)_Línea de mano fija marina;2890;2890;5058;5058; ; ; ; ; ; ;6000;6000; ; ;;
+Puerto Amor_Arpón;4091;4091; ; ; ; ; ; ;273;273; ; ; ; ;;
+Las Balsas_Palangre calandrio;3650;3650;2044;2044; ; ; ; ;584;584;10000;10000;10000;10000;;
+Guacamayo_Barredera;6339;7143;1450;2063; ; ; ; ; ; ; ; ; ; ;;
+Uveros_Red de enmalle de deriva marina;1906;2546;4938;6431; ; ; ; ;461;843; ; ; ; ;;
+Robles_Atarraya;1444;3575; ; ; ; ; ; ;306;535; ; ; ; ;;
+Damaquiel_Red de enmalle de deriva marina; ; ;6315;7549; ; ; ; ;429;1335; ; ; ; ;;
+Puerto de las Canoas (Puerto Berrío)_Chinchorra menuda;1016;2152;2965;5816; ; ; ; ;549;5072; ; ; ; ;;
+Las Flores_Palangre o espinel de superficie;1632;4226;5143;11683; ; ; ; ;685;1645;20000;24250; ; ;;
+Palanca_Atarraya rastra; ; ;4556;6556; ; ; ; ; ; ; ; ; ; ;;
+Puerto de desembarco (Barrancominas)_Red de enmalle de deriva continental;1401;9734;2787;5825; ; ; ; ; ; ; ; ; ; ;;
+Puerto La Candelaria_Palangre calandrio; ; ; ; ; ; ; ; ; ; ; ; ; ; ;;
+Pueblo Nuevo (Barrancominas)_Red de enmalle de deriva continental;1796;1796; ; ; ; ; ; ; ; ; ; ; ; ;;
+Tribugá_Palangre o espinel de fondo; ; ;1334;1373; ; ; ; ; ; ; ; ; ; ;;
+San Antonio de Padua_Línea de mano fija continental;6667;6667;2400;2400; ; ; ; ; ; ; ; ; ; ;;
+Mulatos_Palangre o espinel de superficie; ; ; ; ; ; ; ; ; ; ; ; ; ; ;;
+Macurutú - Saloa_Palangre calandrio; ; ; ; ; ; ; ; ; ; ; ; ; ; ;;
+Puerto del Pescado (San José Del Guaviare)_Redes de trasmallo; ; ;13333;13433; ; ; ; ; ; ; ; ; ; ;;
+Buenavista (La Dorada)_Red de enmalle fija continental; ; ;2721;2721; ; ; ; ; ; ; ; ; ; ;;
+San José_Red de encierro rastra; ; ;4382;6655; ; ; ; ;511;965; ; ; ; ;;
+Mapiripán_Red de enmalle fija continental;1590;1590;1510;1510; ; ; ; ; ; ; ; ; ; ;;
+Nueva Colonia_Palangre o espinel de superficie;2267;2267;3627;3627; ; ; ; ;907;907; ; ; ; ;;
+Guineal_Red de enmalle de deriva marina;2500;2500; ; ; ; ; ; ; ; ; ; ;6000;6000;;
+Ica-Copipa_Línea de mano correteo curricán o trolling; ; ;4429;4429; ; ; ; ; ; ; ; ; ; ;;
+Puerto Serviez_Chinchorro continental;705;705;3950;3950; ; ; ; ; ; ; ; ; ; ;;

@@ -1,1603 +1,1603 @@
 ﻿SITIO_DESEMBARCO_METODO_DE_PESCA;Cuartil_inf_horas_trab_hist;Cuartil_sup_horas_trab_hist;Cuartil_inf_profundidad_hist;Cuartil_sup_profundidad_hist
 Tasajera La Playa_Red de enmalle fija marina;9;21;4;31
-Morrosquillo_Línea de mano;3,42;8,25;4;12
-Tasajera La Playa_Palangre o espinel de fondo;7;20,75;9;61
-Morrosquillo_Atarraya;2,5;6,67;3;12
-Casino_Línea de mano;5,5;67,62;5;76
-Casino_Palangre o espinel de fondo;6;43,9;10;32
-Casino_Red de enmalle fija marina;11;90,07;14;42
-La Charca de Guarinocito_Atarraya;1,85;5,72;2;2
+Morrosquillo_Línea de mano;3;8;4;12
+Tasajera La Playa_Palangre o espinel de fondo;7;21;9;61
+Morrosquillo_Atarraya;2;7;3;12
+Casino_Línea de mano;6;68;5;76
+Casino_Palangre o espinel de fondo;6;44;10;32
+Casino_Red de enmalle fija marina;11;90;14;42
+La Charca de Guarinocito_Atarraya;2;6;2;2
 El Puente_Atarraya;4;8;2;6
-El Puente_Red de encierro chuchaca;4;13,22;4;7
-El Puente_Red de enmalle de deriva continental;3,5;11;4;6
-Bocanegra_Red de enmalle fija marina;5;25,07;1;10
+El Puente_Red de encierro chuchaca;4;13;4;7
+El Puente_Red de enmalle de deriva continental;4;11;4;6
+Bocanegra_Red de enmalle fija marina;5;25;1;10
 Bocanegra_Chinchorro marino;2;9;2;6
 Puerto Chucha_Red de enmalle fija marina;7;24;3;7
 Puerto Chucha_Red de enmalle fija continental;7;16;1;3
-Puerto Chucha_Red de enmalle de deriva marina;11,76;18;6;20
-Puerto Colorado_Palangre calandrio;14,24;20,56;3;5
-Puerto Colorado_Red de enmalle de deriva continental;2,42;11,75;4;6
-Caño Grande_Red de enmalle fija continental;16;18,83;2;3
-Puerto Colorado_Atarraya;2,25;6,08;2;5
-Caño Grande_Atarraya;2,5;7;2;3
-Puerto Colorado_Red de enmalle fija continental;14,5;19,17;2;5
-San Nicolás (Nechí)_Red de enmalle de deriva continental;3,25;13;3;6
-Belén (San Marcos)_Red de enmalle fija continental;15,5;19,33;1;4
+Puerto Chucha_Red de enmalle de deriva marina;12;18;6;20
+Puerto Colorado_Palangre calandrio;14;21;3;5
+Puerto Colorado_Red de enmalle de deriva continental;2;12;4;6
+Caño Grande_Red de enmalle fija continental;16;19;2;3
+Puerto Colorado_Atarraya;2;6;2;5
+Caño Grande_Atarraya;2;7;2;3
+Puerto Colorado_Red de enmalle fija continental;14;19;2;5
+San Nicolás (Nechí)_Red de enmalle de deriva continental;3;13;3;6
+Belén (San Marcos)_Red de enmalle fija continental;16;19;1;4
 Belén (San Marcos)_Atarraya;5;10;2;6
-San Nicolás (Nechí)_Palangre calandrio;14,23;19,67;2;4
-Belén (San Marcos)_Red de enmalle de deriva continental;4,58;13;3;6
-San Nicolás (Nechí)_Red de enmalle fija continental;14;22,67;2;4
-San Nicolás (Nechí)_Atarraya;3,5;10,5;2;4
-Belén (San Marcos)_Red de encierro chuchaca;5;12,75;2;5
-Belén (San Marcos)_Nasas de Peces;11,75;15;2;5
+San Nicolás (Nechí)_Palangre calandrio;14;20;2;4
+Belén (San Marcos)_Red de enmalle de deriva continental;5;13;3;6
+San Nicolás (Nechí)_Red de enmalle fija continental;14;23;2;4
+San Nicolás (Nechí)_Atarraya;4;10;2;4
+Belén (San Marcos)_Red de encierro chuchaca;5;13;2;5
+Belén (San Marcos)_Nasas de Peces;12;15;2;5
 Palo Alto_Red de enmalle fija continental;15;19;3;6
-Palo Alto_Red de enmalle de deriva continental;5,4;14;3;6
-Puerto Chaparro_Red de enmalle de deriva continental;5,17;15,5;4;6
-Palo Alto_Red de encierro chuchaca;3,6;14,4;3;4
-Santropel - San Sebastián_Red de enmalle fija continental;18,97;25,25;1;10
-Santropel - San Sebastián_Atarraya;3,78;9,58;1;9
-Puerto Chaparro_Red de enmalle fija continental;15;22,58;2;4
-Puerto Caracolí_Cóngolo;2;13,65;2;4
+Palo Alto_Red de enmalle de deriva continental;5;14;3;6
+Puerto Chaparro_Red de enmalle de deriva continental;5;16;4;6
+Palo Alto_Red de encierro chuchaca;4;14;3;4
+Santropel - San Sebastián_Red de enmalle fija continental;19;25;1;10
+Santropel - San Sebastián_Atarraya;4;10;1;9
+Puerto Chaparro_Red de enmalle fija continental;15;23;2;4
+Puerto Caracolí_Cóngolo;2;14;2;4
 Puerto Caracolí_Nasas de Peces;5;12;2;5
-Puerto Caracolí_Atarraya;2,23;12,6;2;4
-Loma - San Sebastián_Red de enmalle fija continental;4;24,33;1;4
+Puerto Caracolí_Atarraya;2;13;2;4
+Loma - San Sebastián_Red de enmalle fija continental;4;24;1;4
 Puerto Caracolí_Línea de mano;7;14;2;5
-Puerto Chaparro_Palangre calandrio;14,33;21,56;2;4
-Buenavista (La Dorada)_Red de enmalle de deriva continental;2,84;13,99;2;5
-Buenavista (La Dorada)_Atarraya;3,17;16,27;2;4
-Buenavista (La Dorada)_Red de enmalle fija continental;2,72;32,49;2;4
-Puerto Chaparro_Atarraya;4;14,26;2;6
-Palenquito_Red de enmalle fija continental;11,5;18,67;1;4
-Puerto López_Red de enmalle fija continental;15,5;22,5;2;4
-Cerro del Rosario_Red de enmalle fija continental;13;15,33;2;5
-Rincón_Red de enmalle fija continental;18,5;22,5;1;5
-Rincón_Red de enmalle de encierro continental;3,92;8,55;1;2
+Puerto Chaparro_Palangre calandrio;14;22;2;4
+Buenavista (La Dorada)_Red de enmalle de deriva continental;3;14;2;5
+Buenavista (La Dorada)_Atarraya;3;16;2;4
+Buenavista (La Dorada)_Red de enmalle fija continental;3;32;2;4
+Puerto Chaparro_Atarraya;4;14;2;6
+Palenquito_Red de enmalle fija continental;12;19;1;4
+Puerto López_Red de enmalle fija continental;16;22;2;4
+Cerro del Rosario_Red de enmalle fija continental;13;15;2;5
+Rincón_Red de enmalle fija continental;18;22;1;5
+Rincón_Red de enmalle de encierro continental;4;9;1;2
 Robles_Red de enmalle fija continental;18;26;1;5
-Mamón_Red de enmalle fija continental;19;23,69;1;5
-Rincón_Atarraya;4,75;8;1;5
-Marralú_Red de enmalle fija continental;15;20,17;1;4
-Marralú_Red de enmalle de deriva continental;3,5;7,5;4;7
-Marralú_Atarraya;3,75;6,75;2;6
-Palotal_Red de enmalle fija continental;17;20,58;2;3
-Palotal_Atarraya;3,35;6,45;2;3
-El Puente_Red de encierro rastra;3,5;14,5;4;6
+Mamón_Red de enmalle fija continental;19;24;1;5
+Rincón_Atarraya;5;8;1;5
+Marralú_Red de enmalle fija continental;15;20;1;4
+Marralú_Red de enmalle de deriva continental;4;8;4;7
+Marralú_Atarraya;4;7;2;6
+Palotal_Red de enmalle fija continental;17;21;2;3
+Palotal_Atarraya;3;6;2;3
+El Puente_Red de encierro rastra;4;14;4;6
 Bahía de Cispatá_Red de enmalle de encierro marina;5;12;2;10
-Bahía de Cispatá_Chinchorro marino;5;9,58;2;4
-Bahía de Cispatá_Palangre o espinel de fondo;6,02;10;2;12
-Bahía de Cispatá_Red de enmalle fija marina;13,5;18;2;10
+Bahía de Cispatá_Chinchorro marino;5;10;2;4
+Bahía de Cispatá_Palangre o espinel de fondo;6;10;2;12
+Bahía de Cispatá_Red de enmalle fija marina;14;18;2;10
 Bahía de Cispatá_Atarraya;5;9;1;3
 Bahía de Cispatá_Línea de mano;6;11;2;7
-Santiago Apóstol_Red de enmalle fija continental;16,5;20,5;3;5
-Robles_Red de enmalle de encierro continental;5;9,67;1;2
-Barrio Abajo (Ciénaga)_Red de arrastre artesanal o changa;3,8;8,13;3;11
-Barrio Abajo (Ciénaga)_Red de enmalle fija marina;7,36;19,97;5;29
-Santiago Apóstol_Atarraya;3,31;6,89;3;5
-Puente Chambacú - Río Jella_Línea de mano;7,75;100;18;35
+Santiago Apóstol_Red de enmalle fija continental;16;20;3;5
+Robles_Red de enmalle de encierro continental;5;10;1;2
+Barrio Abajo (Ciénaga)_Red de arrastre artesanal o changa;4;8;3;11
+Barrio Abajo (Ciénaga)_Red de enmalle fija marina;7;20;5;29
+Santiago Apóstol_Atarraya;3;7;3;5
+Puente Chambacú - Río Jella_Línea de mano;8;100;18;35
 Playa Necoclí_Red de enmalle fija marina;5;80;6;15
-Muelle Pescadores (Puerto Boyacá)_Atarraya;10,25;18,01;2;5
-Muelle Pescadores (Puerto Boyacá)_Palangre calandrio;10,38;16,24;2;5
-Puerto Miraflores_Línea de mano;9,77;41,72;16;45
-Puerto Miraflores_Red de enmalle fija marina;1,25;16,67;7;25
-Puerto Miraflores_Palangre o espinel de fondo;2,67;58,91;15;70
-Muelle Pescadores (Puerto Boyacá)_Chinchorro continental;8,66;35,59;3;6
-Caño Lobo_Red de enmalle fija marina;14,58;21;2;3
-Gaira_Red de enmalle de encierro marina;1,18;4,41;14;35
-Gaira_Chinchorro de jala playa;0,77;7,82;15;35
-Caño Lobo_Recolección manual de ostra;3,67;7;1;2
-Ica-Copipa_Línea de mano correteo curricán o trolling;2,58;5,08;10;30
-Puerto de los Jhonsons (Puerto Boyacá)_Palangre calandrio;11,5;17;2;6
-Puerto de los Jhonsons (Puerto Boyacá)_Atarraya;11,17;16,96;2;5
+Muelle Pescadores (Puerto Boyacá)_Atarraya;10;18;2;5
+Muelle Pescadores (Puerto Boyacá)_Palangre calandrio;10;16;2;5
+Puerto Miraflores_Línea de mano;10;42;16;45
+Puerto Miraflores_Red de enmalle fija marina;1;17;7;25
+Puerto Miraflores_Palangre o espinel de fondo;3;59;15;70
+Muelle Pescadores (Puerto Boyacá)_Chinchorro continental;9;36;3;6
+Caño Lobo_Red de enmalle fija marina;15;21;2;3
+Gaira_Red de enmalle de encierro marina;1;4;14;35
+Gaira_Chinchorro de jala playa;1;8;15;35
+Caño Lobo_Recolección manual de ostra;4;7;1;2
+Ica-Copipa_Línea de mano correteo curricán o trolling;3;5;10;30
+Puerto de los Jhonsons (Puerto Boyacá)_Palangre calandrio;12;17;2;6
+Puerto de los Jhonsons (Puerto Boyacá)_Atarraya;11;17;2;5
 Caño Lobo_Buceo de caracol;5;8;2;3
-Ica-Copipa_Red de enmalle fija marina;12,5;19;7;30
+Ica-Copipa_Red de enmalle fija marina;12;19;7;30
 Caño Lobo_Atarraya;6;11;2;3
-Puerto Asure_Línea de mano;17,73;42,75;1;6
-Puerto Asure_Red de enmalle fija continental;15,5;49,55;1;6
-Puerto Serviez_Red de enmalle de deriva continental;4;42,17;3;6
-Gaira_Línea de mano;3,05;13,99;20;50
-Puerto Serviez_Atarraya;6,33;17,17;2;5
-Gaira_Línea de mano correteo curricán o trolling;2,5;2,5;30;30
+Puerto Asure_Línea de mano;18;43;1;6
+Puerto Asure_Red de enmalle fija continental;16;50;1;6
+Puerto Serviez_Red de enmalle de deriva continental;4;42;3;6
+Gaira_Línea de mano;3;14;20;50
+Puerto Serviez_Atarraya;6;17;2;5
+Gaira_Línea de mano correteo curricán o trolling;2;2;30;30
 La Playa (El Banco)_Red de enmalle de deriva continental;6;14;4;6
-Arrimadero La Unión_Palangre o espinel de fondo;5,75;149,96;25;135
+Arrimadero La Unión_Palangre o espinel de fondo;6;150;25;135
 Bahía de Cispatá_Arpón;5;9;2;3
 Caño Lobo_Línea de mano;7;13;2;3
-Gaira_Red de enmalle fija marina;11;14,99;18;40
-Puerto Amor_Red de enmalle fija continental;15,24;45,55;2;6
-Villanueva_Línea de mano;3,38;7,83;20;25
-Morrosquillo_Buceo de peces;2,5;6;4;11
-Puerto Chucha_Atarraya;3,5;21,5;1;3
-La Playa (El Banco)_Chinchorra;10,17;15;3;6
-Nueva Colonia_Red de enmalle fija marina;17,33;68,13;5;6
-Las Tenazas_Palangre o espinel de fondo;4,1;23,6;4;14
-Las Tenazas_Línea de mano;4;8,5;4;16
-Jegua_Red de enmalle fija continental;16,5;20;3;8
-Puerto Chucha_Red de enmalle de encierro marina;7,33;15,97;2;17
-Jegua_Atarraya;3,06;6;4;9
-La Boquilla_Red de enmalle fija marina;6,5;15,83;2;15
+Gaira_Red de enmalle fija marina;11;15;18;40
+Puerto Amor_Red de enmalle fija continental;15;46;2;6
+Villanueva_Línea de mano;3;8;20;25
+Morrosquillo_Buceo de peces;2;6;4;11
+Puerto Chucha_Atarraya;4;22;1;3
+La Playa (El Banco)_Chinchorra;10;15;3;6
+Nueva Colonia_Red de enmalle fija marina;17;68;5;6
+Las Tenazas_Palangre o espinel de fondo;4;24;4;14
+Las Tenazas_Línea de mano;4;8;4;16
+Jegua_Red de enmalle fija continental;16;20;3;8
+Puerto Chucha_Red de enmalle de encierro marina;7;16;2;17
+Jegua_Atarraya;3;6;4;9
+La Boquilla_Red de enmalle fija marina;6;16;2;15
 La Boquilla_Chinchorro marino;3;9;5;16
-Bazurto_Línea de mano;10,72;39,07;10;40
-Bazurto_Red de enmalle fija marina;12,78;38,81;4;31
-Robles_Atarraya;6;9,03;1;5
-Playa Necoclí_Red de enmalle de encierro marina;4,55;57,8;4;6
-Pasacaballos_Atarraya;6,08;13,5;3;28
-Zapata_Red de enmalle fija marina;2,5;21,5;4;12
-Pasacaballos_Línea de mano;4,67;16,5;6;25
-Pasacaballos_Palangre o espinel de fondo;7,48;15,93;9;32
+Bazurto_Línea de mano;11;39;10;40
+Bazurto_Red de enmalle fija marina;13;39;4;31
+Robles_Atarraya;6;9;1;5
+Playa Necoclí_Red de enmalle de encierro marina;5;58;4;6
+Pasacaballos_Atarraya;6;14;3;28
+Zapata_Red de enmalle fija marina;2;22;4;12
+Pasacaballos_Línea de mano;5;16;6;25
+Pasacaballos_Palangre o espinel de fondo;7;16;9;32
 Palo Alto_Atarraya;4;10;3;6
-Loma - San Sebastián_Atarraya;3,83;9,5;1;4
+Loma - San Sebastián_Atarraya;4;10;1;4
 Caño Lobo_Recolección manual de chipi chipi;8;12;2;2
 Caño Lobo_Nasa de jaibas;3;6;1;2
 El Ferry_Red de enmalle fija continental ciénaga;14;45;2;4
-El Ferry_Red de enmalle de deriva continental;4;10,5;3;4
-El Ferry_Chinchorra;4;14,5;2;4
-Taganga_Chinchorro velao;11;13,17;2;8
-Taganga_Buceo de peces;7,75;11;24;24
-Taganga_Línea de mano;10;12,17;14;20
-Taganga_Red de enmalle fija marina;11,42;16;4;35
-Puerto de los Jhonsons (Puerto Boyacá)_Chinchorro continental;6,2;20,44;3;5
-Aparca_Atarraya;6,5;12,5;2;8
-Puerto Colorado_Chinchorro continental;2,42;13,53;2;5
-Puerto Serviez_Palangre calandrio;13,66;45;3;6
-Puerto Serviez_Chinchorro continental;11,05;15,48;2;4
-La Ceiba_Red de enmalle fija continental;16,33;19,75;2;5
-La Ceiba_Atarraya;2,83;5,67;2;7
+El Ferry_Red de enmalle de deriva continental;4;10;3;4
+El Ferry_Chinchorra;4;14;2;4
+Taganga_Chinchorro velao;11;13;2;8
+Taganga_Buceo de peces;8;11;24;24
+Taganga_Línea de mano;10;12;14;20
+Taganga_Red de enmalle fija marina;11;16;4;35
+Puerto de los Jhonsons (Puerto Boyacá)_Chinchorro continental;6;20;3;5
+Aparca_Atarraya;6;12;2;8
+Puerto Colorado_Chinchorro continental;2;14;2;5
+Puerto Serviez_Palangre calandrio;14;45;3;6
+Puerto Serviez_Chinchorro continental;11;15;2;4
+La Ceiba_Red de enmalle fija continental;16;20;2;5
+La Ceiba_Atarraya;3;6;2;7
 Caño Lobo_Arpón;5;9;2;3
 Caño Lobo_Palangre o espinel de fondo;7;22;2;7
-El Bijagual El Trébol_Red de enmalle fija continental ciénaga;10,5;17;2;4
+El Bijagual El Trébol_Red de enmalle fija continental ciénaga;10;17;2;4
 El Bijagual El Trébol_Chinchorra;8;19;2;3
-El Bijagual El Trébol_Chinchorro continental;8,5;19;2;3
-La Playa (El Banco)_Nasas de Peces;15,5;19,2;3;6
-Puerto Barrio Hachazo_Red de enmalle fija continental;14,83;18;7;14
-Puerto Barrio El Progreso_Chinchorro continental;14,92;18,5;5;12
-El Llanito_Atarraya;3;9,15;1;3
-Puerto Barrio El Progreso_Atarraya;6,81;18;3;12
-Puerto Pozuelo - La Rinconada_Red de enmalle fija continental;16,5;21,83;1;4
-El Llanito_Palangre calandrio;9,15;18,64;1;3
-La Rampa (Barrancabermeja)_Atarraya;12,79;46,95;2;6
+El Bijagual El Trébol_Chinchorro continental;8;19;2;3
+La Playa (El Banco)_Nasas de Peces;16;19;3;6
+Puerto Barrio Hachazo_Red de enmalle fija continental;15;18;7;14
+Puerto Barrio El Progreso_Chinchorro continental;15;18;5;12
+El Llanito_Atarraya;3;9;1;3
+Puerto Barrio El Progreso_Atarraya;7;18;3;12
+Puerto Pozuelo - La Rinconada_Red de enmalle fija continental;16;22;1;4
+El Llanito_Palangre calandrio;9;19;1;3
+La Rampa (Barrancabermeja)_Atarraya;13;47;2;6
 La Rampa (Barrancabermeja)_Chinchorro continental;14;39;2;6
-El Bijagual El Trébol_Nasas de Peces;16,5;20,27;3;4
-La Rampa (Barrancabermeja)_Red de enmalle de deriva continental;13;22,84;4;10
-Nueva Colonia_Flecha;9,67;21,33;2;4
-La Playa (Turbo)_Red de enmalle fija marina;9;57,33;3;30
-Real_Red de enmalle fija continental ciénaga;15,75;45;2;6
-Real_Chinchorra;8,72;19,14;2;4
-Puerto Boquillas_Red de enmalle fija continental;15,5;21,5;2;4
-Manaure Centro_Red de enmalle de encierro marina;7;11,17;9;15
-Manaure Centro_Red de enmalle de deriva marina;14,5;40;8;12
+El Bijagual El Trébol_Nasas de Peces;16;20;3;4
+La Rampa (Barrancabermeja)_Red de enmalle de deriva continental;13;23;4;10
+Nueva Colonia_Flecha;10;21;2;4
+La Playa (Turbo)_Red de enmalle fija marina;9;57;3;30
+Real_Red de enmalle fija continental ciénaga;16;45;2;6
+Real_Chinchorra;9;19;2;4
+Puerto Boquillas_Red de enmalle fija continental;16;22;2;4
+Manaure Centro_Red de enmalle de encierro marina;7;11;9;15
+Manaure Centro_Red de enmalle de deriva marina;14;40;8;12
 San Nicolás (Santa Cruz De Mompox)_Red de enmalle fija continental;16;22;1;6
-Bahía de Santa Marta_Línea de mano;2,81;14,42;20;58
-Puente Chambacú - Río Jella_Palangre o espinel de fondo;18,83;224;35;90
-Bahía de Cispatá_Nasa de jaibas;4,5;7,5;1;2
-Bahía de Santa Marta_Nasas de Peces;2,67;120,06;22;33
-Desembarcadero (Juradó)_Red de enmalle fija marina;4;48,4;15;40
-Bahía de Santa Marta_Línea de mano correteo curricán o trolling;2,35;6,25;30;65
-Macurutú - Saloa_Red de enmalle fija continental ciénaga;3,77;21;2;5
-Desembarcadero (Juradó)_Línea de mano;12,33;17,83;35;46
-Macurutú - Saloa_Atarraya;3;10,02;1;3
-La Mata_Nasas de Peces;16;18,97;2;6
-La Mata_Red de enmalle fija continental ciénaga;15,08;19,5;2;6
-Playa Necoclí_Red de enmalle camaronera;2,17;6;4;7
-Bellavista_Chinchorro de jala playa;0,7;7,77;15;38
-Bellavista_Línea de mano correteo curricán o trolling;2,28;4,83;28;47
-Bahía de Santa Marta_Red de enmalle fija marina;13,83;16,3;22;40
-Piedras Blancas_Buceo marino mixto;6;8,62;5;13
+Bahía de Santa Marta_Línea de mano;3;14;20;58
+Puente Chambacú - Río Jella_Palangre o espinel de fondo;19;224;35;90
+Bahía de Cispatá_Nasa de jaibas;4;8;1;2
+Bahía de Santa Marta_Nasas de Peces;3;120;22;33
+Desembarcadero (Juradó)_Red de enmalle fija marina;4;48;15;40
+Bahía de Santa Marta_Línea de mano correteo curricán o trolling;2;6;30;65
+Macurutú - Saloa_Red de enmalle fija continental ciénaga;4;21;2;5
+Desembarcadero (Juradó)_Línea de mano;12;18;35;46
+Macurutú - Saloa_Atarraya;3;10;1;3
+La Mata_Nasas de Peces;16;19;2;6
+La Mata_Red de enmalle fija continental ciénaga;15;20;2;6
+Playa Necoclí_Red de enmalle camaronera;2;6;4;7
+Bellavista_Chinchorro de jala playa;1;8;15;38
+Bellavista_Línea de mano correteo curricán o trolling;2;5;28;47
+Bahía de Santa Marta_Red de enmalle fija marina;14;16;22;40
+Piedras Blancas_Buceo marino mixto;6;9;5;13
 Jodedor_Red de enmalle fija marina;5;18;6;30
-Jodedor_Red de enmalle de deriva marina;12,67;16;5;45
-Villa Fátima_Red de enmalle de deriva marina;10,75;13,33;8;16
-Villa Fátima_Red de enmalle de encierro marina;8,08;11,92;10;14
+Jodedor_Red de enmalle de deriva marina;13;16;5;45
+Villa Fátima_Red de enmalle de deriva marina;11;13;8;16
+Villa Fátima_Red de enmalle de encierro marina;8;12;10;14
 Jodedor_Línea de mano;11;23;11;30
-El Riito_Red de enmalle de encierro marina;8,12;12,86;6;20
-Los Cocos_Red de enmalle de encierro marina;8,44;12,85;5;21
-La T_Red de enmalle de encierro marina;8,08;11,75;10;14
-La T_Nasas de Peces;8,2;111,71;10;28
-La Boquilla_Atarraya;3,08;7,5;1;4
-Manaure Abajo_Red de enmalle de encierro marina;6,83;11,08;9;15
-Manaure Abajo_Red de enmalle de deriva marina;13,5;22;7;41
-Las Flores_Red de enmalle de deriva marina;7,83;18;7;200
-El Uno_Red de enmalle fija marina;7,48;35,27;5;9
+El Riito_Red de enmalle de encierro marina;8;13;6;20
+Los Cocos_Red de enmalle de encierro marina;8;13;5;21
+La T_Red de enmalle de encierro marina;8;12;10;14
+La T_Nasas de Peces;8;112;10;28
+La Boquilla_Atarraya;3;8;1;4
+Manaure Abajo_Red de enmalle de encierro marina;7;11;9;15
+Manaure Abajo_Red de enmalle de deriva marina;14;22;7;41
+Las Flores_Red de enmalle de deriva marina;8;18;7;200
+El Uno_Red de enmalle fija marina;7;35;5;9
 Manaure Abajo_Palangre o espinel de fondo;9;21;15;40
-El Uno_Palangre o espinel de fondo;6,15;27,75;5;7
-Morrosquillo_Línea de mano correteo curricán o trolling;2,79;6,33;6;16
+El Uno_Palangre o espinel de fondo;6;28;5;7
+Morrosquillo_Línea de mano correteo curricán o trolling;3;6;6;16
 Las Flores_Línea de mano cometa;4;20;2;12
-Gaira_Palangre o espinel de fondo;3,28;13,95;17;35
-Bocanegra_Atarraya;5,5;8,5;2;2
-Arrimadero La Unión_Línea de mano;9,83;41,75;17;36
-San Nicolás (Nechí)_Línea de mano;14,08;19;2;4
-Puerto Arriba (Dibulla)_Red de enmalle de encierro marina;4;11,08;8;10
-Puerto Arriba (Dibulla)_Chinchorro camaronero;4,33;11,5;3;3
-Ica-Copipa_Línea de mano;2,46;8,33;8;10
-Puerto Amor_Línea de mano;14,9;23,2;2;5
-Puerto Arriba (Dibulla)_Nasas de Peces;8,85;276,84;20;43
+Gaira_Palangre o espinel de fondo;3;14;17;35
+Bocanegra_Atarraya;6;8;2;2
+Arrimadero La Unión_Línea de mano;10;42;17;36
+San Nicolás (Nechí)_Línea de mano;14;19;2;4
+Puerto Arriba (Dibulla)_Red de enmalle de encierro marina;4;11;8;10
+Puerto Arriba (Dibulla)_Chinchorro camaronero;4;12;3;3
+Ica-Copipa_Línea de mano;2;8;8;10
+Puerto Amor_Línea de mano;15;23;2;5
+Puerto Arriba (Dibulla)_Nasas de Peces;9;277;20;43
 Puerto Colorado_Línea de mano;13;17;2;6
-Barrio Abajo (Ciénaga)_Red de enmalle de encierro marina;3,87;13;7;16
-El Llanito_Red de enmalle fija continental;7,1;8;8;9
+Barrio Abajo (Ciénaga)_Red de enmalle de encierro marina;4;13;7;16
+El Llanito_Red de enmalle fija continental;7;8;8;9
 Buenavista (La Dorada)_Línea de mano;7;32;2;5
-Jodedor_Red de enmalle de encierro marina;3,5;7;4;20
-Bahía de Cispatá_Buceo de peces;4,83;9;2;4
-Taganga_Ballestilla/Palangre parguera;72,2;335;80;198
-Playa Pescadores - Capurganá_Línea de mano;3,43;13;30;230
-Arrimadero La Unión_Red de enmalle fija marina;4,12;24,1;8;18
-Puerto Arriba (Dibulla)_Red de enmalle fija marina;7,83;17,53;4;14
-Puerto Chaparro_Línea de mano;13,5;19;3;4
-Bahía de Santa Marta_Buceo de peces;1,47;5,23;10;25
-Bellavista_Línea de mano;2,33;16,46;23;50
-Barrio Abajo (Ciénaga)_Palangre o espinel de fondo;6,75;12,03;11;41
-El Riito_Red de enmalle de deriva marina;10,5;15,02;5;16
+Jodedor_Red de enmalle de encierro marina;4;7;4;20
+Bahía de Cispatá_Buceo de peces;5;9;2;4
+Taganga_Ballestilla/Palangre parguera;72;335;80;198
+Playa Pescadores - Capurganá_Línea de mano;3;13;30;230
+Arrimadero La Unión_Red de enmalle fija marina;4;24;8;18
+Puerto Arriba (Dibulla)_Red de enmalle fija marina;8;18;4;14
+Puerto Chaparro_Línea de mano;14;19;3;4
+Bahía de Santa Marta_Buceo de peces;1;5;10;25
+Bellavista_Línea de mano;2;16;23;50
+Barrio Abajo (Ciénaga)_Palangre o espinel de fondo;7;12;11;41
+El Riito_Red de enmalle de deriva marina;10;15;5;16
 El Puente_Nasas de Peces;12;15;4;7
 Caño Grande_Palangre o espinel de fondo;24;24;2;2
-Bahía de Santa Marta_Chinchorro de jala playa;0,65;16,09;12;36
-Bellavista_Palangre o espinel de fondo;2,38;6,92;22;46
-Jegua_Palangre calandrio;15,7;19,68;6;9
-Puerto Playa - Capurganá_Línea de mano;3,5;12,17;30;200
-Belén (San Marcos)_Red de encierro rastra;7,35;11,3;4;7
-Tajamar Occidental_Red de enmalle de deriva marina;4,33;7,75;3;7
-Puerto Chaparro_Nasas de Peces;11,5;14,67;2;4
-Puente Chambacú - Río Jella_Línea de mano correteo curricán o trolling;6,67;21,23;12;35
-La Playa (Turbo)_Arpón;7,41;12,5;3;6
+Bahía de Santa Marta_Chinchorro de jala playa;1;16;12;36
+Bellavista_Palangre o espinel de fondo;2;7;22;46
+Jegua_Palangre calandrio;16;20;6;9
+Puerto Playa - Capurganá_Línea de mano;4;12;30;200
+Belén (San Marcos)_Red de encierro rastra;7;11;4;7
+Tajamar Occidental_Red de enmalle de deriva marina;4;8;3;7
+Puerto Chaparro_Nasas de Peces;12;15;2;4
+Puente Chambacú - Río Jella_Línea de mano correteo curricán o trolling;7;21;12;35
+La Playa (Turbo)_Arpón;7;12;3;6
 Caño Lobo_Buceo de peces;7;10;2;4
-Mamón_Atarraya;4,5;4,5;2;2
-Zapata_Red de enmalle camaronera;5,5;33;4;10
-Taganga_Línea de mano - Ballestilla;9,83;11,76;36;80
-La Boquilla_Línea de mano;5,84;18,85;9;19
-Puerto Asure_Nasas de Peces;13,5;38,06;2;10
+Mamón_Atarraya;4;4;2;2
+Zapata_Red de enmalle camaronera;6;33;4;10
+Taganga_Línea de mano - Ballestilla;10;12;36;80
+La Boquilla_Línea de mano;6;19;9;19
+Puerto Asure_Nasas de Peces;14;38;2;10
 Villa Fátima_Buceo marino mixto;10;10;7;7
-Villanueva_Línea de mano correteo curricán o trolling;2,71;4,47;15;25
-Villanueva_Red de enmalle fija marina;13,35;13,73;8;8
+Villanueva_Línea de mano correteo curricán o trolling;3;4;15;25
+Villanueva_Red de enmalle fija marina;13;14;8;8
 El Llanito_Red de enmalle de deriva continental;7;12;2;3
-La Rampa (Barrancabermeja)_Palangre calandrio;17,7;38,08;2;7
-Buenavista (La Dorada)_Chinchorro continental;6,4;13,58;3;4
-La Rampa (Barrancabermeja)_Línea de mano;27,85;27,85;4;4
-Piedras Blancas_Red de enmalle de encierro marina;7,08;9,72;15;20
-Puerto Arango_Atarraya;8,17;12;2;5
-El Riito_Palangre o espinel de fondo;16,55;52,07;10;38
-Puerto Caracolí_Red de enmalle de deriva continental;5,55;13,15;3;5
-El Puente_Red de enmalle fija continental;14,33;18,75;2;5
-Tasajera La Playa_Red de enmalle de encierro marina;5,5;12;12;25
-Gaira_Nasas de Peces;149,86;259,89;37;40
-Puerto Asure_Atarraya;1,24;24,81;2;8
-Palo Alto_Nasas de Peces;11,5;14,3;4;6
-Puerto Arriba (Dibulla)_Palangre o espinel de fondo;6,17;9,6;4;64
-Las Tenazas_Buceo marino mixto;2,83;5,62;2;9
-Taganga_Nasas de Peces;8,15;498,35;8;55
-Casino_Buceo de peces;4,88;9,88;3;3
-La Ceiba_Palangre calandrio;18,22;19,2;3;8
-Palo Alto_Red de encierro rastra;6,7;11,59;4;6
-Villanueva_Arpón;1,93;5,08;8;8
-Bahía de Cispatá_Red de arrastre artesanal o changa;7,34;10,66;2;6
-Zapata_Arpón;4,15;9,75;5;13
-Ica-Copipa_Arpón;1,43;3;8;10
-Puerto Chaparro_Chinchorro continental;11,5;18;3;4
-Caño Lobo_Red de enmalle de encierro marina;5;9,25;2;3
+La Rampa (Barrancabermeja)_Palangre calandrio;18;38;2;7
+Buenavista (La Dorada)_Chinchorro continental;6;14;3;4
+La Rampa (Barrancabermeja)_Línea de mano;28;28;4;4
+Piedras Blancas_Red de enmalle de encierro marina;7;10;15;20
+Puerto Arango_Atarraya;8;12;2;5
+El Riito_Palangre o espinel de fondo;17;52;10;38
+Puerto Caracolí_Red de enmalle de deriva continental;6;13;3;5
+El Puente_Red de enmalle fija continental;14;19;2;5
+Tasajera La Playa_Red de enmalle de encierro marina;6;12;12;25
+Gaira_Nasas de Peces;150;260;37;40
+Puerto Asure_Atarraya;1;25;2;8
+Palo Alto_Nasas de Peces;12;14;4;6
+Puerto Arriba (Dibulla)_Palangre o espinel de fondo;6;10;4;64
+Las Tenazas_Buceo marino mixto;3;6;2;9
+Taganga_Nasas de Peces;8;498;8;55
+Casino_Buceo de peces;5;10;3;3
+La Ceiba_Palangre calandrio;18;19;3;8
+Palo Alto_Red de encierro rastra;7;12;4;6
+Villanueva_Arpón;2;5;8;8
+Bahía de Cispatá_Red de arrastre artesanal o changa;7;11;2;6
+Zapata_Arpón;4;10;5;13
+Ica-Copipa_Arpón;1;3;8;10
+Puerto Chaparro_Chinchorro continental;12;18;3;4
+Caño Lobo_Red de enmalle de encierro marina;5;9;2;3
 La T_Red de enmalle de deriva marina;15;15;5;5
 El Puente_Palangre calandrio;12;12;7;7
-Arroyito_Atarraya;2,5;5,83;3;6
-Arroyito_Línea de mano;4,19;12,4;5;18
-Arroyito_Línea de mano correteo curricán o trolling;4,23;7,5;6;13
-Bocanegra_Red de enmalle fija continental;8,1;26,27;2;3
-Arroyito_Palangre o espinel de fondo;4,98;20,57;10;16
-Puerto Pozuelo - La Rinconada_Red de enmalle de deriva continental;21,5;21,5;5;5
-Ica-Copipa_Atarraya;0,73;19,08;2;15
-Bahía de Santa Marta_Buceo marino mixto;2,08;3,87;3;15
-Zapata_Palangre o espinel de fondo;8,3;67,12;4;100
-Real_Atarraya;6,41;9,09;2;6
-Caño Grande_Red de enmalle fija marina;17;19,5;2;4
-La Playa (El Banco)_Chinchorro continental;15,1;25,5;2;4
-La Playa (El Banco)_Red de enmalle fija continental ciénaga;16,65;43,5;2;4
-El Ferry_Red de enmalle fija continental río;6,5;18,5;2;4
-Puerto Caracolí_Palangre calandrio;9,25;14;3;5
+Arroyito_Atarraya;2;6;3;6
+Arroyito_Línea de mano;4;12;5;18
+Arroyito_Línea de mano correteo curricán o trolling;4;8;6;13
+Bocanegra_Red de enmalle fija continental;8;26;2;3
+Arroyito_Palangre o espinel de fondo;5;21;10;16
+Puerto Pozuelo - La Rinconada_Red de enmalle de deriva continental;22;22;5;5
+Ica-Copipa_Atarraya;1;19;2;15
+Bahía de Santa Marta_Buceo marino mixto;2;4;3;15
+Zapata_Palangre o espinel de fondo;8;67;4;100
+Real_Atarraya;6;9;2;6
+Caño Grande_Red de enmalle fija marina;17;20;2;4
+La Playa (El Banco)_Chinchorro continental;15;26;2;4
+La Playa (El Banco)_Red de enmalle fija continental ciénaga;17;44;2;4
+El Ferry_Red de enmalle fija continental río;6;18;2;4
+Puerto Caracolí_Palangre calandrio;9;14;3;5
 Puerto Chucha_Palangre o espinel de fondo;8;19;3;7
-Taganga_Palangre o espinel de fondo;9,72;11,43;20;80
-La Playa (El Banco)_Atarraya;14,5;14,5;3;3
-Bazurto_Red de enmalle de deriva marina;12,96;17,41;4;32
-San Nicolás (Santa Cruz De Mompox)_Línea de mano;16,14;19,74;3;6
-La T_Palangre o espinel de fondo;11,77;12,22;14;31
-Cerro del Rosario_Nasas de Peces;14,25;15,75;3;4
-Las Tenazas_Chinchorro marino;4,42;6,45;4;5
-Tajamar Occidental_Línea de mano cometa;3,75;7,92;2;2
-Tajamar Occidental_Línea de mano;3,36;17,17;2;2
+Taganga_Palangre o espinel de fondo;10;11;20;80
+La Playa (El Banco)_Atarraya;14;14;3;3
+Bazurto_Red de enmalle de deriva marina;13;17;4;32
+San Nicolás (Santa Cruz De Mompox)_Línea de mano;16;20;3;6
+La T_Palangre o espinel de fondo;12;12;14;31
+Cerro del Rosario_Nasas de Peces;14;16;3;4
+Las Tenazas_Chinchorro marino;4;6;4;5
+Tajamar Occidental_Línea de mano cometa;4;8;2;2
+Tajamar Occidental_Línea de mano;3;17;2;2
 Playa Necoclí_Red de enmalle fija marina campaña;41;102;5;12
-Puerto Boquillas_Chinchorro continental;5,5;22,61;2;5
-Las Flores_Línea de mano;15,67;22,92;2;2
+Puerto Boquillas_Chinchorro continental;6;23;2;5
+Las Flores_Línea de mano;16;23;2;2
 La Boquilla_Palangre o espinel de fondo;7;17;2;15
-Puerto Chucha_Línea de mano;3,95;8,9;2;4
-La Mata_Chinchorra;6,75;18,8;2;4
-Macurutú - Saloa_Palangre calandrio;15,05;18,5;1;3
-Macurutú - Saloa_Chinchorra;7,72;12,12;1;2
-Playa Necoclí_Palangre o espinel de fondo;23,25;99,62;32;175
-San Nicolás (Nechí)_Chinchorro continental;6;19,5;3;4
+Puerto Chucha_Línea de mano;4;9;2;4
+La Mata_Chinchorra;7;19;2;4
+Macurutú - Saloa_Palangre calandrio;15;18;1;3
+Macurutú - Saloa_Chinchorra;8;12;1;2
+Playa Necoclí_Palangre o espinel de fondo;23;100;32;175
+San Nicolás (Nechí)_Chinchorro continental;6;20;3;4
 Real_Palangre calandrio;17;17;2;2
-Nueva Colonia_Palangre o espinel de fondo;14,88;45,97;5;10
-Barrio Pambelé_Red de enmalle camaronera;5;11,72;4;12
-Playa Arboletes_Red de enmalle fija marina;5;16,26;4;12
-Barrio Pambelé_Red de enmalle de encierro marina;7,2;9,26;4;7
-Barrio Pambelé_Línea de mano;11,41;55,15;19;125
+Nueva Colonia_Palangre o espinel de fondo;15;46;5;10
+Barrio Pambelé_Red de enmalle camaronera;5;12;4;12
+Playa Arboletes_Red de enmalle fija marina;5;16;4;12
+Barrio Pambelé_Red de enmalle de encierro marina;7;9;4;7
+Barrio Pambelé_Línea de mano;11;55;19;125
 Playa Necoclí_Arpón;2;2;4;4
-Pasacaballos_Red de enmalle fija marina;4,64;18,11;2;22
-Playa Arboletes_Palangre o espinel de fondo;4,53;17,1;8;12
-El Pasito_Línea de mano;13;17,78;25;25
+Pasacaballos_Red de enmalle fija marina;5;18;2;22
+Playa Arboletes_Palangre o espinel de fondo;5;17;8;12
+El Pasito_Línea de mano;13;18;25;25
 El Pasito_Red de enmalle fija marina;4;16;6;28
-Puerto Boquillas_Línea de mano;6,83;6,83;5;5
-Caño Grande_Red de enmalle de encierro marina;7,15;14,34;2;3
-Pasacaballos_Buceo de caracol;4,96;15,75;2;6
-Lamas_Atarraya;5,5;10;1;4
-Playa Arboletes_Red de enmalle camaronera;4,4;7,64;5;6
-Las Delicias_Red de enmalle de encierro marina;6;11,25;7;16
-Las Delicias_Red de enmalle fija marina;6,62;18,52;3;16
-Las Delicias_Buceo marino mixto;5,44;9,64;5;18
-Rincón del Mar_Buceo marino mixto;4,82;9,03;2;13
-Rincón del Mar_Línea de mano;4,5;10,61;4;16
-Barrio La Unión_Red de enmalle fija marina;3,43;18,5;3;14
-Puerto Velero_Línea de mano;14,22;26,02;30;81
-Puerto Velero_Red de enmalle de encierro marina;1,03;5,92;4;18
-Puerto Abajo (Dibulla)_Chinchorro camaronero;2,33;9,83;2;4
-Puerto Abajo (Dibulla)_Red de enmalle de encierro marina;4,5;11;5;10
-Barrio Pambelé_Arpón;8,83;8,83;12;12
-La T_Buceo marino mixto;7,6;7,6;9;9
-Buritaca_Red de enmalle fija marina;12,83;18,5;3;15
-Buritaca_Atarraya;2,34;9,07;1;2
-Barrio La Unión_Línea de mano;3,33;8,82;4;10
-Barrio La Unión_Palangre o espinel de fondo;5,17;18,45;4;20
-Puerto Abajo (Dibulla)_Red de enmalle fija marina;6,67;20,5;2;9
-Rincón del Mar_Red de enmalle de encierro continental;5,33;8,99;4;22
-Las Delicias_Línea de mano;6,5;11,88;5;15
-Barrio Pambelé_Red de enmalle fija marina;2,66;16,5;3;30
-Puerto Arriba (Dibulla)_Línea de mano;12,2;15,4;25;25
-Puerto Colombia_Palangre o espinel de fondo;5,55;9,45;14;29
-Puerto Colombia_Línea de mano;1,33;12;3;86
-Puerto Colombia_Red de enmalle de encierro marina;3,67;3,67;8;8
-Puerto Colombia_Chinchorro de jala playa;1,72;2,58;12;15
-Buritaca_Nasas de Peces;53,33;227;29;90
-Buritaca_Chinchorro de jala playa;2,95;8,99;3;5
-Buritaca_Palangre o espinel de fondo;4,08;20,49;35;137
-Puerto Abajo (Dibulla)_Palangre o espinel de fondo;3,82;18,11;3;45
-Desembarcadero (Juradó)_Red de enmalle fija continental;12,8;17,59;40;47
-Buritaca_Línea de mano;6,17;15,33;8;32
-Pasacaballos_Buceo marino mixto;6;8,63;2;6
-Barrio La Unión_Atarraya;3,33;10,87;2;5
-Robles_Buceo de peces;8;10,43;2;8
-Las Delicias_Palangre o espinel de fondo;10,03;18,47;14;79
-Puerto Abajo (Dibulla)_Nasas de Peces;4,43;166,5;14;40
-Puerto Colombia_Línea de mano cometa;2,05;10,17;4;5
-Puerto Velero_Nasas de Peces;6,74;16,06;41;54
-El Llanito_Línea de mano;4;15,1;1;3
-Puerto Velero_Palangre o espinel de fondo;12,94;25;12;70
-Puerto Velero_Atarraya;0,55;1,53;2;2
-Casino_Atarraya;3,45;6,3;4;6
-Puerto Boquillas_Atarraya;2,5;22;2;10
-Playa Arboletes_Línea de mano;11,59;45,5;12;60
-Puerto Abajo (Dibulla)_Línea de mano;5,45;14,1;7;22
-Gaira_Atarraya;1,05;1,95;20;20
+Puerto Boquillas_Línea de mano;7;7;5;5
+Caño Grande_Red de enmalle de encierro marina;7;14;2;3
+Pasacaballos_Buceo de caracol;5;16;2;6
+Lamas_Atarraya;6;10;1;4
+Playa Arboletes_Red de enmalle camaronera;4;8;5;6
+Las Delicias_Red de enmalle de encierro marina;6;11;7;16
+Las Delicias_Red de enmalle fija marina;7;19;3;16
+Las Delicias_Buceo marino mixto;5;10;5;18
+Rincón del Mar_Buceo marino mixto;5;9;2;13
+Rincón del Mar_Línea de mano;4;11;4;16
+Barrio La Unión_Red de enmalle fija marina;3;18;3;14
+Puerto Velero_Línea de mano;14;26;30;81
+Puerto Velero_Red de enmalle de encierro marina;1;6;4;18
+Puerto Abajo (Dibulla)_Chinchorro camaronero;2;10;2;4
+Puerto Abajo (Dibulla)_Red de enmalle de encierro marina;4;11;5;10
+Barrio Pambelé_Arpón;9;9;12;12
+La T_Buceo marino mixto;8;8;9;9
+Buritaca_Red de enmalle fija marina;13;18;3;15
+Buritaca_Atarraya;2;9;1;2
+Barrio La Unión_Línea de mano;3;9;4;10
+Barrio La Unión_Palangre o espinel de fondo;5;18;4;20
+Puerto Abajo (Dibulla)_Red de enmalle fija marina;7;20;2;9
+Rincón del Mar_Red de enmalle de encierro continental;5;9;4;22
+Las Delicias_Línea de mano;6;12;5;15
+Barrio Pambelé_Red de enmalle fija marina;3;16;3;30
+Puerto Arriba (Dibulla)_Línea de mano;12;15;25;25
+Puerto Colombia_Palangre o espinel de fondo;6;9;14;29
+Puerto Colombia_Línea de mano;1;12;3;86
+Puerto Colombia_Red de enmalle de encierro marina;4;4;8;8
+Puerto Colombia_Chinchorro de jala playa;2;3;12;15
+Buritaca_Nasas de Peces;53;227;29;90
+Buritaca_Chinchorro de jala playa;3;9;3;5
+Buritaca_Palangre o espinel de fondo;4;20;35;137
+Puerto Abajo (Dibulla)_Palangre o espinel de fondo;4;18;3;45
+Desembarcadero (Juradó)_Red de enmalle fija continental;13;18;40;47
+Buritaca_Línea de mano;6;15;8;32
+Pasacaballos_Buceo marino mixto;6;9;2;6
+Barrio La Unión_Atarraya;3;11;2;5
+Robles_Buceo de peces;8;10;2;8
+Las Delicias_Palangre o espinel de fondo;10;18;14;79
+Puerto Abajo (Dibulla)_Nasas de Peces;4;166;14;40
+Puerto Colombia_Línea de mano cometa;2;10;4;5
+Puerto Velero_Nasas de Peces;7;16;41;54
+El Llanito_Línea de mano;4;15;1;3
+Puerto Velero_Palangre o espinel de fondo;13;25;12;70
+Puerto Velero_Atarraya;1;2;2;2
+Casino_Atarraya;3;6;4;6
+Puerto Boquillas_Atarraya;2;22;2;10
+Playa Arboletes_Línea de mano;12;46;12;60
+Puerto Abajo (Dibulla)_Línea de mano;5;14;7;22
+Gaira_Atarraya;1;2;20;20
 Puerto Pozuelo - La Rinconada_Línea de mano;22;22;4;4
-Macurutú - Saloa_Nasas de Peces;19,59;43,66;6;6
-Santiago Apóstol_Palangre calandrio;16,56;17,61;6;8
-Bocanegra_Red de enmalle de encierro marina;4,75;13,65;1;3
-Buritaca_Línea de mano correteo curricán o trolling;5,58;5,58;15;15
-Jegua_Red de enmalle de deriva continental;3,88;6,75;6;7
-Las Delicias_Red de enmalle chuchera;9,22;9,22;15;15
-Puerto Asure_Red de enmalle de deriva continental;2,43;19;4;12
-Las Flores_Palangre o espinel de fondo;7;11,98;6;71
-Puerto Colombia_Atarraya;0,74;2,01;5;5
+Macurutú - Saloa_Nasas de Peces;20;44;6;6
+Santiago Apóstol_Palangre calandrio;17;18;6;8
+Bocanegra_Red de enmalle de encierro marina;5;14;1;3
+Buritaca_Línea de mano correteo curricán o trolling;6;6;15;15
+Jegua_Red de enmalle de deriva continental;4;7;6;7
+Las Delicias_Red de enmalle chuchera;9;9;15;15
+Puerto Asure_Red de enmalle de deriva continental;2;19;4;12
+Las Flores_Palangre o espinel de fondo;7;12;6;71
+Puerto Colombia_Atarraya;1;2;5;5
 Puerto Chucha_Línea de mano correteo curricán o trolling;21;21;4;4
-Barrio La Unión_Red de enmalle langostera;13,73;30,83;14;31
-Buritaca_Red de enmalle de encierro marina;7,03;7,47;6;57
+Barrio La Unión_Red de enmalle langostera;14;31;14;31
+Buritaca_Red de enmalle de encierro marina;7;7;6;57
 Tajamar Occidental_Chinchorro marino;5;5;10;10
 El Pasito_Red de enmalle de deriva marina;12;16;10;60
-Playa Arboletes_Red de enmalle de encierro marina;5,5;5,5;4;4
-Puerto Amor_Red de enmalle de deriva continental;1,89;17,25;5;14
+Playa Arboletes_Red de enmalle de encierro marina;6;6;4;4
+Puerto Amor_Red de enmalle de deriva continental;2;17;5;14
 Las Tenazas_Red de enmalle fija marina;8;8;9;9
-Las Delicias_Buceo de langosta;4,8;10,06;4;16
-San Nicolás (Santa Cruz De Mompox)_Chinchorro continental;7;11,24;1;2
-Damaquiel_Red de enmalle fija marina;7;27,5;4;24
+Las Delicias_Buceo de langosta;5;10;4;16
+San Nicolás (Santa Cruz De Mompox)_Chinchorro continental;7;11;1;2
+Damaquiel_Red de enmalle fija marina;7;28;4;24
 Uveros_Red de enmalle fija marina;6;25;2;20
-Puerto Asure_Palangre calandrio;14,8;69,83;2;8
-Puerto Pozuelo - La Rinconada_Palangre calandrio;17,75;36,29;1;3
-Puerto El Waffe marino_Red de enmalle fija marina;11,5;68;3;5
-Puerto El Waffe marino_Flecha;6,88;14,81;2;2
-Rincón del Mar_Red de enmalle de encierro marina;3,83;9,25;3;6
-Lamas_Red de enmalle fija continental;10,93;25,75;1;4
-Armenia_Red de enmalle fija continental;13;18,33;2;3
-Belén (El Banco)_Palangre calandrio;9;18,5;1;3
-Puerto las Marías  Real del Obispo_Atarraya;4;8,5;2;2
-Puerto las Marías  Real del Obispo_Red de enmalle fija continental;15,5;22,25;2;2
-Belén (El Banco)_Red de enmalle fija continental ciénaga;6,5;19,5;1;3
-Puerto La Candelaria_Red de enmalle fija continental;13,22;22,37;1;4
-Guazo_Red de enmalle fija continental;14,17;20,63;2;10
-Villa Venecia_Red de enmalle fija continental;19;23,25;1;4
-Guazo_Palangre calandrio;15;21,69;1;10
-Puerto La Candelaria_Atarraya;1;6,95;1;4
-Villa Venecia_Atarraya;5;9,5;1;4
-Puerto del Cerrito_Red de enmalle fija continental ciénaga;15;20,67;2;4
-Los Tendales_Red de enmalle fija continental;17,08;19,33;2;2
-Puerto Ciénaga de Paredes_Red de enmalle fija continental;15,17;19,42;3;7
-Puerto Montecristo_Red de enmalle fija continental;16,08;18,67;1;2
-Puerto Montecristo_Atarraya;7,17;9,42;2;4
-Orejero_Red de enmalle fija continental;9,5;20,73;1;4
-La Peinada_Red de enmalle fija continental;17,42;21,83;2;4
-Méjico_Chinchorro continental;2,67;11,96;5;6
-Méjico_Palangre calandrio;9,83;15,55;2;4
-Méjico_Red de enmalle fija continental;11,83;17,93;2;4
+Puerto Asure_Palangre calandrio;15;70;2;8
+Puerto Pozuelo - La Rinconada_Palangre calandrio;18;36;1;3
+Puerto El Waffe marino_Red de enmalle fija marina;12;68;3;5
+Puerto El Waffe marino_Flecha;7;15;2;2
+Rincón del Mar_Red de enmalle de encierro marina;4;9;3;6
+Lamas_Red de enmalle fija continental;11;26;1;4
+Armenia_Red de enmalle fija continental;13;18;2;3
+Belén (El Banco)_Palangre calandrio;9;18;1;3
+Puerto las Marías  Real del Obispo_Atarraya;4;8;2;2
+Puerto las Marías  Real del Obispo_Red de enmalle fija continental;16;22;2;2
+Belén (El Banco)_Red de enmalle fija continental ciénaga;6;20;1;3
+Puerto La Candelaria_Red de enmalle fija continental;13;22;1;4
+Guazo_Red de enmalle fija continental;14;21;2;10
+Villa Venecia_Red de enmalle fija continental;19;23;1;4
+Guazo_Palangre calandrio;15;22;1;10
+Puerto La Candelaria_Atarraya;1;7;1;4
+Villa Venecia_Atarraya;5;10;1;4
+Puerto del Cerrito_Red de enmalle fija continental ciénaga;15;21;2;4
+Los Tendales_Red de enmalle fija continental;17;19;2;2
+Puerto Ciénaga de Paredes_Red de enmalle fija continental;15;19;3;7
+Puerto Montecristo_Red de enmalle fija continental;16;19;1;2
+Puerto Montecristo_Atarraya;7;9;2;4
+Orejero_Red de enmalle fija continental;10;21;1;4
+La Peinada_Red de enmalle fija continental;17;22;2;4
+Méjico_Chinchorro continental;3;12;5;6
+Méjico_Palangre calandrio;10;16;2;4
+Méjico_Red de enmalle fija continental;12;18;2;4
 Playa Totumo_Red de enmalle fija marina;4;78;5;27
-Playa Totumo_Red de enmalle camaronera;4;55,32;4;10
-La Peinada_Atarraya;4,5;9,33;1;3
-Playa Totumo_Línea de mano;4,6;79,4;4;9
-Berrugas_Red de enmalle de encierro marina;4,5;11,15;4;7
-Chapundun_Red de enmalle fija continental;11;16,76;2;6
+Playa Totumo_Red de enmalle camaronera;4;55;4;10
+La Peinada_Atarraya;4;9;1;3
+Playa Totumo_Línea de mano;5;79;4;9
+Berrugas_Red de enmalle de encierro marina;4;11;4;7
+Chapundun_Red de enmalle fija continental;11;17;2;6
 Chapinero_Atarraya;11;17;2;6
 Chapundun_Línea de mano;11;18;2;6
-Berrugas_Buceo de peces;3,5;7,76;5;7
-El Toro_Red de enmalle fija continental;12,67;17,2;2;5
-Chapinero_Línea de mano;6;14,5;3;6
-Berrugas_Chinchorro marino;3,87;9,83;4;6
-Bocas del Atrato_Red de enmalle fija marina;13,87;15,83;2;5
-Bocas del Atrato_Flecha;7,63;18,58;2;3
-Bocas del Atrato_Buceo de peces;5,23;12,86;3;4
-Palomino_Red de enmalle fija continental;11,08;18,83;1;4
-Chapundun_Atarraya;7,5;17,29;2;6
-Chapinero_Red de enmalle fija continental;12,67;17,86;2;6
-Bocas del Atrato_Palangre o espinel de fondo;9,47;20,14;4;9
-El Roto_Red de enmalle fija marina;15,57;19,04;2;8
-San José_Red de enmalle fija continental;13,58;17,83;2;4
-San Luis_Red de enmalle fija continental;15,72;20,47;1;5
-San José_Atarraya;2,83;8,92;2;4
-Los Tendales_Atarraya;3,83;5,67;2;2
-Lamas_Línea de mano;4,03;5,5;3;4
-Puerto Bello_Red de enmalle fija continental;14,92;19,41;2;5
-Nueva Estrella_Red de enmalle fija continental;16,33;20,25;2;3
-Lomita Arena_Atarraya;3,18;6,84;2;4
-Lomita Arena_Red de enmalle fija marina;7,43;17,68;2;15
-Casco urbano Roma_Red de enmalle fija continental;15,25;19,25;1;3
-Casco urbano Roma_Atarraya;2;7,37;1;3
-Méjico_Atarraya;2,5;6,23;2;6
-Villanueva_Red de enmalle fija continental;14,25;19;2;3
-Méjico_Red de enmalle de deriva continental;3,33;11,5;4;6
-Carrizal_Red de enmalle fija marina;2,67;6,25;5;9
-Guacamayo_Red de enmalle fija continental;16,5;21,33;1;3
-Cecilia_Red de enmalle fija continental;17,7;19,17;2;3
-Cecilia_Atarraya;4;6,75;2;3
-Cecilia_Línea de mano;16,5;18,96;3;3
-Bocas de Seheve_Atarraya;3,87;6,25;2;6
-Bocas de Seheve_Línea de mano;17,02;17,48;3;3
-Bocas de Seheve_Red de enmalle fija continental;17,25;20,75;2;4
-Carrizal_Nasas de Peces;2;5,53;8;11
-Carrizal_Buceo marino mixto;2,79;4,9;8;9
-Concepción - Tacamocho_Chinchorra;18,5;24,33;3;8
-Carrizal_Red de arrastre artesanal a la pareja;1,99;10,84;9;9
-Santa Clara_Red de enmalle fija continental;15,67;19,42;2;4
-Concepción - Tacamocho_Red de enmalle fija continental;3,83;21;3;8
+Berrugas_Buceo de peces;4;8;5;7
+El Toro_Red de enmalle fija continental;13;17;2;5
+Chapinero_Línea de mano;6;14;3;6
+Berrugas_Chinchorro marino;4;10;4;6
+Bocas del Atrato_Red de enmalle fija marina;14;16;2;5
+Bocas del Atrato_Flecha;8;19;2;3
+Bocas del Atrato_Buceo de peces;5;13;3;4
+Palomino_Red de enmalle fija continental;11;19;1;4
+Chapundun_Atarraya;8;17;2;6
+Chapinero_Red de enmalle fija continental;13;18;2;6
+Bocas del Atrato_Palangre o espinel de fondo;9;20;4;9
+El Roto_Red de enmalle fija marina;16;19;2;8
+San José_Red de enmalle fija continental;14;18;2;4
+San Luis_Red de enmalle fija continental;16;20;1;5
+San José_Atarraya;3;9;2;4
+Los Tendales_Atarraya;4;6;2;2
+Lamas_Línea de mano;4;6;3;4
+Puerto Bello_Red de enmalle fija continental;15;19;2;5
+Nueva Estrella_Red de enmalle fija continental;16;20;2;3
+Lomita Arena_Atarraya;3;7;2;4
+Lomita Arena_Red de enmalle fija marina;7;18;2;15
+Casco urbano Roma_Red de enmalle fija continental;15;19;1;3
+Casco urbano Roma_Atarraya;2;7;1;3
+Méjico_Atarraya;2;6;2;6
+Villanueva_Red de enmalle fija continental;14;19;2;3
+Méjico_Red de enmalle de deriva continental;3;12;4;6
+Carrizal_Red de enmalle fija marina;3;6;5;9
+Guacamayo_Red de enmalle fija continental;16;21;1;3
+Cecilia_Red de enmalle fija continental;18;19;2;3
+Cecilia_Atarraya;4;7;2;3
+Cecilia_Línea de mano;16;19;3;3
+Bocas de Seheve_Atarraya;4;6;2;6
+Bocas de Seheve_Línea de mano;17;17;3;3
+Bocas de Seheve_Red de enmalle fija continental;17;21;2;4
+Carrizal_Nasas de Peces;2;6;8;11
+Carrizal_Buceo marino mixto;3;5;8;9
+Concepción - Tacamocho_Chinchorra;18;24;3;8
+Carrizal_Red de arrastre artesanal a la pareja;2;11;9;9
+Santa Clara_Red de enmalle fija continental;16;19;2;4
+Concepción - Tacamocho_Red de enmalle fija continental;4;21;3;8
 Villanueva_Red de enmalle de deriva continental;3;10;4;6
-San Sebastian_Red de enmalle fija marina;3;75,63;4;8
-Armenia_Nasas de Peces;14,8;17;2;2
-Santa Clara_Atarraya;3,33;6,83;2;6
-Berrugas_Línea de mano;5,45;11,53;4;10
-Aipir_Red de enmalle fija marina;2,98;9,21;10;22
-Cabo de la Vela_Red de enmalle fija marina;11,24;49,58;6;72
-Santa Clara_Palangre calandrio;15,69;19,87;2;6
-Cispataca_Red de enmalle fija continental;16,33;20;2;4
-Guacamayo_Palangre calandrio;13,58;16,22;1;4
-Barrio La Unión_Aros;4,17;8,26;4;8
-Puerto de Bolombolo_Palangre calandrio;13,58;17,58;2;5
-Puerto de Bolombolo_Atarraya;3,75;10,17;2;6
-Cispataca_Atarraya;4;7,67;2;6
-Ciénaga de Mesolandia_Red de enmalle fija continental;9;15,17;2;3
-Ciénaga de Mesolandia_Atarraya;3,92;14,83;2;3
-Puerto el Doce_Red de enmalle fija continental;9;15,16;4;7
-Puerto el Doce_Línea de mano;2,5;14,17;3;7
-Nueva Estrella_Red de enmalle de deriva continental;4,5;9,67;4;8
-Nueva Estrella_Atarraya;3,5;11;2;5
-Palanca_Red de enmalle fija continental;14,83;19,5;1;3
-Nueva Estrella_Palangre calandrio;8,5;20,5;1;5
-Palanca_Red de enmalle de deriva continental;3;8,19;4;5
-Puerto el Doce_Atarraya;2,22;4,5;1;6
-Campo alegre_Red de enmalle fija continental;16;20,88;1;5
-Villanueva_Atarraya;2,69;7;2;3
-Palanca_Chinchorro continental;2,23;8,36;2;4
-Palanca_Palangre calandrio;11;14,99;1;2
-Palomar_Red de enmalle fija continental;14,75;19;2;2
-Concepción - Tacamocho_Línea de mano;2,37;24,34;2;15
-Palomar_Palangre calandrio;4,99;18;2;2
-Palanca_Atarraya;3;5,9;2;2
-La Mata_Palangre calandrio;16,31;19,04;2;4
-Manaure Abajo_Línea de mano;14;14,85;10;18
+San Sebastian_Red de enmalle fija marina;3;76;4;8
+Armenia_Nasas de Peces;15;17;2;2
+Santa Clara_Atarraya;3;7;2;6
+Berrugas_Línea de mano;5;12;4;10
+Aipir_Red de enmalle fija marina;3;9;10;22
+Cabo de la Vela_Red de enmalle fija marina;11;50;6;72
+Santa Clara_Palangre calandrio;16;20;2;6
+Cispataca_Red de enmalle fija continental;16;20;2;4
+Guacamayo_Palangre calandrio;14;16;1;4
+Barrio La Unión_Aros;4;8;4;8
+Puerto de Bolombolo_Palangre calandrio;14;18;2;5
+Puerto de Bolombolo_Atarraya;4;10;2;6
+Cispataca_Atarraya;4;8;2;6
+Ciénaga de Mesolandia_Red de enmalle fija continental;9;15;2;3
+Ciénaga de Mesolandia_Atarraya;4;15;2;3
+Puerto el Doce_Red de enmalle fija continental;9;15;4;7
+Puerto el Doce_Línea de mano;2;14;3;7
+Nueva Estrella_Red de enmalle de deriva continental;4;10;4;8
+Nueva Estrella_Atarraya;4;11;2;5
+Palanca_Red de enmalle fija continental;15;20;1;3
+Nueva Estrella_Palangre calandrio;8;20;1;5
+Palanca_Red de enmalle de deriva continental;3;8;4;5
+Puerto el Doce_Atarraya;2;4;1;6
+Campo alegre_Red de enmalle fija continental;16;21;1;5
+Villanueva_Atarraya;3;7;2;3
+Palanca_Chinchorro continental;2;8;2;4
+Palanca_Palangre calandrio;11;15;1;2
+Palomar_Red de enmalle fija continental;15;19;2;2
+Concepción - Tacamocho_Línea de mano;2;24;2;15
+Palomar_Palangre calandrio;5;18;2;2
+Palanca_Atarraya;3;6;2;2
+La Mata_Palangre calandrio;16;19;2;4
+Manaure Abajo_Línea de mano;14;15;10;18
 Palomar_Atarraya;2;6;2;2
-Vida Tranquila_Red de enmalle fija continental;13,5;20,5;2;6
-Vida Tranquila_Palangre calandrio;10;21,57;2;4
+Vida Tranquila_Red de enmalle fija continental;14;20;2;6
+Vida Tranquila_Palangre calandrio;10;22;2;4
 Vida Tranquila_Flecha;4;19;2;4
-Vida Tranquila_Atarraya;3;22,05;1;5
-Santa Rosa_Red de enmalle de deriva marina;6,5;15,5;6;13
-Barrio Chino_Chinchorro continental;4,5;12,5;3;4
-Barrio Chino_Red de enmalle fija continental;12,12;17,17;2;2
+Vida Tranquila_Atarraya;3;22;1;5
+Santa Rosa_Red de enmalle de deriva marina;6;16;6;13
+Barrio Chino_Chinchorro continental;4;12;3;4
+Barrio Chino_Red de enmalle fija continental;12;17;2;2
 Barrio Chino_Palangre calandrio;12;14;2;2
-Barrio Chino_Atarraya;2,23;5,62;2;4
-Tierra Santa_Red de enmalle fija continental;16;20,05;3;4
-Tierra Santa_Atarraya;4,98;6,04;2;6
-El Pájaro_Red de enmalle de deriva marina;7,5;11,25;4;10
-El Pájaro_Red de enmalle fija marina;6,42;17;4;13
-El Pájaro_Red de enmalle chuchera;3,08;3,08;3;3
-Mayapo_Red de enmalle fija marina;6,5;14,25;7;68
-Mayapo_Buceo marino mixto;5,17;7,83;6;12
-Mayapo_Palangre o espinel de fondo;6,58;10,42;6;47
-Lomita Arena_Línea de mano;3,63;9,84;4;50
-Palanca_Línea de mano;3;5,88;2;2
+Barrio Chino_Atarraya;2;6;2;4
+Tierra Santa_Red de enmalle fija continental;16;20;3;4
+Tierra Santa_Atarraya;5;6;2;6
+El Pájaro_Red de enmalle de deriva marina;8;11;4;10
+El Pájaro_Red de enmalle fija marina;6;17;4;13
+El Pájaro_Red de enmalle chuchera;3;3;3;3
+Mayapo_Red de enmalle fija marina;6;14;7;68
+Mayapo_Buceo marino mixto;5;8;6;12
+Mayapo_Palangre o espinel de fondo;7;10;6;47
+Lomita Arena_Línea de mano;4;10;4;50
+Palanca_Línea de mano;3;6;2;2
 Palomar_Línea de mano;4;15;2;4
-Mantequera_Red de enmalle fija continental;13,5;20,58;2;5
-Mantequera_Palangre calandrio;12,47;23,17;2;4
-Mayapo_Buceo de langosta;4,67;8,25;6;11
-Concepción - Tacamocho_Atarraya;3;5,5;4;5
-Puerto Amor_Palangre calandrio;7,72;54,95;2;10
-Rincón_Buceo de peces;6,25;10,53;2;6
-Manaure Centro_Buceo de peces;6,15;8,85;8;16
+Mantequera_Red de enmalle fija continental;14;21;2;5
+Mantequera_Palangre calandrio;12;23;2;4
+Mayapo_Buceo de langosta;5;8;6;11
+Concepción - Tacamocho_Atarraya;3;6;4;5
+Puerto Amor_Palangre calandrio;8;55;2;10
+Rincón_Buceo de peces;6;11;2;6
+Manaure Centro_Buceo de peces;6;9;8;16
 Damaquiel_Atarraya;3;3;1;1
-San Nicolás (Santa Cruz De Mompox)_Palangre calandrio;14;21,5;2;13
-Cabo de la Vela_Red de enmalle de deriva marina;3;5,49;4;53
-Lomita Arena_Chinchorro marino;3,31;8,9;4;11
+San Nicolás (Santa Cruz De Mompox)_Palangre calandrio;14;22;2;13
+Cabo de la Vela_Red de enmalle de deriva marina;3;5;4;53
+Lomita Arena_Chinchorro marino;3;9;4;11
 Santa Rosa_Nasas de Peces;18;18;15;15
-Guacamayo_Atarraya;1,79;5,92;1;2
-Barrio Chino_Línea de mano;3,37;10,09;2;2
-Piedras Blancas_Nasas de Peces;7,4;13,5;8;17
-Puerto del Cerrito_Palangre calandrio;17,7;43,1;2;2
-Piedras Blancas_Buceo de langosta;6,51;8,72;9;14
-Lamas_Buceo de peces;6,53;10;2;4
-Belén (El Banco)_Chinchorro continental;8,5;26;1;3
-Casco urbano Roma_Nasas de Peces;17,2;18,6;2;4
-Puerto Amor_Atarraya;1,02;19,13;2;8
-Santa Clara_Red de enmalle de deriva continental;3,5;8,67;4;6
-Santa Rosa_Buceo marino mixto;6,5;8;7;11
-Aipir_Red de enmalle de encierro marina;3,8;6,72;14;18
-Villanueva_Palangre calandrio;15,9;19,5;3;7
-Cabo de la Vela_Red de enmalle chuchera;2,37;5;7;17
-Cispataca_Nasas de Peces;16,1;20,29;3;4
-Piedras Blancas_Red de enmalle de deriva marina;14,03;14,47;9;15
-Tierra Santa_Red de enmalle de deriva continental;4,55;5,9;5;5
-Poportín_Red de enmalle fija marina;10,5;16;6;13
-Poportín_Buceo marino mixto;3,5;7,17;6;14
-Puerto La Candelaria_Chinchorro continental;0,67;14,3;2;4
-Lomita Arena_Red de enmalle de encierro marina;3,17;7,88;7;17
-Caño Grande_Línea de mano;2,65;4,9;3;4
-Barrio Chino_Red de enmalle de deriva continental;3,62;14;4;4
-San Sebastian_Atarraya;2,32;8,44;4;7
-Guacamayo_Chinchorro continental;3,83;12;1;3
-Puerto Boquillas_Palangre calandrio;16,75;23,37;2;7
-Jodedor_Palangre o espinel de fondo;10,58;16,45;21;58
-El Toro_Atarraya;17,95;17,95;2;2
-Bahía de Santa Marta_Línea de mano - Ballestilla;33,87;144,57;56;92
-Mayapo_Línea de mano;6,15;9,73;11;22
-San José_Nasas de Peces;14;16,5;2;4
-Casino_Línea de mano correteo curricán o trolling;6,73;41,17;9;77
-Puerto del Cerrito_Chinchorro continental;7,5;19,14;2;2
-Macurutú - Saloa_Chinchorro continental;10,07;27,69;1;2
-Bahía de Santa Marta_Palangre o espinel de fondo;2,34;6,63;29;42
-Orejero_Atarraya;5,19;10,68;1;2
-Puerto Montecristo_Palangre calandrio;15,35;15,8;2;3
-Campo alegre_Atarraya;5,41;8,15;1;2
-Orejero_Palangre calandrio;5,48;10,48;2;4
-Damaquiel_Palangre o espinel de fondo;14,46;18,22;6;17
+Guacamayo_Atarraya;2;6;1;2
+Barrio Chino_Línea de mano;3;10;2;2
+Piedras Blancas_Nasas de Peces;7;14;8;17
+Puerto del Cerrito_Palangre calandrio;18;43;2;2
+Piedras Blancas_Buceo de langosta;7;9;9;14
+Lamas_Buceo de peces;7;10;2;4
+Belén (El Banco)_Chinchorro continental;8;26;1;3
+Casco urbano Roma_Nasas de Peces;17;19;2;4
+Puerto Amor_Atarraya;1;19;2;8
+Santa Clara_Red de enmalle de deriva continental;4;9;4;6
+Santa Rosa_Buceo marino mixto;6;8;7;11
+Aipir_Red de enmalle de encierro marina;4;7;14;18
+Villanueva_Palangre calandrio;16;20;3;7
+Cabo de la Vela_Red de enmalle chuchera;2;5;7;17
+Cispataca_Nasas de Peces;16;20;3;4
+Piedras Blancas_Red de enmalle de deriva marina;14;14;9;15
+Tierra Santa_Red de enmalle de deriva continental;5;6;5;5
+Poportín_Red de enmalle fija marina;10;16;6;13
+Poportín_Buceo marino mixto;4;7;6;14
+Puerto La Candelaria_Chinchorro continental;1;14;2;4
+Lomita Arena_Red de enmalle de encierro marina;3;8;7;17
+Caño Grande_Línea de mano;3;5;3;4
+Barrio Chino_Red de enmalle de deriva continental;4;14;4;4
+San Sebastian_Atarraya;2;8;4;7
+Guacamayo_Chinchorro continental;4;12;1;3
+Puerto Boquillas_Palangre calandrio;17;23;2;7
+Jodedor_Palangre o espinel de fondo;11;16;21;58
+El Toro_Atarraya;18;18;2;2
+Bahía de Santa Marta_Línea de mano - Ballestilla;34;145;56;92
+Mayapo_Línea de mano;6;10;11;22
+San José_Nasas de Peces;14;16;2;4
+Casino_Línea de mano correteo curricán o trolling;7;41;9;77
+Puerto del Cerrito_Chinchorro continental;8;19;2;2
+Macurutú - Saloa_Chinchorro continental;10;28;1;2
+Bahía de Santa Marta_Palangre o espinel de fondo;2;7;29;42
+Orejero_Atarraya;5;11;1;2
+Puerto Montecristo_Palangre calandrio;15;16;2;3
+Campo alegre_Atarraya;5;8;1;2
+Orejero_Palangre calandrio;5;10;2;4
+Damaquiel_Palangre o espinel de fondo;14;18;6;17
 Mantequera_Atarraya;1;115;1;5
-San Sebastian_Línea de mano;83,17;83,17;5;5
+San Sebastian_Línea de mano;83;83;5;5
 Cispataca_Palangre calandrio;23;23;4;4
-Lomita Arena_Buceo de peces;5,22;9,34;5;20
-Playa Totumo_Palangre o espinel de fondo;26;101,5;5;46
-Guazo_Nasas de Peces;16,7;22,8;2;9
-Puerto La Candelaria_Red de enmalle de deriva continental;1,5;16,7;2;4
-Villanueva_Nasas de Peces;15,85;19,81;2;3
-Santa Clara_Chinchorro continental;14,67;19,25;4;8
+Lomita Arena_Buceo de peces;5;9;5;20
+Playa Totumo_Palangre o espinel de fondo;26;102;5;46
+Guazo_Nasas de Peces;17;23;2;9
+Puerto La Candelaria_Red de enmalle de deriva continental;2;17;2;4
+Villanueva_Nasas de Peces;16;20;2;3
+Santa Clara_Chinchorro continental;15;19;4;8
 Palomar_Red de enmalle de deriva continental;2;11;3;4
-Bocas de Seheve_Red de enmalle de deriva continental;3,17;6;4;6
-Cecilia_Red de enmalle de deriva continental;2,24;5,5;3;4
-Villa Venecia_Buceo de peces;7,1;8,9;3;3
-Villa Venecia_Red de enmalle de encierro continental;5,77;18,73;1;2
-Nueva Estrella_Red de enmalle de encierro continental;6;12,25;2;6
-Lamas_Red de enmalle de encierro continental;5;9,1;1;2
-Cispataca_Red de enmalle de deriva continental;3,4;10;4;6
-San Nicolás (Santa Cruz De Mompox)_Atarraya;9,5;21,6;2;8
-Guacamayo_Red de enmalle de deriva continental;2,92;7;3;6
-San José_Red de encierro chuchaca;6;7,42;2;3
-Tapegua_Red de enmalle fija continental;14,67;19;2;3
-Tapegua_Atarraya;3;6,5;2;3
-Arquimedes_Atarraya;5;8,08;3;16
-Arquimedes_Línea de mano;5,18;8,25;6;25
+Bocas de Seheve_Red de enmalle de deriva continental;3;6;4;6
+Cecilia_Red de enmalle de deriva continental;2;6;3;4
+Villa Venecia_Buceo de peces;7;9;3;3
+Villa Venecia_Red de enmalle de encierro continental;6;19;1;2
+Nueva Estrella_Red de enmalle de encierro continental;6;12;2;6
+Lamas_Red de enmalle de encierro continental;5;9;1;2
+Cispataca_Red de enmalle de deriva continental;3;10;4;6
+San Nicolás (Santa Cruz De Mompox)_Atarraya;10;22;2;8
+Guacamayo_Red de enmalle de deriva continental;3;7;3;6
+San José_Red de encierro chuchaca;6;7;2;3
+Tapegua_Red de enmalle fija continental;15;19;2;3
+Tapegua_Atarraya;3;6;2;3
+Arquimedes_Atarraya;5;8;3;16
+Arquimedes_Línea de mano;5;8;6;25
 El Valle_Palangre o espinel de fondo;17;24;30;80
-Plaza de mercado (La Dorada)_Chinchorro continental;10;12,3;4;5
-El Valle_Línea de mano;4;23,52;8;20
-Yaguará_Red de enmalle fija continental;7,25;16,75;3;4
-Yaguará_Atarraya;6,17;15,92;3;10
-Yaguará_Chinchorro continental;6,88;16,46;4;6
-Mulatos_Red de enmalle fija marina;2,5;15,75;4;10
-Locadía_Atarraya;5,6;7;5;22
-Locadía_Línea de mano;5;8,06;8;22
-Codis_Red de enmalle fija marina;5,5;19,47;7;28
-Codis_Línea de mano;5,12;9,77;6;21
-San José_Chinchorra;6,67;15,29;2;2
-Plaza de mercado (La Dorada)_Palangre calandrio;9,83;36;2;5
-Puerto del Cerrito_Red de enmalle de deriva continental;3,5;4,5;2;2
-Champaché_Red de enmalle fija marina;5,17;18,01;4;16
-Champaché_Atarraya;10,18;18,08;2;14
-Champaché_Línea de mano;8,56;18,44;6;22
-La Punta_Red de enmalle fija marina;13,83;17,15;4;16
-La Punta_Línea de mano;4,9;13,79;9;18
-La Punta_Buceo de caracol;6,15;12,6;2;2
-La Punta_Palangre o espinel de fondo;13,33;17,77;5;25
-Puerto Chaparro_Red de enmalle de encierro continental;12,17;19,74;2;5
-Belén (San Marcos)_Chinchorra;7,42;11,08;2;2
-San Luis_Atarraya;4,5;6,65;1;2
-Carrizal_Línea de mano;6,33;6,33;9;9
-Marralú_Arpón;4,02;5,48;4;5
-Mantequera_Red de enmalle de deriva continental;1;12,96;2;5
-Pesquera Aspabab_Palangre o espinel de fondo;3,67;44,56;5;24
-Pesquera Aspabab_Red de enmalle de deriva continental;9,7;66,5;30;30
-El Malecón (Neiva)_Atarraya;5,5;17,25;2;9
-Puerto Maco/Puerto Momico_Red de enmalle fija continental;7,17;33,48;2;8
-Puerto Maco/Puerto Momico_Línea de mano;16,17;27,51;1;5
-Puerto Maco/Puerto Momico_Atarraya;7,42;15;3;10
-Mercado (Lorica)_Atarraya;3;7,17;2;5
-Pizarro_Red de enmalle de deriva continental;8,5;52,49;30;30
-Buenavista (La Dorada)_Red de enmalle de encierro continental;6,78;10,08;4;5
-Puerto de las Canoas (Puerto Berrío)_Atarraya;6,83;55,47;2;8
+Plaza de mercado (La Dorada)_Chinchorro continental;10;12;4;5
+El Valle_Línea de mano;4;24;8;20
+Yaguará_Red de enmalle fija continental;7;17;3;4
+Yaguará_Atarraya;6;16;3;10
+Yaguará_Chinchorro continental;7;16;4;6
+Mulatos_Red de enmalle fija marina;2;16;4;10
+Locadía_Atarraya;6;7;5;22
+Locadía_Línea de mano;5;8;8;22
+Codis_Red de enmalle fija marina;6;19;7;28
+Codis_Línea de mano;5;10;6;21
+San José_Chinchorra;7;15;2;2
+Plaza de mercado (La Dorada)_Palangre calandrio;10;36;2;5
+Puerto del Cerrito_Red de enmalle de deriva continental;4;4;2;2
+Champaché_Red de enmalle fija marina;5;18;4;16
+Champaché_Atarraya;10;18;2;14
+Champaché_Línea de mano;9;18;6;22
+La Punta_Red de enmalle fija marina;14;17;4;16
+La Punta_Línea de mano;5;14;9;18
+La Punta_Buceo de caracol;6;13;2;2
+La Punta_Palangre o espinel de fondo;13;18;5;25
+Puerto Chaparro_Red de enmalle de encierro continental;12;20;2;5
+Belén (San Marcos)_Chinchorra;7;11;2;2
+San Luis_Atarraya;4;7;1;2
+Carrizal_Línea de mano;6;6;9;9
+Marralú_Arpón;4;5;4;5
+Mantequera_Red de enmalle de deriva continental;1;13;2;5
+Pesquera Aspabab_Palangre o espinel de fondo;4;45;5;24
+Pesquera Aspabab_Red de enmalle de deriva continental;10;66;30;30
+El Malecón (Neiva)_Atarraya;6;17;2;9
+Puerto Maco/Puerto Momico_Red de enmalle fija continental;7;33;2;8
+Puerto Maco/Puerto Momico_Línea de mano;16;28;1;5
+Puerto Maco/Puerto Momico_Atarraya;7;15;3;10
+Mercado (Lorica)_Atarraya;3;7;2;5
+Pizarro_Red de enmalle de deriva continental;8;52;30;30
+Buenavista (La Dorada)_Red de enmalle de encierro continental;7;10;4;5
+Puerto de las Canoas (Puerto Berrío)_Atarraya;7;55;2;8
 Puerto de las Canoas (Puerto Berrío)_Chinchorro continental;10;77;3;6
 Plaza de mercado (La Dorada)_Atarraya;6;17;3;5
-Mercado (Lorica)_Red de enmalle fija continental;17;21,83;2;4
-Pizarro_Palangre o espinel de fondo;4,59;215,88;5;192
-Honda_Atarraya;5;40,55;3;5
-Honda_Línea de mano;9,42;21,4;4;4
-Cispataca_Chinchorro continental;4,5;13,5;2;3
-Villanueva_Chinchorro continental;5,21;11,46;1;3
-La Gloria_Chinchorro continental;13,33;21,97;3;6
-Palomar_Chinchorro continental;2,75;18,49;3;4
-Mamón_Red de enmalle de encierro continental;6,5;10,5;1;2
-Pizarro_Red de enmalle fija marina;9,7;17,73;9;18
-Margento_Chinchorro continental;3,1;4,8;5;5
-Margento_Atarraya;3;5,5;2;5
-Margento_Línea de mano;11,68;15,5;2;6
-Margento_Red de enmalle fija continental;13,5;16,92;2;2
-Mercado (Lorica)_Buceo de peces;3,85;9,95;2;2
+Mercado (Lorica)_Red de enmalle fija continental;17;22;2;4
+Pizarro_Palangre o espinel de fondo;5;216;5;192
+Honda_Atarraya;5;41;3;5
+Honda_Línea de mano;9;21;4;4
+Cispataca_Chinchorro continental;4;14;2;3
+Villanueva_Chinchorro continental;5;11;1;3
+La Gloria_Chinchorro continental;13;22;3;6
+Palomar_Chinchorro continental;3;18;3;4
+Mamón_Red de enmalle de encierro continental;6;10;1;2
+Pizarro_Red de enmalle fija marina;10;18;9;18
+Margento_Chinchorro continental;3;5;5;5
+Margento_Atarraya;3;6;2;5
+Margento_Línea de mano;12;16;2;6
+Margento_Red de enmalle fija continental;14;17;2;2
+Mercado (Lorica)_Buceo de peces;4;10;2;2
 Mantequera_Chinchorro continental;3;20;1;5
-Santa Clara_Flecha;14,83;17,83;5;6
-Puerto de las Canoas (Puerto Berrío)_Palangre calandrio;12,8;44,56;2;6
-La Gloria_Red de enmalle de encierro continental;5,89;17,32;1;2
-La Gloria_Nasas de Peces;17,36;21,5;2;4
-Vida Tranquila_Red de enmalle de deriva continental;1,5;18,47;2;6
-Pizarro_Red de enmalle de deriva marina;3,48;125,14;7;30
-Plaza de mercado (La Dorada)_Red de enmalle de deriva continental;8,13;21,67;3;5
-Locadía_Red de enmalle fija marina;7,5;7,5;5;5
-Vida Tranquila_Chinchorro continental;5;16,34;2;4
-Pesquera Aspabab_Red de enmalle fija marina;8,37;24;5;15
-La Gloria_Atarraya;6,5;11;1;3
-Plaza de mercado (Puerto Boyacá)_Chinchorro continental;12,22;19,73;1;6
-El Muelle (Barrancabermeja)_Red de enmalle de deriva continental;12,05;25,23;2;10
-El Muelle (Barrancabermeja)_Atarraya;10;45,96;1;6
-El Muelle (Barrancabermeja)_Palangre calandrio;15,42;25,86;1;5
-Manaure Centro_Buceo marino mixto;5,5;5,5;8;8
-Pesquera Aspabab_Red de enmalle camaronera;8,15;108,91;7;30
-Pizarro_Red de enmalle camaronera;8,37;139,13;9;31
-Yaguará_Arpón;5,2;9,64;3;4
-La Mata_Chinchorro continental;9,75;16,29;2;4
-Puerto del Cerrito_Nasas de Peces;16,91;18,62;2;4
-Puerto Serviez_Red de enmalle fija continental;8,5;44,47;4;7
-El Muelle (Barrancabermeja)_Chinchorro continental;11,04;34;2;5
-El Valle_Línea de mano correteo curricán o trolling;7,23;20,62;8;18
-Pesquera Aspabab_Red de enmalle de deriva marina;6,5;116,95;5;33
-Guazo_Atarraya;1,83;11,94;2;12
-Guazo_Chinchorro continental;6,5;20,07;4;10
-Guazo_Línea de mano;4;17,98;2;8
+Santa Clara_Flecha;15;18;5;6
+Puerto de las Canoas (Puerto Berrío)_Palangre calandrio;13;45;2;6
+La Gloria_Red de enmalle de encierro continental;6;17;1;2
+La Gloria_Nasas de Peces;17;22;2;4
+Vida Tranquila_Red de enmalle de deriva continental;2;18;2;6
+Pizarro_Red de enmalle de deriva marina;3;125;7;30
+Plaza de mercado (La Dorada)_Red de enmalle de deriva continental;8;22;3;5
+Locadía_Red de enmalle fija marina;8;8;5;5
+Vida Tranquila_Chinchorro continental;5;16;2;4
+Pesquera Aspabab_Red de enmalle fija marina;8;24;5;15
+La Gloria_Atarraya;6;11;1;3
+Plaza de mercado (Puerto Boyacá)_Chinchorro continental;12;20;1;6
+El Muelle (Barrancabermeja)_Red de enmalle de deriva continental;12;25;2;10
+El Muelle (Barrancabermeja)_Atarraya;10;46;1;6
+El Muelle (Barrancabermeja)_Palangre calandrio;15;26;1;5
+Manaure Centro_Buceo marino mixto;6;6;8;8
+Pesquera Aspabab_Red de enmalle camaronera;8;109;7;30
+Pizarro_Red de enmalle camaronera;8;139;9;31
+Yaguará_Arpón;5;10;3;4
+La Mata_Chinchorro continental;10;16;2;4
+Puerto del Cerrito_Nasas de Peces;17;19;2;4
+Puerto Serviez_Red de enmalle fija continental;8;44;4;7
+El Muelle (Barrancabermeja)_Chinchorro continental;11;34;2;5
+El Valle_Línea de mano correteo curricán o trolling;7;21;8;18
+Pesquera Aspabab_Red de enmalle de deriva marina;6;117;5;33
+Guazo_Atarraya;2;12;2;12
+Guazo_Chinchorro continental;6;20;4;10
+Guazo_Línea de mano;4;18;2;8
 Nueva Estrella_Chinchorro continental;8;12;2;2
-Puerto de las Canoas (Puerto Berrío)_Chinchorra;9,79;76;2;5
-Popoya Playa_Red de enmalle fija marina;4,6;7,75;4;11
-Plaza de mercado (La Dorada)_Nasas de Peces;9;11,9;4;6
-Puerto de las Canoas (Puerto Berrío)_Nasas de Peces;31,77;49,55;4;4
-Mayapo_Red de enmalle de encierro marina;5,33;8,25;5;14
-Desembarcadero (Supía)_Atarraya;13;15,67;3;3
-Loma - San Sebastián_Red de encierro rastra;8,53;11,64;1;1
-Cabo de la Vela_Nasas de Peces;4,38;97;5;13
-Plaza de mercado (Puerto Boyacá)_Palangre calandrio;11,45;14,21;4;5
-Mercado (Lorica)_Palangre calandrio;13,23;16,28;2;7
-Mercado (Lorica)_Línea de mano;13,29;26;2;7
-Agropez_Red de enmalle fija marina;9;19,5;8;45
-Agropez_Atarraya;7,5;11,05;4;19
+Puerto de las Canoas (Puerto Berrío)_Chinchorra;10;76;2;5
+Popoya Playa_Red de enmalle fija marina;5;8;4;11
+Plaza de mercado (La Dorada)_Nasas de Peces;9;12;4;6
+Puerto de las Canoas (Puerto Berrío)_Nasas de Peces;32;50;4;4
+Mayapo_Red de enmalle de encierro marina;5;8;5;14
+Desembarcadero (Supía)_Atarraya;13;16;3;3
+Loma - San Sebastián_Red de encierro rastra;9;12;1;1
+Cabo de la Vela_Nasas de Peces;4;97;5;13
+Plaza de mercado (Puerto Boyacá)_Palangre calandrio;11;14;4;5
+Mercado (Lorica)_Palangre calandrio;13;16;2;7
+Mercado (Lorica)_Línea de mano;13;26;2;7
+Agropez_Red de enmalle fija marina;9;20;8;45
+Agropez_Atarraya;8;11;4;19
 Concepción - Tacamocho_Palangre calandrio;12;20;3;6
-Agropez_Línea de mano;15,25;18,83;8;20
-Jodedor_Buceo de langosta;6,05;6,95;7;8
-Honda_Nasas de Peces;6;15,7;3;6
-Plaza de mercado (Puerto Boyacá)_Atarraya;12;13,4;4;4
-Cabo de la Vela_Palangre o espinel de fondo;4,11;15,24;18;80
-Honda_Cóngolo;10,4;23,3;4;4
-Puerto de las Canoas (Puerto Berrío)_Red de enmalle de deriva continental;7,3;92,8;2;10
-La Gloria_Palangre calandrio;10;20,83;2;5
-La Gloria_Red de enmalle fija continental;17,83;45,42;2;4
-Arquimedes_Red de enmalle fija marina;7;8,72;2;24
-Bocas de Seheve_Palangre calandrio;16,42;18;1;2
-Marralú_Flecha;4,11;5,28;4;6
+Agropez_Línea de mano;15;19;8;20
+Jodedor_Buceo de langosta;6;7;7;8
+Honda_Nasas de Peces;6;16;3;6
+Plaza de mercado (Puerto Boyacá)_Atarraya;12;13;4;4
+Cabo de la Vela_Palangre o espinel de fondo;4;15;18;80
+Honda_Cóngolo;10;23;4;4
+Puerto de las Canoas (Puerto Berrío)_Red de enmalle de deriva continental;7;93;2;10
+La Gloria_Palangre calandrio;10;21;2;5
+La Gloria_Red de enmalle fija continental;18;45;2;4
+Arquimedes_Red de enmalle fija marina;7;9;2;24
+Bocas de Seheve_Palangre calandrio;16;18;1;2
+Marralú_Flecha;4;5;4;6
 Uveros_Red de enmalle camaronera;7;14;3;12
-Damaquiel_Red de enmalle camaronera;7,4;14,2;4;13
-Puerto Chaparro_Cóngolo;7,79;10,7;2;3
-La Gloria_Línea de mano;16,4;20,65;4;5
-Honda_Palangre calandrio;9,47;19,43;4;4
-El Llanito_Arpón;4;4,2;2;2
-Puerto Serviez_Atarraya rastra;5,95;12,07;5;8
+Damaquiel_Red de enmalle camaronera;7;14;4;13
+Puerto Chaparro_Cóngolo;8;11;2;3
+La Gloria_Línea de mano;16;21;4;5
+Honda_Palangre calandrio;9;19;4;4
+El Llanito_Arpón;4;4;2;2
+Puerto Serviez_Atarraya rastra;6;12;5;8
 Plaza de mercado (La Dorada)_Chinchorra;8;17;2;4
-El Muelle (Barrancabermeja)_Chinchorra;12,06;44,88;1;7
-El Muelle (Barrancabermeja)_Atarraya rastra;9,51;14,46;1;4
-Puerto Serviez_Chinchorra;11;14,5;4;4
-La Rampa (Barrancabermeja)_Chinchorra;14,65;45,5;1;6
-Muelle Pescadores (Puerto Boyacá)_Chinchorra;11,97;24;2;4
-Plaza de mercado (Puerto Boyacá)_Chinchorra;13,99;25,23;2;2
-La Gloria_Chinchorra;9,5;19,87;3;5
-Pantuuchitu_Red de enmalle fija marina;12,42;16,42;5;9
-Pantuuchitu_Nasas de Peces;7,5;49,33;5;100
-Buenavista (La Dorada)_Atarraya rastra;7,33;9,5;4;5
-Puerto de los Jhonsons (Puerto Boyacá)_Chinchorra;14,03;19,78;2;3
-Puerto de las Canoas (Puerto Berrío)_Atarraya rastra;7,72;57,71;3;6
-Yaguará_Chinchorra;5,58;17,5;3;4
-Lomita Arena_Palangre o espinel de fondo;15,65;18,41;10;40
-Cecilia_Palangre calandrio;17,81;19,5;2;2
-Carrizal_Nasa de langostas;3,64;5,27;6;6
-La Gloria_Red de enmalle de deriva continental;10,05;11,4;5;6
-La Mata_Atarraya;3,17;6,32;2;2
-Buenavista (La Dorada)_Chinchorra;6,83;14,08;2;3
-Mulatos_Palangre o espinel de fondo;2,55;4,25;5;9
-El Roto_Palangre o espinel de fondo;15,82;20,22;3;45
+El Muelle (Barrancabermeja)_Chinchorra;12;45;1;7
+El Muelle (Barrancabermeja)_Atarraya rastra;10;14;1;4
+Puerto Serviez_Chinchorra;11;14;4;4
+La Rampa (Barrancabermeja)_Chinchorra;15;46;1;6
+Muelle Pescadores (Puerto Boyacá)_Chinchorra;12;24;2;4
+Plaza de mercado (Puerto Boyacá)_Chinchorra;14;25;2;2
+La Gloria_Chinchorra;10;20;3;5
+Pantuuchitu_Red de enmalle fija marina;12;16;5;9
+Pantuuchitu_Nasas de Peces;8;49;5;100
+Buenavista (La Dorada)_Atarraya rastra;7;10;4;5
+Puerto de los Jhonsons (Puerto Boyacá)_Chinchorra;14;20;2;3
+Puerto de las Canoas (Puerto Berrío)_Atarraya rastra;8;58;3;6
+Yaguará_Chinchorra;6;18;3;4
+Lomita Arena_Palangre o espinel de fondo;16;18;10;40
+Cecilia_Palangre calandrio;18;20;2;2
+Carrizal_Nasa de langostas;4;5;6;6
+La Gloria_Red de enmalle de deriva continental;10;11;5;6
+La Mata_Atarraya;3;6;2;2
+Buenavista (La Dorada)_Chinchorra;7;14;2;3
+Mulatos_Palangre o espinel de fondo;3;4;5;9
+El Roto_Palangre o espinel de fondo;16;20;3;45
 Puerto Asure_Chinchorra;7;47;1;2
-El Pájaro_Buceo marino mixto;5,16;7,5;3;7
-Guazo_Red de enmalle de deriva continental;2,33;8;4;20
-Puerto Amor_Chinchorra;3,68;52,34;1;2
+El Pájaro_Buceo marino mixto;5;8;3;7
+Guazo_Red de enmalle de deriva continental;2;8;4;20
+Puerto Amor_Chinchorra;4;52;1;2
 Playa Necoclí_Línea de mano;30;48;12;57
-Lomita Arena_Red de enmalle de deriva marina;14,23;16,67;9;13
-El Valle_Palangre o espinel de superficie;18,55;19,45;30;30
+Lomita Arena_Red de enmalle de deriva marina;14;17;9;13
+El Valle_Palangre o espinel de superficie;19;19;30;30
 Puerto de las Canoas (Puerto Berrío)_Red de enmalle de encierro continental;74;74;5;5
-Puerto Maco/Puerto Momico_Palangre calandrio;2,25;15,08;6;10
-Méjico_Línea de mano;12,49;16,45;2;2
-Belén (El Banco)_Nasas de Peces;17;19,98;2;3
-La Playa (El Banco)_Red de enmalle fija continental río;16,58;17,92;4;4
-Mayapo_Nasas de Peces;4,17;13,75;6;29
-Villanueva_Red de enmalle de encierro continental;5,23;13,83;4;5
-Nueva Colonia_Buceo de peces;5,45;21,7;3;7
-El Muelle (Barrancabermeja)_Línea de mano;15,78;20,58;3;4
-Bocas del Atrato_Arpón;4,24;7,04;3;3
-Bocas del Atrato_Atarraya;3,73;3,73;2;2
-Margento_Red de enmalle de deriva continental;3,13;6,08;4;4
-Puerto Amor_Gaviota;2,74;4,85;2;2
-Cispataca_Red de enmalle de encierro continental;5;17,03;2;5
-Pantuuchitu_Palangre o espinel de fondo;7,26;7,55;74;100
-El Piñal_Red de enmalle camaronera;172,9;172,9; ; 
-Pueblo Nuevo_Red de enmalle camaronera;56;99,2;11;25
-Pueblo Nuevo_Red de enmalle de deriva marina;75,96;246,5;6;50
-Manaure Centro_Palangre o espinel de fondo;17,02;17,48;15;34
-Arrimadero La Unión_Línea de mano fija marina;10,5;41,01;12;35
-Champaché_Línea de mano fija marina;7,08;18,09;5;23
-El Valle_Línea de mano fija marina;4;21,33;5;10
-Caño Lobo_Línea de mano fija marina;7;9,5;2;4
-Arroyito_Línea de mano fija marina;4,58;10,02;8;12
-Morrosquillo_Línea de mano fija marina;3;7,04;4;16
-Bahía de Santa Marta_Línea de mano fija marina;2,58;14,52;30;80
-Berrugas_Línea de mano fija marina;4,25;10;7;9
-Arquimedes_Línea de mano fija marina;5,5;8,17;4;25
-La Punta_Línea de mano fija marina;5,7;9,13;7;14
-Buenavista (La Dorada)_Línea de mano fija continental;8,74;21,83;1;3
-Locadía_Línea de mano fija marina;5,5;13,8;8;20
-Casino_Línea de mano fija marina;5;66,79;8;36
-Puente Chambacú - Río Jella_Línea de mano fija marina;9,17;94,92;22;35
-Playa Pescadores - Capurganá_Línea de mano fija marina;2,83;12,67;6;200
-Bellavista_Línea de mano fija marina;2,48;16;28;40
-Agropez_Línea de mano fija marina;8,67;17,76;9;40
-Codis_Línea de mano fija marina;5,17;10,07;7;17
-Bocanegra_Red de enmalle de deriva marina;4;15,75;2;6
-Bahía de Cispatá_Línea de mano fija marina;6;11,5;2;9
-Rincón del Mar_Línea de mano fija marina;4,15;8,68;3;10
-San José_Red de encierro rastra;6,5;16,5;1;2
-Manaure Abajo_Red de enmalle fija marina;16,15;18,85;9;9
-Guazo_Línea de mano fija continental;4,03;8;3;6
+Puerto Maco/Puerto Momico_Palangre calandrio;2;15;6;10
+Méjico_Línea de mano;12;16;2;2
+Belén (El Banco)_Nasas de Peces;17;20;2;3
+La Playa (El Banco)_Red de enmalle fija continental río;17;18;4;4
+Mayapo_Nasas de Peces;4;14;6;29
+Villanueva_Red de enmalle de encierro continental;5;14;4;5
+Nueva Colonia_Buceo de peces;5;22;3;7
+El Muelle (Barrancabermeja)_Línea de mano;16;21;3;4
+Bocas del Atrato_Arpón;4;7;3;3
+Bocas del Atrato_Atarraya;4;4;2;2
+Margento_Red de enmalle de deriva continental;3;6;4;4
+Puerto Amor_Gaviota;3;5;2;2
+Cispataca_Red de enmalle de encierro continental;5;17;2;5
+Pantuuchitu_Palangre o espinel de fondo;7;8;74;100
+El Piñal_Red de enmalle camaronera;173;173; ; 
+Pueblo Nuevo_Red de enmalle camaronera;56;99;11;25
+Pueblo Nuevo_Red de enmalle de deriva marina;76;246;6;50
+Manaure Centro_Palangre o espinel de fondo;17;17;15;34
+Arrimadero La Unión_Línea de mano fija marina;10;41;12;35
+Champaché_Línea de mano fija marina;7;18;5;23
+El Valle_Línea de mano fija marina;4;21;5;10
+Caño Lobo_Línea de mano fija marina;7;10;2;4
+Arroyito_Línea de mano fija marina;5;10;8;12
+Morrosquillo_Línea de mano fija marina;3;7;4;16
+Bahía de Santa Marta_Línea de mano fija marina;3;15;30;80
+Berrugas_Línea de mano fija marina;4;10;7;9
+Arquimedes_Línea de mano fija marina;6;8;4;25
+La Punta_Línea de mano fija marina;6;9;7;14
+Buenavista (La Dorada)_Línea de mano fija continental;9;22;1;3
+Locadía_Línea de mano fija marina;6;14;8;20
+Casino_Línea de mano fija marina;5;67;8;36
+Puente Chambacú - Río Jella_Línea de mano fija marina;9;95;22;35
+Playa Pescadores - Capurganá_Línea de mano fija marina;3;13;6;200
+Bellavista_Línea de mano fija marina;2;16;28;40
+Agropez_Línea de mano fija marina;9;18;9;40
+Codis_Línea de mano fija marina;5;10;7;17
+Bocanegra_Red de enmalle de deriva marina;4;16;2;6
+Bahía de Cispatá_Línea de mano fija marina;6;12;2;9
+Rincón del Mar_Línea de mano fija marina;4;9;3;10
+San José_Red de encierro rastra;6;16;1;2
+Manaure Abajo_Red de enmalle fija marina;16;19;9;9
+Guazo_Línea de mano fija continental;4;8;3;6
 Manaure Centro_Red de enmalle fija marina;16;16;9;9
 Puerto Playa - Capurganá_Línea de mano fija marina;4;15;40;200
-Margento_Línea de mano fija continental;4,5;15,75;1;2
-Puerto Colorado_Línea de mano fija continental;14,17;16,17;1;2
-Méjico_Línea de mano fija continental;12,5;16,2;2;3
-Chapundun_Línea de mano fija continental;4,58;16;2;6
-Barrio Chino_Línea de mano fija continental;4,18;13,61;1;2
+Margento_Línea de mano fija continental;4;16;1;2
+Puerto Colorado_Línea de mano fija continental;14;16;1;2
+Méjico_Línea de mano fija continental;12;16;2;3
+Chapundun_Línea de mano fija continental;5;16;2;6
+Barrio Chino_Línea de mano fija continental;4;14;1;2
 Palomar_Línea de mano fija continental;13;18;2;2
-Loma - San Sebastián_Red de enmalle de encierro continental;7,83;45,12;1;1
-Honda_Línea de mano fija continental;5;12,62;3;6
-San Nicolás (Nechí)_Línea de mano fija continental;13,5;18;2;3
+Loma - San Sebastián_Red de enmalle de encierro continental;8;45;1;1
+Honda_Línea de mano fija continental;5;13;3;6
+San Nicolás (Nechí)_Línea de mano fija continental;14;18;2;3
 Las Tenazas_Línea de mano fija marina;4;7;7;16
-Villa Fátima_Palangre o espinel de fondo;11;16,85;12;16
-Puerto Miraflores_Línea de mano fija marina;10,5;19,83;16;32
-Cangrejito_Red de enmalle fija marina;6,5;17,25;4;13
-Cangrejito_Palangre o espinel de fondo;7,28;21,7;5;95
-Mercado (Lorica)_Línea de mano fija continental;8,2;17;2;2
-Candelaria (Chimichagua)_Red de enmalle fija continental ciénaga;13,9;40,43;2;6
-Candelaria (Chimichagua)_Chinchorra;8,26;17,07;1;2
-Barrio La Unión_Línea de mano fija marina;3,23;8,23;5;11
-Palanca_Línea de mano fija continental;3,15;5,42;1;2
-Berlín_Red de enmalle fija continental;14,17;17,2;2;2
-Berlín_Chinchorro continental;2;5,5;2;4
-Berlín_Red de enmalle de deriva continental;1,67;4;4;5
-Pueblo Lindo o Caimanera_Atarraya;6;9,55;2;4
-Berlín_Línea de mano fija continental;13,5;16,33;1;2
-Pueblo Lindo o Caimanera_Red de enmalle fija continental;15;18,45;1;3
-Taganga_Línea de mano fija marina;9,5;12,42;14;20
-Puerto Arriba (Dibulla)_Línea de mano fija marina;9,33;15,67;10;30
-Honda_Chinchorra;11,3;20,74;4;6
-Berlín_Atarraya;1,75;4,16;1;4
-Cangrejito_Línea de mano fija marina;6,5;10,69;4;10
+Villa Fátima_Palangre o espinel de fondo;11;17;12;16
+Puerto Miraflores_Línea de mano fija marina;10;20;16;32
+Cangrejito_Red de enmalle fija marina;6;17;4;13
+Cangrejito_Palangre o espinel de fondo;7;22;5;95
+Mercado (Lorica)_Línea de mano fija continental;8;17;2;2
+Candelaria (Chimichagua)_Red de enmalle fija continental ciénaga;14;40;2;6
+Candelaria (Chimichagua)_Chinchorra;8;17;1;2
+Barrio La Unión_Línea de mano fija marina;3;8;5;11
+Palanca_Línea de mano fija continental;3;5;1;2
+Berlín_Red de enmalle fija continental;14;17;2;2
+Berlín_Chinchorro continental;2;6;2;4
+Berlín_Red de enmalle de deriva continental;2;4;4;5
+Pueblo Lindo o Caimanera_Atarraya;6;10;2;4
+Berlín_Línea de mano fija continental;14;16;1;2
+Pueblo Lindo o Caimanera_Red de enmalle fija continental;15;18;1;3
+Taganga_Línea de mano fija marina;10;12;14;20
+Puerto Arriba (Dibulla)_Línea de mano fija marina;9;16;10;30
+Honda_Chinchorra;11;21;4;6
+Berlín_Atarraya;2;4;1;4
+Cangrejito_Línea de mano fija marina;6;11;4;10
 Bazurto_Línea de mano fija marina;13;18;10;27
 La Boquilla_Línea de mano fija marina;5;16;11;42
-Mayapo_Línea de mano fija marina;6,02;10,08;10;22
+Mayapo_Línea de mano fija marina;6;10;10;22
 Las Flores_Línea de mano fija marina;8;29;2;4
 Puerto Franco_Red de enmalle fija continental;14;19;1;3
-Puerto Franco_Atarraya;3,5;9;1;2
-Puerto de Gamarra_Chinchorro continental;12,02;67,12;2;5
-Jodedor_Línea de mano fija marina;13;38,98;25;60
-Marralú_Palangre calandrio;5,25;17,26;1;2
-El Puente_Chinchorra;12,32;15,35;4;5
+Puerto Franco_Atarraya;4;9;1;2
+Puerto de Gamarra_Chinchorro continental;12;67;2;5
+Jodedor_Línea de mano fija marina;13;39;25;60
+Marralú_Palangre calandrio;5;17;1;2
+El Puente_Chinchorra;12;15;4;5
 Puerto Franco_Red de encierro rastra;12;25;2;2
-Sempegua_Red de enmalle fija continental ciénaga;8,75;19,75;2;4
-Sempegua_Chinchorro continental;7,75;15,5;1;2
-Puerto ESSO_Red de enmalle de deriva continental;14;20,25;6;9
-Puerto Wilches_Red de enmalle de deriva continental;14,75;18,07;6;8
-Isla Fuerte_Línea de mano fija marina;5,08;12,5;8;120
-Isla Fuerte_Línea de mano correteo curricán o trolling;6,33;12,25;12;80
-Jurubirá_Palangre o espinel de fondo;4,52;10,56;17;90
-Jurubirá_Línea de mano fija marina;3,34;13,33;8;40
-Puerto Chaparro_Línea de mano fija continental;14,5;20,32;2;4
-Puerto Abajo (Dibulla)_Línea de mano fija marina;3,92;14,82;3;9
-Isla Fuerte_Buceo marino mixto;4,83;7,92;4;12
-Playa de Arusí_Palangre o espinel de fondo;3,68;20,52;30;152
-Playa de Arusí_Línea de mano fija marina;2,75;10,41;12;60
-Playa Totumo_Línea de mano fija marina;13,05;79;5;29
-Puerto Simití_Atarraya;3,48;6,25;2;6
-Puerto Simití_Red de enmalle fija continental;4;13,25;3;6
-Barrio La Unión_Línea de mano correteo curricán o trolling;4,93;8,99;7;51
-Puerto del Pescado (San José Del Guaviare)_Red de enmalle fija continental;4,33;98,17;3;11
-Puerto Principal (Leticia)_Red de enmalle fija continental;4;37,5;3;5
-Mapiripán_Red de enmalle fija continental;0,78;172,39;8;15
-Bodega AZAFRA_Palangre calandrio;131,65;131,65;5;5
-Cabo Marzo_Palangre o espinel de fondo;7,2;213,41;60;172
-Cabo Marzo_Línea de mano fija marina;13,38;165,67;32;87
-Clarinetero_Atarraya;3,83;20,94;2;5
-Puerto Rico [Meta]_Palangre calandrio;12;38,3;5;9
-Puerto Rico [Meta]_Atarraya;5,62;18,88;2;7
-Puerto Principal (Puerto Lleras)_Palangre calandrio;15;18,48;3;6
-Puerto Principal (Puerto Lleras)_Atarraya;2;9,72;2;5
-La Pedrera_Palangre calandrio;11,3;76,92;4;9
-La Pedrera_Red de enmalle fija continental;11,97;94,46;4;9
-La Pedrera_Red de enmalle de deriva continental;10,93;93,56;3;15
-Paujil_Línea de mano fija continental;4,8;121,8;2;28
-Puerto (Orocué)_Red de enmalle fija continental;23;75,44;4;10
-La Tagua_Palangre calandrio;12,29;166,45;8;11
-La Tagua_Red de enmalle fija continental;11,9;84,87;7;10
-Muelle Principal (Puerto Leguízamo)_Red de enmalle fija continental;4,5;115,44;4;8
-Muelle Hong Kong_Red de enmalle fija continental;2,5;50,2;2;2
-Muelle La Esmeralda_Palangre calandrio;14,45;112,88;2;2
-Puerto (Orocué)_Red de enmalle de deriva continental;16,97;252,36;5;6
-Puerto (Orocué)_Atarraya;6,85;22,15; ; 
+Sempegua_Red de enmalle fija continental ciénaga;9;20;2;4
+Sempegua_Chinchorro continental;8;16;1;2
+Puerto ESSO_Red de enmalle de deriva continental;14;20;6;9
+Puerto Wilches_Red de enmalle de deriva continental;15;18;6;8
+Isla Fuerte_Línea de mano fija marina;5;12;8;120
+Isla Fuerte_Línea de mano correteo curricán o trolling;6;12;12;80
+Jurubirá_Palangre o espinel de fondo;5;11;17;90
+Jurubirá_Línea de mano fija marina;3;13;8;40
+Puerto Chaparro_Línea de mano fija continental;14;20;2;4
+Puerto Abajo (Dibulla)_Línea de mano fija marina;4;15;3;9
+Isla Fuerte_Buceo marino mixto;5;8;4;12
+Playa de Arusí_Palangre o espinel de fondo;4;21;30;152
+Playa de Arusí_Línea de mano fija marina;3;10;12;60
+Playa Totumo_Línea de mano fija marina;13;79;5;29
+Puerto Simití_Atarraya;3;6;2;6
+Puerto Simití_Red de enmalle fija continental;4;13;3;6
+Barrio La Unión_Línea de mano correteo curricán o trolling;5;9;7;51
+Puerto del Pescado (San José Del Guaviare)_Red de enmalle fija continental;4;98;3;11
+Puerto Principal (Leticia)_Red de enmalle fija continental;4;38;3;5
+Mapiripán_Red de enmalle fija continental;1;172;8;15
+Bodega AZAFRA_Palangre calandrio;132;132;5;5
+Cabo Marzo_Palangre o espinel de fondo;7;213;60;172
+Cabo Marzo_Línea de mano fija marina;13;166;32;87
+Clarinetero_Atarraya;4;21;2;5
+Puerto Rico [Meta]_Palangre calandrio;12;38;5;9
+Puerto Rico [Meta]_Atarraya;6;19;2;7
+Puerto Principal (Puerto Lleras)_Palangre calandrio;15;18;3;6
+Puerto Principal (Puerto Lleras)_Atarraya;2;10;2;5
+La Pedrera_Palangre calandrio;11;77;4;9
+La Pedrera_Red de enmalle fija continental;12;94;4;9
+La Pedrera_Red de enmalle de deriva continental;11;94;3;15
+Paujil_Línea de mano fija continental;5;122;2;28
+Puerto (Orocué)_Red de enmalle fija continental;23;75;4;10
+La Tagua_Palangre calandrio;12;166;8;11
+La Tagua_Red de enmalle fija continental;12;85;7;10
+Muelle Principal (Puerto Leguízamo)_Red de enmalle fija continental;4;115;4;8
+Muelle Hong Kong_Red de enmalle fija continental;2;50;2;2
+Muelle La Esmeralda_Palangre calandrio;14;113;2;2
+Puerto (Orocué)_Red de enmalle de deriva continental;17;252;5;6
+Puerto (Orocué)_Atarraya;7;22; ; 
 Puerto Principal (Puerto Lleras)_Arpón;3;3;1;1
-Paujil_Arpón;11;44,1;1;22
-Paujil_Red de enmalle fija continental;9;116,25;2;41
-Puerto Principal (Puerto Lleras)_Línea de mano fija continental;12,72;18,27;3;6
-Playa Necoclí_Línea de mano fija marina;3,6;59,9;4;190
-Puerto Principal (Leticia)_Palangre calandrio;6;31,77;2;4
+Paujil_Arpón;11;44;1;22
+Paujil_Red de enmalle fija continental;9;116;2;41
+Puerto Principal (Puerto Lleras)_Línea de mano fija continental;13;18;3;6
+Playa Necoclí_Línea de mano fija marina;4;60;4;190
+Puerto Principal (Leticia)_Palangre calandrio;6;32;2;4
 Puerto Principal (Leticia)_Flecha;61;61; ; 
-Casco Urbano (Arauca)_Atarraya;7,28;94,96;4;10
-Puerto Arriba (Dibulla)_Red de enmalle de deriva marina;14,88;15,78;10;10
-Sempegua_Chinchorra;6,06;15;1;3
-Palenquito_Palangre calandrio;13;18,68;2;10
+Casco Urbano (Arauca)_Atarraya;7;95;4;10
+Puerto Arriba (Dibulla)_Red de enmalle de deriva marina;15;16;10;10
+Sempegua_Chinchorra;6;15;1;3
+Palenquito_Palangre calandrio;13;19;2;10
 Muelle Hong Kong_Red de enmalle de deriva continental;24;24;2;2
-Clarinetero_Red de enmalle fija continental;3,83;98,37;4;6
-Muelle Principal (Puerto Leguízamo)_Palangre calandrio;15,92;184,29;6;8
-Cartagena del Chairá_Atarraya;14,9;40;1;3
+Clarinetero_Red de enmalle fija continental;4;98;4;6
+Muelle Principal (Puerto Leguízamo)_Palangre calandrio;16;184;6;8
+Cartagena del Chairá_Atarraya;15;40;1;3
 Cartagena del Chairá_Palangre calandrio;13;46;3;6
-Puerto (Orocué)_Palangre calandrio;25,01;79,56;4;10
-Santuario_Red de enmalle de deriva continental;6;33,98;3;6
-Puerto Arango_Red de enmalle fija continental;5,99;39,7;4;6
-Santuario_Atarraya;5,94;26,6;2;6
-Puerto Miraflores_Arpón;5,02;20,09;16;30
-El Puerto (Puerto Carreño)_Chinchorro continental;38,96;105,7;1;1
-El Puerto (Puerto Carreño)_Línea de mano fija continental;7,15;135,23;5;25
-Muelle Hong Kong_Palangre calandrio;3,41;75,03;2;4
-Puerto de Gamarra_Nasas de Peces;12,88;45,1;2;4
-Puerto Cabuyaro_Chinchorro continental;8,47;94,5;3;6
-Puerto Cabuyaro_Palangre calandrio;13,78;47,48;4;8
-La Pedrera_Línea de mano fija continental;11,18;55,3;3;9
-Malecón (Puerto Gaitán)_Palangre calandrio;19;145,45;3;10
-Malecón (Puerto Gaitán)_Red de enmalle fija continental;17,5;120;5;9
-Clarinetero_Chinchorro continental;6,58;83,43;3;4
-Pesquera Aspabab_Línea de mano fija marina;5,04;69,71;5;14
+Puerto (Orocué)_Palangre calandrio;25;80;4;10
+Santuario_Red de enmalle de deriva continental;6;34;3;6
+Puerto Arango_Red de enmalle fija continental;6;40;4;6
+Santuario_Atarraya;6;27;2;6
+Puerto Miraflores_Arpón;5;20;16;30
+El Puerto (Puerto Carreño)_Chinchorro continental;39;106;1;1
+El Puerto (Puerto Carreño)_Línea de mano fija continental;7;135;5;25
+Muelle Hong Kong_Palangre calandrio;3;75;2;4
+Puerto de Gamarra_Nasas de Peces;13;45;2;4
+Puerto Cabuyaro_Chinchorro continental;8;94;3;6
+Puerto Cabuyaro_Palangre calandrio;14;47;4;8
+La Pedrera_Línea de mano fija continental;11;55;3;9
+Malecón (Puerto Gaitán)_Palangre calandrio;19;145;3;10
+Malecón (Puerto Gaitán)_Red de enmalle fija continental;18;120;5;9
+Clarinetero_Chinchorro continental;7;83;3;4
+Pesquera Aspabab_Línea de mano fija marina;5;70;5;14
 La Boquilla_Red de enmalle de deriva marina;6;6;2;2
-Puerto Ciénaga de Paredes_Palangre calandrio;18,26;19,91;3;3
-Puerto Ciénaga de Paredes_Atarraya;7,1;8,92;5;5
-El Puerto (Puerto Carreño)_Red de enmalle fija continental;13,33;111,86;4;20
-El Muelle (Puerto López)_Chinchorro continental;9;73,5;2;4
+Puerto Ciénaga de Paredes_Palangre calandrio;18;20;3;3
+Puerto Ciénaga de Paredes_Atarraya;7;9;5;5
+El Puerto (Puerto Carreño)_Red de enmalle fija continental;13;112;4;20
+El Muelle (Puerto López)_Chinchorro continental;9;74;2;4
 El Muelle (Puerto López)_Red de enmalle de encierro continental;27;100;2;4
-Pantuuchitu_Línea de mano fija marina;2,33;11;3;8
-Casco urbano Roma_Red de enmalle zangarreo;5,92;9,03;1;1
-Cabo de la Vela_Línea de mano fija marina;2,39;6;4;8
-Doña Ana_Red de enmalle fija continental;13,5;19,83;2;4
-Doña Ana_Red de enmalle zangarreo;3,74;8,32;2;3
-Doña Ana_Atarraya;1,17;5,51;2;2
-Lomita Arena_Línea de mano fija marina;3,5;9,25;20;98
-Las Delicias_Línea de mano fija marina;7,33;16,9;5;32
-Dorada_Red de enmalle fija continental;15,35;18,57;2;2
-Punta de blanco_Atarraya;2,64;10,33;2;5
-Punta de blanco_Red de enmalle fija continental;15,22;20,43;2;3
-La Tranca_Red de enmalle zangarreo;5;12,4;1;2
-La Tranca_Red de enmalle fija continental;14,58;18,87;2;3
-Dorada_Atarraya;4,67;10,23;2;3
-Punta de blanco_Red de enmalle de encierro continental;7;14,37;1;2
-Puerto Real - Saloa_Red de enmalle fija continental ciénaga;5,85;17,86;2;2
-Puerto Real - Saloa_Chinchorra;5,96;12,33;1;2
-Doña Ana_Chinchorro continental;12,5;15;2;4
-Puerto Real - Saloa_Atarraya;5,89;11,69;1;2
-Palanca_Red de enmalle zangarreo;5,86;8,85;1;2
-Orpua_Red de enmalle fija marina;7,47;16,41;5;10
-Puerto Antequera_Red de enmalle fija continental ciénaga;15,58;21;1;2
-Puerto Antequera_Chinchorro continental;7,8;13,11;1;1
-Berlín_Palangre calandrio;14,17;16,75;1;4
-Puerto Boca_Red de enmalle de deriva continental;3,03;12,5;1;8
-Puerto Real - Saloa_Chinchorro continental;5,5;5,5;2;2
-Puerto Boca_Línea de mano fija continental;1,5;8,09;7;11
-Berrugas_Red de enmalle fija marina;4,1;12,12;4;6
+Pantuuchitu_Línea de mano fija marina;2;11;3;8
+Casco urbano Roma_Red de enmalle zangarreo;6;9;1;1
+Cabo de la Vela_Línea de mano fija marina;2;6;4;8
+Doña Ana_Red de enmalle fija continental;14;20;2;4
+Doña Ana_Red de enmalle zangarreo;4;8;2;3
+Doña Ana_Atarraya;1;6;2;2
+Lomita Arena_Línea de mano fija marina;4;9;20;98
+Las Delicias_Línea de mano fija marina;7;17;5;32
+Dorada_Red de enmalle fija continental;15;19;2;2
+Punta de blanco_Atarraya;3;10;2;5
+Punta de blanco_Red de enmalle fija continental;15;20;2;3
+La Tranca_Red de enmalle zangarreo;5;12;1;2
+La Tranca_Red de enmalle fija continental;15;19;2;3
+Dorada_Atarraya;5;10;2;3
+Punta de blanco_Red de enmalle de encierro continental;7;14;1;2
+Puerto Real - Saloa_Red de enmalle fija continental ciénaga;6;18;2;2
+Puerto Real - Saloa_Chinchorra;6;12;1;2
+Doña Ana_Chinchorro continental;12;15;2;4
+Puerto Real - Saloa_Atarraya;6;12;1;2
+Palanca_Red de enmalle zangarreo;6;9;1;2
+Orpua_Red de enmalle fija marina;7;16;5;10
+Puerto Antequera_Red de enmalle fija continental ciénaga;16;21;1;2
+Puerto Antequera_Chinchorro continental;8;13;1;1
+Berlín_Palangre calandrio;14;17;1;4
+Puerto Boca_Red de enmalle de deriva continental;3;12;1;8
+Puerto Real - Saloa_Chinchorro continental;6;6;2;2
+Puerto Boca_Línea de mano fija continental;2;8;7;11
+Berrugas_Red de enmalle fija marina;4;12;4;6
 Puerto Antequera_Atarraya;2;3;1;1
-Orpua_Red de enmalle camaronera;4,92;11,71;10;13
-Orejero_Red de enmalle zangarreo;5;9,25;1;1
-Costilla_Red de enmalle fija continental;13,17;17,17;2;3
-Costilla_Nasas de Peces;12,33;16,25;2;3
-Costilla_Atarraya;6,83;15,17;2;3
-La Raya_Red de enmalle fija continental;7,25;19,33;2;2
-Desembarcadero (Juradó)_Línea de mano fija marina;4,5;39,9;15;45
-Guineal_Red de enmalle fija marina;1,5;14,3;2;7
-Guineal_Palangre o espinel de fondo;2,67;15,6;4;10
-Guineal_Red de cerco;4,45;9,78;3;5
-Desembarcadero (Juradó)_Palangre o espinel de superficie;44,5;44,5;20;20
-Taburetera_Red de enmalle fija continental;14,5;17,5;2;3
+Orpua_Red de enmalle camaronera;5;12;10;13
+Orejero_Red de enmalle zangarreo;5;9;1;1
+Costilla_Red de enmalle fija continental;13;17;2;3
+Costilla_Nasas de Peces;12;16;2;3
+Costilla_Atarraya;7;15;2;3
+La Raya_Red de enmalle fija continental;7;19;2;2
+Desembarcadero (Juradó)_Línea de mano fija marina;4;40;15;45
+Guineal_Red de enmalle fija marina;2;14;2;7
+Guineal_Palangre o espinel de fondo;3;16;4;10
+Guineal_Red de cerco;4;10;3;5
+Desembarcadero (Juradó)_Palangre o espinel de superficie;44;44;20;20
+Taburetera_Red de enmalle fija continental;14;18;2;3
 Taburetera_Atarraya;2;6;2;2
-Betania (Montecristo)_Red de enmalle fija continental;15,58;17,57;1;2
-Usaragá_Línea de mano fija marina;1,98;7,06;6;18
-Sivirú_Red de enmalle fija marina;1,82;8,17;2;3
-Betania (Montecristo)_Atarraya;6,83;10,1;1;2
-Desembarcadero (Juradó)_Palangre o espinel de fondo;16,12;148,5;29;70
-Guineal_Red de enmalle de deriva marina;2,75;8,38;2;11
-Sivirú_Red de enmalle camaronera;2,56;10,05;3;4
-Doña Ana_Palangre calandrio;12,5;15,24;2;2
-La Boquilla_Buceo marino mixto;2,8;7,8;8;10
+Betania (Montecristo)_Red de enmalle fija continental;16;18;1;2
+Usaragá_Línea de mano fija marina;2;7;6;18
+Sivirú_Red de enmalle fija marina;2;8;2;3
+Betania (Montecristo)_Atarraya;7;10;1;2
+Desembarcadero (Juradó)_Palangre o espinel de fondo;16;148;29;70
+Guineal_Red de enmalle de deriva marina;3;8;2;11
+Sivirú_Red de enmalle camaronera;3;10;3;4
+Doña Ana_Palangre calandrio;12;15;2;2
+La Boquilla_Buceo marino mixto;3;8;8;10
 Marralú_Chinchorro continental;5;17;4;6
-El Puerto (Puerto Carreño)_Red de enmalle de deriva continental;10,96;13,37;14;14
-La Raya_Atarraya;5,9;8,67;2;4
-La Raya_Palangre calandrio;13,88;16,58;1;2
-Santuario_Palangre calandrio;4,85;58,02;2;6
-Puerto Ciénaga de Paredes_Nasas de Peces;13,12;16,8;3;6
-Costilla_Palangre calandrio;9,78;15,92;2;2
-Sivirú_Línea de mano fija marina;2,37;8,77;2;3
-Guineal_Red de enmalle de encierro marina;4;9,3;2;4
-La Gloria_Línea de mano fija continental;17,9;22,1;3;5
-Guineal_Línea de mano fija marina;3,33;7,51;2;8
-El Muelle (Puerto López)_Palangre calandrio;23;101,88;2;4
-Plaza de mercado (La Dorada)_Línea de mano fija continental;9;32,54;3;4
-Caño Mina_Red de enmalle fija continental;1,9;94,46;7;9
-Muelle Hong Kong_Atarraya;2;6,33;2;2
-Usaragá_Palangre o espinel de fondo;2,78;10,12;8;18
-Usaragá_Red de enmalle fija marina;5,25;5,25;6;6
-Puerto López_Palangre calandrio;14,31;20,9;1;2
-Candelaria (Chimichagua)_Atarraya;7,5;9,5;2;6
-Puerto Asure_Arpón;1,56;40,98;2;2
-Cartagena del Chairá_Línea de mano fija continental;11,8;42,88;2;6
-Puerto Principal (Puerto Lleras)_Red de enmalle fija continental;13,45;16,55;4;8
-Clarinetero_Línea de mano fija continental;2,82;18,26;4;6
-Costilla_Chinchorro continental;9,2;15,33;2;2
-San Miguel (Puerto Gaitán)_Red de enmalle de deriva continental;7,52;45,29;3;6
-Puerto ESSO_Línea de mano fija continental;16,38;46,53;5;11
-El Muelle (Puerto López)_Red de enmalle fija continental;20,5;97,71;2;4
-Puerto Rico [Meta]_Red de enmalle fija continental;11,5;17,82;5;10
-Puerto Rico [Meta]_Línea de mano fija continental;3,86;21,85;4;8
-Muelle La Esmeralda_Red de enmalle fija continental;4,94;7,14;2;4
-Santuario_Red de enmalle fija continental;10,58;18,02;2;4
-Puerto (Orocué)_Línea de mano fija continental;13,01;94,15;4;5
-Las Balsas_Chinchorro continental;18,73;74,5;2;4
-Puerto Barrio El Progreso_Red de enmalle de deriva continental;7;13,5;4;10
-Desembarcadero (Juradó)_Arpón;8,5;8,5;7;7
-El Pájaro_Línea de mano fija marina;6,63;13,41;4;14
-Curillo_Línea de mano fija continental;13;15,75;3;6
-Curillo_Palangre calandrio;12,83;16,14;2;4
-Orpua_Línea de mano fija marina;1,19;10,38;4;8
+El Puerto (Puerto Carreño)_Red de enmalle de deriva continental;11;13;14;14
+La Raya_Atarraya;6;9;2;4
+La Raya_Palangre calandrio;14;17;1;2
+Santuario_Palangre calandrio;5;58;2;6
+Puerto Ciénaga de Paredes_Nasas de Peces;13;17;3;6
+Costilla_Palangre calandrio;10;16;2;2
+Sivirú_Línea de mano fija marina;2;9;2;3
+Guineal_Red de enmalle de encierro marina;4;9;2;4
+La Gloria_Línea de mano fija continental;18;22;3;5
+Guineal_Línea de mano fija marina;3;8;2;8
+El Muelle (Puerto López)_Palangre calandrio;23;102;2;4
+Plaza de mercado (La Dorada)_Línea de mano fija continental;9;33;3;4
+Caño Mina_Red de enmalle fija continental;2;94;7;9
+Muelle Hong Kong_Atarraya;2;6;2;2
+Usaragá_Palangre o espinel de fondo;3;10;8;18
+Usaragá_Red de enmalle fija marina;5;5;6;6
+Puerto López_Palangre calandrio;14;21;1;2
+Candelaria (Chimichagua)_Atarraya;8;10;2;6
+Puerto Asure_Arpón;2;41;2;2
+Cartagena del Chairá_Línea de mano fija continental;12;43;2;6
+Puerto Principal (Puerto Lleras)_Red de enmalle fija continental;13;17;4;8
+Clarinetero_Línea de mano fija continental;3;18;4;6
+Costilla_Chinchorro continental;9;15;2;2
+San Miguel (Puerto Gaitán)_Red de enmalle de deriva continental;8;45;3;6
+Puerto ESSO_Línea de mano fija continental;16;47;5;11
+El Muelle (Puerto López)_Red de enmalle fija continental;20;98;2;4
+Puerto Rico [Meta]_Red de enmalle fija continental;12;18;5;10
+Puerto Rico [Meta]_Línea de mano fija continental;4;22;4;8
+Muelle La Esmeralda_Red de enmalle fija continental;5;7;2;4
+Santuario_Red de enmalle fija continental;11;18;2;4
+Puerto (Orocué)_Línea de mano fija continental;13;94;4;5
+Las Balsas_Chinchorro continental;19;74;2;4
+Puerto Barrio El Progreso_Red de enmalle de deriva continental;7;14;4;10
+Desembarcadero (Juradó)_Arpón;8;8;7;7
+El Pájaro_Línea de mano fija marina;7;13;4;14
+Curillo_Línea de mano fija continental;13;16;3;6
+Curillo_Palangre calandrio;13;16;2;4
+Orpua_Línea de mano fija marina;1;10;4;8
 Puerto del Pescado (San José Del Guaviare)_Palangre calandrio;3;17;5;15
-Puerto del Pescado (San José Del Guaviare)_Red de enmalle de deriva continental;1;12,5;4;13
-Curillo_Red de enmalle fija continental;12,5;15,12;2;4
-Mapiripán_Palangre calandrio;7,76;47,3;6;14
-Puerto Barrio El Progreso_Red de enmalle fija continental;7,5;15,5;3;6
-La Pedrera_Arpón;11,38;75,05;2;8
-El Puerto (Puerto Carreño)_Palangre calandrio;11,25;245,67;4;30
-Muelle Principal (Puerto Leguízamo)_Línea de mano fija continental;11,97;111,5;5;7
-Puerto de desembarco (Barrancominas)_Red de enmalle fija continental;9,87;23,29;6;18
-Las Balsas_Red de enmalle fija continental;23;74,5;2;4
-Bellavista_Nasas de Peces;38,5;72,5;20;40
-Pueblo Nuevo (Barrancominas)_Red de enmalle fija continental;6,39;16,68;3;17
-Muelle Hong Kong_Línea de mano fija continental;2;26,79;2;2
-Riosucio_Red de enmalle fija continental;18,94;50,86;3;7
-Desembarcadero (Murindó)_Red de enmalle fija continental;2,68;5,37;2;3
-Montaño_Red de enmalle fija continental;10,41;25,26;3;4
-La Grande_Red de enmalle fija continental;14,92;18,97;3;7
-Puerto de desembarco (Mitú)_Línea de mano fija continental;6,5;17,43;10;12
-Aparca_Palangre calandrio;4,41;11,76;5;5
-Puerto ESSO_Chinchorra;18,72;26,71;4;6
-Puerto Cabuyaro_Red de enmalle fija continental;11;45,5;4;7
-San Antonio de Padua_Red de enmalle fija continental;15,17;25,42;2;5
-La Rampa (Barrancabermeja)_Línea de mano fija continental;23,25;23,25;5;5
-Puerto Wilches_Chinchorra;20,88;23,5;4;6
-Santuario_Arpón;5,41;14,5;2;6
-Puerto Principal (Puerto Lleras)_Red de enmalle de deriva continental;2,7;8,6;4;6
-San Miguel (Puerto Gaitán)_Palangre calandrio;8,47;45,05;3;9
-Laguna Colorada_Línea de mano fija continental;3,69;11,2;1;13
-Laguna Colorada_Red de enmalle fija continental;4,46;13,95;2;15
-Puerto Cabuyaro_Línea de mano fija continental;15,97;23,37;6;6
-Monserrate_Línea de mano fija continental;3,01;19,92;4;10
-San Miguel (Puerto Gaitán)_Línea de mano fija continental;2,06;49,99;3;8
-Puerto Abajo (Dibulla)_Chinchorro marino;3,88;10,35;3;4
-Casco Urbano (Arauca)_Línea de mano fija continental;3,99;101,21;4;10
-La Isla de los Palacios_Red de enmalle fija continental;18,15;27,82;2;9
-Muelle Don Antonio_Red de arrastre artesanal o changa;10,09;10,32;27;27
-La Peinada_Buceo de peces;6,42;9,33;1;2
-Puerto Kenedy_Red de enmalle fija continental;12,6;19,7;6;6
-Puerto Kenedy_Línea de mano fija continental;8,68;41,65; ; 
-Policía fluvial (Quibdó)_Red de enmalle fija continental;14,35;19,77;6;9
-Policía fluvial (Quibdó)_Línea de mano fija continental;13,5;19,33;5;10
-Pueblo Nuevo_Palangre o espinel de fondo;166,15;337;60;180
-Muelle Hong Kong_Arpón;3,92;20,08;2;2
-Pesquera Friopez_Red de enmalle fija marina;14,77;60,37;7;23
-Pesquera Friopez_Palangre o espinel de fondo;141,18;234,49;13;27
-Chamón_Red de enmalle fija marina;56;194,3;19;81
-Chamón_Palangre o espinel de fondo;37,06;200,65;36;131
-Comercializadora Anabel_Red de arrastre artesanal o changa;8,08;10;27;32
-Juanchaco_Línea de mano fija marina;8,49;13,38;11;68
-Betania - Naya_Red de enmalle de deriva marina;6,33;11,1;3;11
-Tasajera La Playa_Red de enmalle langostera;21,18;22;22;34
-Chamuscado - Naya_Red de enmalle de deriva marina;4,59;10,77;3;9
-El Puente_Atarraya rastra;3,5;8,25;4;6
-Santa Cruz - Naya_Red de enmalle de deriva marina;6,68;10,38;3;19
-La Casa del Pescador_Red de enmalle camaronera;17,54;17,98;13;15
+Puerto del Pescado (San José Del Guaviare)_Red de enmalle de deriva continental;1;12;4;13
+Curillo_Red de enmalle fija continental;12;15;2;4
+Mapiripán_Palangre calandrio;8;47;6;14
+Puerto Barrio El Progreso_Red de enmalle fija continental;8;16;3;6
+La Pedrera_Arpón;11;75;2;8
+El Puerto (Puerto Carreño)_Palangre calandrio;11;246;4;30
+Muelle Principal (Puerto Leguízamo)_Línea de mano fija continental;12;112;5;7
+Puerto de desembarco (Barrancominas)_Red de enmalle fija continental;10;23;6;18
+Las Balsas_Red de enmalle fija continental;23;74;2;4
+Bellavista_Nasas de Peces;38;72;20;40
+Pueblo Nuevo (Barrancominas)_Red de enmalle fija continental;6;17;3;17
+Muelle Hong Kong_Línea de mano fija continental;2;27;2;2
+Riosucio_Red de enmalle fija continental;19;51;3;7
+Desembarcadero (Murindó)_Red de enmalle fija continental;3;5;2;3
+Montaño_Red de enmalle fija continental;10;25;3;4
+La Grande_Red de enmalle fija continental;15;19;3;7
+Puerto de desembarco (Mitú)_Línea de mano fija continental;6;17;10;12
+Aparca_Palangre calandrio;4;12;5;5
+Puerto ESSO_Chinchorra;19;27;4;6
+Puerto Cabuyaro_Red de enmalle fija continental;11;46;4;7
+San Antonio de Padua_Red de enmalle fija continental;15;25;2;5
+La Rampa (Barrancabermeja)_Línea de mano fija continental;23;23;5;5
+Puerto Wilches_Chinchorra;21;24;4;6
+Santuario_Arpón;5;14;2;6
+Puerto Principal (Puerto Lleras)_Red de enmalle de deriva continental;3;9;4;6
+San Miguel (Puerto Gaitán)_Palangre calandrio;8;45;3;9
+Laguna Colorada_Línea de mano fija continental;4;11;1;13
+Laguna Colorada_Red de enmalle fija continental;4;14;2;15
+Puerto Cabuyaro_Línea de mano fija continental;16;23;6;6
+Monserrate_Línea de mano fija continental;3;20;4;10
+San Miguel (Puerto Gaitán)_Línea de mano fija continental;2;50;3;8
+Puerto Abajo (Dibulla)_Chinchorro marino;4;10;3;4
+Casco Urbano (Arauca)_Línea de mano fija continental;4;101;4;10
+La Isla de los Palacios_Red de enmalle fija continental;18;28;2;9
+Muelle Don Antonio_Red de arrastre artesanal o changa;10;10;27;27
+La Peinada_Buceo de peces;6;9;1;2
+Puerto Kenedy_Red de enmalle fija continental;13;20;6;6
+Puerto Kenedy_Línea de mano fija continental;9;42; ; 
+Policía fluvial (Quibdó)_Red de enmalle fija continental;14;20;6;9
+Policía fluvial (Quibdó)_Línea de mano fija continental;14;19;5;10
+Pueblo Nuevo_Palangre o espinel de fondo;166;337;60;180
+Muelle Hong Kong_Arpón;4;20;2;2
+Pesquera Friopez_Red de enmalle fija marina;15;60;7;23
+Pesquera Friopez_Palangre o espinel de fondo;141;234;13;27
+Chamón_Red de enmalle fija marina;56;194;19;81
+Chamón_Palangre o espinel de fondo;37;201;36;131
+Comercializadora Anabel_Red de arrastre artesanal o changa;8;10;27;32
+Juanchaco_Línea de mano fija marina;8;13;11;68
+Betania - Naya_Red de enmalle de deriva marina;6;11;3;11
+Tasajera La Playa_Red de enmalle langostera;21;22;22;34
+Chamuscado - Naya_Red de enmalle de deriva marina;5;11;3;9
+El Puente_Atarraya rastra;4;8;4;6
+Santa Cruz - Naya_Red de enmalle de deriva marina;7;10;3;19
+La Casa del Pescador_Red de enmalle camaronera;18;18;13;15
 Bazán La Bocana_Red de enmalle camaronera;8;147;7;15
-Bazán La Bocana_Red de enmalle de deriva marina;8,5;217,45;7;15
-Miramar - Bahía Málaga_Red de enmalle de deriva marina;2,25;11;2;10
+Bazán La Bocana_Red de enmalle de deriva marina;8;217;7;15
+Miramar - Bahía Málaga_Red de enmalle de deriva marina;2;11;2;10
 Miramar - Bahía Málaga_Red de enmalle fija marina;4;13;3;8
-Pesquera Torres Mar_Red de arrastre artesanal o changa;7,67;10,02;22;32
+Pesquera Torres Mar_Red de arrastre artesanal o changa;8;10;22;32
 Bazán La Bocana_Red de enmalle fija marina;6;56;8;10
-Bazán La Bocana_Red de arrastre artesanal o changa;7,33;58;7;11
-Puerto El Waffe marino_Palangre o espinel de fondo;21,67;21,67;8;8
-Limones_Red de enmalle camaronera;8,15;14;2;16
-Limones_Red de arrastre artesanal o changa;9,15;12,32;1;7
-Punta Bonita_Chinchorro marino;1,75;6,88;4;12
-Vigía_Red de enmalle camaronera;3,85;8,5;10;15
-Vigía_Línea de mano fija marina;5,74;51,16;12;90
+Bazán La Bocana_Red de arrastre artesanal o changa;7;58;7;11
+Puerto El Waffe marino_Palangre o espinel de fondo;22;22;8;8
+Limones_Red de enmalle camaronera;8;14;2;16
+Limones_Red de arrastre artesanal o changa;9;12;1;7
+Punta Bonita_Chinchorro marino;2;7;4;12
+Vigía_Red de enmalle camaronera;4;8;10;15
+Vigía_Línea de mano fija marina;6;51;12;90
 Muelle La Samaritana_Red de enmalle de encierro continental;9;9;4;4
-La Casa del Pescador_Red de enmalle fija marina;11,5;17,23;12;24
-Sempegua_Atarraya;5,75;8,5;2;4
-Muelle Las Flores_Línea de mano fija marina;5,65;13,85;8;103
-Muelle La Samaritana_Línea de mano fija marina;5,12;21,48;8;105
-Berrugas_Palangre o espinel de superficie;5,3;12,08;1;10
-Punta Bonita_Red de enmalle camaronera;2;13,01;3;4
-Uldarico_Palangre o espinel de fondo;17,17;108,55;55;84
-El 48_Palangre o espinel de fondo;29,56;68,47;56;105
-Chicopez_Red de enmalle camaronera;10,45;18,57;6;6
-Chicopez_Red de enmalle fija marina;39,59;109,96;7;12
-Punta Bonita_Palangre o espinel de fondo;3,5;17,1;5;12
-Orpua_Palangre o espinel de fondo;6,08;15,9;5;9
+La Casa del Pescador_Red de enmalle fija marina;12;17;12;24
+Sempegua_Atarraya;6;8;2;4
+Muelle Las Flores_Línea de mano fija marina;6;14;8;103
+Muelle La Samaritana_Línea de mano fija marina;5;21;8;105
+Berrugas_Palangre o espinel de superficie;5;12;1;10
+Punta Bonita_Red de enmalle camaronera;2;13;3;4
+Uldarico_Palangre o espinel de fondo;17;109;55;84
+El 48_Palangre o espinel de fondo;30;68;56;105
+Chicopez_Red de enmalle camaronera;10;19;6;6
+Chicopez_Red de enmalle fija marina;40;110;7;12
+Punta Bonita_Palangre o espinel de fondo;4;17;5;12
+Orpua_Palangre o espinel de fondo;6;16;5;9
 Candelillas de Mar_Recolección manual de piangua;5;6; ; 
-La Plata - Bahía Málaga_Red de enmalle de deriva marina;3,55;9,13;3;10
-Miramar - Bahía Málaga_Palangre o espinel de fondo;4,05;24,9;4;30
-Mangaña - Bahía Málaga_Red de enmalle fija marina;2,7;10,65;3;9
-Pueblo Nuevo (Barrancominas)_Línea de mano fija continental;4,29;13,28;1;10
-Malecón (Puerto Gaitán)_Línea de mano fija continental;16,7;83,2;5;8
-Vigía_Red de enmalle zangarreo;3,9;15;7;21
+La Plata - Bahía Málaga_Red de enmalle de deriva marina;4;9;3;10
+Miramar - Bahía Málaga_Palangre o espinel de fondo;4;25;4;30
+Mangaña - Bahía Málaga_Red de enmalle fija marina;3;11;3;9
+Pueblo Nuevo (Barrancominas)_Línea de mano fija continental;4;13;1;10
+Malecón (Puerto Gaitán)_Línea de mano fija continental;17;83;5;8
+Vigía_Red de enmalle zangarreo;4;15;7;21
 Mangaña - Bahía Málaga_Red de enmalle de deriva marina;3;7;3;9
 Muelle Pescadores (Puerto Boyacá)_Atarraya rastra;13;13;2;2
-La Plata - Bahía Málaga_Palangre o espinel de fondo;3,77;17;4;30
+La Plata - Bahía Málaga_Palangre o espinel de fondo;4;17;4;30
 La Plata - Bahía Málaga_Red de enmalle fija marina;4;16;3;9
-Limones_Red de enmalle fija marina;5,47;23,02;2;9
+Limones_Red de enmalle fija marina;5;23;2;9
 Comercializadora JLV_Red de cerco artesanal o ruche;10;10;72;72
-Milagros de la Mar_Red de enmalle fija marina;3,5;17,75;5;45
-Chontal_Red de enmalle fija marina;1;7,25;3;8
-Chamuscado - Naya_Palangre o espinel de fondo;7,47;8,23;7;86
-Monserrate_Atarraya;2,5;43,74;4;10
-Milagros de la Mar_Palangre o espinel de fondo;9,5;23,81;21;288
-Puerto de Gamarra_Chinchorra;21,24;37,59;3;4
-Playa Nueva_Red de enmalle camaronera;5,48;9,34;4;39
-Playa Nueva_Línea de mano fija marina;4,15;32,35;30;153
-Marralú_Nasas de Peces;13,25;16,27;3;4
-Pesquera Punta Reyes_Red de enmalle de deriva marina;14,61;90,66;8;58
-Puerto de desembarco (Mitú)_Arpón;3,35;28,6;12;12
-Agropesur_Red de arrastre artesanal o changa;8,3;10,45;27;31
-Milagros de la Mar_Chinchorro marino;5;7,64;8;49
-Usaragá_Red de enmalle de deriva marina;2,18;7,42;5;18
-Pesquera Punta Reyes_Palangre o espinel de fondo;14,63;97,3;35;110
-Casco Urbano (Arauca)_Red de enmalle fija continental;8,48;115,75;6;10
-Timbiquí_Red de enmalle fija marina;7,44;12,9;5;11
-Corozal_Red de enmalle fija marina;8,08;12,5;5;10
-Mercado (Lorica)_Arpón;2,37;5,58;2;2
-Mercado (Lorica)_Flecha;1,93;5;2;2
-Palenquito_Red de enmalle de deriva continental;2;16,01;4;7
-Puerto Montecristo_Flecha;5,98;10,61;1;3
-Galería (Guapi)_Red de enmalle fija marina;39,5;99;6;40
-Galería (Guapi)_Palangre o espinel de fondo;13,57;35,85;14;48
-Punta Bonita_Red de enmalle fija marina;3,59;11,71;4;6
-La Sierpe - Bahía Málaga_Red de enmalle fija marina;3,65;14,35;3;9
-Pesquera Friopez_Palangre o espinel de superficie;155,5;155,5;7;7
-La Sierpe - Bahía Málaga_Red de enmalle de deriva marina;3;6,55;3;10
-Comercializadores independientes (Guapi)_Red de enmalle fija marina;10,3;89,96;6;10
-Quiroga_Red de enmalle camaronera;7,1;13,5;2;8
-Quiroga_Chinchorro camaronero;6,58;11,96;1;6
-Las Balsas_Red de enmalle de encierro continental;42,7;110;2;4
-Punta Bonita_Red de enmalle de deriva marina;3,5;25,75;4;7
-Codis_Atarraya;7;14,83;4;23
-Puerto de desembarco (Barrancominas)_Línea de mano fija continental;5,65;16,85;7;11
-Puerto de desembarco (Mitú)_Palangre calandrio;3,14;16,76;10;12
-Sivirú_Palangre o espinel de fondo;2,01;9,99;1;2
-San Alejandro_Red de enmalle fija continental;15,83;27,5;4;15
-Pesquera Punto JM_Red de enmalle camaronera;9,08;9,08;29;29
-Chacón_Red de enmalle fija marina;7,75;11,83;5;10
-Las Balsas_Palangre calandrio;23,38;74;2;3
-Plaza de mercado (Tumaco)_Red de enmalle fija marina;17,39;34,89;7;18
-Río San Miguel_Red de enmalle fija continental;3;14,07;2;12
+Milagros de la Mar_Red de enmalle fija marina;4;18;5;45
+Chontal_Red de enmalle fija marina;1;7;3;8
+Chamuscado - Naya_Palangre o espinel de fondo;7;8;7;86
+Monserrate_Atarraya;2;44;4;10
+Milagros de la Mar_Palangre o espinel de fondo;10;24;21;288
+Puerto de Gamarra_Chinchorra;21;38;3;4
+Playa Nueva_Red de enmalle camaronera;5;9;4;39
+Playa Nueva_Línea de mano fija marina;4;32;30;153
+Marralú_Nasas de Peces;13;16;3;4
+Pesquera Punta Reyes_Red de enmalle de deriva marina;15;91;8;58
+Puerto de desembarco (Mitú)_Arpón;3;29;12;12
+Agropesur_Red de arrastre artesanal o changa;8;10;27;31
+Milagros de la Mar_Chinchorro marino;5;8;8;49
+Usaragá_Red de enmalle de deriva marina;2;7;5;18
+Pesquera Punta Reyes_Palangre o espinel de fondo;15;97;35;110
+Casco Urbano (Arauca)_Red de enmalle fija continental;8;116;6;10
+Timbiquí_Red de enmalle fija marina;7;13;5;11
+Corozal_Red de enmalle fija marina;8;12;5;10
+Mercado (Lorica)_Arpón;2;6;2;2
+Mercado (Lorica)_Flecha;2;5;2;2
+Palenquito_Red de enmalle de deriva continental;2;16;4;7
+Puerto Montecristo_Flecha;6;11;1;3
+Galería (Guapi)_Red de enmalle fija marina;40;99;6;40
+Galería (Guapi)_Palangre o espinel de fondo;14;36;14;48
+Punta Bonita_Red de enmalle fija marina;4;12;4;6
+La Sierpe - Bahía Málaga_Red de enmalle fija marina;4;14;3;9
+Pesquera Friopez_Palangre o espinel de superficie;156;156;7;7
+La Sierpe - Bahía Málaga_Red de enmalle de deriva marina;3;7;3;10
+Comercializadores independientes (Guapi)_Red de enmalle fija marina;10;90;6;10
+Quiroga_Red de enmalle camaronera;7;14;2;8
+Quiroga_Chinchorro camaronero;7;12;1;6
+Las Balsas_Red de enmalle de encierro continental;43;110;2;4
+Punta Bonita_Red de enmalle de deriva marina;4;26;4;7
+Codis_Atarraya;7;15;4;23
+Puerto de desembarco (Barrancominas)_Línea de mano fija continental;6;17;7;11
+Puerto de desembarco (Mitú)_Palangre calandrio;3;17;10;12
+Sivirú_Palangre o espinel de fondo;2;10;1;2
+San Alejandro_Red de enmalle fija continental;16;28;4;15
+Pesquera Punto JM_Red de enmalle camaronera;9;9;29;29
+Chacón_Red de enmalle fija marina;8;12;5;10
+Las Balsas_Palangre calandrio;23;74;2;3
+Plaza de mercado (Tumaco)_Red de enmalle fija marina;17;35;7;18
+Río San Miguel_Red de enmalle fija continental;3;14;2;12
 Miramar - Bahía Málaga_Línea de mano fija marina;3;9;7;19
-La Plata - Bahía Málaga_Línea de mano fija marina;2,5;6;8;24
-Belén (San Marcos)_Atarraya rastra;3,3;12;3;4
-San José de la Calle_Red de enmalle fija continental;5,5;19,2;5;9
-Uldarico_Red de enmalle de deriva marina;15,58;29,03;22;67
-Mapiripán_Línea de mano fija continental;0,98;30,57;4;12
-Juanchaco_Línea de mano correteo curricán o trolling;8,03;10,76;11;34
+La Plata - Bahía Málaga_Línea de mano fija marina;2;6;8;24
+Belén (San Marcos)_Atarraya rastra;3;12;3;4
+San José de la Calle_Red de enmalle fija continental;6;19;5;9
+Uldarico_Red de enmalle de deriva marina;16;29;22;67
+Mapiripán_Línea de mano fija continental;1;31;4;12
+Juanchaco_Línea de mano correteo curricán o trolling;8;11;11;34
 Río San Miguel_Red de enmalle de deriva continental;1;8;2;8
-Puerto ESSO_Chinchorra mallona;21,67;46,67;4;6
-Puerto Wilches_Chinchorra mallona;21,33;46,42;4;5
+Puerto ESSO_Chinchorra mallona;22;47;4;6
+Puerto Wilches_Chinchorra mallona;21;46;4;5
 Río San Miguel_Línea de mano fija continental;1;13;2;12
-La Sierpe - Bahía Málaga_Línea de mano fija marina;3;8,45;8;18
-Mangaña - Bahía Málaga_Palangre o espinel de fondo;5,65;20,7;3;32
-Puerto de desembarco (Barrancominas)_Red de enmalle de deriva continental;5,5;16,5;7;11
-Playa Nueva_Red de enmalle de encierro continental;5,3;8,9;7;21
-Aparca_Arpón;8,03;29,42;3;5
-Montaño_Línea de mano fija continental;17,54;17,67; ; 
-Pueblo Nuevo_Línea de mano fija marina;102,88;136,7;20;20
-Puerto Boca_Chinchorro continental;6,18;15,5;1;4
-San Miguel (Puerto Gaitán)_Red de enmalle fija continental;6,27;62,71;3;7
-Aparca_Línea de mano fija continental;7,5;7,5;5;5
-Pueblo Nuevo (Barrancominas)_Red de enmalle de deriva continental;2,75;13,19;5;12
-Laguna Colorada_Red de enmalle de deriva continental;6,42;13,12;2;8
-La Sierpe - Bahía Málaga_Palangre o espinel de fondo;5,7;19,05;9;30
-Pesquera Punta Reyes_Red de cerco artesanal o ruche;8,52;17,05;10;82
-Pueblo Nuevo (Barrancominas)_Palangre calandrio;6,18;19,18;1;17
-Muelle Las Flores_Red de enmalle de encierro continental;6,3;10,8;7;10
-El 48_Red de cerco artesanal o ruche;8,98;11,03;52;79
-Uldarico_Red de cerco artesanal o ruche;10,12;10,12;86;86
-Caño Mina_Red de enmalle de deriva continental;1,58;2,58;5;10
-Río San Miguel_Arpón;3;24,99;2;10
-Mapiripán_Red de enmalle de deriva continental;0,88;12,9;7;16
-El 48_Red de enmalle de deriva marina;12,74;81,09;19;49
+La Sierpe - Bahía Málaga_Línea de mano fija marina;3;8;8;18
+Mangaña - Bahía Málaga_Palangre o espinel de fondo;6;21;3;32
+Puerto de desembarco (Barrancominas)_Red de enmalle de deriva continental;6;16;7;11
+Playa Nueva_Red de enmalle de encierro continental;5;9;7;21
+Aparca_Arpón;8;29;3;5
+Montaño_Línea de mano fija continental;18;18; ; 
+Pueblo Nuevo_Línea de mano fija marina;103;137;20;20
+Puerto Boca_Chinchorro continental;6;16;1;4
+San Miguel (Puerto Gaitán)_Red de enmalle fija continental;6;63;3;7
+Aparca_Línea de mano fija continental;8;8;5;5
+Pueblo Nuevo (Barrancominas)_Red de enmalle de deriva continental;3;13;5;12
+Laguna Colorada_Red de enmalle de deriva continental;6;13;2;8
+La Sierpe - Bahía Málaga_Palangre o espinel de fondo;6;19;9;30
+Pesquera Punta Reyes_Red de cerco artesanal o ruche;9;17;10;82
+Pueblo Nuevo (Barrancominas)_Palangre calandrio;6;19;1;17
+Muelle Las Flores_Red de enmalle de encierro continental;6;11;7;10
+El 48_Red de cerco artesanal o ruche;9;11;52;79
+Uldarico_Red de cerco artesanal o ruche;10;10;86;86
+Caño Mina_Red de enmalle de deriva continental;2;3;5;10
+Río San Miguel_Arpón;3;25;2;10
+Mapiripán_Red de enmalle de deriva continental;1;13;7;16
+El 48_Red de enmalle de deriva marina;13;81;19;49
 Malecón (Puerto Gaitán)_Red de enmalle de deriva continental;18;108;3;8
-La Rampa (Barrancabermeja)_Atarraya rastra;18,32;21,47;4;8
-Isla Fuerte_Red de enmalle fija marina;7,25;16,08;9;24
-La Gloria_Gaviota;6;9,6;3;3
-La Raya_Red de enmalle de deriva continental;4,75;7,92;4;4
-San Miguel (Puerto Gaitán)_Atarraya;4,45;15,37;3;6
-Puerto La Candelaria_Atarraya rastra;1,38;6;3;5
-Barrio La Unión_Nasa de jaibas;5,5;7,17;1;2
-Macurutú - Saloa_Flecha;2,2;3,91;3;3
-Puerto ESSO_Chinchorra nicurera;21,67;23,48;4;5
-Puerto Boquillas_Red de enmalle de deriva continental;2,25;3,5;12;15
+La Rampa (Barrancabermeja)_Atarraya rastra;18;21;4;8
+Isla Fuerte_Red de enmalle fija marina;7;16;9;24
+La Gloria_Gaviota;6;10;3;3
+La Raya_Red de enmalle de deriva continental;5;8;4;4
+San Miguel (Puerto Gaitán)_Atarraya;4;15;3;6
+Puerto La Candelaria_Atarraya rastra;1;6;3;5
+Barrio La Unión_Nasa de jaibas;6;7;1;2
+Macurutú - Saloa_Flecha;2;4;3;3
+Puerto ESSO_Chinchorra nicurera;22;23;4;5
+Puerto Boquillas_Red de enmalle de deriva continental;2;4;12;15
 Bocas de Seheve_Chinchorro continental;4;7;2;6
 Malecón (Puerto Gaitán)_Chinchorro continental;38;38;7;7
-Muelle La Esmeralda_Línea de mano fija continental;5,02;5,08;2;2
-Puerto López_Línea de mano turista;16,08;16,08;2;2
+Muelle La Esmeralda_Línea de mano fija continental;5;5;2;2
+Puerto López_Línea de mano turista;16;16;2;2
 La Rampa (Barrancabermeja)_Nasas de Peces;16;19;2;6
-Puerto Wilches_Chinchorra nicurera;21,3;23,17;4;5
-La Punta_Buceo marino mixto;7,13;15,39;2;5
-Plaza de mercado (La Dorada)_Atarraya rastra;10,09;11,75;3;4
-Puerto de Gamarra_Atarraya;10,53;23;3;4
-Puerto de Gamarra_Línea de mano fija continental;11,47;24,42;2;4
-Puerto de Gamarra_Red de enmalle fija continental;11,33;25;3;4
-Las Delicias_Red de enmalle de deriva marina;13,76;13,99;11;13
-Paujil_Palangre calandrio;11,45;110,15;1;15
+Puerto Wilches_Chinchorra nicurera;21;23;4;5
+La Punta_Buceo marino mixto;7;15;2;5
+Plaza de mercado (La Dorada)_Atarraya rastra;10;12;3;4
+Puerto de Gamarra_Atarraya;11;23;3;4
+Puerto de Gamarra_Línea de mano fija continental;11;24;2;4
+Puerto de Gamarra_Red de enmalle fija continental;11;25;3;4
+Las Delicias_Red de enmalle de deriva marina;14;14;11;13
+Paujil_Palangre calandrio;11;110;1;15
 Puerto Cabuyaro_Atarraya;6;23;3;7
-Clarinetero_Red de enmalle de deriva continental;16,18;18,43;4;4
-Puerto Rico [Meta]_Red de enmalle de deriva continental;5,5;15;6;9
-Punta Bonita_Red de cerco;6,46;11,5;10;12
-Pesquera Friopez_Red de cerco artesanal o ruche;10,91;13,25;9;16
-Juanchaco_Red de enmalle de deriva marina;13,37;15,19;11;29
-Monserrate_Red de enmalle fija continental;8,46;58,36;6;10
-Las Flores_Atarraya;7,86;34,7;2;3
-Monserrate_Chinchorro continental;10,44;71,29;6;8
-Casco Urbano (Arauca)_Palangre calandrio;14,17;207,9;6;8
-Rincón del Mar_Nasa de langostas;123,79;243,63;16;35
-Casco Urbano (Arauca)_Chinchorro continental;12,43;157,04;4;8
-Playa de Arusí_Arpón;6,51;7,16;10;16
-Mapiripán_Chinchorro continental;4,19;16,98;5;11
-Playa de Arusí_Red de enmalle fija marina;2,4;4,5;6;7
-Malecón (Puerto Gaitán)_Atarraya;13,12;90,28;4;12
-Puerto del Pescado (San José Del Guaviare)_Línea de mano fija continental;1,91;12,42;6;8
-Doña Ana_Red de enmalle de encierro continental;4;15,2;2;2
-La Charca de Guarinocito_Chinchorra;4,07;5,23;2;2
-Pesquera Luz Mar_Red de enmalle fija marina;20,09;94,72;9;15
-Puerto Principal (Leticia)_Línea de mano fija continental;8,2;16,9;4;4
-Mangaña - Bahía Málaga_Línea de mano fija marina;3,2;6,8;15;20
-Puerto Barrio El Progreso_Red de enmalle de deriva continental mallona;9,5;13,5;4;7
+Clarinetero_Red de enmalle de deriva continental;16;18;4;4
+Puerto Rico [Meta]_Red de enmalle de deriva continental;6;15;6;9
+Punta Bonita_Red de cerco;6;12;10;12
+Pesquera Friopez_Red de cerco artesanal o ruche;11;13;9;16
+Juanchaco_Red de enmalle de deriva marina;13;15;11;29
+Monserrate_Red de enmalle fija continental;8;58;6;10
+Las Flores_Atarraya;8;35;2;3
+Monserrate_Chinchorro continental;10;71;6;8
+Casco Urbano (Arauca)_Palangre calandrio;14;208;6;8
+Rincón del Mar_Nasa de langostas;124;244;16;35
+Casco Urbano (Arauca)_Chinchorro continental;12;157;4;8
+Playa de Arusí_Arpón;7;7;10;16
+Mapiripán_Chinchorro continental;4;17;5;11
+Playa de Arusí_Red de enmalle fija marina;2;4;6;7
+Malecón (Puerto Gaitán)_Atarraya;13;90;4;12
+Puerto del Pescado (San José Del Guaviare)_Línea de mano fija continental;2;12;6;8
+Doña Ana_Red de enmalle de encierro continental;4;15;2;2
+La Charca de Guarinocito_Chinchorra;4;5;2;2
+Pesquera Luz Mar_Red de enmalle fija marina;20;95;9;15
+Puerto Principal (Leticia)_Línea de mano fija continental;8;17;4;4
+Mangaña - Bahía Málaga_Línea de mano fija marina;3;7;15;20
+Puerto Barrio El Progreso_Red de enmalle de deriva continental mallona;10;14;4;7
 Las Flores_Red de enmalle fija marina;8;19;11;50
-Muelle Pescadores (Puerto Boyacá)_Atarraya chile;12,06;24;2;3
-Corozal_Red de enmalle de encierro continental;8,54;11,5;9;10
-Orpua_Red de cerco;3,1;5,78;3;5
-Milagros de la Mar_Red de enmalle de encierro continental;3,54;4,21;12;18
-Timbiquí_Red de enmalle de encierro continental;8,09;11,36;8;10
-Quiroga_Red de enmalle fija marina;10,81;15,85;5;5
-Puerto López_Chinchorro continental;6;9,17;1;1
-Isla Fuerte_Nasas de Peces;5,94;26,6;13;100
-Marralú_Red de enmalle de encierro continental;5,05;11,97;3;4
-Chacón_Red de enmalle de encierro continental;8,24;11,32;7;10
-Caño Mina_Palangre calandrio;2,08;2,17;4;7
-Pueblo Nuevo_Red de cerco;9,93;11,23;10;10
-Pesquera Luz Mar_Red de cerco artesanal o ruche;12,75;12,75;8;8
+Muelle Pescadores (Puerto Boyacá)_Atarraya chile;12;24;2;3
+Corozal_Red de enmalle de encierro continental;9;12;9;10
+Orpua_Red de cerco;3;6;3;5
+Milagros de la Mar_Red de enmalle de encierro continental;4;4;12;18
+Timbiquí_Red de enmalle de encierro continental;8;11;8;10
+Quiroga_Red de enmalle fija marina;11;16;5;5
+Puerto López_Chinchorro continental;6;9;1;1
+Isla Fuerte_Nasas de Peces;6;27;13;100
+Marralú_Red de enmalle de encierro continental;5;12;3;4
+Chacón_Red de enmalle de encierro continental;8;11;7;10
+Caño Mina_Palangre calandrio;2;2;4;7
+Pueblo Nuevo_Red de cerco;10;11;10;10
+Pesquera Luz Mar_Red de cerco artesanal o ruche;13;13;8;8
 Pueblo Nuevo_Nasa de jaibas;50;50;1;1
-Puerto Bello_Chinchorro continental;14,18;18,2;2;2
+Puerto Bello_Chinchorro continental;14;18;2;2
 Puerto Amor_Red de enmalle de encierro continental;6;6;2;2
-Puerto Barrio El Progreso_Chinchorra;13,5;15,5;4;7
-Puerto de Gamarra_Palangre calandrio;13,16;24;2;4
-Puerto Barrio El Progreso_Línea de mano fija continental;13,9;15,5;4;6
-Pesquera Ricuras del Mar_Red de enmalle fija marina;29,67;29,67;12;12
-Puerto Boca_Atarraya;5,97;12,45;1;3
-Puerto Asure_Red de enmalle de encierro continental;7;18,5;1;2
-Pesquera Punta Reyes_Red de enmalle camaronera;8,76;14,96;5;10
-El Pedral_Red de enmalle de deriva continental;2,43;12,55;2;3
+Puerto Barrio El Progreso_Chinchorra;14;16;4;7
+Puerto de Gamarra_Palangre calandrio;13;24;2;4
+Puerto Barrio El Progreso_Línea de mano fija continental;14;16;4;6
+Pesquera Ricuras del Mar_Red de enmalle fija marina;30;30;12;12
+Puerto Boca_Atarraya;6;12;1;3
+Puerto Asure_Red de enmalle de encierro continental;7;18;1;2
+Pesquera Punta Reyes_Red de enmalle camaronera;9;15;5;10
+El Pedral_Red de enmalle de deriva continental;2;13;2;3
 El Pedral_Atarraya;2;7;2;3
-Casco Urbano (San Juan de Urabá)_Red de enmalle fija marina;8,5;31,38;4;23
-Sapzurro_Línea de mano fija marina;2,3;13,8;13;200
-Puerto Triunfo_Atarraya;3,73;14,8;4;5
-Puerto Triunfo_Atarraya rastra;9,57;10,81;5;8
-Puerto Triunfo_Palangre calandrio;5,25;21,26;1;3
-Sapzurro_Red de enmalle fija marina;9,6;24,05;13;15
-Marriaga_Red de enmalle fija continental;14,23;19,01;2;8
-Ciénaga del Totumo_Atarraya;5,22;9,85;2;3
-La Coquerita_Línea de mano fija marina;4,22;9,82;8;18
-Primera Ensenada_Atarraya;1,13;1,13;2;2
-Primera Ensenada_Palangre o espinel de fondo;5,26;16,51;10;20
-Primera Ensenada_Línea de mano fija marina;4,46;21,27;8;40
-Ciénaga del Totumo_Buceo de peces;3,51;6,62;1;5
-El Pedral_Cóngolo;3,86;5,41;2;2
-Puerto Triunfo_Red de enmalle de deriva continental;16,23;19,65;3;3
-Sapzurro_Línea de mano correteo curricán o trolling;1,75;4,58;13;25
-El Pedral_Línea de mano fija continental;2,21;14,73;2;3
-Uldarico_Red de enmalle camaronera;7,91;9,52;5;8
-El 48_Red de enmalle camaronera;7,8;8,23;6;6
-Puerto (Arauquita)_Atarraya;3,2;11;2;6
-Puerto Triunfo_Chinchorra;6,84;39,98;1;3
-Docordó_Red de enmalle fija marina;8;18,5;3;36
-Sapzurro_Buceo de peces;2,38;6;6;13
-Docordó_Red de enmalle de deriva marina;4,72;11,05;4;54
-Docordó_Palangre o espinel de fondo;7,21;63,92;8;270
-Casco urbano Roma_Flecha;2,5;9,62;2;2
+Casco Urbano (San Juan de Urabá)_Red de enmalle fija marina;8;31;4;23
+Sapzurro_Línea de mano fija marina;2;14;13;200
+Puerto Triunfo_Atarraya;4;15;4;5
+Puerto Triunfo_Atarraya rastra;10;11;5;8
+Puerto Triunfo_Palangre calandrio;5;21;1;3
+Sapzurro_Red de enmalle fija marina;10;24;13;15
+Marriaga_Red de enmalle fija continental;14;19;2;8
+Ciénaga del Totumo_Atarraya;5;10;2;3
+La Coquerita_Línea de mano fija marina;4;10;8;18
+Primera Ensenada_Atarraya;1;1;2;2
+Primera Ensenada_Palangre o espinel de fondo;5;17;10;20
+Primera Ensenada_Línea de mano fija marina;4;21;8;40
+Ciénaga del Totumo_Buceo de peces;4;7;1;5
+El Pedral_Cóngolo;4;5;2;2
+Puerto Triunfo_Red de enmalle de deriva continental;16;20;3;3
+Sapzurro_Línea de mano correteo curricán o trolling;2;5;13;25
+El Pedral_Línea de mano fija continental;2;15;2;3
+Uldarico_Red de enmalle camaronera;8;10;5;8
+El 48_Red de enmalle camaronera;8;8;6;6
+Puerto (Arauquita)_Atarraya;3;11;2;6
+Puerto Triunfo_Chinchorra;7;40;1;3
+Docordó_Red de enmalle fija marina;8;18;3;36
+Sapzurro_Buceo de peces;2;6;6;13
+Docordó_Red de enmalle de deriva marina;5;11;4;54
+Docordó_Palangre o espinel de fondo;7;64;8;270
+Casco urbano Roma_Flecha;2;10;2;2
 Chontal_Recolección manual de piangua;3;3;2;2
-Chontal_Palangre o espinel de superficie;1,39;5,34;4;24
-Chontal_Red de enmalle camaronera;2,02;2,31;21;34
-Chontal_Red de arrastre;1,59;6,65;3;20
-Chontal_Palangre o espinel de fondo;1,79;4,96;4;6
+Chontal_Palangre o espinel de superficie;1;5;4;24
+Chontal_Red de enmalle camaronera;2;2;21;34
+Chontal_Red de arrastre;2;7;3;20
+Chontal_Palangre o espinel de fondo;2;5;4;6
 Chontal_Red de enmalle de encierro continental;2;2;5;8
-Chontal_Red de cerco artesanal o ruche;2;4,98;5;6
+Chontal_Red de cerco artesanal o ruche;2;5;5;6
 Chontal_Chinchorro marino;3;3;15;15
-Chontal_Línea de mano correteo curricán o trolling;2,42;6,25;4;5
-Agropesur_Palangre o espinel de fondo;7,5;7,5;25;25
-Chontal_Línea de mano fija marina;2,52;2,98;3;5
-Tribugá_Red de enmalle fija marina;3;14,94;3;3
-Tribugá_Línea de mano fija marina;3;12,18;6;10
-San Antonio de Padua_Red de enmalle de deriva continental;1,15;11,03;2;6
-Docordó_Línea de mano;10,1;11,2;13;17
-Arrimadero La Unión_Red de enmalle marina de fondo;12,15;15,59;6;12
-Casco Urbano (San Juan de Urabá)_Red de enmalle camaronera;8,77;16,4;2;4
-Puerto Miraflores_Red de enmalle marina de fondo;1,03;4;5;15
-El Muelle (Barrancabermeja)_Línea de mano fija continental;15,01;18,46;3;5
-Monserrate_Palangre calandrio;19,75;19,75;8;8
-Miramar - Bahía Málaga_Palangre o espinel de superficie;14,6;21,4;2;18
-La Sierpe - Bahía Málaga_Palangre o espinel de superficie;17,05;17,95;3;3
-Muelle Principal (Puerto Leguízamo)_Red de enmalle de deriva continental;3,07;20,68;4;7
-Buchadó_Red de enmalle fija continental;15,23;20,92;3;5
-Tagachí_Red de enmalle fija continental;14,67;26,1;1;3
-Tagachí_Cóngolo;12,28;49,1;2;2
-Tagachí_Red de enmalle de deriva continental;2,41;13,34;7;12
-Curvaradó_Red de enmalle fija continental;16,75;20,45;8;8
-Buchadó_Línea de mano fija continental;16,33;20,09;3;5
-Isla Fuerte_Red de enmalle de encierro marina;5,2;8;9;24
-Tagachí_Línea de mano fija continental;3,69;19,43;1;12
-El Llanito_Línea de mano fija continental;7,27;7,56;2;2
-Chontal_No definido;1,51;1,66;5;6
-El Muelle (Puerto López)_Red de enmalle de deriva continental;18;81,3;2;3
-La Punta - Firme Cifuentes_Red de enmalle de encierro continental;2,6;12,5;9;29
-Puerto Wilches_Línea de mano fija continental;21,17;22,83;4;5
-La Punta - Firme Cifuentes_Red de enmalle camaronera;4;8,33;5;23
-Laguna Colorada_Palangre calandrio;8,04;18,25;1;14
-La Punta - Firme Cifuentes_Recolección manual de piangua;5,08;6,42;1;1
-Punta Bonita_Palangre o espinel de superficie;3,35;16,15;5;6
-Tribugá_Palangre o espinel de fondo;5,82;18,33;3;5
-Puerto Boca_Red de enmalle fija continental ciénaga;7,81;25,93;2;3
-El Pedral_Palangre calandrio;2;14,75;2;3
-La Casa del Pescador_Red de enmalle de encierro continental;11,08;13,96;12;19
-La Pedrera_Atarraya;5,38;27,47;2;13
-Puerto Bogotá_Cóngolo;2;3,5;2;6
+Chontal_Línea de mano correteo curricán o trolling;2;6;4;5
+Agropesur_Palangre o espinel de fondo;8;8;25;25
+Chontal_Línea de mano fija marina;3;3;3;5
+Tribugá_Red de enmalle fija marina;3;15;3;3
+Tribugá_Línea de mano fija marina;3;12;6;10
+San Antonio de Padua_Red de enmalle de deriva continental;1;11;2;6
+Docordó_Línea de mano;10;11;13;17
+Arrimadero La Unión_Red de enmalle marina de fondo;12;16;6;12
+Casco Urbano (San Juan de Urabá)_Red de enmalle camaronera;9;16;2;4
+Puerto Miraflores_Red de enmalle marina de fondo;1;4;5;15
+El Muelle (Barrancabermeja)_Línea de mano fija continental;15;18;3;5
+Monserrate_Palangre calandrio;20;20;8;8
+Miramar - Bahía Málaga_Palangre o espinel de superficie;15;21;2;18
+La Sierpe - Bahía Málaga_Palangre o espinel de superficie;17;18;3;3
+Muelle Principal (Puerto Leguízamo)_Red de enmalle de deriva continental;3;21;4;7
+Buchadó_Red de enmalle fija continental;15;21;3;5
+Tagachí_Red de enmalle fija continental;15;26;1;3
+Tagachí_Cóngolo;12;49;2;2
+Tagachí_Red de enmalle de deriva continental;2;13;7;12
+Curvaradó_Red de enmalle fija continental;17;20;8;8
+Buchadó_Línea de mano fija continental;16;20;3;5
+Isla Fuerte_Red de enmalle de encierro marina;5;8;9;24
+Tagachí_Línea de mano fija continental;4;19;1;12
+El Llanito_Línea de mano fija continental;7;8;2;2
+Chontal_No definido;2;2;5;6
+El Muelle (Puerto López)_Red de enmalle de deriva continental;18;81;2;3
+La Punta - Firme Cifuentes_Red de enmalle de encierro continental;3;12;9;29
+Puerto Wilches_Línea de mano fija continental;21;23;4;5
+La Punta - Firme Cifuentes_Red de enmalle camaronera;4;8;5;23
+Laguna Colorada_Palangre calandrio;8;18;1;14
+La Punta - Firme Cifuentes_Recolección manual de piangua;5;6;1;1
+Punta Bonita_Palangre o espinel de superficie;3;16;5;6
+Tribugá_Palangre o espinel de fondo;6;18;3;5
+Puerto Boca_Red de enmalle fija continental ciénaga;8;26;2;3
+El Pedral_Palangre calandrio;2;15;2;3
+La Casa del Pescador_Red de enmalle de encierro continental;11;14;12;19
+La Pedrera_Atarraya;5;27;2;13
+Puerto Bogotá_Cóngolo;2;4;2;6
 Puerto Bogotá_Línea de mano fija continental;3;7;7;8
-Milagros de la Mar_Palangre o espinel de superficie;14,84;25,41;35;343
-El Malecón (Coello)_Red de enmalle de deriva continental;3,38;15;3;4
+Milagros de la Mar_Palangre o espinel de superficie;15;25;35;343
+El Malecón (Coello)_Red de enmalle de deriva continental;3;15;3;4
 Puerto Bogotá_Atarraya;2;5;2;8
-San Antonio de Padua_Línea de mano fija continental;3,86;30,48;3;7
-La Punta - Firme Cifuentes_Red de enmalle de deriva marina;3,17;10,8;4;30
-Puerto Los Córdobas_Red de enmalle fija marina;5,23;14,17;6;25
-Milagros de la Mar_Red de enmalle de deriva marina;4,56;13,02;9;45
-Maracayo_Red de enmalle fija continental;14,78;19,83;3;5
-Monserrate_Recolección manual de mota;5,72;11,2;6;8
-Camarones_Red de enmalle de deriva marina;8,58;12,87;7;13
-Camarones_Red de enmalle de encierro marina;3,61;12,24;7;13
-Camarones_Nasas de Peces;7,17;113,49;12;25
-Puerto Panseguita_Red de enmalle fija continental;16;21,35;2;5
-Puerto Los Córdobas_Red de enmalle de deriva marina;8,13;25,12;18;103
+San Antonio de Padua_Línea de mano fija continental;4;30;3;7
+La Punta - Firme Cifuentes_Red de enmalle de deriva marina;3;11;4;30
+Puerto Los Córdobas_Red de enmalle fija marina;5;14;6;25
+Milagros de la Mar_Red de enmalle de deriva marina;5;13;9;45
+Maracayo_Red de enmalle fija continental;15;20;3;5
+Monserrate_Recolección manual de mota;6;11;6;8
+Camarones_Red de enmalle de deriva marina;9;13;7;13
+Camarones_Red de enmalle de encierro marina;4;12;7;13
+Camarones_Nasas de Peces;7;113;12;25
+Puerto Panseguita_Red de enmalle fija continental;16;21;2;5
+Puerto Los Córdobas_Red de enmalle de deriva marina;8;25;18;103
 Puerto Panseguita_Atarraya;4;9;2;5
-Bocas del Atrato_Palangre o espinel de superficie;16,82;18,67;5;7
-Las Brisas_Red de enmalle fija continental;16,08;21;2;4
-Punta Bonita_Red de arrastre artesanal o changa;3,48;7,85;2;3
+Bocas del Atrato_Palangre o espinel de superficie;17;19;5;7
+Las Brisas_Red de enmalle fija continental;16;21;2;4
+Punta Bonita_Red de arrastre artesanal o changa;3;8;2;3
 Candelaria (Achí)_Red de enmalle fija continental;14;18;1;3
-Puerto Panseguita_Palangre calandrio;14,62;16,88;2;7
-Muelle Pescadores (Puerto Boyacá)_Red de enmalle de deriva continental;13,01;13,16;2;3
-Pesquera Friopez_Red de enmalle de deriva marina;27,3;112,17;13;18
-Muelle Hong Kong_Recolección manual de mota;2,48;11,31;2;2
-Vigía de Curvaradó_Red de enmalle fija continental;14,7;22,42;3;7
-Chontal_Red de arrastre artesanal o changa;2,5;2,5;3;3
-La Tagua_Línea de mano fija continental;12,31;145,36;8;8
-Plaza de mercado (Tumaco)_Red de enmalle de encierro continental;25,58;38,99;12;12
-Puerto (Arauquita)_Línea de mano fija continental;3,4;16,85;2;8
-Vigía_Red de enmalle de deriva marina;2,63;7,08;12;15
-La Sierpe - Bahía Málaga_Arpón;6,05;6,95;7;17
-Curillo_Red de enmalle de deriva continental;8,9;16,1;3;3
-Barrio Santa Lucía_Red de enmalle fija marina;13,67;17;10;27
-Plaza de mercado (Tumaco)_Red de enmalle de deriva marina;14,51;42,1;10;17
-La Casa del Pescador_Red de enmalle de deriva marina;11,17;17;10;20
-La Grande_Línea de mano fija continental;16,03;16,03;4;4
-La Coquerita_Atarraya;2,41;4,38;8;8
-Playa Blanca (Ayapel)_Red de enmalle fija continental;14,67;18,42;1;3
-Providencia o Caimancito_Red de enmalle fija continental;16,67;19,27;2;3
-Domingodó_Flecha;5,41;28,2;6;6
-Domingodó_Línea de mano fija continental;13,85;17,6;6;8
-Domingodó_Red de enmalle fija continental;15,17;23,67;6;8
+Puerto Panseguita_Palangre calandrio;15;17;2;7
+Muelle Pescadores (Puerto Boyacá)_Red de enmalle de deriva continental;13;13;2;3
+Pesquera Friopez_Red de enmalle de deriva marina;27;112;13;18
+Muelle Hong Kong_Recolección manual de mota;2;11;2;2
+Vigía de Curvaradó_Red de enmalle fija continental;15;22;3;7
+Chontal_Red de arrastre artesanal o changa;2;2;3;3
+La Tagua_Línea de mano fija continental;12;145;8;8
+Plaza de mercado (Tumaco)_Red de enmalle de encierro continental;26;39;12;12
+Puerto (Arauquita)_Línea de mano fija continental;3;17;2;8
+Vigía_Red de enmalle de deriva marina;3;7;12;15
+La Sierpe - Bahía Málaga_Arpón;6;7;7;17
+Curillo_Red de enmalle de deriva continental;9;16;3;3
+Barrio Santa Lucía_Red de enmalle fija marina;14;17;10;27
+Plaza de mercado (Tumaco)_Red de enmalle de deriva marina;15;42;10;17
+La Casa del Pescador_Red de enmalle de deriva marina;11;17;10;20
+La Grande_Línea de mano fija continental;16;16;4;4
+La Coquerita_Atarraya;2;4;8;8
+Playa Blanca (Ayapel)_Red de enmalle fija continental;15;18;1;3
+Providencia o Caimancito_Red de enmalle fija continental;17;19;2;3
+Domingodó_Flecha;5;28;6;6
+Domingodó_Línea de mano fija continental;14;18;6;8
+Domingodó_Red de enmalle fija continental;15;24;6;8
 El Porvenir_Línea de mano fija marina;3;12;4;20
-Chontal_Red de enmalle de deriva marina;1,42;4,92;5;40
-El Porvenir_Red de enmalle fija marina;11,67;15,86;3;8
-La Plata - Bahía Málaga_Palangre o espinel de superficie;5,85;15,3;4;10
-El Porvenir_Buceo marino mixto;3;7,99;3;8
-Barrio Arriba - Barbosa (Magangué)_Red de enmalle fija continental;16,5;20,17;2;6
-El Porvenir_Palangre o espinel de fondo;11,73;18,05;5;15
-Barrio Abajo - Barbosa (Magangué)_Red de enmalle fija continental;17,33;21,17;4;6
-Barrio Santa Lucía_Línea de mano fija marina;5,82;17,34;48;48
-Pomeño_Red de enmalle fija marina;13,57;23,82;5;8
-San José de la Calle_Línea de mano fija continental;13,86;17,71;7;20
-Cupica_Línea de mano fija marina;10,5;14,5;12;33
-Pomeño_Red de enmalle de deriva marina;2,25;15,68;5;7
-Candelillas de Mar_Red de enmalle de deriva marina;8,5;13,46;2;3
-Tribugá_Arpón;3,7;10,17;1;4
-Guataquí_Atarraya;3;14,3;2;6
-La Chamba_Atarraya;1,68;4,98;3;3
-Guataquí_Palangre calandrio;4,34;96,79;4;8
-La Chamba_Red de enmalle de deriva continental;1,82;5,69;3;3
-Virudó_Red de enmalle fija marina;4,24;55,87;1;9
-Casco urbano (Puerto Escondido)_Red de enmalle fija marina;6;40,31;2;16
-Casco urbano (Puerto Escondido)_Línea de mano fija marina;10,43;12,15;26;39
-Miel de Abeja_Línea de mano fija marina;6,6;29,1;12;58
+Chontal_Red de enmalle de deriva marina;1;5;5;40
+El Porvenir_Red de enmalle fija marina;12;16;3;8
+La Plata - Bahía Málaga_Palangre o espinel de superficie;6;15;4;10
+El Porvenir_Buceo marino mixto;3;8;3;8
+Barrio Arriba - Barbosa (Magangué)_Red de enmalle fija continental;16;20;2;6
+El Porvenir_Palangre o espinel de fondo;12;18;5;15
+Barrio Abajo - Barbosa (Magangué)_Red de enmalle fija continental;17;21;4;6
+Barrio Santa Lucía_Línea de mano fija marina;6;17;48;48
+Pomeño_Red de enmalle fija marina;14;24;5;8
+San José de la Calle_Línea de mano fija continental;14;18;7;20
+Cupica_Línea de mano fija marina;10;14;12;33
+Pomeño_Red de enmalle de deriva marina;2;16;5;7
+Candelillas de Mar_Red de enmalle de deriva marina;8;13;2;3
+Tribugá_Arpón;4;10;1;4
+Guataquí_Atarraya;3;14;2;6
+La Chamba_Atarraya;2;5;3;3
+Guataquí_Palangre calandrio;4;97;4;8
+La Chamba_Red de enmalle de deriva continental;2;6;3;3
+Virudó_Red de enmalle fija marina;4;56;1;9
+Casco urbano (Puerto Escondido)_Red de enmalle fija marina;6;40;2;16
+Casco urbano (Puerto Escondido)_Línea de mano fija marina;10;12;26;39
+Miel de Abeja_Línea de mano fija marina;7;29;12;58
 Guataquí_Cóngolo;4;4;2;2
-Pesquera Luz Mar_Red de enmalle de deriva marina;17,97;17,97;14;14
-Casco Urbano (San Juan de Urabá)_Palangre o espinel de fondo;15,2;18,5;10;18
-El Pedral_Red de enmalle fija continental;3,1;15;2;3
-Puerto Boca_Red de enmalle fija continental;4,18;13,93;2;2
-Dotenedó_Red de enmalle camaronera;2,62;11,23;4;9
-Nueva Ola_Atarraya;2,42;5,5;1;2
-Nueva Ola_Red de enmalle fija continental;15,25;19,67;1;3
+Pesquera Luz Mar_Red de enmalle de deriva marina;18;18;14;14
+Casco Urbano (San Juan de Urabá)_Palangre o espinel de fondo;15;18;10;18
+El Pedral_Red de enmalle fija continental;3;15;2;3
+Puerto Boca_Red de enmalle fija continental;4;14;2;2
+Dotenedó_Red de enmalle camaronera;3;11;4;9
+Nueva Ola_Atarraya;2;6;1;2
+Nueva Ola_Red de enmalle fija continental;15;20;1;3
 Candelaria (Achí)_Atarraya;3;8;1;3
-Nueva Ola_Red de enmalle de deriva continental;2,5;10,7;3;4
-Virudó_Línea de mano fija marina;2,94;7,48;3;7
-Virudó_Palangre o espinel de fondo;6,75;25,75;4;12
-Nueva Ola_Palangre calandrio;15,43;18,71;2;3
-Candelillas de Mar_Red de enmalle fija marina;5,3;10,7; ; 
-Nueva Ola_Chinchorro continental;2,95;17,62;2;2
-Puerto Los Córdobas_Palangre o espinel de fondo;9,84;13,51;6;25
-Casco urbano (Puerto Escondido)_Palangre o espinel de fondo;13,43;17,18;9;19
-Puerto de los Jhonsons (Puerto Boyacá)_Atarraya chile;12,8;16,25;2;3
-Puerto Arriba (Dibulla)_Chinchorro marino;5,09;10,25;5;5
-Nueva Colonia_Palangre o espinel de superficie;22,36;70,67;6;8
-Amarales_Red de enmalle de deriva marina;4,17;14,99;5;16
-Guataquí_Red de enmalle fija continental;3,12;80,5;3;6
-La Chamba_Nasas de Peces;3,93;5,73;2;3
-El Roto_Palangre o espinel de superficie;11,12;20,23;6;8
-Muelle Las Flores_Red de enmalle camaronera;6,35;6,8;17;17
-Sicará_Red de enmalle fija continental;15,08;19,25;2;3
-La Ensenada_Red de enmalle camaronera;4,75;9,58;5;16
-Ica-Copipa_Línea de mano fija marina;4,44;6,79;7;12
-Soledad Pueblito_Red de enmalle camaronera;5,38;8,93;3;3
-Soledad Pueblito_Red de enmalle de encierro marina;3,81;6,67;3;3
-Dotenedó_Línea de mano fija marina;3,06;9,49;4;15
-La Ensenada_Red de enmalle de deriva marina;3,37;15,53;5;16
-Virudó_Red de enmalle de deriva marina;2,85;8,3;1;8
-Virudó_Atarraya;3,45;7,85;2;6
-La Chamba_Palangre calandrio;4,08;4,08;3;3
-Puerto de Gamarra_Cóngolo;1,74;2,93;2;3
-El Porvenir_Atarraya;2;5,03;2;8
-Distribuidoras de Tumaco_Red de enmalle de deriva marina;13,69;34,71;9;15
-El Puerto (Tumaco)_Red de enmalle de deriva marina;8,37;82,96;9;30
-Muelle Las Flores_Red de enmalle de deriva marina;7,6;19,32;10;105
-Dotenedó_Red de enmalle fija marina;2,5;10,83;4;11
-El Pedral_Red de enmalle de encierro continental;2,44;5;2;2
-Pomeño_Palangre o espinel de fondo;2,81;17,4;7;9
-Aparca_Red de enmalle fija continental;8,48;14,34;3;6
-Guataquí_Nasas de Peces;10,33;14,3;2;4
-Puerto Chucha_Línea de mano fija marina;11,35;15;12;30
-La Chamba_Línea de mano fija continental;1,61;4,44;3;3
-Charambirá_Red de enmalle fija marina;1,5;6,77;5;25
-Punta Ardita_Línea de mano fija marina;1,67;5,54;15;35
-Chapinero_Línea de mano fija continental;5,15;16,8;2;4
+Nueva Ola_Red de enmalle de deriva continental;2;11;3;4
+Virudó_Línea de mano fija marina;3;7;3;7
+Virudó_Palangre o espinel de fondo;7;26;4;12
+Nueva Ola_Palangre calandrio;15;19;2;3
+Candelillas de Mar_Red de enmalle fija marina;5;11; ; 
+Nueva Ola_Chinchorro continental;3;18;2;2
+Puerto Los Córdobas_Palangre o espinel de fondo;10;14;6;25
+Casco urbano (Puerto Escondido)_Palangre o espinel de fondo;13;17;9;19
+Puerto de los Jhonsons (Puerto Boyacá)_Atarraya chile;13;16;2;3
+Puerto Arriba (Dibulla)_Chinchorro marino;5;10;5;5
+Nueva Colonia_Palangre o espinel de superficie;22;71;6;8
+Amarales_Red de enmalle de deriva marina;4;15;5;16
+Guataquí_Red de enmalle fija continental;3;80;3;6
+La Chamba_Nasas de Peces;4;6;2;3
+El Roto_Palangre o espinel de superficie;11;20;6;8
+Muelle Las Flores_Red de enmalle camaronera;6;7;17;17
+Sicará_Red de enmalle fija continental;15;19;2;3
+La Ensenada_Red de enmalle camaronera;5;10;5;16
+Ica-Copipa_Línea de mano fija marina;4;7;7;12
+Soledad Pueblito_Red de enmalle camaronera;5;9;3;3
+Soledad Pueblito_Red de enmalle de encierro marina;4;7;3;3
+Dotenedó_Línea de mano fija marina;3;9;4;15
+La Ensenada_Red de enmalle de deriva marina;3;16;5;16
+Virudó_Red de enmalle de deriva marina;3;8;1;8
+Virudó_Atarraya;3;8;2;6
+La Chamba_Palangre calandrio;4;4;3;3
+Puerto de Gamarra_Cóngolo;2;3;2;3
+El Porvenir_Atarraya;2;5;2;8
+Distribuidoras de Tumaco_Red de enmalle de deriva marina;14;35;9;15
+El Puerto (Tumaco)_Red de enmalle de deriva marina;8;83;9;30
+Muelle Las Flores_Red de enmalle de deriva marina;8;19;10;105
+Dotenedó_Red de enmalle fija marina;2;11;4;11
+El Pedral_Red de enmalle de encierro continental;2;5;2;2
+Pomeño_Palangre o espinel de fondo;3;17;7;9
+Aparca_Red de enmalle fija continental;8;14;3;6
+Guataquí_Nasas de Peces;10;14;2;4
+Puerto Chucha_Línea de mano fija marina;11;15;12;30
+La Chamba_Línea de mano fija continental;2;4;3;3
+Charambirá_Red de enmalle fija marina;2;7;5;25
+Punta Ardita_Línea de mano fija marina;2;6;15;35
+Chapinero_Línea de mano fija continental;5;17;2;4
 Charambirá_Palangre o espinel de fondo;2;11;8;190
-Charambirá_Red de enmalle de deriva marina;3,53;11;8;30
-Charambirá_Línea de mano;1;4,1;6;10
-Playa de Arusí_Línea de mano correteo curricán o trolling;2,03;7,01;16;35
-Mercado (Lorica)_Recolección manual;1,27;1,27;2;2
-Charambirá_Red de cerco;10,05;72,15;4;10
-Pueblo Nuevo (Barrancominas)_Atarraya;4,37;11,08;1;12
-Docordó_Red de enmalle camaronera;9,5;9,5;1;1
-Mulatos_Palangre o espinel de superficie;2,79;4,5;7;8
-Monserrate_Nasas de Peces;20,7;42,3;6;8
-Camarones_Línea de mano fija marina;5,01;21,97;2;27
-Muelles del Camarón_Red de arrastre artesanal o changa;6,9;10,44;12;32
-Soledad Pueblito_Línea de mano fija marina;5,25;15,95;3;3
-Providencia o Caimancito_Atarraya;4,07;7,82;2;4
-Distribuidoras de Tumaco_Red de cerco artesanal o ruche;10,5;10,5;12;12
-Miel de Abeja_Red de enmalle fija marina;17,1;18,9;4;10
-Bazán_Red de enmalle de deriva marina;13,77;88,14;11;56
-Bazán_Red de cerco artesanal o ruche;6,31;20,77;7;17
-Bazán_Palangre o espinel de fondo;18,75;134,86;57;110
-La Ensenada_Línea de mano fija marina;6,83;11,33;16;16
-Camarones_Línea de mano correteo curricán o trolling;9,83;20,03;9;24
-Las Balsas_Red de enmalle de deriva continental;57,18;57,18;2;2
-Dotenedó_Palangre o espinel de fondo;2,01;10,22;5;15
-Pueblo Nuevo (Barrancominas)_Flecha;5,35;10,43;1;10
-Puerto Chucha_Línea de mano fija continental;9,05;14,44;2;4
+Charambirá_Red de enmalle de deriva marina;4;11;8;30
+Charambirá_Línea de mano;1;4;6;10
+Playa de Arusí_Línea de mano correteo curricán o trolling;2;7;16;35
+Mercado (Lorica)_Recolección manual;1;1;2;2
+Charambirá_Red de cerco;10;72;4;10
+Pueblo Nuevo (Barrancominas)_Atarraya;4;11;1;12
+Docordó_Red de enmalle camaronera;10;10;1;1
+Mulatos_Palangre o espinel de superficie;3;4;7;8
+Monserrate_Nasas de Peces;21;42;6;8
+Camarones_Línea de mano fija marina;5;22;2;27
+Muelles del Camarón_Red de arrastre artesanal o changa;7;10;12;32
+Soledad Pueblito_Línea de mano fija marina;5;16;3;3
+Providencia o Caimancito_Atarraya;4;8;2;4
+Distribuidoras de Tumaco_Red de cerco artesanal o ruche;10;10;12;12
+Miel de Abeja_Red de enmalle fija marina;17;19;4;10
+Bazán_Red de enmalle de deriva marina;14;88;11;56
+Bazán_Red de cerco artesanal o ruche;6;21;7;17
+Bazán_Palangre o espinel de fondo;19;135;57;110
+La Ensenada_Línea de mano fija marina;7;11;16;16
+Camarones_Línea de mano correteo curricán o trolling;10;20;9;24
+Las Balsas_Red de enmalle de deriva continental;57;57;2;2
+Dotenedó_Palangre o espinel de fondo;2;10;5;15
+Pueblo Nuevo (Barrancominas)_Flecha;5;10;1;10
+Puerto Chucha_Línea de mano fija continental;9;14;2;4
 Paujil_Nasas de Peces;26;26;3;3
-Puerto Los Córdobas_Línea de mano fija marina;8,97;26,87;25;90
-Laguna Colorada_Flecha;4,05;9,01;1;13
-Belén (San Marcos)_Palangre calandrio;12,84;17,29;2;2
-Cabo de la Vela_Red de enmalle langostera;12;16,25;6;9
-Pantuuchitu_Red de enmalle langostera;12,25;16,4;6;9
-Puerto Real - Saloa_Red de enmalle fija continental;5,45;17,87;2;2
-Jodedor_Red de enmalle langostera;14,8;18,33;8;50
-Mayapo_Red de enmalle langostera;9,67;14,42;43;68
-Distribuidoras de Tumaco_Chinchorro marino;10,63;10,63;18;18
-La Boquilla_Palangre o espinel de superficie;10,78;15,5;2;13
-Barrio La Unión_Palangre o espinel de superficie;7;8,78;15;16
-Puerto Arriba (Dibulla)_Red de enmalle langostera;15,18;20,16;7;24
-Puerto de desembarco (Barrancominas)_Palangre calandrio;3,91;5,89;8;8
-Puerto Boca_Red de enmalle fija continental río;3,58;18,33;2;8
-Candelaria (Achí)_Red de enmalle de deriva continental;2;4,16;5;5
-Chamuscado - Naya_Red de enmalle fija marina;3,63;15,35;3;3
-La Mata_Red de enmalle fija continental;16,62;19,08;2;2
-Macurutú - Saloa_Red de enmalle fija continental;3,28;19,33;2;5
-La Punta - Firme Cifuentes_Red de enmalle fija marina;2,4;6,93;5;14
-Candelaria (Chimichagua)_Red de enmalle fija continental;14,18;16,93;2;6
-Cartagena del Chairá_Red de enmalle fija continental;13,75;65;2;3
-Barrio Arriba - Barbosa (Magangué)_Red de enmalle de deriva continental;4;10,47;3;5
-Sempegua_Red de enmalle fija continental;5,83;19,33;2;4
-Providencia o Caimancito_Palangre calandrio;16,69;18,95;1;1
-Bocanegra_Palangre o espinel de fondo;4,33;24,1;3;7
-Puerto Serviez_Cóngolo;6,47;24,02;5;6
-Puerto del Cerrito_Red de enmalle fija continental río;2,46;19,27;7;12
+Puerto Los Córdobas_Línea de mano fija marina;9;27;25;90
+Laguna Colorada_Flecha;4;9;1;13
+Belén (San Marcos)_Palangre calandrio;13;17;2;2
+Cabo de la Vela_Red de enmalle langostera;12;16;6;9
+Pantuuchitu_Red de enmalle langostera;12;16;6;9
+Puerto Real - Saloa_Red de enmalle fija continental;5;18;2;2
+Jodedor_Red de enmalle langostera;15;18;8;50
+Mayapo_Red de enmalle langostera;10;14;43;68
+Distribuidoras de Tumaco_Chinchorro marino;11;11;18;18
+La Boquilla_Palangre o espinel de superficie;11;16;2;13
+Barrio La Unión_Palangre o espinel de superficie;7;9;15;16
+Puerto Arriba (Dibulla)_Red de enmalle langostera;15;20;7;24
+Puerto de desembarco (Barrancominas)_Palangre calandrio;4;6;8;8
+Puerto Boca_Red de enmalle fija continental río;4;18;2;8
+Candelaria (Achí)_Red de enmalle de deriva continental;2;4;5;5
+Chamuscado - Naya_Red de enmalle fija marina;4;15;3;3
+La Mata_Red de enmalle fija continental;17;19;2;2
+Macurutú - Saloa_Red de enmalle fija continental;3;19;2;5
+La Punta - Firme Cifuentes_Red de enmalle fija marina;2;7;5;14
+Candelaria (Chimichagua)_Red de enmalle fija continental;14;17;2;6
+Cartagena del Chairá_Red de enmalle fija continental;14;65;2;3
+Barrio Arriba - Barbosa (Magangué)_Red de enmalle de deriva continental;4;10;3;5
+Sempegua_Red de enmalle fija continental;6;19;2;4
+Providencia o Caimancito_Palangre calandrio;17;19;1;1
+Bocanegra_Palangre o espinel de fondo;4;24;3;7
+Puerto Serviez_Cóngolo;6;24;5;6
+Puerto del Cerrito_Red de enmalle fija continental río;2;19;7;12
 Candelaria (Achí)_Palangre calandrio;13;15;1;3
-Las Brisas_Línea de mano fija continental;17,17;17,17;2;2
-Amarales_Red de enmalle camaronera;3,86;7,81;6;16
-Candelaria (Achí)_Chinchorro continental;3,26;9;2;2
+Las Brisas_Línea de mano fija continental;17;17;2;2
+Amarales_Red de enmalle camaronera;4;8;6;16
+Candelaria (Achí)_Chinchorro continental;3;9;2;2
 Paujil_Red de enmalle de deriva continental;22;22;4;4
-Puerto de desembarco (Mitú)_No definido;10,94;11,24;12;12
-Charambirá_Línea de mano fija marina;0,89;3,22;5;10
-Casco Urbano (Arauca)_Recolección manual de mota;10,88;115,48;4;8
-Muelle La Samaritana_Palangre o espinel de fondo;4,75;19,66;10;105
-Muelle Las Flores_Palangre o espinel de fondo;4,75;19,5;10;105
-Juanchaco_Red de enmalle fija marina;9,2;14,5;11;17
-Doña Ana_Red de enmalle de deriva continental;2,5;2,5;4;4
-Buenavista (La Dorada)_Chinchorra nicurera;8,83;8,83;3;3
-Puerto Boyacá_Atarraya;13,83;17,17;2;3
-Puerto Boyacá_Chinchorra;14;23,62;2;3
-Puerto Boyacá_Palangre calandrio;14;18,61;2;3
-La Grande_Red de enmalle de deriva continental;8,13;16,42;6;6
-La Plata - Bahía Málaga_Arpón;3,3;6,35;6;10
-Las Tenazas_Nasas de Peces;48,19;187,66;15;18
-Miel de Abeja_Palangre o espinel de fondo;4,54;23,33;12;77
-Cooperativas - Pueblo Nuevo_Red de enmalle de deriva marina;76,7;234,7;6;15
-Tagachí_Atarraya;3,45;20,1;3;3
-Cooperativas - Pueblo Nuevo_Palangre o espinel de fondo;141,11;351,26;160;180
-San Alejandro_Red de enmalle de deriva continental;1,8;13,37;9;12
-Cooperativas - Pueblo Nuevo_Red de enmalle camaronera;72,25;120,5;12;21
-San Nicolás (Santa Cruz De Mompox)_Red de enmalle de deriva continental;2,78;22,35;10;10
-Juanchaco_Palangre o espinel de fondo;17,03;19,73;31;31
-Pesqueras - Pueblo Nuevo_Palangre o espinel de fondo;131,06;245,6;76;103
-Río San Miguel_Atarraya;0,75;2,75;1;2
-La Punta - Firme Cifuentes_Palangre o espinel de fondo;2,82;13,67;10;18
-Montaño_Red de enmalle de deriva continental;9,02;9,02;3;3
+Puerto de desembarco (Mitú)_No definido;11;11;12;12
+Charambirá_Línea de mano fija marina;1;3;5;10
+Casco Urbano (Arauca)_Recolección manual de mota;11;115;4;8
+Muelle La Samaritana_Palangre o espinel de fondo;5;20;10;105
+Muelle Las Flores_Palangre o espinel de fondo;5;20;10;105
+Juanchaco_Red de enmalle fija marina;9;14;11;17
+Doña Ana_Red de enmalle de deriva continental;2;2;4;4
+Buenavista (La Dorada)_Chinchorra nicurera;9;9;3;3
+Puerto Boyacá_Atarraya;14;17;2;3
+Puerto Boyacá_Chinchorra;14;24;2;3
+Puerto Boyacá_Palangre calandrio;14;19;2;3
+La Grande_Red de enmalle de deriva continental;8;16;6;6
+La Plata - Bahía Málaga_Arpón;3;6;6;10
+Las Tenazas_Nasas de Peces;48;188;15;18
+Miel de Abeja_Palangre o espinel de fondo;5;23;12;77
+Cooperativas - Pueblo Nuevo_Red de enmalle de deriva marina;77;235;6;15
+Tagachí_Atarraya;3;20;3;3
+Cooperativas - Pueblo Nuevo_Palangre o espinel de fondo;141;351;160;180
+San Alejandro_Red de enmalle de deriva continental;2;13;9;12
+Cooperativas - Pueblo Nuevo_Red de enmalle camaronera;72;120;12;21
+San Nicolás (Santa Cruz De Mompox)_Red de enmalle de deriva continental;3;22;10;10
+Juanchaco_Palangre o espinel de fondo;17;20;31;31
+Pesqueras - Pueblo Nuevo_Palangre o espinel de fondo;131;246;76;103
+Río San Miguel_Atarraya;1;3;1;2
+La Punta - Firme Cifuentes_Palangre o espinel de fondo;3;14;10;18
+Montaño_Red de enmalle de deriva continental;9;9;3;3
 Nueva Ola_Atarraya rastra;6;6;4;4
-Purricha_Palangre o espinel de fondo;2,67;15,33;29;29
-Puerto principal (San Vicente del Caguán)_Atarraya;4;10,5;3;4
-Purricha_Red de enmalle de deriva marina;5,13;5,95;4;5
-Playa Nueva_Red de enmalle de deriva marina;5,27;11,78;4;44
-Playa Nueva_Palangre o espinel de fondo;18,46;25,12;40;68
-Puerto principal (San Vicente del Caguán)_Red de enmalle fija continental;4;8,75;3;4
-El Muelle (Puerto López)_Atarraya;18,6;25,5;2;2
+Purricha_Palangre o espinel de fondo;3;15;29;29
+Puerto principal (San Vicente del Caguán)_Atarraya;4;10;3;4
+Purricha_Red de enmalle de deriva marina;5;6;4;5
+Playa Nueva_Red de enmalle de deriva marina;5;12;4;44
+Playa Nueva_Palangre o espinel de fondo;18;25;40;68
+Puerto principal (San Vicente del Caguán)_Red de enmalle fija continental;4;9;3;4
+El Muelle (Puerto López)_Atarraya;19;26;2;2
 Camarones_Red de enmalle fija marina;12;12;7;7
-Puerto Pozuelo - La Rinconada_Red de enmalle de encierro continental;14,92;20,07;2;2
-Puerto Los Córdobas_Atarraya;1,06;3,63;1;9
-Cupica_Palangre o espinel de fondo;10;22,1;14;90
-La Ensenada_Palangre o espinel de fondo;8,22;13,55;16;16
-Las Brisas_Palangre calandrio;17,75;17,75;2;2
-Palomino_Red de enmalle de encierro continental;3,3;11,1;1;1
-Puerto Barrio El Progreso_Atarraya rastra;7,58;14,1;4;7
-Puerto de las Canoas (Puerto Berrío)_Red de enmalle fija continental;8;40,38;3;13
-Jurubirá_Línea de mano correteo curricán o trolling;5,5;11,5;30;40
-Policía fluvial (Quibdó)_Red de enmalle de deriva continental;1,83;5,53;9;10
-Barrio Arriba - Barbosa (Magangué)_Chinchorro continental;11,1;12,93;2;3
-Pesqueras - Pueblo Nuevo_Red de enmalle de deriva marina;62,83;242,27;40;94
-Purricha_Red de enmalle fija marina;2,98;17;4;9
+Puerto Pozuelo - La Rinconada_Red de enmalle de encierro continental;15;20;2;2
+Puerto Los Córdobas_Atarraya;1;4;1;9
+Cupica_Palangre o espinel de fondo;10;22;14;90
+La Ensenada_Palangre o espinel de fondo;8;14;16;16
+Las Brisas_Palangre calandrio;18;18;2;2
+Palomino_Red de enmalle de encierro continental;3;11;1;1
+Puerto Barrio El Progreso_Atarraya rastra;8;14;4;7
+Puerto de las Canoas (Puerto Berrío)_Red de enmalle fija continental;8;40;3;13
+Jurubirá_Línea de mano correteo curricán o trolling;6;12;30;40
+Policía fluvial (Quibdó)_Red de enmalle de deriva continental;2;6;9;10
+Barrio Arriba - Barbosa (Magangué)_Chinchorro continental;11;13;2;3
+Pesqueras - Pueblo Nuevo_Red de enmalle de deriva marina;63;242;40;94
+Purricha_Red de enmalle fija marina;3;17;4;9
 Puerto Serviez_Red de enmalle de encierro continental;7;7;4;4
-El Porvenir_Línea de mano correteo curricán o trolling;3,88;8;5;8
-Bazán_Red de enmalle camaronera;9,02;10,53;7;19
-Buenavista (La Dorada)_Palangre calandrio;12,83;22,92;1;1
-Puerto Miraflores_Línea de mano correteo curricán o trolling;5,89;11,55;39;160
-San Alejandro_Línea de mano fija continental;9,42;26,73;9;17
-Betania - Naya_Red de enmalle camaronera;7,23;10,91;3;3
-Isla Fuerte_Palangre o espinel de fondo;10,86;12,89;121;139
-Sicará_Línea de mano fija continental;5,86;6,47;3;3
-Aparca_Red de enmalle de deriva continental;8,91;15,37;3;5
-Santa Cruz - Naya_Red de enmalle camaronera;7,57;9,03;3;3
-Sicará_Atarraya;6,5;12;2;2
-Guataquí_Línea de mano fija continental;2,67;67,5;3;5
-Puerto de desembarco (Mitú)_Nasas de Peces;10,67;10,67;12;12
-San José de la Calle_Red de enmalle de deriva continental;1,56;4,06;15;19
-Mulatos_Red de enmalle camaronera;5,55;12,6;8;9
-Docordó_Línea de mano fija marina;6,07;6,97;38;54
-Las Delicias_Nasas de Peces;6,28;201,52;16;22
-Muelle La Samaritana_Red de enmalle de deriva marina;5,18;19,75;12;105
-La Gloria_Atarraya puesteo;7,58;9,09;1;2
-Miel de Abeja_Red de enmalle de deriva marina;7,05;7,95;10;12
-Ica-Copipa_Buceo marino mixto;2,7;7,8;7;18
-Nueva Ola_Línea de mano fija continental;15,97;19,13;2;2
-Puerto principal (San Vicente del Caguán)_Línea de mano fija continental;4,03;13;3;4
-Puerto (Arauquita)_Recolección manual de mota;6,05;7,18;3;4
-El Muelle (Barrancabermeja)_Atarraya porro;49,33;49,33;4;4
-Casco Urbano (San Juan de Urabá)_Arpón;5,77;8,85;14;18
-Caño Grande_Línea de mano fija continental;2,65;3,5;2;3
-Santa Cruz - Naya_Red de enmalle fija marina;3,97;24,96;3;3
+El Porvenir_Línea de mano correteo curricán o trolling;4;8;5;8
+Bazán_Red de enmalle camaronera;9;11;7;19
+Buenavista (La Dorada)_Palangre calandrio;13;23;1;1
+Puerto Miraflores_Línea de mano correteo curricán o trolling;6;12;39;160
+San Alejandro_Línea de mano fija continental;9;27;9;17
+Betania - Naya_Red de enmalle camaronera;7;11;3;3
+Isla Fuerte_Palangre o espinel de fondo;11;13;121;139
+Sicará_Línea de mano fija continental;6;6;3;3
+Aparca_Red de enmalle de deriva continental;9;15;3;5
+Santa Cruz - Naya_Red de enmalle camaronera;8;9;3;3
+Sicará_Atarraya;6;12;2;2
+Guataquí_Línea de mano fija continental;3;68;3;5
+Puerto de desembarco (Mitú)_Nasas de Peces;11;11;12;12
+San José de la Calle_Red de enmalle de deriva continental;2;4;15;19
+Mulatos_Red de enmalle camaronera;6;13;8;9
+Docordó_Línea de mano fija marina;6;7;38;54
+Las Delicias_Nasas de Peces;6;202;16;22
+Muelle La Samaritana_Red de enmalle de deriva marina;5;20;12;105
+La Gloria_Atarraya puesteo;8;9;1;2
+Miel de Abeja_Red de enmalle de deriva marina;7;8;10;12
+Ica-Copipa_Buceo marino mixto;3;8;7;18
+Nueva Ola_Línea de mano fija continental;16;19;2;2
+Puerto principal (San Vicente del Caguán)_Línea de mano fija continental;4;13;3;4
+Puerto (Arauquita)_Recolección manual de mota;6;7;3;4
+El Muelle (Barrancabermeja)_Atarraya porro;49;49;4;4
+Casco Urbano (San Juan de Urabá)_Arpón;6;9;14;18
+Caño Grande_Línea de mano fija continental;3;4;2;3
+Santa Cruz - Naya_Red de enmalle fija marina;4;25;3;3
 El Muelle (Barrancabermeja)_Red de enmalle de deriva continental mallona;17;17;5;5
-La Rampa (Barrancabermeja)_Red de enmalle de deriva continental mallona;23,17;23,17;6;6
-Pesqueras - Pueblo Nuevo_Red de enmalle camaronera;64,83;64,83;40;40
-Betania - Naya_Palangre o espinel de fondo;6,43;11,82;3;4
-Puerto Abajo (Dibulla)_Red de enmalle langostera;16,63;25,23;4;5
-Puerto principal (San Vicente del Caguán)_Palangre calandrio;4,15;12,55;2;3
-Milagros de la Mar_Red de enmalle camaronera;10,75;10,75;72;72
+La Rampa (Barrancabermeja)_Red de enmalle de deriva continental mallona;23;23;6;6
+Pesqueras - Pueblo Nuevo_Red de enmalle camaronera;65;65;40;40
+Betania - Naya_Palangre o espinel de fondo;6;12;3;4
+Puerto Abajo (Dibulla)_Red de enmalle langostera;17;25;4;5
+Puerto principal (San Vicente del Caguán)_Palangre calandrio;4;13;2;3
+Milagros de la Mar_Red de enmalle camaronera;11;11;72;72
 El Llanito_Nasas de Peces;4;4;2;2
-Dotenedó_Recolección manual de piangua;2,85;7,89;4;5
-Lomita Arena_Palangre o espinel de superficie;17,57;20,77;6;9
-Bazurto_Atarraya;13;15,82;10;16
-Punta de blanco_Palangre calandrio;5,25;11,25;2;5
-El Puerto (Tumaco)_Palangre o espinel de fondo;7,37;32,42;13;20
-El Puerto (Tumaco)_Red de cerco artesanal o ruche;5,05;15,5;7;33
-Las Flores_Palangre o espinel de superficie;8,06;11,21;30;77
-Poportín_Nasas de Peces;52,47;221,4;8;11
-Puerto principal (San Vicente del Caguán)_Red de enmalle de deriva continental;3;6,22;2;3
-Bocanegra_Red de enmalle de encierro continental;4,76;7,88;2;2
-Puerto de las Canoas (Puerto Berrío)_Chinchorra mallona;10,2;46,65;3;8
-Isla Fuerte_Nasa de langostas;38,13;286,11;22;35
-El Puerto (Tumaco)_Chinchorro camaronero;12,33;13,38;20;20
-Puerto Wilches_Chinchorro continental;20,6;22,14;4;4
-Curillo_Atarraya;13,6;14;3;3
-Puerto Principal (Leticia)_Red de enmalle de deriva continental;4,35;60,38;3;4
-El Puerto (Tumaco)_Red de enmalle camaronera;8,7;12,3;10;19
-Providencia o Caimancito_Línea de mano fija continental;16,56;18,44;1;1
-Puerto Cabuyaro_Red de enmalle de deriva continental;8,25;46,33;5;8
-Puerto de las Canoas (Puerto Berrío)_Chinchorra menuda;12,75;63,72;2;6
-Casco Urbano (San Juan de Urabá)_Red de arrastre artesanal o changa;4,33;8,8;5;7
-Puerto Bello_Red de enmalle de deriva continental;16,33;19,05;2;3
-Palomino_Palangre calandrio;16,28;16,8;4;5
-Nueva Colonia_Red de enmalle fija continental;43,6;67,38;5;5
+Dotenedó_Recolección manual de piangua;3;8;4;5
+Lomita Arena_Palangre o espinel de superficie;18;21;6;9
+Bazurto_Atarraya;13;16;10;16
+Punta de blanco_Palangre calandrio;5;11;2;5
+El Puerto (Tumaco)_Palangre o espinel de fondo;7;32;13;20
+El Puerto (Tumaco)_Red de cerco artesanal o ruche;5;16;7;33
+Las Flores_Palangre o espinel de superficie;8;11;30;77
+Poportín_Nasas de Peces;52;221;8;11
+Puerto principal (San Vicente del Caguán)_Red de enmalle de deriva continental;3;6;2;3
+Bocanegra_Red de enmalle de encierro continental;5;8;2;2
+Puerto de las Canoas (Puerto Berrío)_Chinchorra mallona;10;47;3;8
+Isla Fuerte_Nasa de langostas;38;286;22;35
+El Puerto (Tumaco)_Chinchorro camaronero;12;13;20;20
+Puerto Wilches_Chinchorro continental;21;22;4;4
+Curillo_Atarraya;14;14;3;3
+Puerto Principal (Leticia)_Red de enmalle de deriva continental;4;60;3;4
+El Puerto (Tumaco)_Red de enmalle camaronera;9;12;10;19
+Providencia o Caimancito_Línea de mano fija continental;17;18;1;1
+Puerto Cabuyaro_Red de enmalle de deriva continental;8;46;5;8
+Puerto de las Canoas (Puerto Berrío)_Chinchorra menuda;13;64;2;6
+Casco Urbano (San Juan de Urabá)_Red de arrastre artesanal o changa;4;9;5;7
+Puerto Bello_Red de enmalle de deriva continental;16;19;2;3
+Palomino_Palangre calandrio;16;17;4;5
+Nueva Colonia_Red de enmalle fija continental;44;67;5;5
 Villa Fátima_Línea de mano fija marina;10;11;12;12
-La T_Línea de mano fija marina;13,67;16,5;12;12
-El Roto_Red de enmalle fija continental;14,82;17,25;2;3
+La T_Línea de mano fija marina;14;16;12;12
+El Roto_Red de enmalle fija continental;15;17;2;3
 Punta de blanco_Línea de mano fija continental;6;6;4;4
-Barrio La Unión_Red de enmalle de encierro marina;4,36;7,88;4;5
+Barrio La Unión_Red de enmalle de encierro marina;4;8;4;5
 Puerto Chaparro_Atarraya rastra;16;16;3;3
-Nueva Colonia_Red de enmalle de encierro marina;20,46;44,33;5;5
-Casco urbano (Puerto Escondido)_Red de enmalle de deriva marina;17,5;17,5;20;20
+Nueva Colonia_Red de enmalle de encierro marina;20;44;5;5
+Casco urbano (Puerto Escondido)_Red de enmalle de deriva marina;18;18;20;20
 Bazán_Red de enmalle fija marina;10;10;16;16
-El Puerto (Tumaco)_Red de enmalle fija marina;51,17;51,17;10;10
+El Puerto (Tumaco)_Red de enmalle fija marina;51;51;10;10

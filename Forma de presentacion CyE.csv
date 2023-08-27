@@ -2277,7 +2277,6 @@ Pacífico;Peces;PezOseo;Trachinotus stilbe;Pampano blanco;Entero fresco
 Pacífico;Peces;PezOseo;Trachinotus stilbe;Pampano blanco;Eviscerado
 Pacífico;Crustáceos;Camaron;Trachypenaeus spp.;Camarón tigre;Colas
 Pacífico;Crustáceos;Camaron;Trachypenaeus spp.;Camarón tigre;Colas congeladas
-Pacífico;Crustáceos;Camaron;Trachypenaeus spp.;Camarón tigre;Descabezado
 Pacífico;Crustáceos;Camaron;Trachypenaeus spp.;Camarón tigre;Entero
 Pacífico;Crustáceos;Camaron;Trachypenaeus spp.;Camarón tigre;Entero enhielado
 Pacífico;Peces;PezOseo;Tylosurus fodiator;Agujilla;Descabezado
@@ -2858,3 +2857,31 @@ Sinú;Peces;PezOseo;Trachelyopterus insignis;Cachegua;Entero enhielado
 Sinú;Peces;PezOseo;Trachelyopterus insignis;Cachegua;Entero fresco
 Sinú;Crustáceos;Jaiba;Callinectes bocourti;Jaiba roja;Carne
 Sinú;Crustáceos;Camaron;Penaeus schmitti;Camaron blanco;Colas
+Pacífico;Peces;PezOseo;Acanthocybium solandri;Sierra Wahoo;Eviscerado enhielado descabezado
+Pacífico;Moluscos;Bivalvo;Anadara similis;Piangua mediana;Carne
+Pacífico;Moluscos;Bivalvo;Anadara spp.;Piangua;Carne
+Pacífico;Moluscos;Bivalvo;Anadara tuberculosa;Piangua grande;Carne
+Pacífico;Peces;PezOseo;Ariopsis seemanni;Canchimalo;Eviscerado congelado
+Pacífico;Peces;PezOseo;Ariopsis seemanni;Canchimalo;Eviscerado congelado
+Pacífico;Peces;PezOseo;Bagre pinnimaculatus;Alguacil;Eviscerado congelado
+Pacífico;Peces;PezOseo;Brotula clarkae;Merluza;Eviscerado enhielado descabezado
+Pacífico;Crustáceos;Jaiba;Callinectes toxotes;Jaiba;Carne
+Pacífico;Peces;PezOseo;Caranx vinctus;Arroz con coco;Eviscerado fresco
+Pacífico;Peces;PezOseo;Centropomus armatus;Gualajo;Eviscerado congelado
+Pacífico;Peces;PezOseo;Coryphaena hippurus;Dorado;Eviscerado enhielado descabezado
+Pacífico;Peces;PezOseo;Cynoscion albus;Corvina;Eviscerado congelado
+Pacífico;Peces;PezOseo;Eucinostomus currani;Leiro;Eviscerado enhielado
+Pacífico;Peces;PezOseo;Euthynnus lineatus;Atún patiseca;Eviscerado enhielado descabezado
+Pacífico;Peces;PezOseo;Haemulon maculicauda;Quisquis;Entero fresco
+Pacífico;Peces;PezOseo;Halichoeres aestuaricola;Vieja;Entero fresco
+Pacífico;Peces;PezOseo;Istiophorus platypterus;Pez vela del Atlantico y del Pacifico;Eviscerado enhielado descabezado
+Pacífico;Peces;PezOseo;Menticirrhus nasus;Botellona;Entero fresco
+Pacífico;Peces;PezOseo;Mugil cephalus;Lisa rayada;Eviscerado congelado
+Pacífico;Peces;PezOseo;Mulloidichthys dentatus;lisa peruana;Eviscerado
+Pacífico;Peces;PezOseo;Nebris occidentalis;Bocon;Entero enhielado
+Pacífico;Peces;PezOseo;Notarius troschelii;Ñato;Eviscerado enhielado
+Pacífico;Peces;PezOseo;Otros pescadilla;Otros pescadilla;Eviscerado fresco
+Pacífico;Peces;PezOseo;Rhencus macracanthus;Roncador;Eviscerado congelado
+Pacífico;Peces;PezOseo;Stellifer scierus;Botellona, Corvina;Entero fresco
+Pacífico;Peces;PezOseo;Thunnus albacares;Atún aleta amarilla;Eviscerado enhielado descabezado
+Pacífico;Peces;PezOseo;Tylosurus fodiator;Agujilla;Eviscerado enhielado descabezado

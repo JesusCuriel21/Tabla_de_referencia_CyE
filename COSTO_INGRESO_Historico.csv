@@ -1,928 +1,922 @@
 ﻿SITIO_DESEMBARCO_METODO_DE_PESCA;Cuartil_inf_COSTO_TOTAL_Hist;Cuartil_sup_COSTO_TOTAL_Hist;Cuartil_inf_INGRESOS_Hist;Cuartil_sup_INGRESOS_Hist
-Bocas de Seheve_Red de enmalle fija continental;6000;15000;8460;120810
-Taganga_Red de enmalle fija marina;26000;141000;35560;456780
-Playa Pescadores - Capurganá_Línea de mano fija marina;3000;270000;16805;1770280
-Clarinetero_Red de enmalle fija continental;11200;48800;48400;534120
-Puerto Simití_Atarraya;2300;3650;25400;73400
-Santropel - San Sebastián_Red de enmalle fija continental;8000;25600;19200;330000
-Orpua_Red de enmalle fija marina;34000;123500;50000;816400
-Playa Totumo_Red de enmalle fija marina;15000;310000;36000;1198750
-Champaché_Línea de mano fija marina;35000;176000;44600;391800
-Candelaria (Chimichagua)_Red de enmalle fija continental;7000;22910;16600;119300
-Champaché_Atarraya;55000;106000;72000;438500
-El Puente_Atarraya; ; ;32525;128735
-La Playa (El Banco)_Red de enmalle de deriva continental;10000;100900;21650;223725
-El Puente_Red de enmalle de deriva continental;5000;12700;17035;59345
-Carrizal_Red de enmalle fija marina;14000;40000;86340;534400
-Villa Venecia_Red de enmalle fija continental;7300;17000;16000;160000
-Candelaria (Chimichagua)_Chinchorra;15000;102000;35200;504380
-Santropel - San Sebastián_Atarraya;800;4800;6000;92000
-Cabo Marzo_Línea de mano fija marina;637400;2600400;1490000;8173600
-El Puente_Atarraya rastra; ; ;22400;64000
-El Puente_Red de encierro rastra;3575;24850;35290;227150
-Arquimedes_Atarraya;8000;33150;25600;193800
-Damaquiel_Red de enmalle fija marina;43750;326000;80000;1580150
-Arquimedes_Línea de mano fija marina;5000;11000;6000;63000
-El Puente_Red de enmalle fija continental;2225;12275;31355;103535
-Chamuscado - Naya_Red de enmalle fija marina;42500;77750;42900;248750
-Purricha_Palangre o espinel de fondo;2000;29500;31300;410160
-Villa Venecia_Atarraya;5000;11000;14700;78900
-El Ferry_Red de enmalle fija continental ciénaga;13000;42215;16880;220000
-La Playa (El Banco)_Chinchorra;16000;90360;62020;200260
-Rincón_Atarraya;6600;11560;5000;96800
-Rincón_Red de enmalle fija continental;7800;17955;16450;180000
-Tasajera La Playa_Red de enmalle fija marina;50000;150000;42280;552880
-La Playa (El Banco)_Chinchorro continental;103000;283730;151390;803475
-El Ferry_Red de enmalle de deriva continental;3600;43000;9820;199700
-Las Tenazas_Línea de mano fija marina;12000;29000;17000;216400
-Barrio Arriba - Barbosa (Magangué)_Red de enmalle fija continental;1000;1000;5140;50650
-Casco Urbano (San Juan de Urabá)_Palangre o espinel de fondo;74650;92850;40600;940800
-Puerto Bello_Red de enmalle fija continental;12000;28000;21880;148470
-Tasajera La Playa_Palangre o espinel de fondo;30000;240500;92560;914650
-Tasajera La Playa_Red de enmalle de encierro marina;110000;240000;163120;2401000
-El Ferry_Red de enmalle fija continental río;5600;31365;12420;154270
-Playa Necoclí_Red de enmalle camaronera;12000;25000;12000;140600
-Playa Necoclí_Red de enmalle fija marina;31000;408000;35000;1614400
-Playa Necoclí_Red de enmalle fija marina campaña;296000;453000;425500;1683000
-Lamas_Red de enmalle de encierro continental;8000;41500;17850;184150
-Plaza de mercado (La Dorada)_Red de enmalle de deriva continental;70000;169000;240675;2298865
-Plaza de mercado (La Dorada)_Palangre calandrio;10000;39000;32250;197615
-Nueva Colonia_Red de enmalle fija marina;220000;434900;319300;1250000
-Campo alegre_Red de enmalle fija continental;8000;29000;13800;100945
-Nueva Colonia_Red de enmalle fija continental;60000;443000;216700;1997200
-Puerto del Cerrito_Red de enmalle fija continental ciénaga;2000;60000;9960;152000
-Puerto Real - Saloa_Red de enmalle fija continental;4150;31000;12240;167520
-Honda_Línea de mano fija continental;29000;78000;45260;160910
-Nueva Colonia_Red de enmalle de encierro marina;110000;396000;222800;1004800
-El Pájaro_Red de enmalle de deriva marina;18000;60000;12000;302600
-Honda_Atarraya;6500;83500;34100;203100
-Yaguará_Chinchorra;22000;33000;98000;576500
-El Pájaro_Red de enmalle fija marina;18000;61400;12000;148000
-Berlín_Red de enmalle de deriva continental;18000;20000;20700;86375
-Uveros_Red de enmalle camaronera;23060;111240;132550;1435500
-Caño Grande_Atarraya;2000;3000;14810;93360
-Caño Grande_Red de enmalle fija continental;1575;7100;5400;66250
-Desembarcadero (Murindó)_Red de enmalle fija continental;3000;26000;14160;166260
-Yaguará_Red de enmalle fija continental;18000;36700;65460;491240
-Berlín_Palangre calandrio;15000;20000;12090;123375
-Puerto Pozuelo - La Rinconada_Red de enmalle fija continental;3000;18000;6000;102500
-Puerto Ciénaga de Paredes_Red de enmalle fija continental;2500;15000;87000;127500
-Puerto Rico [Meta]_Palangre calandrio;52000;94000;95700;785800
-El Valle_Línea de mano fija marina;122425;305175;110500;2341200
-Concepción - Tacamocho_Chinchorra;19500;35700;128500;543000
-Codis_Línea de mano fija marina;10000;85000;38350;458950
-Codis_Red de enmalle fija marina;23000;55000;114400;548000
-Yaguará_Atarraya;25600;36400;73180;382180
-Locadía_Línea de mano fija marina;5000;37000;13000;207650
-Berlín_Chinchorro continental;20000;25000;27780;249345
-Puerto Panseguita_Red de enmalle fija continental;2000;10000;5625;110250
-Lamas_Red de enmalle fija continental;7000;18000;22300;170000
-Robles_Red de enmalle fija continental;9000;24000;22000;194000
-Casino_Palangre o espinel de fondo;4635;250000;27060;553365
-Chapinero_Atarraya;35000;94000;70000;473750
-Puerto Panseguita_Red de enmalle de deriva continental;16000;27000;27120;409020
-Puerto Barrio El Progreso_Red de enmalle de deriva continental mallona;37000;48000;94780;285960
-Isla Fuerte_Buceo marino mixto;3500;72100;61550;462200
-Santa Rosa_Red de enmalle de deriva marina;23000;37000;90000;219200
-Puerto La Candelaria_Red de enmalle fija continental;8000;34800;20000;147250
-Loma - San Sebastián_Red de enmalle fija continental;4000;32000;22000;479900
-Santa Rosa_Buceo marino mixto;23000;38000;3,00E+05;644850
-Loma - San Sebastián_Red de enmalle de encierro continental;32200;84300;144000;590800
-Isla Fuerte_Red de enmalle de encierro marina;11475;25350;97100;474150
-Puerto La Candelaria_Atarraya;11400;80200;17000;483000
-Puente Chambacú - Río Jella_Línea de mano fija marina;120200;576250;254550;2220750
-Puente Chambacú - Río Jella_Palangre o espinel de fondo;142000;2630900;445340;7677280
-Isla Fuerte_Línea de mano fija marina;4000;259500;45000;876450
-Puerto Principal (Leticia)_Red de enmalle fija continental;51000;248000;212400;907000
-Isla Fuerte_Línea de mano correteo curricán o trolling;32000;205000;80000;651500
-Belén (El Banco)_Red de enmalle fija continental ciénaga;43000;119000;52320;205540
-Belén (El Banco)_Chinchorro continental;39000;114950;46820;244910
-San Antonio de Padua_Red de enmalle fija continental;15000;74000;35050;457500
-Macurutú - Saloa_Red de enmalle fija continental;3000;20000;12800;146400
-Las Balsas_Chinchorro continental;120000;333000;247700;840500
-La Charca de Guarinocito_Atarraya; ; ;13000;156000
-Playa Blanca (Ayapel)_Red de enmalle fija continental;3000;16000;15310;79095
-Cangrejito_Red de enmalle fija marina;3000;48000;10000;171100
-El Muelle (Puerto López)_Red de enmalle fija continental;160000;3,00E+05;238500;621000
-La Isla de los Palacios_Red de enmalle fija continental;15000;22000;12000;60585
-El Muelle (Puerto López)_Chinchorro continental;1,00E+05;299500;193725;577275
-Puerto Principal (Puerto Lleras)_Línea de mano fija continental;74500;108000;68500;563250
-Puerto Abajo (Dibulla)_Red de enmalle fija marina;60000;98000;18000;559200
-Mayapo_Red de enmalle langostera;39000;71500;63000;390500
-Puerto Abajo (Dibulla)_Red de enmalle de encierro marina;90000;371600;144250;939000
-Puerto de desembarco (Barrancominas)_Red de enmalle fija continental;11500;81900;63840;447400
-Mayapo_Red de enmalle fija marina;20000;31000;31600;178000
-Puerto Abajo (Dibulla)_Red de enmalle langostera;60000;70000;14100;362200
-Mayapo_Palangre o espinel de fondo;27250;36750;42250;204250
-Mayapo_Buceo de langosta;18000;30000;30900;398400
-Mayapo_Buceo marino mixto;19000;32000;32600;308800
-Mayapo_Línea de mano fija marina;25800;33600;59800;184800
-La T_Red de enmalle de encierro marina;214000;294000;172350;3049300
-Milagros de la Mar_Red de enmalle de deriva marina;78250;153500;73250;935400
-Berrugas_Red de enmalle de encierro marina;38400;163000;118000;576000
-Dotenedó_Red de enmalle fija marina;16000;40000;16000;237000
-Dotenedó_Palangre o espinel de fondo;18200;40000;24400;212200
-La Boquilla_Atarraya;3000;9000;22000;124200
-Zapata_Red de enmalle fija marina;13000;157700;35300;1048700
-Berrugas_Buceo de peces;1500;4000;30000;234500
-Poportín_Buceo marino mixto;23000;25000;38850;394950
-Berrugas_Chinchorro marino;63000;186800;78400;810200
-Villa Fátima_Red de enmalle de encierro marina;214000;348500;70000;711250
-Barrio La Unión_Palangre o espinel de fondo;10000;35000;9000;220045
-Puerto El Waffe marino_Red de enmalle fija marina;316000;358000;620000;712400
-Barrio La Unión_Red de enmalle langostera;40000;70000;25200;351660
-Barrio La Unión_Red de enmalle fija marina;5000;40600;8780;143120
-Palenquito_Red de enmalle fija continental;10000;14000;28645;232050
-Puerto Arriba (Dibulla)_Red de enmalle de encierro marina;1,00E+05;2,00E+05;77500;4984000
-Cecilia_Red de enmalle fija continental;5000;21000;31385;70220
-La Pedrera_Red de enmalle de deriva continental;66805;197065;318400;1400750
-Armenia_Red de enmalle fija continental;8000;36000;28980;200160
-San José_Atarraya;2000;2000;23860;90000
-San José_Nasas de Peces;25000;73200;126300;435420
-San José_Red de enmalle fija continental;10000;15000;24400;88000
-Policía fluvial (Quibdó)_Línea de mano fija continental;7150;54850;41305;391835
-Santa Clara_Red de enmalle fija continental;2200;3200;23000;90770
-Policía fluvial (Quibdó)_Red de enmalle fija continental;8000;50000;33040;559310
-Barrio La Unión_Aros;20700;51300;49350;273000
-Ciénaga de Mesolandia_Red de enmalle fija continental;6500;15000;14000;158000
-Playa de Arusí_Línea de mano fija marina;7000;121100;62580;976750
-La Peinada_Red de enmalle fija continental;5000;13000;10000;150000
-Playa de Arusí_Palangre o espinel de fondo;39775;112100;51600;604700
-La Peinada_Atarraya;5000;12000;10000;62000
-Arrimadero La Unión_Red de enmalle fija marina;108000;395000;1096750;4976500
-Arrimadero La Unión_Línea de mano fija marina;98000;595000;635125;6273700
-Arrimadero La Unión_Palangre o espinel de fondo;102000;339600;544050;4274700
-Los Tendales_Red de enmalle fija continental;10000;24000;31200;110820
-Palanca_Red de enmalle fija continental;925;1200;4500;99250
-Palomino_Red de enmalle fija continental;7000;14000;17800;114000
-Villa Venecia_Red de enmalle de encierro continental;7300;11830;21400;138000
-Los Tendales_Atarraya; ; ;34500;57300
-Palanca_Palangre calandrio; ; ;12840;45680
-Ciénaga de Mesolandia_Atarraya;4900;13500;10000;56000
-Taganga_Chinchorro velao;50000;146000;84865;2398415
-Bocas del Atrato_Red de enmalle fija marina;13000;17500;36900;259050
-Rincón_Red de enmalle de encierro continental;7800;11720;6700;80700
-Casino_Red de enmalle fija marina;559000;559000;1102700;1102700
-Casino_Línea de mano fija marina;4600;676000;14035;2347015
-Taganga_Línea de mano fija marina;63000;103000;50000;575200
-Agropez_Red de enmalle fija marina;52000;80000;136200;760000
-Dotenedó_Línea de mano fija marina;16100;17900;20350;127750
-La Punta_Buceo de caracol;10000;36000;8950;44050
-La Punta_Red de enmalle fija marina;13000;64000;11000;144900
-Pizarro_Red de enmalle fija marina;25500;65200;27765;1263405
-Tribugá_Línea de mano fija marina;5000;63200;9875;203375
-Puente Chambacú - Río Jella_Línea de mano correteo curricán o trolling;142000;628250;296000;3184000
-Taganga_Buceo de peces;114000;114000;184540;1194900
-Tribugá_Arpón;15000;15000;63350;395500
-Pizarro_Red de enmalle de deriva marina;16850;976300;94625;5210860
-Puerto Panseguita_Palangre calandrio;2000;11300;19800;1,00E+05
-El Pedral_Red de enmalle de deriva continental;6000;47000;15000;290850
-El Pedral_Red de enmalle fija continental;5000;9100;20000;125500
-Puerto de las Canoas (Puerto Berrío)_Chinchorra;64500;499000;304900;3220750
-El Pedral_Atarraya;3000;10000;10000;80000
-Bahía de Santa Marta_Línea de mano fija marina;10000;35000;15000;294950
-Barrio Chino_Red de enmalle fija continental;6000;8000;19580;163660
-Puerto de las Canoas (Puerto Berrío)_Palangre calandrio;66150;241250;195595;902375
-Pizarro_Palangre o espinel de fondo;21000;21000;94200;94200
-La Punta_Buceo marino mixto;24000;96600;13400;163000
-Puerto Franco_Red de enmalle fija continental;800;1800;10000;180860
-Bahía de Santa Marta_Red de enmalle fija marina;10000;15000;19800;156100
-Cupica_Línea de mano fija marina;63000;109600;80000;862000
-Sicará_Red de enmalle fija continental;11900;18000;10000;94000
-Domingodó_Red de enmalle fija continental;20000;72000;14000;283200
-Puerto Los Córdobas_Red de enmalle fija marina;16000;48650;32700;771000
-Barrio Abajo (Ciénaga)_Red de arrastre artesanal o changa;45000;130000;44250;319750
-La Mata_Red de enmalle fija continental;20000;33200;18605;140195
-La Mata_Nasas de Peces;90200;170200;106360;317700
-Barrio Abajo (Ciénaga)_Red de enmalle fija marina;22000;67000;18275;165150
-Las Delicias_Red de enmalle fija marina;5000;29550;16805;247460
-Barrio Abajo (Ciénaga)_Red de enmalle de encierro marina;90000;460000;92750;1858000
-Mercado (Lorica)_Atarraya;10000;30000;12000;143900
-Tajamar Occidental_Línea de mano cometa;8000;10000;80000;250000
+Sivirú_Línea de mano fija marina;5000;44000;37500;171500
+Puerto Pozuelo - La Rinconada_Red de enmalle fija continental;3000;18000;7000;112000
+Macurutú - Saloa_Red de enmalle fija continental;3000;20000;12000;120000
+Puerto Miraflores_Línea de mano fija marina;130000;398000;280000;1966300
+Puerto Franco_Red de enmalle fija continental;800;1800;8000;169800
+Sivirú_Red de enmalle camaronera;26000;54800;39650;918100
+Puerto Miraflores_Red de enmalle marina de fondo;80000;173000;104000;549600
+Playa Totumo_Red de enmalle fija marina;15000;310000;36000;999125
+Taganga_Red de enmalle fija marina;26000;141000;42380;490320
+Puerto Simití_Red de enmalle fija continental;5200;18800;47000;205255
+Puerto Miraflores_Red de enmalle fija marina;130000;410000;263700;2335600
+Santropel - San Sebastián_Red de enmalle fija continental;8000;23200;18300;330000
+Playa Totumo_Red de enmalle camaronera;33900;300500;46325;1113625
+Puerto Simití_Atarraya;2400;3600;25940;78640
+Palenquito_Red de enmalle fija continental;10000;14000;25950;202550
+Playa Pescadores - Capurganá_Línea de mano fija marina;3000;265000;15600;1712310
+Candelaria (Achí)_Red de enmalle fija continental;1400;8600;6965;81960
+Damaquiel_Red de enmalle fija marina;40000;335000;72750;1498500
+Damaquiel_Red de enmalle camaronera;36400;155300;39400;1348375
+Chapinero_Atarraya;38000;99000;70000;425700
+Carrizal_Red de enmalle fija marina;14000;44250;108740;597800
+Marriaga_Red de enmalle fija continental;15000;20000;9405;136865
+Belén (El Banco)_Red de enmalle fija continental ciénaga;40000;119000;45900;204600
+Villa Venecia_Red de enmalle fija continental;7300;18000;16000;174000
+Barrio Arriba - Barbosa (Magangué)_Red de enmalle fija continental;1000;1000;5000;43000
+Bocas de Seheve_Red de enmalle fija continental;6000;15000;8170;121270
+Chamuscado - Naya_Red de enmalle fija marina;42500;96000;44200;246000
+Bocas de Seheve_Atarraya;6000;10000;14775;153675
+Villa Venecia_Red de enmalle de encierro continental;7300;11000;25000;75500
+Belén (El Banco)_Chinchorro continental;40400;114600;52100;237260
+El Pájaro_Red de enmalle de deriva marina;18000;58000;12000;315000
+Los Tendales_Red de enmalle fija continental;10000;24000;32045;106610
+El Puente_Atarraya; ; ;31000;127690
+Puerto La Candelaria_Red de enmalle fija continental;8000;33000;20000;145800
+Rincón_Red de enmalle de encierro continental;7800;11550;6000;59300
+Caño Grande_Red de enmalle fija continental;1700;5600;5000;60000
+Playa Blanca (Ayapel)_Red de enmalle fija continental;2200;16000;15620;76540
+Rincón_Red de enmalle fija continental;7800;18500;18000;184950
+El Puente_Red de enmalle de deriva continental;6050;10000;16720;54080
+El Pájaro_Red de enmalle fija marina;16000;61850;10000;149500
+El Puente_Red de encierro rastra;4000;25000;38000;239720
+Rincón_Atarraya;6600;11920;5000;1,00E+05
+Plaza de mercado (La Dorada)_Chinchorra;30000;139200;100500;769240
+Plaza de mercado (La Dorada)_Línea de mano fija continental;50000;50000;175000;175000
+Puerto Real - Saloa_Red de enmalle fija continental;4000;29650;12000;156000
+El Puente_Red de enmalle fija continental;2150;14950;31295;106005
+Lamas_Atarraya;3000;12500;9000;88000
+La Punta_Buceo marino mixto;23000;97200;14600;186000
+Arrimadero La Unión_Palangre o espinel de fondo;102000;314000;519450;4187800
+La Punta_Red de enmalle fija marina;13350;64000;11000;153100
+Lamas_Red de enmalle de encierro continental;7500;17000;15550;164900
+Policía fluvial (Quibdó)_Línea de mano fija continental;8000;54400;41575;370550
+Policía fluvial (Quibdó)_Red de enmalle fija continental;9500;48500;31720;406560
+San Antonio de Padua_Red de enmalle fija continental;15000;74550;30170;479260
+Puerto La Candelaria_Atarraya rastra; ; ;10000;36800
+Puerto La Candelaria_Atarraya;10625;84500;15000;470350
+Puerto Asure_Red de enmalle fija continental;1000;53700;11310;231690
+Puerto Montecristo_Atarraya;6400;12100;38750;221305
+Puerto Montecristo_Red de enmalle fija continental; ; ;32695;203890
+Puerto Abajo (Dibulla)_Red de enmalle fija marina;60000;95000;18500;574250
+Champaché_Línea de mano fija marina;35000;211150;39900;356700
+El Ferry_Red de enmalle fija continental ciénaga;13000;50825;16750;220410
+Champaché_Atarraya;60000;108000;72300;465000
+Puerto Asure_Palangre calandrio;2775;55600;16000;258805
+Puerto Asure_Atarraya;6000;25300;29940;173660
+El Ferry_Red de enmalle de deriva continental;3600;42580;10885;181180
+Puerto Abajo (Dibulla)_Red de enmalle langostera;60000;75000;12000;298200
+San Miguel (Puerto Gaitán)_Palangre calandrio;10000;98000;20850;406720
+Las Tenazas_Línea de mano fija marina;12000;29000;19000;209200
+Clarinetero_Atarraya;11000;49450;52750;263400
+Paujil_Red de enmalle fija continental;16000;211000;160665;1103700
+Clarinetero_Línea de mano fija continental;10000;18500;78300;276400
+Puerto del Cerrito_Red de enmalle fija continental ciénaga;2000;70000;9000;156000
+El Ferry_Red de enmalle fija continental río;4000;32150;12000;165205
+Locadía_Línea de mano fija marina;5000;43950;13000;261300
+Codis_Línea de mano fija marina;10000;85000;38000;453200
+Nueva Colonia_Red de enmalle fija marina;220000;450000;311200;1204500
+La Playa (El Banco)_Red de enmalle de deriva continental;10000;102780;22075;228150
+Codis_Red de enmalle fija marina;27250;55000;95000;569000
+Tasajera La Playa_Red de enmalle fija marina;45000;145650;28075;532300
+El Porvenir_Línea de mano fija marina;6000;50000;33000;2,00E+05
+Orpua_Red de enmalle camaronera;34000;153000;89300;1000400
+Playa de Arusí_Línea de mano fija marina;6350;118300;58400;1029200
+La T_Red de enmalle de encierro marina;214000;304000;161700;3042550
+Nueva Colonia_Red de enmalle de encierro marina;110000;4,00E+05;218000;1075500
+Yaguará_Red de enmalle fija continental;19000;36000;68000;501000
+Mercado (Lorica)_Atarraya;10000;53100;15000;180000
+El Porvenir_Buceo marino mixto;6000;10000;30000;217600
+Tasajera La Playa_Palangre o espinel de fondo;80000;240500;92560;1035360
+Manaure Abajo_Palangre o espinel de fondo;103000;132000;33160;902080
+Tasajera La Playa_Red de enmalle de encierro marina;120000;290000;107800;2436000
+Manaure Abajo_Red de enmalle de encierro marina;185000;298000;98495;5105510
+Puerto Bogotá_Atarraya; ; ;24100;143900
+Mayapo_Red de enmalle langostera;37000;74000;66900;378400
+La Playa (El Banco)_Chinchorra;16000;86600;61200;193450
 Puerto Bogotá_Cóngolo; ; ;20000;130000
-Puerto del Pescado (San José Del Guaviare)_Red de enmalle de deriva continental;7000;10000;92800;514600
-Tajamar Occidental_Red de enmalle de deriva marina;51500;71000;37000;543000
-Santa Clara_Palangre calandrio;5700;9900;12600;112000
-Puerto Wilches_Chinchorra mallona;83000;206000;234000;1352000
-La Boquilla_Línea de mano fija marina;99200;189200;102000;653600
-Sempegua_Chinchorro continental;68800;132000;186000;771375
-Sempegua_Chinchorra;16360;73000;66060;316600
-Mercado (Lorica)_Red de enmalle fija continental;1000;20000;25000;386000
-Bazurto_Línea de mano fija marina;60000;196750;72750;1192200
-Bazurto_Atarraya;26000;34700;86500;301900
-Sempegua_Red de enmalle fija continental;4655;47270;10000;142500
-El Malecón (Neiva)_Atarraya;40000;63000;125395;476715
-Bazurto_Red de enmalle fija marina;65000;160000;88500;857500
-Robles_Red de enmalle de encierro continental;7000;10000;27150;146800
-Laguna Colorada_Red de enmalle fija continental;3000;6000;12800;137850
-Las Delicias_Red de enmalle de encierro marina;25000;2,00E+05;56280;1399400
-Sivirú_Red de enmalle fija marina;6000;65800;24000;576900
-La Boquilla_Palangre o espinel de superficie;6250;35000;25000;230000
-Puerto Maco/Puerto Momico_Atarraya;27500;40500;198960;371040
-Puerto Maco/Puerto Momico_Red de enmalle fija continental;22000;24000;128200;286625
-Puerto Chucha_Red de enmalle fija marina;23000;65300;45000;413000
-Puerto Maco/Puerto Momico_Palangre calandrio;26000;29000;101825;223200
-Puerto Chucha_Red de enmalle de deriva marina;96250;129750;140000;504750
-Agropez_Atarraya;55000;60000;160000;720000
-La Boquilla_Red de enmalle fija marina;4000;64000;20000;234000
-Santa Clara_Atarraya;1800;2800;33000;141000
-Río San Miguel_Línea de mano fija continental;20100;38225;96000;570000
-Guacamayo_Red de enmalle fija continental;7600;17000;4830;85550
-Doña Ana_Red de enmalle fija continental;1600;12000;6400;91590
-Doña Ana_Chinchorro continental;27000;38250;14810;116450
-Marralú_Chinchorro continental;10200;46000;54000;476000
-Puerto (Orocué)_Red de enmalle fija continental;53000;125000;445300;2161750
-Río San Miguel_Red de enmalle fija continental;6600;45400;47450;654350
-Puerto (Orocué)_Palangre calandrio;58000;118300;553020;1972380
-El Llanito_Palangre calandrio;42600;77500;69600;529600
-Barrio Chino_Línea de mano fija continental; ; ;8080;65520
-Guacamayo_Línea de mano fija continental;12800;17000;7700;105890
-Marralú_Atarraya;2000;14000;14700;227070
-La Boquilla_Chinchorro marino;30000;105000;45000;1597000
-Costilla_Red de enmalle fija continental;9000;21700;23060;161390
-Mapiripán_Chinchorro continental;42000;42000;106000;106000
-Mapiripán_Red de enmalle de deriva continental;26000;155000;51500;701500
-Guataquí_Palangre calandrio;10000;53500;22600;348000
-Costilla_Chinchorro continental;22000;33875;72000;157920
-Costilla_Nasas de Peces;10000;35325;15000;137120
-Pomeño_Red de enmalle fija marina;36000;109200;65200;619100
-Puerto Asure_Red de enmalle fija continental;1000;54400;12280;230630
-Puerto Asure_Palangre calandrio;5700;56300;19660;264860
-Puerto Asure_Chinchorra;22500;66700;73540;468000
-Sapzurro_Línea de mano fija marina;40730;240400;453660;2179430
-Sapzurro_Red de enmalle fija marina;8300;17600;295200;743600
-Manaure Abajo_Palangre o espinel de fondo;103000;132000;39120;802820
-Manaure Abajo_Red de enmalle de encierro marina;185000;298000;94950;5605000
-Puerto Amor_Red de enmalle fija continental;1000;35000;9000;141700
-San Nicolás (Santa Cruz De Mompox)_Red de enmalle fija continental;7720;20840;8000;66770
-Puerto Antequera_Red de enmalle fija continental ciénaga; ; ;19150;136600
-Puerto Amor_Palangre calandrio;1000;39400;13000;143400
-San Nicolás (Santa Cruz De Mompox)_Chinchorro continental;11600;37000;26000;314000
-Méjico_Red de enmalle fija continental;10000;20000;17410;140190
-Méjico_Línea de mano fija continental;15000;20000;14100;118980
-Popoya Playa_Red de enmalle fija marina;15000;18000;24000;114000
-Méjico_Palangre calandrio; ; ;9560;61640
-Camarones_Red de enmalle de deriva marina;45000;80000;29500;515500
-Casco urbano (Puerto Escondido)_Red de enmalle fija marina;10000;90000;20000;504800
-Curillo_Palangre calandrio;63200;105000;70140;515600
-Curillo_Línea de mano fija continental;46100;90000;132000;888400
-Piedras Blancas_Buceo de langosta;16000;20000;59000;228500
-Piedras Blancas_Buceo marino mixto;16000;20000;91000;301000
-Arroyito_Línea de mano fija marina;3000;70000;21445;183000
-Arroyito_Atarraya;2000;4000;11020;39415
-La Grande_Red de enmalle fija continental;25500;40000;21000;286600
-Playa Nueva_Palangre o espinel de fondo;44800;145750;77475;427175
-Cabo de la Vela_Red de enmalle langostera;10000;19000;12000;125850
-Puerto de Bolombolo_Palangre calandrio;15000;45000;11210;247070
-Santuario_Red de enmalle de deriva continental;33250;144150;245550;1130875
-Aparca_Atarraya;38750;130250;128000;795850
-Puerto Simití_Red de enmalle fija continental;5200;17630;51780;189690
-Jodedor_Red de enmalle fija marina;40000;95000;53350;395900
-Jodedor_Línea de mano fija marina;95000;350000;87600;1437400
-Jodedor_Red de enmalle langostera;45000;120000;78600;747900
-Desembarcadero (Juradó)_Línea de mano fija marina;123125;830500;523400;5154150
-Rincón del Mar_Red de enmalle de encierro marina;24000;94500;41600;1148000
-Bocanegra_Atarraya;900;11800;12000;97600
-Bocanegra_Chinchorro marino;48320;1,00E+05;30000;1371200
-Jodedor_Red de enmalle de encierro marina;90000;140000;238200;4136200
-Lomita Arena_Palangre o espinel de superficie;36150;40700;76850;140400
-Lomita Arena_Red de enmalle fija marina;30000;49500;20000;243250
-San José_Chinchorra;57800;102800;760880;1420760
-Puerto Montecristo_Atarraya;6400;12100;36775;219195
-Puerto Montecristo_Red de enmalle fija continental; ; ;31600;203430
-Bahía de Cispatá_Chinchorro marino;23000;106500;69000;941500
-Candelaria (Achí)_Red de enmalle de deriva continental;1050;1950;9700;45880
-Bahía de Cispatá_Línea de mano fija marina;5150;46000;9000;247200
-Candelaria (Achí)_Red de enmalle fija continental;1400;8600;6690;83150
-Bahía de Cispatá_Red de enmalle fija marina;9000;29825;16000;163500
-Bahía de Cispatá_Atarraya;5000;14000;10150;141450
-Nueva Estrella_Red de enmalle fija continental; ; ;12000;116010
-Bahía de Cispatá_Palangre o espinel de fondo;6750;18000;15000;109800
-San José de la Calle_Red de enmalle fija continental;15000;15000;9655;352670
-Bocanegra_Red de enmalle fija marina;1200;40800;19950;150750
-Nueva Ola_Palangre calandrio;5000;15000;6910;65410
-Nueva Ola_Línea de mano fija continental;5000;21000;7300;114540
-La Raya_Red de enmalle fija continental; ; ;13180;57800
-Nueva Ola_Atarraya;3000;27600;13100;193000
-La Tranca_Red de enmalle fija continental;2200;4000;12615;142640
-Nueva Ola_Chinchorro continental;7550;44150;15185;314610
-La Raya_Atarraya; ; ;18510;93270
-Caño Lobo_Atarraya;12000;28000;16000;122000
-La Raya_Red de enmalle de deriva continental; ; ;9740;73000
-San Nicolás (Nechí)_Línea de mano fija continental;12250;92100;9650;148190
-Caño Lobo_Buceo de caracol;9000;16000;20000;110000
-San Nicolás (Nechí)_Palangre calandrio;10000;102875;12900;342000
-Clarinetero_Línea de mano fija continental;10000;26000;71140;291705
-Caño Lobo_Recolección manual de ostra;13000;15000;15000;132800
-San Nicolás (Nechí)_Red de enmalle fija continental;3000;40000;12200;195300
-Caño Lobo_Buceo de peces;13900;19000;26050;111500
-Caño Lobo_Línea de mano fija marina;12500;18000;16000;108600
-San Nicolás (Nechí)_Red de enmalle de deriva continental;2500;45000;14750;297600
-Pesquera Aspabab_Red de enmalle fija marina;45000;67000;59000;618000
-Caño Lobo_Palangre o espinel de fondo;13000;18650;17200;34500
-Caño Lobo_Nasa de jaibas;18500;26000;51300;130000
-Caño Lobo_Red de enmalle fija marina;13800;23000;24000;150000
-San Nicolás (Nechí)_Atarraya;15000;53350;22095;319705
-Puerto Chaparro_Chinchorro continental;80000;181000;172925;1544330
-Curvaradó_Red de enmalle fija continental;16000;20000;18000;285250
-Puerto Chaparro_Red de enmalle de deriva continental;4000;78200;40000;641200
-Puerto Chaparro_Red de enmalle fija continental;14000;99000;31600;546550
-Buchadó_Línea de mano fija continental;59000;110000;8200;112600
-Puerto Boca_Chinchorro continental;23000;39500;55400;506800
-Buchadó_Red de enmalle fija continental;8000;53000;4300;123230
-Manaure Centro_Red de enmalle de encierro marina;185000;298000;108640;3846185
-Mulatos_Red de enmalle fija marina;10000;90000;53100;1173600
-Puerto Boca_Línea de mano fija continental;12350;18650;12750;85000
-Paujil_Red de enmalle fija continental;11650;221750;153435;1099300
-Cecilia_Atarraya;6000;7000;32045;65920
-Puerto Boca_Red de enmalle de deriva continental; ; ;24350;33250
-El Porvenir_Atarraya; ; ; ; 
-El Porvenir_Línea de mano fija marina;6000;50000;33000;230600
-El Ferry_Chinchorra;8350;39150;29060;226260
-Riosucio_Red de enmalle fija continental;60000;155000;148130;668550
-Muelle Hong Kong_Red de enmalle fija continental;15000;61350;23400;441150
-Montaño_Red de enmalle fija continental;18000;20000;7000;111735
-Poportín_Nasas de Peces;20300;35000;85000;274850
-La Playa (El Banco)_Nasas de Peces;90000;115500;151260;757500
-Poportín_Red de enmalle fija marina;35300;38000;40000;176650
-San Miguel (Puerto Gaitán)_Atarraya;18000;60000;18380;366510
-Mantequera_Red de enmalle fija continental;11000;25800;7200;112875
-Guacamayo_Chinchorro continental;15850;65600;55200;568000
-Cangrejito_Palangre o espinel de fondo;5250;180000;18450;704750
-Mantequera_Red de enmalle de deriva continental;12000;37300;21000;316000
-Mantequera_Palangre calandrio;12250;20750;14000;149500
-Cangrejito_Línea de mano fija marina;3600;8400;7000;39350
-Betania (Montecristo)_Red de enmalle fija continental;12000;18000;20850;146675
-La Ensenada_Red de enmalle camaronera;48600;82400;10500;123875
-Barrio Chino_Chinchorro continental;6000;10000;57550;537550
-El Porvenir_Buceo marino mixto;6000;14400;30300;219100
-Ciénaga del Totumo_Atarraya;5000;11000;19650;84350
-Puerto Pozuelo - La Rinconada_Red de enmalle de encierro continental;18090;19170;93120;204360
-Puerto principal (San Vicente del Caguán)_Atarraya;46000;107400;90560;536320
-San Antonio de Padua_Red de enmalle de deriva continental;8000;46700;12940;172060
-Puerto principal (San Vicente del Caguán)_Red de enmalle de deriva continental;63250;101350;239860;532380
-Tapegua_Red de enmalle fija continental;12120;29400;38000;290000
-Tapegua_Atarraya;5370;19000;19600;122270
-Guineal_Palangre o espinel de fondo;10000;90000;29850;327300
-Barrio Pambelé_Red de enmalle fija marina;20000;80000;30000;650000
-Lamas_Atarraya;3000;13000;8000;91000
-Dorada_Red de enmalle fija continental; ; ;13670;134430
-Guineal_Red de enmalle fija marina;5950;68200;29300;275800
-La T_Nasas de Peces;153000;222000;469000;1276750
-Las Brisas_Red de enmalle fija continental;7000;24000;12910;178020
-Puerto Boquillas_Red de enmalle fija continental;9375;17000;10000;230200
-Bazán La Bocana_Red de enmalle de deriva marina;1226100;1455650;2716400;4918250
-Punta Bonita_Chinchorro marino;87200;170400;358100;2359600
-Providencia o Caimancito_Red de enmalle fija continental; ; ;2900;26050
-La Punta - Firme Cifuentes_Red de enmalle de deriva marina;45000;80000;70000;523200
-Punta Bonita_Red de enmalle de deriva marina;98000;187000;237000;1122750
-Las Flores_Red de enmalle fija marina;20000;227300;98225;1078820
-Las Flores_Línea de mano fija marina;12700;31900;35100;279960
-Comercializadores independientes (Guapi)_Red de enmalle fija marina;276500;617000;664550;6592050
-Las Flores_Red de enmalle de deriva marina;199000;241000;190525;1787725
-Las Delicias_Palangre o espinel de fondo;39250;76350;87480;455000
-Guazo_Red de enmalle fija continental;5000;45000;5000;192250
-Guazo_Palangre calandrio;5000;8600;8075;71040
-Maracayo_Red de enmalle fija continental;1000;5000;8000;114000
-Guazo_Red de enmalle de deriva continental;5000;7000;7000;84000
-Puerto Boca_Atarraya;2000;14000;46800;173800
-Vigía de Curvaradó_Red de enmalle fija continental;30000;81700;8000;304100
-Villanueva_Red de enmalle fija continental; ; ;6310;26830
-Villanueva_Chinchorro continental;2150;3850;81800;225340
-Palomar_Red de enmalle fija continental;4000;8000;9000;69000
-Palomar_Línea de mano fija continental;4000;7800;11560;77120
-Belén (San Marcos)_Red de enmalle fija continental;600;14800;12735;108625
-Belén (San Marcos)_Palangre calandrio;1590;7500;13700;51000
-Belén (San Marcos)_Chinchorra;26100;26100;60000;60000
-Punta de blanco_Red de enmalle fija continental;2000;10000;7400;95200
-Punta Ardita_Línea de mano fija marina;30000;70250;92030;483600
-Puerto Arriba (Dibulla)_Red de enmalle fija marina;40000;129500;48500;691230
-Punta de blanco_Palangre calandrio;2000;4550;29250;97840
-San Alejandro_Red de enmalle fija continental;10000;36000;3865;167285
-Puerto Arriba (Dibulla)_Nasas de Peces;138000;230000;485750;1596275
-Orejero_Red de enmalle fija continental;3000;5000;10110;102280
-Cispataca_Red de enmalle fija continental; ; ;4600;67000
-Dorada_Atarraya;1200;2000;22100;211400
-Ica-Copipa_Red de enmalle fija marina;21200;119005;71650;1512450
-Primera Ensenada_Línea de mano fija marina;10000;124000;167000;314500
-Guataquí_Atarraya;4000;25500;18400;108000
-Distribuidoras de Tumaco_Red de enmalle de deriva marina;73200;145800;59150;705350
-La Tagua_Palangre calandrio;12000;19300;29400;378240
-Pueblo Lindo o Caimanera_Red de enmalle fija continental; ; ;16265;360340
-Rincón del Mar_Buceo marino mixto;3000;73000;19450;360000
-Rincón del Mar_Línea de mano fija marina;4000;99000;20000;956000
-Puerto Colorado_Red de enmalle fija continental;12000;18000;12500;129920
-Rincón del Mar_Nasa de langostas;41900;83100;139100;1015000
-Vida Tranquila_Red de enmalle de deriva continental;5050;5950;13000;13000
-Vida Tranquila_Atarraya;8000;21000;15300;98100
-Vida Tranquila_Palangre calandrio;7250;20375;18200;95600
-Bahía de Santa Marta_Línea de mano correteo curricán o trolling;20000;32000;40000;151400
-Bocas de Seheve_Atarraya;6000;10000;15000;143400
-Vida Tranquila_Chinchorro continental;10000;60000;24460;149700
-La Rampa (Barrancabermeja)_Chinchorra;109400;232500;457200;3626000
-La Rampa (Barrancabermeja)_Atarraya;104500;219500;588500;7318500
-Bahía de Cispatá_Red de enmalle de encierro marina;8650;33700;23350;284650
-Puerto de Gamarra_Chinchorra;80000;120000;172500;626000
-La Rampa (Barrancabermeja)_Palangre calandrio;94300;218550;582450;2950500
-Barrio Santa Lucía_Red de enmalle fija marina;32000;89000;30175;602925
-Vida Tranquila_Red de enmalle fija continental;7000;33000;14000;115000
-Puerto Amor_Chinchorra;4000;55000;29400;434325
-Virudó_Red de enmalle de deriva marina;36000;50500;42000;367000
-Puerto Rico [Meta]_Red de enmalle de deriva continental;44800;71400;94800;341640
-Virudó_Red de enmalle fija marina;36000;44000;48600;311400
-El Porvenir_Línea de mano correteo curricán o trolling;10000;27250;62850;137800
-Puerto Colorado_Línea de mano fija continental;12000;18000;16300;146850
-Playa de Arusí_Línea de mano correteo curricán o trolling;27500;83750;117200;390800
-Marriaga_Red de enmalle fija continental;15000;20000;9680;135400
-Plaza de mercado (La Dorada)_Chinchorra;30000;138250;57500;723740
-La Punta - Firme Cifuentes_Red de enmalle camaronera;50500;65000;60000;444000
-Candelaria (Chimichagua)_Atarraya;14750;29600;39200;124750
-Puerto Asure_Atarraya;6000;24400;31480;169480
-Cartagena del Chairá_Palangre calandrio;25000;87600;107700;984720
-Laguna Colorada_Palangre calandrio;4000;8000;21915;228000
-Puerto Barrio El Progreso_Red de enmalle fija continental;18000;53000;46200;249300
-Puerto Barrio El Progreso_Línea de mano fija continental;29400;41600;62340;202440
-Puerto Barrio El Progreso_Red de enmalle de deriva continental;30000;41600;44220;216560
-Las Balsas_Red de enmalle fija continental;2,00E+05;310000;328100;692550
-Mayapo_Nasas de Peces;24600;33800;190800;842800
-Docordó_Red de enmalle de deriva marina;66000;150400;78800;933000
-El Roto_Red de enmalle fija marina;35000;78000;18500;332300
-Cabo de la Vela_Nasas de Peces;10000;19000;26700;110750
-Puerto de Bolombolo_Atarraya;20000;30000;54400;352900
-Santuario_Arpón;66000;79500;415300;555700
-Puerto Miraflores_Red de enmalle fija marina;130000;378000;231050;2073700
-Chamuscado - Naya_Red de enmalle de deriva marina;44500;131000;52800;546800
-Charambirá_Red de enmalle fija marina;36000;114500;135500;720000
-San Miguel (Puerto Gaitán)_Red de enmalle de deriva continental;18850;52150;45270;66330
-Charambirá_Palangre o espinel de fondo;72000;190000;232600;875800
-Puerto Miraflores_Línea de mano fija marina;115000;383600;215800;2055400
-San Miguel (Puerto Gaitán)_Red de enmalle fija continental;16000;70125;37550;462850
-Cooperativas - Pueblo Nuevo_Red de enmalle de deriva marina;634000;1360000;745700;3832350
-Jurubirá_Palangre o espinel de fondo;53700;138800;52800;823400
-Jurubirá_Línea de mano fija marina;44400;110000;27250;299750
-La Punta_Palangre o espinel de fondo;45700;86500;55900;277200
-Uveros_Red de enmalle fija marina;19950;281500;38505;1891125
-Cabo de la Vela_Línea de mano fija marina; ; ;13250;77500
-Guineal_Red de enmalle de encierro marina;8000;84800;21000;417400
-Casco urbano Roma_Red de enmalle fija continental; ; ;6400;64500
-Casco urbano Roma_Red de enmalle zangarreo; ; ;16810;133680
-Casco urbano Roma_Atarraya; ; ;15960;199865
-Morrosquillo_Línea de mano fija marina;3000;94550;5000;328200
-Morrosquillo_Atarraya;2900;4500;3000;72300
-Morrosquillo_Línea de mano correteo curricán o trolling;14000;24600;12000;153900
-Pueblo Nuevo (Barrancominas)_Red de enmalle fija continental;6000;6000; ; 
-Cecilia_Palangre calandrio;5000;14000;23480;70245
-Berrugas_Línea de mano fija marina;2000;8850;17700;96400
-Puerto Barrio El Progreso_Atarraya;19200;45000;78040;292960
-El Puerto (Puerto Carreño)_Red de enmalle fija continental;14900;143950;29845;292500
-El Puerto (Puerto Carreño)_Línea de mano fija continental;160250;254750;193200;520800
-Isla Fuerte_Red de enmalle fija marina;16000;52000;35300;206450
-Punta Bonita_Red de cerco;629800;888700;2202750;21297750
-Puerto Chucha_Red de enmalle fija continental;1520;26800;35000;165000
-Puerto Triunfo_Atarraya;16300;27700;43900;223700
-Playa Totumo_Red de enmalle camaronera;30700;3,00E+05;51150;1020000
-Puerto Triunfo_Palangre calandrio;20000;36250;26850;276880
-Guineal_Línea de mano fija marina;6000;16000;10400;89700
-El Valle_Palangre o espinel de fondo;157900;319870;261900;2909420
-Cabo Marzo_Palangre o espinel de fondo;1826500;3719600;2231000;7342750
-Usaragá_Palangre o espinel de fondo;5250;83500;37000;472750
-Usaragá_Red de enmalle de deriva marina;5000;65530;29100;453400
-Usaragá_Línea de mano fija marina;3000;37000;24000;113500
-Desembarcadero (Supía)_Atarraya;7000;14000;40840;106020
-Puerto Los Córdobas_Red de enmalle de deriva marina;68000;108000;51300;1368000
-Muelle Principal (Puerto Leguízamo)_Red de enmalle fija continental;16725;144100;116700;754925
-Muelle Principal (Puerto Leguízamo)_Palangre calandrio;16850;129150;200900;822150
-Muelle Principal (Puerto Leguízamo)_Línea de mano fija continental;14000;151000;103275;756000
-Betania - Naya_Palangre o espinel de fondo;88050;116650;122390;488745
-Betania - Naya_Red de enmalle camaronera;90450;145350;66000;1404455
-Betania - Naya_Palangre o espinel de superficie;46925;66250;335750;1082900
-Betania - Naya_Red de enmalle de deriva marina;83350;151250;87400;766065
-Santa Cruz - Naya_Red de enmalle de deriva marina;103750;173000;99250;1197400
-Bocanegra_Red de enmalle de encierro marina;11500;16000;15600;125800
-Puerto Bogotá_Atarraya; ; ;23500;159750
-Tagachí_Red de enmalle fija continental;18000;37000;5800;102700
-Vigía_Red de enmalle camaronera;18200;27800;75000;260700
-Casco Urbano (San Juan de Urabá)_Red de enmalle fija marina;43000;609800;60000;1491450
-Desembarcadero (Juradó)_Red de enmalle fija marina;252550;5,00E+05;780750;1641150
-Vigía_Red de enmalle de deriva marina;19600;30000;130000;461400
-Purricha_Red de enmalle fija marina;3000;77425;37450;780980
-Pesquera Aspabab_Palangre o espinel de fondo;61500;550000;118600;720000
-Doña Ana_Palangre calandrio;2000;11150;17760;188040
-Muelle Hong Kong_Línea de mano fija continental;14300;37400;71280;561250
-Casco Urbano (Arauca)_Recolección manual de mota;52300;174700;175950;662550
-Casco Urbano (Arauca)_Atarraya;36500;176300;152550;650350
-Casco Urbano (Arauca)_Línea de mano fija continental;15750;467500;98630;981675
-Amarales_Red de enmalle camaronera;22000;49000;72780;465800
-Bocas de Seheve_Red de enmalle de encierro continental;10000;15000;13650;103950
-Puerto Cabuyaro_Red de enmalle fija continental;29250;112300;221325;512150
-Puerto Cabuyaro_Chinchorro continental;89000;228500;396900;751950
-Bahía de Santa Marta_Buceo de peces; ; ;7200;114000
-Juanchaco_Línea de mano fija marina;93400;269000;132000;1298000
-Puerto Cabuyaro_Palangre calandrio;25000;294300;63780;1214910
-Agropez_Línea de mano fija marina;85000;105000;158400;593700
-Miramar - Bahía Málaga_Red de enmalle fija marina;5000;56000;55600;1121000
-El Llanito_Red de enmalle de deriva continental;42775;63000;37500;295000
-El Llanito_Atarraya;10000;54000;39500;318500
-Candelaria (Achí)_Atarraya;1050;1950;14075;71350
-El Pedral_Palangre calandrio;3000;12500;50750;85950
-El Muelle (Barrancabermeja)_Chinchorra;95000;284000;182000;1104000
-El Muelle (Barrancabermeja)_Atarraya;101800;341600;308400;1261600
-El Muelle (Barrancabermeja)_Atarraya rastra;147000;252800;261200;1243800
-Puerto Wilches_Chinchorra;88500;133500;124000;853750
-La Chamba_Red de enmalle de deriva continental;15500;26500;37360;588230
-Pomeño_Red de enmalle de deriva marina;19800;168400;63875;1068500
-Malecón (Puerto Gaitán)_Palangre calandrio;150000;561000;147100;1964460
-Muelles del Camarón_Red de arrastre artesanal o changa;138000;190000;110000;831000
-Camarones_Nasas de Peces;45000;55000;118800;824150
-Camarones_Red de enmalle de encierro marina;173000;209000;1281150;10566000
-Puerto Franco_Atarraya;620;800;10220;75560
-Méjico_Red de enmalle de deriva continental;15000;30000;35780;264740
-Guacamayo_Cóngolo;10500;18000;13010;44080
-La Chamba_Atarraya;3000;22000;39415;236140
-Curillo_Atarraya;110100;111900;328860;527940
-Puerto Chaparro_Línea de mano fija continental;37250;176000;38815;786630
-Tagachí_Línea de mano fija continental;18300;26850;19800;172620
-Puerto Chaparro_Nasas de Peces;9200;121000;57720;481920
-Puerto Miraflores_Red de enmalle marina de fondo;73400;165600;67250;859625
-Puerto de las Canoas (Puerto Berrío)_Atarraya;54000;245000;198800;1103250
-Bocas de Seheve_Chinchorro continental;20000;20000;20170;23230
-Puerto Boyacá_Palangre calandrio;60000;106000;132080;1123440
-Puerto Boyacá_Atarraya;60000;107000;152880;993600
-Puerto Abajo (Dibulla)_Chinchorro camaronero;10000;70000;20350;291400
-El Muelle (Barrancabermeja)_Palangre calandrio;64400;170800;156600;548000
-La Rampa (Barrancabermeja)_Red de enmalle de deriva continental;113500;155250;1065000;2505750
-Clarinetero_Atarraya;11000;47600;47955;281345
-Nueva Ola_Red de enmalle fija continental;3500;5000;4000;42850
-Bazán La Bocana_Red de enmalle camaronera;103650;231250;92950;815300
-Purricha_Red de enmalle de deriva marina;37350;77325;109650;642980
-La Raya_Palangre calandrio; ; ;22415;128555
-Pueblo Nuevo (Barrancominas)_Línea de mano fija continental;6000;6000;10000;20000
-Candelaria (Achí)_Palangre calandrio; ; ;10960;29870
-Palanca_Atarraya; ; ;3750;42800
-La Plata - Bahía Málaga_Red de enmalle fija marina;15000;34000;31740;358800
-Bocas del Atrato_Palangre o espinel de superficie;10500;13500;25950;361200
-San Nicolás (Nechí)_Chinchorro continental;31900;161200;77725;786890
-Puerto (Arauquita)_Atarraya;14000;78600;101460;390620
-Paujil_Línea de mano fija continental;10600;36600;96180;281740
-La Casa del Pescador_Red de enmalle de deriva marina;116000;200300;119250;740005
-Codis_Atarraya;10000;23000;63750;252500
-San José de la Calle_Línea de mano fija continental;15000;15000;10720;117740
-Puerto de desembarco (Mitú)_Arpón;25000;30900;61000;210800
-Puerto de desembarco (Mitú)_Línea de mano fija continental;18500;30000;29700;216700
-San Luis_Red de enmalle fija continental;14000;21400;19830;169040
-Cecilia_Red de enmalle de deriva continental; ; ;26320;50420
-La Pedrera_Arpón;20300;294200;268800;1153800
-Taganga_Línea de mano - Ballestilla;103000;156000;134230;1160740
-Buenavista (La Dorada)_Red de enmalle de deriva continental;7550;54350;18315;451250
-Puerto Serviez_Atarraya;20000;80000;34200;388900
-Buenavista (La Dorada)_Atarraya;8050;43940;12860;244050
-Buenavista (La Dorada)_Palangre calandrio;29150;53735;27600;193400
-Puerto Serviez_Palangre calandrio;24250;97450;54050;718980
-Guacamayo_Red de enmalle de encierro continental; ; ;91100;110900
-Puerto de Gamarra_Red de enmalle fija continental;47500;78500;227000;789000
-Plaza de mercado (La Dorada)_Línea de mano fija continental;50500;59500;175550;185450
-Puerto Bello_Chinchorro continental;34000;46000;128750;390900
-Concepción - Tacamocho_Red de enmalle fija continental;15500;20680;8600;82020
-Champaché_Red de enmalle fija marina;24000;87200;29000;163000
-Bazán_Red de enmalle fija marina;90000;105250;62500;639000
-Santuario_Atarraya;30000;40000;178500;458500
-Limones_Red de enmalle fija marina;89200;240400;1076800;1736000
-Muelle Hong Kong_Atarraya;13000;25450;22600;75850
-Quiroga_Red de enmalle camaronera;84000;114000;211100;604200
-Aparca_Red de enmalle fija continental;105000;118500;557100;1002600
-Punta Bonita_Red de enmalle camaronera;104000;162900;247800;2022300
-Puerto de Gamarra_Palangre calandrio;47500;87500;189000;674750
-Arrimadero La Unión_Red de enmalle marina de fondo;86000;126100;253100;1905050
-Berlín_Atarraya; ; ;14890;83240
-Puerto de desembarco (Mitú)_Nasas de Peces;10750;24250;212600;295400
-Puerto Chaparro_Atarraya;9000;172000;31130;736630
-La Gloria_Red de enmalle fija continental;13700;43250;49120;240590
-La Gloria_Atarraya;14000;74200;132680;351340
-La Gloria_Chinchorra;83300;154400;135400;880345
-Puerto Serviez_Chinchorra;49200;102000;124800;616200
-La Gloria_Nasas de Peces;115500;217000;303240;913240
-La Gloria_Chinchorro continental;114200;191500;98220;1402090
-El Porvenir_Red de enmalle fija marina;5000;5800; ; 
-Berlín_Red de enmalle fija continental; ; ;5325;75670
-Cartagena del Chairá_Red de enmalle fija continental;33750;59250;136720;567120
-Villa Fátima_Palangre o espinel de fondo;3,00E+05;321750;615200;1269800
-Puerto principal (San Vicente del Caguán)_Palangre calandrio;39900;71700;124440;496120
-La Tagua_Línea de mano fija continental;11750;23000;15250;223250
-El Puerto (Tumaco)_Red de enmalle de deriva marina;92000;411000;793450;2752310
-Puerto Cabuyaro_Atarraya;116000;116000;502000;502000
-Puerto Boyacá_Chinchorra;75000;115000;270550;1111650
-Puerto Colorado_Chinchorro continental;12000;18000;38575;206685
-Puerto La Candelaria_Red de enmalle de deriva continental;5000;9550;20000;20000
-Bazán La Bocana_Red de enmalle fija marina;17000;98000;97000;330000
-Bazán La Bocana_Red de arrastre artesanal o changa;117900;175200;99250;383500
-Cooperativas - Pueblo Nuevo_Red de enmalle camaronera;280000;655000;287150;1964850
-Puerto Serviez_Red de enmalle fija continental;48200;98000;188580;1103140
-Miramar - Bahía Málaga_Palangre o espinel de fondo;23000;40800;31200;372200
-Pueblo Nuevo (Barrancominas)_Palangre calandrio;6000;6000;11800;224520
-Guataquí_Nasas de Peces;10000;27900;15000;105000
-La Plata - Bahía Málaga_Palangre o espinel de fondo;15000;46850;118100;588800
-Milagros de la Mar_Red de enmalle fija marina;28200;89000;22800;135700
-Zapata_Red de enmalle camaronera;20000;145000;50000;1617500
-Puerto Chucha_Red de enmalle de encierro marina;23250;82050;80000;695750
-Puerto Chaparro_Atarraya rastra;75000;75000;650000;650000
-Chacón_Red de enmalle fija marina;96600;158550;155600;667550
-Barrio La Unión_Atarraya;26250;66250;36450;170500
-Marralú_Palangre calandrio;2500;8000;21540;128400
-Galería (Guapi)_Red de enmalle fija marina;74000;346000;295000;1512500
-Bocanegra_Palangre o espinel de fondo;19750;34750;15700;164200
-Ica-Copipa_Línea de mano fija marina;9100;36450;64160;449260
-Corozal_Red de enmalle fija marina;100045;123740;341700;1487350
-Las Delicias_Buceo de langosta;14950;30000;17700;368400
-Buenavista (La Dorada)_Red de enmalle de encierro continental;43900;73600;88560;2496780
-Nueva Ola_Red de enmalle de deriva continental;3400;9600;5880;49760
-Bazán_Palangre o espinel de fondo;380000;702000;376300;1944525
-Milagros de la Mar_Palangre o espinel de fondo;35000;176000;79200;834400
-El Roto_Red de enmalle fija continental;35700;54000;24800;149600
-Isla Fuerte_Nasa de langostas;163600;224800;469400;1631000
-Cartagena del Chairá_Línea de mano fija continental;26500;115400;98640;942480
-Cartagena del Chairá_Atarraya;25250;29750;87040;156160
-Puerto Amor_Atarraya;1000;15125;13750;70850
-Timbiquí_Red de enmalle fija marina;97310;130065;246925;941000
-Virudó_Línea de mano fija marina;40000;44000;36000;240000
-Puerto Barrio El Progreso_Chinchorra;51600;63300;268690;276430
-Puerto Barrio El Progreso_Atarraya rastra;45000;59050;179375;332860
-Guacamayo_Red de enmalle de deriva continental;10000;24450;22340;122985
-La Punta - Firme Cifuentes_Palangre o espinel de fondo;46500;60000;139200;290400
-La Pedrera_Red de enmalle fija continental;12560;340200;115200;1019600
-Las Brisas_Palangre calandrio;8000;8000;14300;38550
-Honda_Nasas de Peces;39200;82800;59680;161180
-Méjico_Atarraya;10250;14750;4140;98690
-Playa Totumo_Palangre o espinel de fondo;169900;310000;251000;1950000
-Miel de Abeja_Palangre o espinel de fondo;45000;125000;62400;502000
-Guazo_Chinchorro continental;5600;10200;69220;415500
-La Pedrera_Palangre calandrio;10200;294840;100200;981600
-Puerto Cabuyaro_Red de enmalle de deriva continental;85000;85000; ; 
-Marralú_Red de enmalle fija continental;4000;19200;16365;185725
-Barrio Chino_Atarraya; ; ;4960;41560
-Puerto La Candelaria_Chinchorro continental;9000;40200;20000;376800
-La Gloria_Línea de mano fija continental;8000;19200;67200;175920
-La Gloria_Palangre calandrio;10000;50000;42150;177700
-Tagachí_Atarraya;18000;18000;93195;109305
-Nueva Colonia_Flecha;66000;126500;97500;897200
-Puerto Ciénaga de Paredes_Nasas de Peces;13000;16000;36400;60900
-La Ensenada_Red de enmalle de deriva marina;43400;83600;52600;410520
-Dotenedó_Recolección manual de piangua;16000;16000;21000;126000
-Puerto Principal (Leticia)_Palangre calandrio;44500;220250;87500;874250
-Tagachí_Red de enmalle de deriva continental;18000;98500;28110;892910
-Puerto Rico [Meta]_Red de enmalle fija continental;57000;79000;100200;538400
-Virudó_Palangre o espinel de fondo;39400;44000;108000;758600
-Berlín_Línea de mano fija continental;10000;20000;11070;117550
-Docordó_Palangre o espinel de fondo;69200;156900;32150;563950
-El Muelle (Puerto López)_Red de enmalle de deriva continental;120000;120000;3,00E+05;3,00E+05
-Clarinetero_Chinchorro continental;46000;46000;358900;358900
-Puerto Chaparro_Cóngolo;6300;83700;72400;156100
-Policía fluvial (Quibdó)_Red de enmalle de deriva continental;10000;58500;121700;1011800
-Río San Miguel_Red de enmalle de deriva continental;6375;42000;23600;397500
-Amarales_Red de enmalle de deriva marina;21800;70000;101400;573720
-Chontal_Red de enmalle de deriva marina;16000;40000;73500;345250
-Taganga_Ballestilla/Palangre parguera;1072500;1617000;1978000;15306480
-Providencia o Caimancito_Atarraya;1000;11000;7895;73350
-Santuario_Palangre calandrio;27000;148500;219000;302700
-Sapzurro_Buceo de peces;17015;117015;324600;533400
-Caño Grande_Línea de mano fija continental;2000;2000;12100;84000
-Sivirú_Línea de mano fija marina;5000;27600;15900;112400
-Chontal_Palangre o espinel de superficie;16000;40000;114700;389600
-Puerto de las Canoas (Puerto Berrío)_Red de enmalle de deriva continental;57400;283800;150540;1194200
-Bazán_Red de cerco artesanal o ruche;398250;691000;660750;14343750
-Puerto Principal (Puerto Lleras)_Red de enmalle de deriva continental;100300;105700;190900;1233100
-Damaquiel_Red de enmalle camaronera;38950;150950;43000;1299350
-Playa Nueva_Red de enmalle camaronera;39560;43400;57200;95160
-Playa Nueva_Red de enmalle de deriva marina;41350;99900;113375;553050
-Guataquí_Red de enmalle fija continental;4000;54000;17500;241750
-San Miguel (Puerto Gaitán)_Palangre calandrio;10000;100700;21000;412240
-Virudó_Atarraya;37400;44000;57600;299100
-La Gloria_Atarraya puesteo;10600;139000;43920;407920
-Cupica_Palangre o espinel de fondo;150000;150000;896000;896000
-Plaza de mercado (La Dorada)_Atarraya;40750;53950;40255;217500
-Costilla_Atarraya;9720;22860;59000;59000
-Costilla_Palangre calandrio;8300;15850;14900;66730
-La Chamba_Red de enmalle fija continental;17200;20800; ; 
-Lomita Arena_Chinchorro marino;36000;116000;43000;3038800
-Ica-Copipa_Buceo marino mixto;32100;71050;94900;389100
-Puerto Arriba (Dibulla)_Chinchorro marino;120500;232250;220250;5388950
-Tribugá_Línea de mano correteo curricán o trolling;7200;21800;29200;162900
-La Tagua_Red de enmalle fija continental;6600;12000;12640;87340
-Miramar - Bahía Málaga_Línea de mano fija marina;10000;182000;85000;956000
-Miramar - Bahía Málaga_Red de enmalle de deriva marina;37000;76000;101500;552750
-Caño Lobo_Red de enmalle de encierro marina;26000;29000;26800;112000
-Casco Urbano (San Juan de Urabá)_Red de arrastre artesanal o changa;81625;133250;50750;682000
-Arroyito_Palangre o espinel de fondo;8000;9000;19540;80660
-Sapzurro_Red de enmalle de encierro marina;8000;8000;3294000;3294000
-Pesqueras - Pueblo Nuevo_Palangre o espinel de fondo;4514500;6035500;5482100;11405900
-Palomar_Palangre calandrio;4300;9100;10100;83380
-Bahía de Cispatá_Nasa de jaibas;8600;13000;36000;144000
-Cooperativas - Pueblo Nuevo_Palangre o espinel de fondo;3525000;3525000;14315000;27842000
-El Muelle (Puerto López)_Palangre calandrio;191000;298000;258200;632400
-Puerto La Candelaria_Atarraya rastra; ; ;10000;38000
-El Llanito_Línea de mano fija continental;66000;66000;75450;173550
-El Pedral_Línea de mano fija continental;5150;10000;27250;117400
-Puerto Arriba (Dibulla)_Palangre o espinel de fondo;97500;135100;44800;622200
-Puerto Wilches_Línea de mano fija continental;134000;375600;544400;2911550
-Bahía de Cispatá_Arpón;7700;19300;20600;146400
-Barrio La Unión_Línea de mano correteo curricán o trolling;70000;70000;5380;23020
-Santa Cruz - Naya_Red de enmalle fija marina;55950;70125;59425;179425
-Santa Cruz - Naya_Red de enmalle camaronera;92800;179000;109555;1057995
-Morrosquillo_Buceo de peces;3500;6665;44100;173400
-Las Flores_Palangre o espinel de fondo;121400;222400;93050;1113750
-Sivirú_Red de enmalle camaronera;26000;54000;45300;953400
-Orpua_Red de enmalle camaronera;34000;153000;68475;966350
 Mercado (Lorica)_Palangre calandrio;15000;18250;160500;295500
+Playa de Arusí_Palangre o espinel de fondo;15950;120250;51815;579910
+Mercado (Lorica)_Red de enmalle fija continental;1500;20000;26600;360000
+Yaguará_Chinchorra;22000;32750;102650;600350
+Barrio La Unión_Red de enmalle fija marina;5000;41500;8120;149180
+Mayapo_Buceo de langosta;18000;30000;26800;354500
+Puerto Ciénaga de Paredes_Red de enmalle fija continental;2500;15000;88500;129050
+Mayapo_Buceo marino mixto;19000;32000;28800;314200
+La Isla de los Palacios_Red de enmalle fija continental;15000;22000;11120;52080
+Barrio La Unión_Red de enmalle langostera;40000;70000;28800;354630
+Puerto Ciénaga de Paredes_Nasas de Peces;13000;16000;36400;61985
+La Playa (El Banco)_Nasas de Peces;90000;120000;144280;693700
+Las Delicias_Red de enmalle fija marina;5000;28800;15000;211905
 Puerto de desembarco (Barrancominas)_Línea de mano fija continental;10000;14000;38120;123420
+Barrio La Unión_Palangre o espinel de fondo;8050;37600;5000;169200
+La Playa (El Banco)_Chinchorro continental;105250;285550;142850;805050
+Cabo de la Vela_Red de enmalle langostera;10000;19000;12000;135000
+Ciénaga del Totumo_Atarraya;5000;11000;17000;84000
+Cabo Marzo_Línea de mano fija marina;734000;2686000;1500000;8269400
+Arquimedes_Línea de mano fija marina;5000;12000;6000;55550
+Poportín_Buceo marino mixto;20000;25000;42000;383000
+Camarones_Red de enmalle de deriva marina;45000;75000;27200;523300
+Tagachí_Red de enmalle fija continental;18000;37100;5600;90870
+Desembarcadero (Murindó)_Red de enmalle fija continental;2000;25000;14205;142695
+El Muelle (Puerto López)_Chinchorro continental;110000;290000;200225;572250
+Agropez_Red de enmalle fija marina;52000;80000;135650;760700
+Las Balsas_Chinchorro continental;120000;320000;258600;748500
+Popoya Playa_Red de enmalle fija marina;15000;18000;24000;111750
+Villa Fátima_Red de enmalle de encierro marina;214000;380000;69400;690300
+Bahía de Santa Marta_Red de enmalle fija marina;10000;15000;19500;165250
+Puerto El Waffe marino_Red de enmalle fija marina;318000;384000;620000;733825
+Bahía de Santa Marta_Buceo de peces; ; ;6550;105600
+Uveros_Red de enmalle fija marina;17390;277230;33940;1893000
+Barrio Abajo (Ciénaga)_Red de arrastre artesanal o changa;45000;125000;44700;349400
+Bahía de Santa Marta_Línea de mano fija marina;10000;35000;15000;270000
+Barrio Abajo (Ciénaga)_Red de enmalle fija marina;22000;70000;16000;161550
+Barrio Abajo (Ciénaga)_Red de enmalle de encierro marina;90000;477500;92000;1858000
+Tajamar Occidental_Línea de mano cometa;8000;10000;80000;253000
+Tajamar Occidental_Red de enmalle de deriva marina;52000;73500;37000;565000
+Puerto Arriba (Dibulla)_Nasas de Peces;158000;232400;481000;1599100
+Puerto Arriba (Dibulla)_Palangre o espinel de fondo;96400;138400;38200;593600
 Docordó_Línea de mano fija marina;29500;144000;72200;578500
+Cangrejito_Red de enmalle fija marina;3000;40500;11000;114500
+Puerto Arriba (Dibulla)_Red de enmalle de encierro marina;1,00E+05;190000;84925;4047730
+Docordó_Red de enmalle de deriva marina;66100;142300;78020;843600
+Cangrejito_Palangre o espinel de fondo;7000;178800;18000;427850
+Ciénaga de Mesolandia_Red de enmalle fija continental;6500;15000;14000;155450
+Ciénaga de Mesolandia_Atarraya;4900;13500;9000;56100
+La Mata_Nasas de Peces;89290;172200;100700;324040
+La Mata_Red de enmalle fija continental;20000;32200;17560;111710
+Puerto Cabuyaro_Palangre calandrio;44200;300200;91150;1278025
+La Boquilla_Atarraya;3000;9000;22800;130000
+Isla Fuerte_Línea de mano fija marina;4000;260000;45400;896100
+San José de la Calle_Red de enmalle fija continental;15000;15000;7085;254665
+Guazo_Red de enmalle fija continental;5000;45000;5500;216000
+Guazo_Red de enmalle de deriva continental;5000;7000;7260;84000
+Guazo_Palangre calandrio;5000;12400;8000;66000
+Taganga_Línea de mano fija marina;63000;103000;46720;563710
+Isla Fuerte_Línea de mano correteo curricán o trolling;32050;210350;82400;666950
+Dotenedó_Red de enmalle fija marina;18000;40000;16000;257200
+Taganga_Chinchorro velao;50000;146000;92240;2317020
+El Valle_Línea de mano fija marina;119900;258050;143600;2322600
+Taganga_Buceo de peces;114000;114000;211760;1140400
+Cecilia_Atarraya;6000;7000;32045;62770
+Jodedor_Red de enmalle fija marina;45000;95000;55100;395400
+Cecilia_Red de enmalle fija continental;5000;21000;30820;72980
+Casco Urbano (San Juan de Urabá)_Red de enmalle fija marina;53250;610820;60000;1500000
+Isla Fuerte_Buceo marino mixto;4050;72900;56500;479500
+Jodedor_Red de enmalle de encierro marina;90000;140000;167800;4090900
+Jodedor_Línea de mano fija marina;95000;350000;81100;1396000
+Cecilia_Palangre calandrio;5000;14000;23075;62690
+Cecilia_Red de enmalle de deriva continental; ; ;26150;50950
+Santropel - San Sebastián_Atarraya;800;4200;6000;88000
+Charambirá_Palangre o espinel de fondo;90000;190000;278400;861100
+La Rampa (Barrancabermeja)_Atarraya;117300;222750;447950;4131000
+Charambirá_Red de enmalle fija marina;36000;121000;144950;681500
+Milagros de la Mar_Red de enmalle de deriva marina;76000;158000;71000;955200
+La Rampa (Barrancabermeja)_Red de enmalle de deriva continental;124000;160000;1353900;2018100
+Tapegua_Red de enmalle fija continental;12000;29750;38000;290000
+Uveros_Red de enmalle camaronera;27570;107735;48200;1487240
+Tapegua_Atarraya;5600;18810;22295;140650
+Curillo_Línea de mano fija continental;49550;85750;112880;893900
+Villa Venecia_Atarraya;5110;11000;15550;75800
+Los Tendales_Atarraya; ; ;37500;57310
+Puerto principal (San Vicente del Caguán)_Atarraya;45500;99500;82400;525200
+Berrugas_Red de enmalle de encierro marina;48200;166000;120075;579800
+Puerto Principal (Leticia)_Red de enmalle fija continental;52500;245000;219000;927500
+San Alejandro_Red de enmalle fija continental;10000;36000;3700;155240
+Puerto principal (San Vicente del Caguán)_Red de enmalle de deriva continental;61000;75800;220240;580760
+Pueblo Nuevo (Barrancominas)_Palangre calandrio;6000;6000;11085;185370
+Pueblo Nuevo (Barrancominas)_Red de enmalle fija continental;6000;6000;29600;29600
+Berrugas_Línea de mano fija marina;2000;6825;15000;89400
+Virudó_Red de enmalle fija marina;40000;44000;37800;387600
+Berrugas_Buceo de peces;2000;4000;30000;240000
+Virudó_Red de enmalle de deriva marina;40000;45600;36000;447600
+Palomino_Red de enmalle fija continental;7000;14500;14800;117000
+Berrugas_Chinchorro marino;60000;186250;71750;792500
+Virudó_Línea de mano fija marina;40000;44000;31800;240000
+Plaza de mercado (La Dorada)_Palangre calandrio;10000;39000;35000;196955
+Usaragá_Línea de mano fija marina;3300;38400;30000;124000
+Usaragá_Palangre o espinel de fondo;8430;84700;37000;473000
+Puerto Rico [Meta]_Palangre calandrio;57550;124600;95670;895430
+Puerto Bello_Red de enmalle fija continental;11000;18900;21020;134870
+Jurubirá_Línea de mano fija marina;44000;105000;32035;291445
+Santa Clara_Red de enmalle fija continental;2200;3200;23240;92340
+Puerto Amor_Red de enmalle fija continental;500;31000;9500;140600
+Puerto Panseguita_Palangre calandrio;2000;8400;17280;66000
+San José_Atarraya; ; ;21935;83155
+Barrio Santa Lucía_Red de enmalle fija marina;36525;90000;32200;619800
+Puerto Panseguita_Red de enmalle fija continental;2000;10000;10400;112760
+San José_Nasas de Peces;25000;78050;126300;448795
+Cooperativas - Pueblo Nuevo_Red de enmalle de deriva marina;646000;1330000;1197000;4511200
+Puerto Panseguita_Red de enmalle de deriva continental;16000;27000;28000;429480
+Puerto Amor_Palangre calandrio;1000;35350;13000;119000
+San José_Red de enmalle fija continental;10000;16000;24400;93120
+Sempegua_Chinchorra;12485;73150;58375;326750
+Puerto Antequera_Red de enmalle fija continental ciénaga; ; ;17970;125320
+Yaguará_Atarraya;25700;34300;76460;460280
+La Punta - Firme Cifuentes_Red de enmalle de deriva marina;45000;66750;70000;467600
+La Punta - Firme Cifuentes_Red de enmalle camaronera;50500;60000;60000;366750
+Puerto (Orocué)_Red de enmalle fija continental;70400;127400;547600;2164540
+Puerto Abajo (Dibulla)_Chinchorro camaronero;10000;90000;30000;629650
+Loma - San Sebastián_Red de enmalle fija continental;3000;24760;22000;450000
+La Casa del Pescador_Red de enmalle de deriva marina;116000;202000;143250;819850
+Bocanegra_Chinchorro marino;50000;1,00E+05;28200;1297200
+Sempegua_Red de enmalle fija continental;4000;44400;11020;142500
+Caño Grande_Atarraya;2000;3000;14825;94000
+Berlín_Red de enmalle de deriva continental;18000;20000;18240;77520
+Bocanegra_Palangre o espinel de fondo;18350;34950;15550;173800
+Berlín_Línea de mano fija continental;10000;20000;11085;112530
+Poportín_Nasas de Peces;21500;35000;85000;285000
+Berlín_Chinchorro continental;20000;25000;26935;243605
+Puerto Amor_Chinchorra;4000;50000;26500;417000
+Pesquera Aspabab_Red de enmalle fija marina;45000;72000;76600;642600
+Berlín_Palangre calandrio;15000;18400;8930;120775
+Marralú_Red de enmalle fija continental;4000;18000;15600;184880
+Marralú_Chinchorro continental;11800;46000;50000;487370
+Marralú_Palangre calandrio;2250;9500;21180;118800
+Cupica_Línea de mano fija marina;64000;111000;96000;838000
+Arquimedes_Atarraya;8000;33000;32000;193000
+Pizarro_Red de enmalle de deriva marina;24000;1036500;97000;5341150
+Pizarro_Red de enmalle fija marina;25500;124800;30500;1495220
+Manaure Centro_Red de enmalle de encierro marina;185000;298000;107280;4261715
+Santa Rosa_Red de enmalle de deriva marina;23000;37000;86300;232800
+Santa Rosa_Buceo marino mixto;23000;38000;290000;630000
+San Nicolás (Santa Cruz De Mompox)_Red de enmalle fija continental;7720;20840;7250;66350
+San Nicolás (Santa Cruz De Mompox)_Chinchorro continental;12400;36600;25560;305640
+Las Balsas_Red de enmalle fija continental;2,00E+05;310000;328800;689400
+Purricha_Red de enmalle fija marina;3000;76700;36500;1077300
+Casco urbano (Puerto Escondido)_Red de enmalle fija marina;10000;92000;20000;508800
+Purricha_Palangre o espinel de fondo;2000;32125;40550;430020
+Orpua_Red de enmalle fija marina;34000;134300;44000;859300
+Punta Ardita_Línea de mano fija marina;30000;79750;117120;536000
+Zapata_Red de enmalle camaronera;20000;143000;43100;1194300
+Puerto Boquillas_Red de enmalle fija continental;9680;18660;13360;280000
+Casino_Palangre o espinel de fondo;4950;250000;25750;520250
+Casino_Línea de mano fija marina;6000;740000;14015;2438950
+Zapata_Red de enmalle fija marina;14000;165250;35700;1133350
+Milagros de la Mar_Red de enmalle fija marina;28350;89150;22800;139000
+Agropez_Atarraya;55000;65000;160000;720000
+Curillo_Palangre calandrio;65000;100750;71190;490600
+La Charca de Guarinocito_Atarraya; ; ;13000;156000
+Comercializadores independientes (Guapi)_Red de enmalle fija marina;273500;623000;632450;5672600
+Lomita Arena_Chinchorro marino;36000;115450;39600;2926600
+Lomita Arena_Red de enmalle fija marina;35000;52000;18400;263400
+La Grande_Red de enmalle fija continental;27000;40000;20100;264750
+Dotenedó_Palangre o espinel de fondo;19600;40000;32000;274700
+Puerto de Bolombolo_Atarraya;20000;30000;59540;352520
+Taganga_Línea de mano - Ballestilla;103000;161500;164800;1174500
+Puerto Chucha_Red de enmalle fija marina;23000;66000;39850;398600
+Puerto de Bolombolo_Palangre calandrio;15000;45000;12840;248520
 Puerto de Bolombolo_Línea de mano fija continental;5000;5000; ; 
+Rincón del Mar_Red de enmalle de encierro marina;33000;94500;54750;1126000
+Rincón del Mar_Buceo marino mixto;3000;73000;17500;315500
+Robles_Red de enmalle fija continental;10000;24000;22000;210150
+Robles_Red de enmalle de encierro continental;6640;9600;26000;117000
+Bahía de Cispatá_Línea de mano fija marina;6000;31680;9000;225000
+Bahía de Cispatá_Red de enmalle fija marina;9000;28300;15700;159300
+Laguna Colorada_Palangre calandrio;4000;8000;21915;228000
+Bahía de Cispatá_Atarraya;5500;13540;14000;174800
+Piedras Blancas_Buceo de langosta;16000;20000;56550;235450
+Bahía de Cispatá_Chinchorro marino;23000;106900;67900;1148900
+Laguna Colorada_Red de enmalle fija continental;4000;6000;12660;82380
+Sapzurro_Línea de mano fija marina;126120;232240;358800;2158240
+Bahía de Cispatá_Red de enmalle de encierro marina;8700;34300;21900;325300
+Buchadó_Red de enmalle fija continental;8000;55000;4200;87390
+Puerto Chaparro_Red de enmalle de deriva continental;4000;70000;39400;641200
+Puerto Chaparro_Red de enmalle fija continental;14000;98100;30000;512540
+Bazurto_Red de enmalle fija marina;66050;165950;88000;870000
+Puerto Chaparro_Chinchorro continental;90000;186150;192990;1510590
+Arrimadero La Unión_Red de enmalle marina de fondo;86000;128000;255400;2310750
+Arrimadero La Unión_Línea de mano fija marina;98000;595000;690450;6271900
+Bazurto_Línea de mano fija marina;70000;214000;114800;1197600
+Arrimadero La Unión_Red de enmalle fija marina;138050;246950;608125;4057375
+Sicará_Red de enmalle fija continental;11050;18000;12000;1,00E+05
+Puerto Chaparro_Cóngolo; ; ;76000;76000
+Tribugá_Línea de mano fija marina;5000;61000;11500;247825
+Puerto Barrio El Progreso_Red de enmalle de deriva continental mallona;37000;48000;82900;254500
+Puerto Barrio El Progreso_Línea de mano fija continental;30000;38000;64895;199535
+La Peinada_Red de enmalle fija continental;5000;13000;8000;135000
+La Peinada_Atarraya;6000;13000;10000;63000
+Playa Necoclí_Red de enmalle fija marina;32000;408000;34250;1640750
+Playa Necoclí_Red de enmalle camaronera;10000;27250;12000;146250
+Riosucio_Red de enmalle fija continental;60000;155000;162250;667850
+Vida Tranquila_Red de enmalle fija continental;7000;31000;16510;108200
+Doña Ana_Red de enmalle fija continental;1700;12000;6555;95180
+Puerto Colorado_Línea de mano fija continental;12000;18000;17380;108120
 Orpua_Red de enmalle de encierro marina;39100;78200;268650;722650
+Vida Tranquila_Palangre calandrio;7200;20000;19620;90250
+Puerto Colorado_Red de enmalle fija continental;12000;18000;12300;115820
+Vida Tranquila_Atarraya;9000;21000;15260;80045
+Agropez_Línea de mano fija marina;85000;110000;123000;567800
+Vida Tranquila_Chinchorro continental;10000;59100;24610;149700
+Barrio La Unión_Aros;28200;31800;56000;74000
 Puerto Boquillas_Chinchorro continental;15000;20000;57450;248470
+Puerto Arriba (Dibulla)_Red de enmalle fija marina;34750;132250;48950;740625
+San Antonio de Padua_Red de enmalle de deriva continental;10000;45900;13550;135520
+Sivirú_Red de enmalle fija marina;6000;68600;23200;643200
+Mayapo_Red de enmalle fija marina;20000;31000;32500;172500
+Las Delicias_Red de enmalle de encierro marina;25000;2,00E+05;53990;1291390
+El Muelle (Puerto López)_Red de enmalle fija continental;160000;3,00E+05;237050;621150
+Rincón del Mar_Línea de mano fija marina;4000;105000;20000;793250
+Santuario_Arpón;65000;65000;402000;402000
+Santuario_Atarraya;35250;39750;213500;276500
+Dotenedó_Línea de mano fija marina;18100;19900;16450;133000
+La Tranca_Red de enmalle fija continental;2200;4000;12000;136890
+Dorada_Red de enmalle fija continental; ; ;14875;135335
+Dorada_Atarraya;1200;2000;22205;215240
+Casco urbano Roma_Red de enmalle fija continental; ; ;6200;58935
+Casco urbano Roma_Red de enmalle zangarreo; ; ;20540;93500
+Casco urbano Roma_Atarraya; ; ;15350;206715
+Nueva Estrella_Red de enmalle fija continental; ; ;12000;1,00E+05
+Morrosquillo_Línea de mano fija marina;3000;121400;5000;452000
+Morrosquillo_Atarraya;2930;4800;3000;96000
+El Ferry_Chinchorra;8600;38000;28095;225105
+Las Flores_Red de enmalle de deriva marina;206000;242000;168325;1735750
+Puerto Chaparro_Atarraya;9000;172000;37825;794290
+Las Flores_Red de enmalle fija marina;19700;233300;98250;1094450
+Las Flores_Palangre o espinel de fondo;122000;226000;103050;1082375
+Las Flores_Línea de mano fija marina;13000;31900;37760;279920
+Isla Fuerte_Red de enmalle de encierro marina;15400;27000;108400;476700
+Puerto Bello_Chinchorro continental;30000;44500;130900;431800
+Candelaria (Chimichagua)_Red de enmalle fija continental;7000;27520;15400;121080
+Candelaria (Chimichagua)_Chinchorra;15000;102000;30025;462565
+Arroyito_Línea de mano fija marina;3000;70000;22755;185620
+Candelaria (Chimichagua)_Atarraya;14700;29620;35200;116340
+Playa de Arusí_Línea de mano correteo curricán o trolling;38000;38000; ; 
+Arroyito_Atarraya;2000;4000;11440;37980
+Puerto Colorado_Chinchorro continental;12000;18000;35275;207180
+Arroyito_Palangre o espinel de fondo;8000;9000;22360;81580
+Costilla_Red de enmalle fija continental;9000;21910;24000;170240
+Campo alegre_Red de enmalle fija continental;8000;29100;13770;102130
+Puerto Wilches_Chinchorra mallona;89900;212100;237600;1201100
+Puerto Wilches_Chinchorra;90000;134400;122400;849100
+Guacamayo_Red de enmalle fija continental;10000;17000;5100;78740
+El Valle_Palangre o espinel de fondo;156250;318105;268650;2635590
+Caño Lobo_Atarraya;12725;28550;16000;118000
+Caño Lobo_Buceo de caracol;9000;16000;20000;1,00E+05
+Costilla_Nasas de Peces;10000;37205;15345;136160
+Caño Lobo_Línea de mano fija marina;12500;18000;18000;102000
+La Punta_Buceo de caracol;10000;36000;10550;48450
+Caño Lobo_Red de enmalle fija marina;14000;23000;24000;150000
+Costilla_Palangre calandrio;8190;16060;14750;61075
+Pesquera Aspabab_Palangre o espinel de fondo;30375;550000;93750;7,00E+05
+Docordó_Palangre o espinel de fondo;71000;155250;32375;560875
+Cabo Marzo_Palangre o espinel de fondo;1869000;3676200;2828000;7447500
+Méjico_Línea de mano fija continental;15000;15000;14100;94630
+Méjico_Red de enmalle fija continental;10000;20000;19895;150490
+Méjico_Palangre calandrio; ; ;6885;54965
+Desembarcadero (Juradó)_Línea de mano fija marina;123125;843250;563600;5161800
+Méjico_Atarraya;10250;14750;7020;101460
+Desembarcadero (Juradó)_Red de enmalle fija marina;270200;509000;834700;1695600
+Pomeño_Red de enmalle fija marina;31250;111000;55900;623350
+La Boquilla_Chinchorro marino;30000;115000;40000;1388700
+Méjico_Red de enmalle de deriva continental;15000;30000;34465;231980
+La Boquilla_Línea de mano fija marina;97200;210000;82500;528300
+La Boquilla_Red de enmalle fija marina;4000;60000;20000;267800
+La T_Nasas de Peces;153000;222000;490950;1281725
+Berlín_Atarraya; ; ;14890;82790
+Aparca_Atarraya;38900;135500;125360;827030
+El Malecón (Neiva)_Atarraya;39000;62000;128200;497700
+La Rampa (Barrancabermeja)_Chinchorra;113500;230250;423500;2934250
+Puerto Boca_Chinchorro continental;23000;39600;65000;470600
+Puerto Boca_Línea de mano fija continental; ; ;12000;85600
+Puerto Boca_Atarraya;2000;18800;50000;206400
+Río San Miguel_Red de enmalle de deriva continental;6275;35325;22775;361875
+Río San Miguel_Línea de mano fija continental;19700;38325;91500;563250
+Jurubirá_Palangre o espinel de fondo;52500;133000;50400;562200
+Puerto de desembarco (Mitú)_Línea de mano fija continental;20000;30000;29100;194500
+Puerto de desembarco (Mitú)_Arpón;25000;39200;56700;255500
+Muelle Principal (Puerto Leguízamo)_Palangre calandrio;16950;129550;209450;799050
+Isla Fuerte_Red de enmalle fija marina;16000;42500;32600;165600
+Armenia_Red de enmalle fija continental;8000;36000;27600;174250
+Puerto Principal (Leticia)_Palangre calandrio;36800;150000;70000;524760
+Lamas_Red de enmalle fija continental;6500;18000;20000;147600
+Cabo de la Vela_Nasas de Peces;10000;19000;24000;124250
+Palomar_Palangre calandrio;4350;7000;11260;52740
+Palomar_Red de enmalle fija continental;4000;8000;9000;79370
+Santa Clara_Atarraya;1800;2800;34000;140250
+El Llanito_Red de enmalle de deriva continental;43000;65000;41600;220800
+El Llanito_Atarraya;10000;55050;30450;287950
+Cooperativas - Pueblo Nuevo_Red de enmalle camaronera;280000;620000;287150;1949625
+El Llanito_Palangre calandrio;51600;79050;81200;536100
+Concepción - Tacamocho_Chinchorra;18000;35970;128375;458130
+Puente Chambacú - Río Jella_Línea de mano correteo curricán o trolling;142000;635000;319575;3252290
+Tagachí_Línea de mano fija continental;18400;33400;19550;133875
+Puente Chambacú - Río Jella_Palangre o espinel de fondo;142000;2384000;429785;6821230
+La Raya_Red de enmalle de deriva continental; ; ;9900;71055
+La Raya_Palangre calandrio; ; ;20120;133550
+Puente Chambacú - Río Jella_Línea de mano fija marina;117450;543750;254670;1906550
+La Raya_Red de enmalle fija continental; ; ;13250;57800
+Concepción - Tacamocho_Red de enmalle fija continental;1700;19630;6950;84730
+La Raya_Atarraya; ; ;18250;93045
+Bazán_Red de enmalle fija marina;90000;105000;62500;654000
+Bazán_Palangre o espinel de fondo;380000;725500;389175;2249550
+Puerto Barrio El Progreso_Atarraya rastra;45000;61200;177200;227620
+Puerto Barrio El Progreso_Red de enmalle fija continental;17050;52800;46595;248885
+Pueblo Lindo o Caimanera_Red de enmalle fija continental; ; ;18400;350000
+Mulatos_Red de enmalle fija marina;12000;95000;54100;1130900
+Muelle Principal (Puerto Leguízamo)_Red de enmalle fija continental;23000;144300;121575;653100
+Rincón del Mar_Nasa de langostas;44800;87500;107200;1008000
+Muelle Principal (Puerto Leguízamo)_Línea de mano fija continental;116050;151000;228800;782400
+El Pedral_Red de enmalle de deriva continental;6000;47000;20000;294000
+Bahía de Cispatá_Palangre o espinel de fondo;6300;18000;15600;105000
+Vigía de Curvaradó_Red de enmalle fija continental;30000;70200;6000;240250
+El Pedral_Atarraya;3000;10000;10000;75500
+El Pedral_Línea de mano fija continental;5250;10000;21250;44500
+Cispataca_Red de enmalle fija continental; ; ;4600;59565
+Nueva Colonia_Red de enmalle fija continental;60000;440000;215600;2110000
+Honda_Atarraya;7800;82200;34550;210460
+Honda_Línea de mano fija continental;30750;78000;45550;146750
+San Nicolás (Nechí)_Palangre calandrio;10000;104400;16400;353400
+San Nicolás (Nechí)_Red de enmalle fija continental;3000;45000;10880;207000
+El Roto_Red de enmalle fija marina;38550;83000;17400;345125
+San Nicolás (Nechí)_Red de enmalle de deriva continental;3000;47400;11030;286750
+San Nicolás (Nechí)_Atarraya;15000;52000;23270;317675
+El Roto_Red de enmalle fija continental;36900;54050;25050;156905
+Guineal_Palangre o espinel de fondo;9000;90000;30000;340500
+Guineal_Red de enmalle de encierro marina;8600;93200;27500;507500
+Marralú_Atarraya;4000;11850;12200;202660
+Puerto (Arauquita)_Atarraya;19600;81400;111800;400020
+Guineal_Red de enmalle fija marina;5000;67775;25800;269700
+Belén (San Marcos)_Red de enmalle fija continental;600;15400;12000;104510
+Guineal_Línea de mano fija marina;6000;16000;10000;96600
+Puerto Chucha_Red de enmalle de encierro marina;25000;82520;81800;715500
+Montaño_Red de enmalle fija continental;20000;20000;7000;101600
+Guacamayo_Chinchorro continental;15700;75200;51125;591000
+Curvaradó_Red de enmalle fija continental;18000;20000;17000;286750
+Buenavista (La Dorada)_Palangre calandrio;29000;55500;29110;251860
+Buenavista (La Dorada)_Atarraya;8150;43820;13210;202800
+Buenavista (La Dorada)_Red de enmalle de deriva continental;8000;57675;21375;355000
+Caño Lobo_Nasa de jaibas;19000;26000;51500;127000
+Barrio Chino_Red de enmalle fija continental;6000;8000;24960;215120
+Barrio Chino_Chinchorro continental;6000;10000;57550;546400
+Miel de Abeja_Palangre o espinel de fondo;45000;125000;67800;498200
+El Puerto (Puerto Carreño)_Red de enmalle fija continental;18750;155750;28025;302500
+Caño Lobo_Recolección manual de ostra;13000;16000;15000;130850
 El Puerto (Puerto Carreño)_Red de enmalle de deriva continental;80000;1,00E+05;96175;180065
+Nueva Ola_Red de enmalle de deriva continental;3300;9700;5490;52230
+Nueva Ola_Atarraya;3000;27000;14480;189920
+Nueva Ola_Red de enmalle fija continental;3500;5000;4000;38610
+La Boquilla_Palangre o espinel de superficie;8000;37250;29000;232000
 Camarones_Línea de mano fija marina;87500;148750;517875;1197500
+Puerto de las Canoas (Puerto Berrío)_Atarraya;52250;260750;178375;1095475
 Purricha_Red de enmalle camaronera;70150;84475;168440;405980
-Pizarro_Red de enmalle camaronera;40000;66000;81400;629120
-Muelles del Camarón_Red de enmalle fija marina;112000;186700;507300;688200
-Pesquera Aspabab_Red de enmalle camaronera;61500;388000;136600;2478400
+San Luis_Red de enmalle fija continental;10000;19300;20755;165515
+Puerto de las Canoas (Puerto Berrío)_Palangre calandrio;64500;253000;184475;912425
+Nueva Ola_Línea de mano fija continental;5000;24000;8015;92840
+Guataquí_Nasas de Peces;10000;27200;15000;104000
+Bazán La Bocana_Red de enmalle camaronera;96400;299600;86800;1050800
+Mantequera_Red de enmalle fija continental;12000;33500;8000;110840
+Guataquí_Atarraya;4650;26750;23000;116000
+Puerto de las Canoas (Puerto Berrío)_Chinchorra;58650;317550;212875;1159415
+Bazán La Bocana_Red de arrastre artesanal o changa;116400;171800;88000;376800
+Guataquí_Palangre calandrio;10000;53750;22300;354000
+Bocas del Atrato_Red de enmalle fija marina;13000;19500;37150;270675
+Puerto Maco/Puerto Momico_Atarraya;27500;40500;194650;332650
+Mantequera_Red de enmalle de deriva continental;13000;37150;20600;307200
+Puerto Maco/Puerto Momico_Red de enmalle fija continental;22000;24000;142940;286340
+Puerto Maco/Puerto Momico_Palangre calandrio;26000;29000;98840;227800
+Bocas del Atrato_Palangre o espinel de superficie;10475;14500;26125;335250
+Bocanegra_Atarraya;900;11800;11350;98950
+Pizarro_Red de enmalle camaronera;40000;66000;81000;610000
+Muelles del Camarón_Red de arrastre artesanal o changa;138000;195100;109950;837200
+Pomeño_Red de enmalle de deriva marina;25950;168200;103550;1066300
+Las Brisas_Red de enmalle fija continental;7000;24000;13500;156000
+Puerto Principal (Puerto Lleras)_Línea de mano fija continental;81700;109000;61600;562750
+Isla Fuerte_Nasa de langostas;163800;236800;163400;1611750
+Casco Urbano (Arauca)_Línea de mano fija continental;19065;469500;112815;1399620
+Casco Urbano (Arauca)_Recolección manual de mota;50750;244250;167875;563250
+La Pedrera_Palangre calandrio;10200;297680;95400;982200
+La Pedrera_Arpón;17750;295100;266400;1178400
+La Pedrera_Red de enmalle fija continental;12080;321600;112000;979200
+Purricha_Red de enmalle de deriva marina;38550;72900;116450;668060
+Piedras Blancas_Buceo marino mixto;16000;20000;84300;270200
+Providencia o Caimancito_Red de enmalle fija continental; ; ;2400;27200
+Muelle Hong Kong_Red de enmalle fija continental;15000;50900;24000;441500
+Muelle Hong Kong_Atarraya;13000;28400;24000;76950
+Barrio Pambelé_Red de enmalle fija marina;20000;80000;30000;603500
+Usaragá_Red de enmalle de deriva marina;11290;65710;64000;526225
+Villanueva_Red de enmalle fija continental; ; ;6115;24295
+Cabo de la Vela_Línea de mano fija marina; ; ;14600;79800
+Betania (Montecristo)_Red de enmalle fija continental;12000;18000;20650;149800
+Villanueva_Chinchorro continental; ; ;100940;233680
+Santa Cruz - Naya_Red de enmalle de deriva marina;107000;188200;115080;1208460
+Puerto de Gamarra_Chinchorra;80000;120500;170125;560750
+Palanca_Red de enmalle fija continental;965;1200;4500;90175
+Domingodó_Red de enmalle fija continental;20000;72000;12000;319000
+Santa Cruz - Naya_Red de enmalle camaronera;92200;125500;105470;1049300
+Betania - Naya_Palangre o espinel de fondo;99150;114350;119740;493005
+Betania - Naya_Red de enmalle camaronera;93150;118850;66000;1413125
+Betania - Naya_Palangre o espinel de superficie;50700;76400;338500;1060820
+Betania - Naya_Red de enmalle de deriva marina;83525;140000;80200;518600
+Desembarcadero (Supía)_Atarraya;7000;15000;40060;107830
+Ica-Copipa_Red de enmalle fija marina;21200;118975;67600;1446400
+Ica-Copipa_Línea de mano fija marina;9300;37550;60000;336000
+Vigía_Red de enmalle camaronera;19600;28000;64000;223360
+Vigía_Red de enmalle de deriva marina;18900;29550;122700;448000
+Mayapo_Palangre o espinel de fondo;27400;32000;49600;221800
+El Muelle (Barrancabermeja)_Atarraya rastra;147000;252800;261200;1084600
+Punta de blanco_Red de enmalle fija continental;2000;11000;7015;88395
+El Muelle (Barrancabermeja)_Atarraya;101350;273900;335800;1059600
+Mayapo_Nasas de Peces;24550;33000;180500;843900
+El Muelle (Barrancabermeja)_Palangre calandrio;65700;171100;144700;513200
+Barrio Chino_Línea de mano fija continental; ; ;8000;63200
+El Muelle (Barrancabermeja)_Chinchorra;121500;269100;293650;1096800
+Buchadó_Línea de mano fija continental;61000;114250;7800;128450
+Chamuscado - Naya_Red de enmalle de deriva marina;43125;125000;40750;469125
+San José de la Calle_Línea de mano fija continental;15000;15000;12920;108530
+Punta Bonita_Red de cerco;620400;869500;1441500;21399250
+Punta Bonita_Chinchorro marino;90100;178500;453675;2334550
+Pueblo Nuevo (Barrancominas)_Línea de mano fija continental;6000;6000;10000;20000
+La Ensenada_Red de enmalle camaronera;51900;83000;9980;125850
+Playa Necoclí_Red de enmalle fija marina campaña;292000;454600;432500;1592400
+La Chamba_Atarraya;3000;22500;38640;232850
+Maracayo_Red de enmalle fija continental;800;5000;8000;127650
+Primera Ensenada_Línea de mano fija marina;10000;142925;170650;326150
+Caño Lobo_Red de enmalle de encierro marina;26000;29000;27700;100800
+Tagachí_Red de enmalle de deriva continental;16350;102650;28920;895380
+Puerto Triunfo_Atarraya;18250;28750;34975;273435
+Puerto Triunfo_Palangre calandrio;20000;37000;24885;276880
+La Chamba_Red de enmalle de deriva continental;16000;26960;37350;565150
+Puerto Los Córdobas_Red de enmalle fija marina;16000;45000;30000;676000
+Puerto Barrio El Progreso_Red de enmalle de deriva continental;30000;41500;42700;190825
+Morrosquillo_Línea de mano correteo curricán o trolling;14000;24650;12000;118700
+Belén (San Marcos)_Palangre calandrio;1590;7500;11325;45520
+Nueva Ola_Chinchorro continental;6350;44550;13800;332400
+Puerto Los Córdobas_Red de enmalle de deriva marina;68250;112000;48200;1205750
+Muelles del Camarón_Red de enmalle fija marina;111500;183550;332705;687800
+San Miguel (Puerto Gaitán)_Atarraya;18000;60000;14360;258040
+La Tagua_Línea de mano fija continental;11550;24800;19050;191185
+El Puerto (Tumaco)_Red de enmalle de deriva marina;92000;595300;716400;2554085
+Pesquera Aspabab_Red de enmalle camaronera;61500;388000;139300;2750600
+Lomita Arena_Palangre o espinel de superficie;36150;38850;121200;142800
 Taganga_Nasas de Peces;136300;139000;328680;1326960
 Laguna Colorada_Red de enmalle de deriva continental;6000;6000;38160;81900
-Puerto Rico [Meta]_Línea de mano fija continental;9000;9000;22925;32375
+El Puente_Atarraya rastra; ; ;23490;64000
+Punta de blanco_Palangre calandrio; ; ;10725;69920
 Barrio Chino_Red de enmalle de deriva continental;6000;7700;17250;123050
+Puerto Rico [Meta]_Línea de mano fija continental;9000;9000;22925;32375
+Berlín_Red de enmalle fija continental; ; ;6030;89950
 Mayapo_Red de enmalle de encierro marina;23850;30300;109600;708000
+Puerto Serviez_Palangre calandrio;20000;83250;47550;602950
+Puerto Wilches_Línea de mano fija continental;134000;373900;549600;2834575
+Miramar - Bahía Málaga_Línea de mano fija marina;5000;180500;85000;950000
+Miramar - Bahía Málaga_Red de enmalle fija marina;5000;55350;70000;1126500
+Caño Lobo_Buceo de peces;14000;18950;28100;119500
+Codis_Atarraya;12700;23000;62700;251000
+Puerto Barrio El Progreso_Atarraya;19050;45000;78010;297415
 Puerto Arriba (Dibulla)_Red de enmalle langostera;72000;124450;38300;584550
+Dotenedó_Recolección manual de piangua;16000;16000;21000;126000
+Barrio La Unión_Atarraya;26000;38600;76300;175900
+Providencia o Caimancito_Atarraya;1000;1000;7760;77700
+Orejero_Red de enmalle fija continental;3000;3600;10310;104130
+La Tagua_Palangre calandrio;12000;18250;29500;423000
+Camarones_Nasas de Peces;45000;55000;115700;827450
 Villanueva_Red de enmalle de deriva continental;800;800;12820;46970
-Punta Bonita_Palangre o espinel de fondo;64100;126000;96300;625600
+Punta Bonita_Palangre o espinel de fondo;61600;126000;96000;580800
+El Porvenir_Atarraya;15000;15000;75000;75000
+Puerto Franco_Atarraya;620;800;5695;33550
+Malecón (Puerto Gaitán)_Palangre calandrio;150000;462500;150500;1885650
+Playa Nueva_Red de enmalle de deriva marina;41900;96600;113500;533000
+Playa Nueva_Red de enmalle camaronera;39545;40850;56400;91420
+La Gloria_Nasas de Peces;114000;190000;266000;852200
+La Gloria_Chinchorra;82400;158400;134680;888780
+Nueva Colonia_Flecha;66000;116000;115450;896200
 Aparca_Arpón;97800;112200;355850;731150
+Taganga_Ballestilla/Palangre parguera;750000;1710000;1448000;15233550
+Puerto Chucha_Red de enmalle fija continental;1790;27700;16200;159000
 Puerto Chucha_Palangre o espinel de fondo;21400;29200;93300;657650
-Bahía de Cispatá_Red de arrastre artesanal o changa;28200;139500;230300;1905100
+Bahía de Cispatá_Red de arrastre artesanal o changa;25900;139500;116000;1766000
+La Gloria_Atarraya;13000;70000;132260;351355
+La Gloria_Red de enmalle fija continental;12750;50500;41400;247800
+Distribuidoras de Tumaco_Red de enmalle de deriva marina;76000;159000;67500;709250
+Puerto Boyacá_Palangre calandrio;60000;105000;164070;1114120
 Puerto Chaparro_Barredera;2000;2000;11280;73380
-Muelle Las Flores_Red de enmalle de deriva marina;152000;376500;348590;1633950
+Puerto Boyacá_Atarraya;59750;110250;152120;998450
+Puerto Boyacá_Chinchorra;75000;115000;277950;1256265
+Muelle Las Flores_Red de enmalle de deriva marina;155000;373250;375975;1563700
+San Nicolás (Nechí)_Chinchorro continental;63750;162000;76250;791300
 Loma - San Sebastián_Atarraya;1240;13180;12000;109500
-Muelle La Samaritana_Palangre o espinel de fondo;230000;584000;221800;1907600
-Casco Urbano (San Juan de Urabá)_Red de enmalle de deriva marina;99600;146080;75075;1009500
-Muelle La Samaritana_Red de enmalle de deriva marina;166900;390750;311550;2199650
-Muelle Las Flores_Palangre o espinel de fondo;238500;548500;238835;1123395
-San Alejandro_Línea de mano fija continental;5900;18800;6410;151690
+Muelle La Samaritana_Palangre o espinel de fondo;233000;590000;239400;1843600
+Casco Urbano (San Juan de Urabá)_Red de enmalle de deriva marina;101165;138830;77600;1013400
+Muelle La Samaritana_Red de enmalle de deriva marina;174200;396000;335600;2281200
+Muelle Las Flores_Palangre o espinel de fondo;255000;538000;238500;1079400
+Poportín_Red de enmalle fija marina;38000;38000;40000;176650
+San Miguel (Puerto Gaitán)_Red de enmalle fija continental;24050;70175;36730;462870
+Puerto Rico [Meta]_Red de enmalle fija continental;56800;79800;98880;545280
+Puerto Serviez_Red de enmalle fija continental;50100;87900;139600;204400
+Caño Grande_Línea de mano fija continental;2000;2000;13520;73825
+Puerto Asure_Chinchorra;26400;66700;73540;438060
+San Alejandro_Línea de mano fija continental;5900;18800;6670;181670
 Muelle Hong Kong_Palangre calandrio;14800;70000;139350;950850
+Muelle Hong Kong_Línea de mano fija continental;14000;59000;90600;750300
+La Punta_Palangre o espinel de fondo;45850;85750;75900;270600
+Punta Bonita_Red de enmalle de deriva marina;98000;177000;264000;1101500
+Casco Urbano (San Juan de Urabá)_Palangre o espinel de fondo;75000;93000;38500;948000
+Puerto Serviez_Atarraya;20000;80000;34400;408650
+Doña Ana_Palangre calandrio;4590;15380;27480;262605
+Nueva Ola_Palangre calandrio;5000;15000;6635;54845
+San Miguel (Puerto Gaitán)_Red de enmalle de deriva continental;54000;54000;67500;67500
+Doña Ana_Chinchorro continental;27000;27000;79800;124800
+Río San Miguel_Red de enmalle fija continental;9000;30000;45350;359725
+Amarales_Red de enmalle camaronera;22000;45000;71280;358680
+Amarales_Red de enmalle de deriva marina;24600;65000;104000;569860
+El Pedral_Red de enmalle fija continental;5000;7650;22000;128000
+Puerto Chucha_Red de enmalle de deriva marina;46050;117650;90900;495000
 Concepción - Tacamocho_Atarraya;1000;1000;33000;33000
-Mercado (Lorica)_Línea de mano fija continental;8100;18000;62000;259000
-Casco Urbano (Arauca)_Red de enmalle fija continental;16500;228100;90280;633010
-Curillo_Red de enmalle fija continental;35250;89500;52850;560000
-La Chamba_Línea de mano fija continental;2000;20515;19295;244800
-Bahía de Cispatá_Buceo de peces;13600;30880;47250;119000
-Palanca_Línea de mano fija continental; ; ;5200;35810
+Bocanegra_Red de enmalle de encierro marina;13200;16000;16200;128200
+Mercado (Lorica)_Línea de mano fija continental;8000;25800;40250;273000
+Mapiripán_Red de enmalle de deriva continental;28000;154750;27000;701500
+Curillo_Red de enmalle fija continental;35350;85300;57750;535290
+La Chamba_Línea de mano fija continental;2000;20200;20380;142660
+Bahía de Cispatá_Buceo de peces;14050;31100;47700;186900
+Juanchaco_Línea de mano fija marina;102600;269000;158600;1393000
+Chacón_Red de enmalle fija marina;96000;162000;144000;671000
+Palanca_Línea de mano fija continental; ; ;5200;39750
+Puerto La Candelaria_Chinchorro continental;9000;40200;18000;376600
 Puerto principal (San Vicente del Caguán)_Línea de mano fija continental;44600;69000;126000;277400
+La Plata - Bahía Málaga_Palangre o espinel de fondo;10000;53200;121400;625600
+La Plata - Bahía Málaga_Red de enmalle fija marina;15000;39250;47600;364360
 Soledad Pueblito_Red de enmalle de encierro marina;1,00E+05;1,00E+05;553600;1536800
-Palomar_Red de enmalle de deriva continental;4000;10000;14550;356325
-Soledad Pueblito_Línea de mano fija marina;1,00E+05;1,00E+05;1030400;1145600
-Soledad Pueblito_Red de enmalle camaronera;1,00E+05;1,00E+05;392000;1337000
+Galería (Guapi)_Red de enmalle fija marina;96775;356575;324500;1703375
+Miramar - Bahía Málaga_Palangre o espinel de fondo;23000;40750;34000;363500
+Palomar_Red de enmalle de deriva continental;4000;10000;14000;336925
+La Pedrera_Red de enmalle de deriva continental;62925;78725;381000;775500
+Soledad Pueblito_Línea de mano fija marina;35850;1,00E+05;121400;1068800
+Soledad Pueblito_Red de enmalle camaronera;48000;164350;57750;1098500
 El Muelle (Puerto López)_Atarraya;2,00E+05;2,00E+05;496000;496000
+Timbiquí_Red de enmalle fija marina;97220;127460;239400;911950
 Damaquiel_Palangre o espinel de fondo;22150;31850;52500;247000
-Laguna Colorada_Línea de mano fija continental;4000;8000;9300;113390
+Laguna Colorada_Línea de mano fija continental;4000;8000;9000;108000
 Limones_Red de arrastre artesanal o changa;180000;180000;840000;840000
-Limones_Red de enmalle camaronera;88850;150125;261750;821600
-Puerto Triunfo_Red de enmalle de deriva continental;30000;39500;45890;435235
-Dotenedó_Red de enmalle camaronera;32000;35600;28000;138000
+Limones_Red de enmalle camaronera;89200;157000;267000;787200
+Champaché_Red de enmalle fija marina;25000;89000;30000;226000
+Quiroga_Red de enmalle camaronera;84000;123625;209950;546600
+El Porvenir_Línea de mano correteo curricán o trolling;10000;23800;83900;154100
+Caño Lobo_Palangre o espinel de fondo;13000;19000;17600;35200
+Bazán La Bocana_Red de enmalle fija marina;17000;72000;75700;330000
+Casco Urbano (Arauca)_Red de enmalle fija continental;16500;228100;90280;633010
+Chontal_Palangre o espinel de superficie;20000;50000;158000;523600
+Chontal_Red de enmalle de deriva marina;24000;50000;87600;512400
+Puerto Triunfo_Red de enmalle de deriva continental;29550;39450;46500;428450
+Plaza de mercado (La Dorada)_Atarraya;35750;47550;43000;217500
+Honda_Nasas de Peces;37200;82000;58250;155740
+Costilla_Atarraya;16200;16200; ; 
+Las Delicias_Buceo de langosta;14650;24350;17145;205190
+Villa Fátima_Palangre o espinel de fondo;318300;324250;760000;1116550
+Milagros de la Mar_Palangre o espinel de fondo;66200;171500;85600;879200
+Puerto (Orocué)_Palangre calandrio;79000;126000;615000;2109000
+Puerto de desembarco (Barrancominas)_Red de enmalle fija continental;23300;83600;62130;457775
+Dotenedó_Red de enmalle camaronera;32000;35600;28000;136800
+La Rampa (Barrancabermeja)_Palangre calandrio;132600;218800;597600;2809600
 La Rampa (Barrancabermeja)_Chinchorro continental;116000;116000;612000;612000
-Santuario_Red de enmalle fija continental;16500;32500;41250;296460
+Santuario_Red de enmalle fija continental;17250;31750;43500;275160
+Virudó_Atarraya;40000;44000;60000;303000
+Corozal_Red de enmalle fija marina;100255;125585;324150;1403650
+Sempegua_Chinchorro continental;67000;132000;178870;758100
 La Pedrera_Línea de mano fija continental;37625;129875;152200;299800
-Barrio La Unión_Línea de mano fija marina;2000;53700;13180;345765
-Puerto Boca_Red de enmalle fija continental ciénaga;24000;49000;112000;490600
-Puerto de las Canoas (Puerto Berrío)_Atarraya rastra;128600;384600;454520;3000240
-Muelles del Camarón_Red de enmalle de deriva marina;1,00E+05;195800;126800;896700
-Puerto Real - Saloa_Palangre calandrio;3000;24000;12000;62960
-Las Delicias_Línea de mano fija marina;15000;43500;32025;365395
+Santa Clara_Palangre calandrio;5960;9900;12600;95360
+Barrio La Unión_Línea de mano fija marina;2000;52200;9000;318345
+Puerto Amor_Atarraya;1000;15150;13750;70850
+La Tagua_Red de enmalle fija continental;12000;12000;39230;90170
+Puerto Boca_Red de enmalle fija continental ciénaga;23600;49000;71200;490400
+Bahía de Cispatá_Nasa de jaibas;8750;13000;36000;144000
+Guacamayo_Línea de mano fija continental;12800;17000;10960;106850
+Puerto de las Canoas (Puerto Berrío)_Atarraya rastra;128900;493000;463880;3102840
+Guataquí_Red de enmalle fija continental;4000;56000;16500;242450
+Guazo_Chinchorro continental;5400;6000;75775;466500
+Policía fluvial (Quibdó)_Red de enmalle de deriva continental;13500;56200;147490;1006920
+Punta Bonita_Red de enmalle camaronera;104000;166500;231000;1941250
+Tribugá_Arpón;5150;7850;21000;241150
+Muelles del Camarón_Red de enmalle de deriva marina;1,00E+05;195500;129750;872250
+Bocanegra_Red de enmalle fija marina;1200;40860;17725;165250
+Mantequera_Palangre calandrio;12250;19750;7400;136500
+Palomar_Línea de mano fija continental;4000;7400;11400;127900
+Buenavista (La Dorada)_Red de enmalle de encierro continental;42825;74050;85980;2546715
+La Gloria_Atarraya puesteo;10450;133950;43740;409170
+La Gloria_Palangre calandrio;10000;50000;34850;177100
+Puerto Real - Saloa_Palangre calandrio;3050;24000;12000;62680
+Cangrejito_Línea de mano fija marina;5000;8750;7000;40400
+Las Delicias_Línea de mano fija marina;15000;44000;31725;359430
 El Pájaro_Buceo marino mixto;16950;19400;38850;147150
+Sapzurro_Buceo de peces;18560;112260;347800;1373250
+Puerto de Gamarra_Palangre calandrio;46250;67000;171500;586250
+Clarinetero_Red de enmalle fija continental;10400;28400;42800;302200
+Paujil_Línea de mano fija continental;11500;40500;108650;293100
+Jodedor_Red de enmalle langostera;45000;120000;75250;840550
 Sivirú_Palangre o espinel de fondo;30400;44800;48900;336700
+Puerto principal (San Vicente del Caguán)_Palangre calandrio;39750;72250;123500;509700
+Puerto Chaparro_Línea de mano fija continental;34900;182800;30280;946200
+Puerto Arriba (Dibulla)_Chinchorro marino;131000;260000;155500;6308500
 Mantequera_Chinchorro continental;30000;30000;169000;169000
-Puerto de las Canoas (Puerto Berrío)_Chinchorra mallona;78000;607000;385275;2715600
-Puerto Boca_Barredera;2000;2000;25000;191400
+Casco Urbano (Arauca)_Atarraya;55100;327550;177120;1336690
+Morrosquillo_Buceo de peces;3635;6665;44100;162150
+Puerto de las Canoas (Puerto Berrío)_Chinchorra mallona;66750;607000;395775;2840075
+Puerto Boca_Barredera;2000;2000;23800;186600
+Bahía de Cispatá_Arpón;7950;19050;20850;371950
 Mapiripán_Línea de mano fija continental;13000;13000;26800;26800
-Palomar_Atarraya; ; ;21340;190840
-El Muelle (Barrancabermeja)_Chinchorro continental;111950;162300;373250;534450
-Concepción - Tacamocho_Palangre calandrio; ; ;24185;115580
-Pesqueras - Pueblo Nuevo_Red de enmalle de deriva marina;724600;3813400;1660175;2905325
+Palomar_Atarraya;6000;6000;14025;174035
+El Muelle (Barrancabermeja)_Chinchorro continental;112600;172000;376000;609400
+Ica-Copipa_Buceo marino mixto;42160;72620;93280;386240
+Concepción - Tacamocho_Palangre calandrio;1000;1000;24220;115360
+Puerto Cabuyaro_Red de enmalle fija continental;29000;112400;218200;519520
+Puerto de Gamarra_Red de enmalle fija continental;41750;61900;214100;709800
+Guacamayo_Red de enmalle de deriva continental;10000;10000;23490;126990
+Tribugá_Línea de mano correteo curricán o trolling;6850;21900;27350;163325
+Pesqueras - Pueblo Nuevo_Red de enmalle de deriva marina;569700;3658500;1723250;2968400
 Concepción - Tacamocho_Red de enmalle de deriva continental; ; ; ; 
+La Ensenada_Red de enmalle de deriva marina;52475;85100;93875;685450
+Puerto La Candelaria_Red de enmalle de deriva continental;5000;9450;20000;20000
+Virudó_Palangre o espinel de fondo;40000;44000;108000;716000
+Puerto del Pescado (San José Del Guaviare)_Red de enmalle de deriva continental;8000;10000;70000;467250
 Pueblo Lindo o Caimanera_Atarraya;10500;11850;30350;303800
 La Pedrera_Atarraya;70400;70400;224000;224000
 Puerto Principal (Puerto Lleras)_Red de enmalle fija continental;88900;100250;500700;659050
+Puerto Boca_Red de enmalle de deriva continental;2000;8750;24650;101100
 Yaguará_Arpón;27000;27000; ; 
-Santa Clara_Red de enmalle de deriva continental;2230;2770;40795;78505
+Santa Clara_Red de enmalle de deriva continental;2000;2800;27750;77410
 Casco Urbano (San Juan de Urabá)_Arpón;121600;150400;1256000;1256000
-Playa Totumo_Línea de mano fija marina;65000;296000;250400;1071800
+Casco Urbano (San Juan de Urabá)_Red de arrastre artesanal o changa;76895;123700;54950;691500
+El Muelle (Puerto López)_Palangre calandrio;2,00E+05;298000;239350;632400
+Playa Totumo_Línea de mano fija marina;66250;320000;274650;1367100
 Puerto Abajo (Dibulla)_Línea de mano fija marina;20000;74000;17900;82700
+Puerto Rico [Meta]_Red de enmalle de deriva continental;69200;72800;199630;365770
 Chapinero_Red de enmalle fija continental;35250;100550;115150;427500
-El Roto_Palangre o espinel de fondo;50350;62000;25360;391600
-Puerto Arriba (Dibulla)_Línea de mano fija marina;49000;49000;351000;351000
-Bocas del Atrato_Flecha;15050;28010;167800;699700
+El Roto_Palangre o espinel de fondo;50000;62000;24550;390400
+Plaza de mercado (La Dorada)_Red de enmalle de deriva continental;69500;180500;251880;2377770
+Puerto Arriba (Dibulla)_Línea de mano fija marina;52450;114550;358575;494925
+Puerto Chaparro_Nasas de Peces;9400;121400;46570;477710
+Bocas del Atrato_Flecha;15075;27570;67000;686550
 El Muelle (Barrancabermeja)_Red de enmalle de deriva continental;115000;115000;418000;418000
 Puerto Amor_Arpón;25000;25000;136000;136000
-Paujil_Palangre calandrio;17200;101100;166675;490535
+Playa Totumo_Palangre o espinel de fondo;257000;310000;271700;1941000
+Paujil_Palangre calandrio;14400;100200;159040;435620
 Las Balsas_Palangre calandrio;238750;317500;348625;588375
-Guacamayo_Barredera;10800;25000;14290;121350
+El Pedral_Palangre calandrio;3000;10000;51250;90000
+Puerto Serviez_Chinchorra;52100;101800;120800;688300
+Candelaria (Achí)_Palangre calandrio; ; ;9975;25775
+Pesqueras - Pueblo Nuevo_Palangre o espinel de fondo;4430000;4430000;5153000;5153000
+Santa Cruz - Naya_Red de enmalle fija marina;54825;69675;123025;186475
+Guacamayo_Barredera;10450;24750;14700;115300
+La Gloria_Línea de mano fija continental;20000;20000;120000;120000
 Sempegua_Atarraya;17460;38660;40760;181775
-Uveros_Red de enmalle de deriva marina;67740;134940;135000;1062000
-Robles_Atarraya;7000;12600;15000;57000
+Uveros_Red de enmalle de deriva marina;56680;134280;148150;1128000
+Robles_Atarraya;7000;12330;15450;107900
 San Nicolás (Santa Cruz De Mompox)_Palangre calandrio; ; ;12840;115425
+Las Delicias_Palangre o espinel de fondo;37500;74500;81720;436815
 El Puerto (Tumaco)_Red de enmalle fija marina;254000;254000;1161000;1161000
-Damaquiel_Red de enmalle de deriva marina;75300;123250;109800;785200
-Palanca_Red de enmalle de deriva continental;10000;20000;5625;88700
-Puerto de las Canoas (Puerto Berrío)_Chinchorra menuda;78900;248350;251895;805300
-Las Flores_Palangre o espinel de superficie;161400;260900;51600;780040
+Barrio Chino_Atarraya; ; ;5180;50065
+Damaquiel_Red de enmalle de deriva marina;54650;120250;123200;708800
+Palanca_Red de enmalle de deriva continental;6000;20000;6550;88280
+Puerto de las Canoas (Puerto Berrío)_Chinchorra menuda;80500;237250;237825;788625
+El Porvenir_Red de enmalle fija marina;5000;5000; ; 
+Las Flores_Palangre o espinel de superficie;165000;269800;57880;822360
+Palanca_Atarraya; ; ;3095;39895
+La Gloria_Chinchorro continental;120000;192250;149165;1220580
 Jodedor_Red de enmalle de deriva marina;75500;105000;38050;398150
 Palanca_Atarraya rastra;40000;40000;149400;408600
-Puerto de desembarco (Barrancominas)_Red de enmalle de deriva continental;32000;78800;63700;798820
+Puerto de desembarco (Barrancominas)_Red de enmalle de deriva continental;32000;77800;56000;748920
+Cartagena del Chairá_Línea de mano fija continental;26250;117000;97950;671900
+Palanca_Palangre calandrio; ; ;29300;29300
+Limones_Red de enmalle fija marina;72500;290500;1282500;1750500
+Tagachí_Atarraya;18000;18000;110200;110200
 Puerto La Candelaria_Palangre calandrio; ; ;20300;67400
 Pueblo Nuevo (Barrancominas)_Red de enmalle de deriva continental;6000;6000;80400;80400
 Puerto Boca_Red de enmalle fija continental río; ; ; ; 
-Puerto Serviez_Red de enmalle de deriva continental;35900;97750;138050;861900
-Tribugá_Palangre o espinel de fondo;19000;19000;12100;40900
+Cartagena del Chairá_Palangre calandrio;25000;79900;82670;902080
+Sapzurro_Red de enmalle fija marina;17600;17600;352080;595350
+Puerto Serviez_Red de enmalle de deriva continental;36400;96500;140300;857400
+Santuario_Red de enmalle de deriva continental;47400;148200;251760;929520
+Tribugá_Palangre o espinel de fondo;19000;39700;13700;223850
+Puerto de las Canoas (Puerto Berrío)_Red de enmalle de deriva continental;56850;286700;148635;1008215
 San Antonio de Padua_Línea de mano fija continental;28000;28000;41900;41900
 Mulatos_Palangre o espinel de superficie;33000;37500;55400;634000
-Macurutú - Saloa_Palangre calandrio;3000;4700;24000;96000
+Macurutú - Saloa_Palangre calandrio;3000;4700;14580;95700
 Puerto del Pescado (San José Del Guaviare)_Redes de trasmallo;9000;12000;134500;609300
-Puerto Miraflores_Palangre o espinel de fondo;191950;238500;209800;667500
-Puerto Arriba (Dibulla)_Chinchorro camaronero;10500;125000;38400;500980
+Puerto Miraflores_Palangre o espinel de fondo;136500;240700;206500;756350
+Puerto Arriba (Dibulla)_Chinchorro camaronero;11300;132350;33200;642105
 Buenavista (La Dorada)_Red de enmalle fija continental;4000;4000;15000;15000
 San José_Red de encierro rastra;19750;45150;75825;464100
 Mapiripán_Red de enmalle fija continental;27000;40000;265000;523000
-Nueva Colonia_Palangre o espinel de superficie;278000;420000;294000;1159900
-Guineal_Red de enmalle de deriva marina;5800;53200;35450;220000
-Puerto Real - Saloa_Chinchorra;25000;48500;35200;404280
+Nueva Colonia_Palangre o espinel de superficie;260000;420000;285000;1156000
+Guineal_Red de enmalle de deriva marina;6300;53000;27000;223750
+Puerto Real - Saloa_Chinchorra;25000;46000;35200;401730
+Bazurto_Atarraya;27000;35000;96350;301900
 Ica-Copipa_Línea de mano correteo curricán o trolling;27900;27900;579000;579000
+Bazán La Bocana_Red de enmalle de deriva marina;1380300;1460400;2820300;4972200
 Puerto Serviez_Chinchorro continental;80000;80000;237000;237000
 Sapzurro_Palangre o espinel de fondo;207400;207400;555000;555000
-Puerto Principal (Leticia)_Red de enmalle de deriva continental;35000;166250;232500;1038750
+Puerto Principal (Puerto Lleras)_Red de enmalle de deriva continental;1,00E+05;1,00E+05;133000;133000
+Puerto Principal (Leticia)_Red de enmalle de deriva continental;35000;148750;225000;896250
 Puerto Real - Saloa_Chinchorro continental;45000;45000;400400;400400
-San Miguel (Puerto Gaitán)_Línea de mano fija continental;25200;68000;117880;1070160
+San Miguel (Puerto Gaitán)_Línea de mano fija continental;19500;65000;127750;1433100
+Miramar - Bahía Málaga_Red de enmalle de deriva marina;35000;76000;108000;607300
+Cartagena del Chairá_Atarraya;25250;29750;75830;155570
 Mercado (Lorica)_Buceo de peces;1000;2000;24500;107500
-Puerto Triunfo_Chinchorra;28700;53550;88600;1186350
+Puerto Triunfo_Chinchorra;29000;52500;98500;1136700
 Laguna Colorada_Flecha;4000;4000;8400;8400
+Playa Nueva_Palangre o espinel de fondo;44400;105550;10500;405175
 Muelle La Esmeralda_Red de enmalle fija continental;16000;16000;36000;36000
-Mapiripán_Palangre calandrio;69400;137300; ; 
+San Nicolás (Nechí)_Línea de mano fija continental;11500;101400;10600;124760
+Mapiripán_Palangre calandrio;55150;135850; ; 
+Puerto Abajo (Dibulla)_Red de enmalle de encierro marina;90000;170000;374500;932500
 Chapinero_Red de enmalle de deriva continental;64000;79000;99000;292900
-Puerto del Cerrito_Chinchorro continental;49220;184510;82550;473950
+Puerto del Cerrito_Chinchorro continental;30750;181150;76750;470650
 Villanueva_Atarraya;1000;1000;15700;15700
 Villa Fátima_Red de enmalle de deriva marina;130000;160000;37200;150000
 Bocanegra_Red de enmalle de deriva marina;136000;136000;284000;284000
-Belén (San Marcos)_Red de enmalle de deriva continental;4700;6800;12100;55250
-Sempegua_Red de enmalle fija continental ciénaga;6055;29960;13000;88225
+Belén (San Marcos)_Red de enmalle de deriva continental;4700;6800;10825;54750
+Bocas de Seheve_Red de enmalle de encierro continental;10000;15000;13560;109620
+Bazán_Red de cerco artesanal o ruche;398250;673000;502800;13234500
+Sempegua_Red de enmalle fija continental ciénaga;6000;27680;11000;77880
 El Puerto (Tumaco)_Palangre o espinel de fondo;210000;210000;164000;164000
+Candelaria (Achí)_Red de enmalle de deriva continental;2000;2000;18010;49240
 Isla Fuerte_Nasas de Peces;141850;184150;196325;688675
 Puerto del Pescado (San José Del Guaviare)_Palangre calandrio;17400;21900;132700;316300
 Puerto Colorado_Red de enmalle de deriva continental;12300;17700;31055;42845
 Marralú_Red de enmalle de deriva continental;6400;13600;19650;59000
-Barrio Arriba - Barbosa (Magangué)_Red de enmalle de deriva continental;1000;1000;15000;60000
+Candelaria (Achí)_Atarraya;2000;2000;15520;73480
+Cartagena del Chairá_Red de enmalle fija continental;33500;58250;198205;531680
+Santuario_Palangre calandrio;25000;43000;77760;243000
+Barrio Arriba - Barbosa (Magangué)_Red de enmalle de deriva continental;1000;1000;15300;59100
 Marralú_Nasas de Peces; ; ;13500;13500
 Punta de blanco_Atarraya;1350;4100;37585;146685
-Puerto Cabuyaro_Línea de mano fija continental;14900;247100;59500;59500
+Puerto Cabuyaro_Línea de mano fija continental;33750;255000;122000;1787280
 Puerto Wilches_Chinchorra nicurera;114400;123000;592200;770800
-La Gloria_Red de enmalle de encierro continental;22500;67500;146740;848560
-Las Delicias_Buceo marino mixto;14200;29000;38800;1349100
+La Gloria_Red de enmalle de encierro continental;23750;66250;146070;811840
+Las Delicias_Buceo marino mixto;14700;26500;32250;1296850
 Puerto La Candelaria_Barredera; ; ;46500;134700
-El Ferry_Palangre calandrio;23300;28540;16040;80760
-Las Flores_Línea de mano cometa;14000;18000;33970;153500
-El Pedral_Red de enmalle de encierro continental;5000;56000;63000;796000
+El Ferry_Palangre calandrio;19355;28790;15200;105865
+Las Flores_Línea de mano cometa;14000;18000;33850;164100
+El Pedral_Red de enmalle de encierro continental;5250;56000;55300;730000
+Bahía de Santa Marta_Línea de mano correteo curricán o trolling;20000;30000;21900;150200
+Bocas de Seheve_Chinchorro continental;16000;20000;20520;59520
+La Punta - Firme Cifuentes_Palangre o espinel de fondo;46500;60000;207900;294300
+Camarones_Red de enmalle de encierro marina;210000;210000;11500000;11500000
 Charambirá_Red de enmalle camaronera;110000;110000;191200;482800
-Puerto Barrio El Progreso_Barredera;27500;31750;97100;130975
+Puerto Barrio El Progreso_Barredera;27700;32000;91905;129765
 Buenavista (La Dorada)_Chinchorra;61500;61500;130800;130800
-Punta Bonita_Red de enmalle fija marina;75250;159100;168000;1084000
+Punta Bonita_Red de enmalle fija marina;73200;158900;168000;1219400
 Charambirá_Línea de mano fija marina;22000;49000;222800;658400
 La Plata - Bahía Málaga_Arpón;20000;20000;176800;411700
 Primera Ensenada_Palangre o espinel de fondo;141000;141000; ; 
 Berrugas_Buceo marino mixto;11500;27750;62000;249000
-Puerto de las Canoas (Puerto Berrío)_Atarraya porro;75500;195600;289540;1004010
+Puerto de las Canoas (Puerto Berrío)_Atarraya porro;80000;270050;245480;1136680
 Tagachí_Cóngolo;20000;20000;35100;35100
-Campo alegre_Atarraya;8000;28000;32985;185380
-Puerto Abajo (Dibulla)_Chinchorro marino;90000;90000;398000;398000
+Curillo_Atarraya;110000;110000;317800;317800
+Campo alegre_Atarraya;8000;28700;30540;196700
+Puerto Abajo (Dibulla)_Chinchorro marino;90000;152500;262850;861350
 Honda_Chinchorra;138000;138000;395700;395700
+Puerto Cabuyaro_Red de enmalle de deriva continental;92350;224100;313660;1524300
 Villanueva_Palangre calandrio; ; ;21400;21400
-Camarones_Línea de mano correteo curricán o trolling;150000;220000;241600;762600
+Camarones_Línea de mano correteo curricán o trolling;107250;215500;86200;740400
 Muelles del Camarón_Red de enmalle camaronera;110000;110000;202000;202000
 Puerto (Orocué)_Red de enmalle de deriva continental;92150;94850;1016795;2125505
 Guazo_Nasas de Peces;29300;63500;120100;360400
-Puerto de Gamarra_Chinchorro continental;86050;115000;202710;522785
+Puerto de Gamarra_Chinchorro continental;75000;115000;166050;499275
 Río San Miguel_Arpón;9250;31750;647000;647000
 Puerto Abajo (Dibulla)_Palangre o espinel de fondo;120000;120000; ; 
 Pesqueras - Pueblo Nuevo_Red de enmalle camaronera;691000;691000;1799500;1799500
 Candelaria (Achí)_Chinchorro continental;23000;23000;39570;119400
-Palanca_Chinchorro continental;16000;29500;18490;102820
+Palanca_Chinchorro continental;8750;28750;22150;97000
 Muelle Hong Kong_Arpón;20800;28000;284000;527900
-Puerto Franco_Red de encierro rastra;10000;19000;241260;2113450
+Puerto Franco_Red de encierro rastra;10000;18000;76370;1886505
 Puerto del Pescado (San José Del Guaviare)_Red de enmalle fija continental;9000;9000;226000;226000
 Pueblo Nuevo (Barrancominas)_Flecha;6000;6000;36000;36000
-Puerto Asure_Nasas de Peces;3000;3000;21690;35730
+Puerto Asure_Nasas de Peces;3000;3000;11160;35260
 Aparca_Red de enmalle de deriva continental;81050;99950;252760;266440
-Punta de blanco_Red de enmalle de encierro continental;7050;11000;221500;2428175
-Sempegua_Palangre calandrio;6500;15500;40875;72750
-Doña Ana_Red de enmalle de encierro continental;10450;15050;146870;475560
+Punta de blanco_Red de enmalle de encierro continental;6000;11000;127265;1753710
+Sempegua_Palangre calandrio;5600;16000;31750;74000
+Doña Ana_Red de enmalle de encierro continental;10500;36650;72330;468150
+Puerto Barrio El Progreso_Chinchorra;64000;64000;268100;268100
 Palomar_Chinchorro continental;20000;20000;72100;72100
 Jurubirá_Línea de mano correteo curricán o trolling;69000;69000;154000;154000
 La Tranca_Atarraya; ; ; ; 
-Casco Urbano (Arauca)_Chinchorro continental;95600;142400;481475;589025
+Casco Urbano (Arauca)_Chinchorro continental;103400;416600;499400;2292160
 Lomita Arena_Red de enmalle de encierro marina;97000;136750;113400;638800
-Puerto del Cerrito_Nasas de Peces;2100;3000;102370;110470
-Zapata_Línea de mano fija marina;3,00E+05;3,00E+05;970000;970000
+Puerto del Cerrito_Nasas de Peces;2150;15750;39600;113400
+Zapata_Línea de mano fija marina;228750;296250;452250;942750
 Carrizal_Buceo de langosta;19000;31600;195700;445900
 Bocas de Seheve_Red de enmalle de deriva continental; ; ;38480;107200
+Puerto Cabuyaro_Chinchorro continental;240000;240000;754500;754500
 El Puerto (Puerto Carreño)_Palangre calandrio;92000;119000;107850;372810
 Puerto Chucha_Red de enmalle de encierro continental;13000;13000;310000;310000
+Bazán_Red de enmalle de deriva marina;110000;110000;240525;285975
+Berrugas_Red de enmalle fija marina;2025;2475;48350;54650
+Ciénaga del Totumo_Red de enmalle fija continental;13000;20000;11700;135750
+La Ensenada_Red de enmalle de encierro marina;17250;57750;166600;645400
+La Ensenada_Palangre o espinel de fondo;95900;226200;190000;535350
+Zapata_Red de enmalle de encierro marina;162700;259000;2231100;5326200
+Guataquí_Línea de mano fija continental;70000;70000;215000;215000
+Betania - Naya_Red de enmalle fija marina;50100;97800;53600;158000
+Río San Miguel_Atarraya;6350;30650;264000;264000
+Soledad Pueblito_Palangre o espinel de fondo;49100;86000;87400;434800
+Muelle Hong Kong_Red de enmalle de deriva continental;21000;21000;70000;70000
+Guineal_Red de enmalle camaronera;129000;129000;201000;201000
+Bazán_Red de enmalle camaronera;125000;125000;235825;430675
+Las Flores_Atarraya;15300;19700;68580;156890
+Muelle Hong Kong_Recolección manual de mota;1180000;1180000;7700000;7700000
+Laguna Colorada_Atarraya;4500;4500; ; 
+El Muelle (Puerto López)_Red de enmalle de deriva continental;145000;145000;280500;280500
+Doña Ana_Atarraya; ; ; ; 
+El Puerto (Puerto Carreño)_Línea de mano fija continental;140250;144750;241300;264700
+Puerto del Cerrito_Palangre calandrio;9000;9000;153000;153000
